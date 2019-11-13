@@ -2,7 +2,6 @@ category,latin,rank,origin,authority,tsn,accepted_tsn,accepted_latin,duplicate,u
 Arthropods,Eriophyidae sp. BOLD:ADI3742,BOLD BIN,,,,,,,,,,,,,,,,,,Animalia,,Arthropoda,Arachnida,Trombidiformes,Prostigmata,Eriophyidae,,
 Arthropods,Eriophyidae sp. BOLD:ACL4044,BOLD BIN,,,,,,,,,,,,,,,,,,Animalia,,Arthropoda,Arachnida,Trombidiformes,Prostigmata,Eriophyidae,,
 Arthropods,Erythraeus tonsus,Species,Native,"(L. Koch, 1879)",-619186,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Arachnida,Trombidiformes,,Erythraeidae,,Erythraeus
-Arthropods,Daphnia longiremis,Species,Native,"G. O. Sars, 1861",83887,NA,,,valid,,,,,NA,NA,,,,,Animalia,,Arthropoda,Branchiopoda,Diplostraca,Cladocera, Daphniidae,,Daphnia
 Arthropods,Strigamia chionophila,Species,Native,,-619738,NA,,,invalid,"not reviewed, USFWS record",http://dx.doi.org/10.7299/X7D79BJ4,,,NA,NA,,,,,Animalia,,Arthropoda,Chilopoda,Geophilomorpha,,Linotaeniidae,,Strigamia
 Arthropods,Lithobius stejnegeri,Species,Native,"Bollman, 1893",-619226,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Chilopoda,Lithobiomorpha,,Lithobiidae,,Lithobius
 Arthropods,Pseudobourletiella spinata,Species,Native,,-618317,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Collembola,Collembola,Symphypleona,Bourletiellidae,,Pseudobourletiella
@@ -308,7 +307,6 @@ Arthropods,Amphipsylla pollionis,Species,Native,Rothschild 1905,-618490,NA,,,inv
 Arthropods,Peromyscopsylla ostsibirica,Species,Native,"(Jordan, 1939)",-620043,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Siphonaptera,,Leptopsyllidae,,Peromyscopsylla
 Arthropods,Euhoplopsyllus glacialis,Species,Native,"(Taschenberg, 1880)",-620039,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Siphonaptera,,Pulicidae,,Euhoplopsyllus
 Arthropods,Chaetopsylla tuberculaticeps,Species,Native,"(Bezzi, 1890)",-619285,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Siphonaptera,,Vermipsyllidae,,Chaetopsylla
-Arthropods,Epischura nevadensis,Species,Native,"Lilljeborg in Guerne and Richard, 1889",85857,NA,,,valid,,,,,NA,NA,,,,,Animalia,,Arthropoda,Maxillopoda,Calanoida,, Temoridae,,Epischura
 Arthropods,Icaricia saepiolus,Species,Native,"Edwards, 1863",-620028,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,,,,,,,Icaricia
 Birds,Chroicocephalus philadelphia,Species,Native,"(Ord, 1815)",176839,824040,Chroicocephalus philadelphia,,invalid,subsequent name/combination,,Bonaparte's gull,,NA,NA,,,,,Animalia,,Chordata,Aves,Charadriiformes,,Laridae,,Chroicocephalus
 Birds,Hydroprogne caspia,Species,Native,"Pallas, 1770",176924,176935,Hydroprogne caspia,,invalid,original name/combination,Sited East end of Tustemena Lake 7/13/05 (2 pair) 7/14/05 (3),Caspian tern,,NA,NA,,,,,Animalia,,Chordata,Aves,Charadriiformes,,Laridae,,Hydroprogne
