@@ -2,10 +2,7 @@ category,latin,rank,origin,authority,tsn,accepted_tsn,accepted_latin,duplicate,u
 Arthropods,Eriophyidae sp. BOLD:ADI3742,BOLD BIN,,,,,,,,,,,,,,,,,,Animalia,,Arthropoda,Arachnida,Trombidiformes,Prostigmata,Eriophyidae,,
 Arthropods,Eriophyidae sp. BOLD:ACL4044,BOLD BIN,,,,,,,,,,,,,,,,,,Animalia,,Arthropoda,Arachnida,Trombidiformes,Prostigmata,Eriophyidae,,
 Arthropods,Erythraeus tonsus,Species,Native,"(L. Koch, 1879)",-619186,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Arachnida,Trombidiformes,,Erythraeidae,,Erythraeus
-Arthropods,Hymenaphorura nearctica,Species,Native,"Pomorski, 2001",-619228,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Collembola,Collembola,Poduromorpha,Onychiuridae,,Hymenaphorura
 Arthropods,Petridiobius sp. BOLD:AAG6185,Species,Native,,-620168,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Archaeognatha,,Machilidae,Petrobiinae,Petridiobius
-Arthropods,Dichelotarsus laevicollis,Species,Native,,-620170,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Coleoptera,Polyphaga,Cantharidae,,Dichelotarsus
-Arthropods,Dichelotarsus tetragonoderus,Species,Native,"(Fall, 1926)",-619230,834428,Podabrus tetragonoderus,,invalid,"unavailable, DOI placeholder artifact",http://dx.doi.org/10.7299/X7J1039V,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Coleoptera,Polyphaga,Cantharidae,,Dichelotarsus
 Arthropods,Amara brunnea,Species,Native,,110885,NA,,,,,,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Coleoptera,Adephaga,Carabidae,,Amara
 Arthropods,Nebria piperi,Species,Native,,109520,NA,,,,,,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Coleoptera,Adephaga,Carabidae,,Nebria
 Arthropods,Sericoda bembidioides,Species,Native,,110241,NA,,,,,,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Coleoptera,Adephaga,Carabidae,,Sericoda
@@ -115,7 +112,6 @@ Arthropods,Chalarus sp. ak1 bold:aaz4904,Species,Native,,-619881,NA,,,invalid,"n
 Arthropods,Dorylomorpha albitarsis,Species,Native,,-618274,NA,,,invalid,"not reviewed, USFWS record",Collected for Kenai NWR Long Term Ecological Monitoring Program,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Diptera,Brachycera,Pipunculidae,Pipunculinae,Dorylomorpha
 Arthropods,Dorylomorpha spinosa,Species,Native,,-618200,NA,,,invalid,"not reviewed, USFWS record",Collected for Kenai NWR Long Term Ecological Monitoring Program,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Diptera,Brachycera,Pipunculidae,Pipunculinae,Dorylomorpha
 Arthropods,Pipunculus hertzogi,Species,Native,,-618276,NA,,,invalid,"not reviewed, USFWS record",Collected for Kenai NWR Long Term Ecological Monitoring Program,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Diptera,Brachycera,Pipunculidae,Pipunculinae,Pipunculus
-Arthropods,Tomosvaryella kuthyi,Species,Native,"Aczel, 1944",,,,,,,,,,,,,,Name not available in FWSpecies as of 4.Nov.2019. Requested name to be added to FWSpecies.,,Animalia,,Arthropoda,Insecta,Diptera,,Pipunculidae,,Tomosvaryella
 Arthropods,Lindneromyia agarici,Species,Native,"(Willard, 1914)",-619348,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Diptera,Brachycera,Platypezidae,,Lindneromyia
 Arthropods,Symphoromyia sp. bold:aap6399,Species,Native,,-620138,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Diptera,Brachycera,Rhagionidae,,Symphoromyia
 Arthropods,Cratyna sp. bold:aah3993,Species,Native,,-620083,NA,,,invalid,"not reviewed, USFWS record",,,,NA,NA,,,,,Animalia,,Arthropoda,Insecta,Diptera,Nematocera,Sciaridae,,Cratyna
