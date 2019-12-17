@@ -1,0 +1,5 @@
+DwC_field	FWSpecies_field	notes
+taxonID	Taxon Code	
+scientificName	Scientific Name	FWSpecies output lacks authority.
+taxonRank	NA	
+kingdom	NA	Could be inferred from FWSpecies category field.
