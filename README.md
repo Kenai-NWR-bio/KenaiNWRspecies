@@ -6,6 +6,6 @@ It will also be used for publishing scripts for extracting and converting data f
 
 ## Files
 
-[data/FWSpecies_FullListWithDetails.csv](data/FWSpecies_FullListWithDetails.csv) contains records exported from FWSpecies.
+[data](data) contains records exported from FWSpecies.
 
-[data/additions.csv](data/additions.csv) contains records from a previous version of the Kenai National Wildlife Refuge's checklist that have not yet been added to the Refuge's list in FWSpecies.
+[data/non_FWSpecies_records.csv](data/non_FWSpecies_records.csv) contains records from a previous version of the Kenai National Wildlife Refuge's checklist that have not yet been added to the Refuge's list in FWSpecies.

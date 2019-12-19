@@ -1,0 +1,2640 @@
+taxonID	scientificName	taxonRank	kingdom
+480	643298	Acari	Subclass	Animalia
+253	6691	Achilidae Stål, 1866	Family	Animalia
+704	898420	Achorotile Fieber, 1866	Genus	Animalia
+706	900611	Achorotile subarctica Scudder, 1963	Species	Animalia
+288	11894	Acilius semisulcatus Aubé, 1838	Species	Animalia
+226	33323	Acrocera	Genus	Animalia
+27	33281	Acroceridae	Family	Animalia
+197	20123	Acronicta Ochsenheimer, 1816	Genus	Animalia
+227	34997	Aedes abserratus (Felt and Young, 1904)	Species	Animalia
+318	35042	Aedes diantaeus Howard, Dyar and Knab, 1913	Species	Animalia
+104	918687	Aegialia Latreille, 1807	Genus	Animalia
+240	593794	Aegialites debilis Mannerheim, 1853	Species	Animalia
+23	95521	Aeshna eremita Scudder, 1866	Species	Animalia
+558	2247	Aeshna Fabricius, 1775	Genus	Animalia
+70	95522	Aeshna interrupta Walker, 1908	Species	Animalia
+224	95525	Aeshna juncea (Linnaeus, 1758)	Species	Animalia
+395	344967	Aeshna palmata Hagen, 1856	Species	Animalia
+691	95526	Aeshna septentrionalis Burmeister, 1839	Species	Animalia
+386	95527	Aeshna sitchensis Hagen, 1861	Species	Animalia
+438	95528	Aeshna subarctica Walker, 1908	Species	Animalia
+576	2238	Aeshnidae	Family	Animalia
+716	11818	Agabus anthracinus Mannerheim, 1852	Species	Animalia
+829	11840	Agabus bifarius (Kirby, 1837)	Species	Animalia
+743	11806	Agabus confinis (Gyllenhal, 1808)	Species	Animalia
+287	11829	Agabus inscriptus (Crotch, 1873)	Species	Animalia
+578	11118	Agabus semipunctatus (Kirby, 1837)	Species	Animalia
+577	11107	Agabus tristis Aubé, 1838	Species	Animalia
+341	790261	Agelenopsis Giebel, 1869	Genus	Animalia
+689	809986	Agelenopsis utahana (Chamberlin & Ivie, 1933)	Species	Animalia
+778	766264	Aglais milberti (Godart, 1819)	Species	Animalia
+141	925473	Agoliinus piceatus (Robinson, 1946)	Species	Animalia
+175	45343	Agromyzidae	Family	Animalia
+84	97363	Agrypnia glacialis Hagen, 1873	Species	Animalia
+124	3520	Alloperla severa (Hagen, 1861)	Species	Animalia
+221	827265	Alopecosa aculeata (Clerck, 1757)	Species	Animalia
+334	614828	Altica Geoffroy, 1762	Genus	Animalia
+544	99164	Alypia langtoni Couper, 1865	Species	Animalia
+286	4415	Amara alpina (Paykull, 1790)	Species	Animalia
+207	4404	Amara Bonelli, 1810	Genus	Animalia
+867	5384	Amara brunnea (Gyllenhal, 1810)	Species	Animalia
+550	5372	Amara obesa (Say, 1823)	Species	Animalia
+41	9041	Ameletus celer McDunnough, 1934	Species	Animalia
+764	58685	Anacharis Dalman, 1823	Genus	Animalia
+616	479289	Andrena clarkella (Kirby, 1802)	Species	Animalia
+732	2860	Aneurus simplex Uhler, 1871	Species	Animalia
+43	562295	Anisosticta borealis Timberlake, 1943	Species	Animalia
+235	930090	Anisotoma globososa Hatch, 1929	Species	Animalia
+11	934870	Anisotoma Panzer, 1797	Genus	Animalia
+678	715272	Anodonta beringiana Middendorff, 1851	Species	Animalia
+284	616034	Anthelia Lamarck, 1816	Genus	Animalia
+661	10420	Anthocoris musculus (Say, 1832)	Species	Animalia
+187	58179	Anthomyiidae	Family	Animalia
+15	42310	Anthomyza tenuis (Loew, 1863)	Species	Animalia
+868	929308	Apamea cogitata (Smith, 1891)	Species	Animalia
+591	8177	Aphididae	Family	Animalia
+410	21435	Aphodius Illiger, 1798	Genus	Animalia
+93	61233	Apidae	Family	Animalia
+94	61235	Apis mellifera Linnaeus, 1758	Species	Animalia
+806	59116	Apocrita	Suborder	Animalia
+381	44504	Aptilotus parvipennis (Spuler, 1924)	Species	Animalia
+775	718893	Araneae	Order	Animalia
+364	817549	Araneus corticarius (Emerton, 1884)	Species	Animalia
+790	817731	Araneus marmoreus Clerck, 1757	Species	Animalia
+690	817786	Araneus nordmanni (Thorell, 1870)	Species	Animalia
+511	818033	Araniella displicata (Hentz, 1847)	Species	Animalia
+615	413199	Archaeognatha Börner, 1904	Order	Animalia
+700	101892	Archiearis infans (Möschler, 1862)	Species	Animalia
+152	25742	Arctopelopia	Genus	Animalia
+176	818059	Arctosa alpigena (Doleschall, 1852)	Species	Animalia
+656	39717	Argyra currani Van Duzee, 1925	Species	Animalia
+715	903132	Atomaria Stephens, 1829	Genus	Animalia
+573	6676	Auchenorrhyncha	Suborder	Animalia
+62	48808	Baccha	Genus	Animalia
+63	48809	Baccha elongata (Fabricius, 1775)	Species	Animalia
+733	7349	Baetis bicaudatus Dodds, 1923	Species	Animalia
+145	19830	Banksiola crotchi Banks, 1944	Species	Animalia
+708	814443	Baryphyma Simon, 1884	Genus	Animalia
+797	826288	Baryphyma trifrons (O. P.-Cambridge, 1863)	Species	Animalia
+794	799630	Bassaniana utahensis (Gertsch, 1932)	Species	Animalia
+523	29707	Beris fuscipes Meigen, 1820	Species	Animalia
+435	29706	Beris Latreille, 1802	Genus	Animalia
+471	21137	Bibio	Genus	Animalia
+491	21171	Bibio longipes Loew, 1864	Species	Animalia
+146	21136	Bibionidae	Family	Animalia
+710	913520	Blethisa quadricollis Haldeman, 1847	Species	Animalia
+143	98644	Boloria chariclea (Schneider, 1794)	Species	Animalia
+472	98648	Boloria freija (Thunberg, 1791)	Species	Animalia
+29	98638	Boloria Moore, 1900	Genus	Animalia
+37	98639	Boloria selene ([Schiffermüller], 1775)	Species	Animalia
+95	61236	Bombus Latreille, 1802	Genus	Animalia
+54	606054	Bombus occidentalis Greene, 1858	Species	Animalia
+233	606082	Bombus sylvicola Kirby, 1837	Species	Animalia
+380	43502	Borborillus	Genus	Animalia
+170	716763	Bosmina longirostris (O. F. Müller, 1776)	Species	Animalia
+30	56237	Botanophila rubrigena (Schnabl, 1915)	Species	Animalia
+506	28776	Brachycera	Suborder	Animalia
+156	45814	Brachyopa ferruginea (Fallen, 1817)	Species	Animalia
+766	59119	Braconidae	Family	Animalia
+555	28411	Brillia Kieffer, 1913	Genus	Animalia
+460	618534	Bromius obscurus (Linnaeus, 1758)	Species	Animalia
+335	28423	Bryophaenocladius Thienemann	Genus	Animalia
+294	942973	Cabera exanthemata (Scopoli, 1763)	Species	Animalia
+140	919378	Caelius montana (Brown, 1931)	Species	Animalia
+303	4375	Calathus advena (LeConte, 1846)	Species	Animalia
+125	4372	Calathus Bonelli, 1810	Genus	Animalia
+428	4395	Calathus ingratus Dejean, 1828	Species	Animalia
+837	60987	Calliphora vomitoria (Linnaeus, 1758)	Species	Animalia
+282	60246	Calliphoridae	Family	Animalia
+781	757268	Calocoris fulvomaculatus (De Geer, 1773)	Species	Animalia
+103	556556	Calvia quatuordecimguttata (Linnaeus, 1758)	Species	Animalia
+701	102868	Campaea perlata (Guenée in Boisduval and Guenée, 1858)	Species	Animalia
+620	519885	Campiglossa farinata (Novak, 1974)	Species	Animalia
+753	507844	Campiglossa Rondani, 1870	Genus	Animalia
+121	312847	Camponotus herculeanus (Linnaeus, 1758)	Species	Animalia
+340	59939	Camponotus Mayr, 1861	Genus	Animalia
+147	42799	Campsicnemus alaskensis (Harmston and Miller, 1966)	Species	Animalia
+462	42808	Campsicnemus claudicans Loew, 1864	Species	Animalia
+1	826716	Canalidion montanum (Emerton, 1882)	Species	Animalia
+638	15479	Cantharidae Imhoff, 1856	Family	Animalia
+166	9231	Capnia confusa Claassen, 1936	Species	Animalia
+247	8225	Carabidae Latreille, 1802	Family	Animalia
+572	9307	Carabus chamissonis Fischer von Waldheim, 1820	Species	Animalia
+571	9306	Carabus Linnaeus, 1758	Genus	Animalia
+493	9315	Carabus taedatus Fabricius, 1787	Species	Animalia
+400	28450	Cardiocladius Keiffer	Genus	Animalia
+360	98683	Carterocephalus Lederer, 1852	Genus	Animalia
+426	98684	Carterocephalus palaemon (Pallas, 1771)	Species	Animalia
+856	927654	Catops alpinus Gyllenhal, 1827	Species	Animalia
+189	927389	Catops basilaris Say, 1823	Species	Animalia
+234	928726	Catops egenus (Horn, 1880)	Species	Animalia
+265	927653	Catops luridipennis Mannerheim, 1853	Species	Animalia
+173	927520	Catops Paykull, 1798	Genus	Animalia
+554	24967	Cecidomyiidae	Family	Animalia
+671	766117	Celastrina lucia (W. Kirby, 1837)	Species	Animalia
+805	59106	Cephidae	Family	Animalia
+411	21438	Cerambycidae Latreille, 1802	Family	Animalia
+791	818608	Ceraticelus atriceps (O. P.-Cambridge, 1874)	Species	Animalia
+792	818633	Ceraticelus silus Dondale, 1958	Species	Animalia
+413	818654	Ceratinella ornatula (Crosby & Bishop, 1925)	Species	Animalia
+57	555818	Ceratomegilla ulkei Crotch, 1873	Species	Animalia
+834	25588	Ceratopogonidae	Family	Animalia
+168	6682	Cercopidae Leach, 1815	Family	Animalia
+477	28460	Chaetocladius Kieffer	Genus	Animalia
+313	41947	Chalarus	Genus	Animalia
+272	41195	Chalcosyrphus vecors (Osten Sacken, 1875)	Species	Animalia
+322	49375	Chamaemyiidae	Family	Animalia
+8	31257	Chaoboridae	Family	Animalia
+748	40770	Charadrodromia	Genus	Animalia
+91	41057	Cheilosia lasiophthalmus Williston, 1882	Species	Animalia
+90	31882	Chironomidae	Family	Animalia
+38	50463	Chloropidae	Family	Animalia
+289	54425	Chlorops sahlbergii Loew, 1863	Species	Animalia
+754	488089	Chorthippus curtipennis (Harris, 1835)	Species	Animalia
+117	59893	Chrysididae	Family	Animalia
+513	22256	Chrysomelidae Latreille, 1802	Family	Animalia
+813	505029	Chrysopa chi Fitch, 1855	Species	Animalia
+718	12877	Chrysopidae Schneider, 1851	Family	Animalia
+433	28245	Chrysops nigripes Zetterstedt, 1838	Species	Animalia
+565	6681	Cicadellidae	Family	Animalia
+369	58340	Cimbex americana Leach	Species	Animalia
+566	6684	Cixiidae Spinola, 1839	Family	Animalia
+387	102580	Cladara limitaria (Walker, 1860)	Species	Animalia
+839	58382	Cladius difformis (Panzer)	Species	Animalia
+437	58381	Cladius Illiger, 1807	Genus	Animalia
+211	36082	Cladopelma Kieffer, 1921	Genus	Animalia
+643	27639	Cladotanytarsus Kieffer, 1921	Genus	Animalia
+401	35341	Clinocera fuscipennis Loew, 1876	Species	Animalia
+628	44042	Clusiidae	Family	Animalia
+16	44085	Clusiodes	Genus	Animalia
+299	20601	Coccinella Linnaeus, 1758	Genus	Animalia
+280	20603	Coccinella transversoguttata Faldermann, 1835	Species	Animalia
+109	93448	Coccinella trifasciata Linnaeus, 1758	Species	Animalia
+126	557596	Coccinella trifasciata perplexa Mulsant, 1850	Subspecies	Animalia
+317	20582	Coccinellidae Latreille, 1807	Family	Animalia
+592	8181	Coccoidea Handlirsch, 1903	Superfamily	Animalia
+432	5808	Coenagrion Kirby, 1890	Genus	Animalia
+801	5809	Coenagrion resolutum (Hagen in Selys, 1876)	Species	Animalia
+562	5051	Coenagrionidae	Family	Animalia
+636	49611	Coenia curvicauda (Meigen, 1830)	Species	Animalia
+388	98621	Coenonympha Hübner, 1819	Genus	Animalia
+238	766337	Coenonympha tullia (Müller, 1764)	Species	Animalia
+277	58114	Coenosia cilicauda Malloch, 1920	Species	Animalia
+601	8205	Coleoptera Linnaeus, 1758	Order	Animalia
+297	98594	Colias [Fabricius], 1807	Genus	Animalia
+694	98604	Colias nastes Boisduval, 1832	Species	Animalia
+298	98597	Colias philodice Godart, 1819	Species	Animalia
+521	754713	Collembola	Order	Animalia
+807	292655	Columella columella (von Martens, 1830)	Species	Animalia
+273	25749	Conchapelopia Fittkau	Genus	Animalia
+832	12870	Coniopterygidae Burmeister, 1839	Family	Animalia
+619	503017	Coniopteryx Curtis, 1834	Genus	Animalia
+132	505773	Coniopteryx tineiformis Curtis, 1834	Species	Animalia
+134	27651	Constempellina Brundin	Genus	Animalia
+587	4995	Cordulegastridae	Family	Animalia
+483	4983	Cordulia shurtleffii Scudder, 1866	Species	Animalia
+474	794364	Coriarachne Thorell, 1870	Genus	Animalia
+556	28507	Corynoneura	Genus	Animalia
+557	28526	Cricotopus annulator Goetghebuer, 1927	Species	Animalia
+724	29409	Cricotopus tremulus (Linnaeus, 1758)	Species	Animalia
+346	896089	Criomorphus inconspicuus (Uhler, 1877)	Species	Animalia
+501	94967	Cryphalus Erichson, 1836	Genus	Animalia
+208	408575	Cryphalus ruficollis Hopkins, 1915	Species	Animalia
+198	20566	Cryptophagidae Kirby, 1826	Family	Animalia
+803	20567	Cryptophagus Herbst, 1792	Genus	Animalia
+97	589196	Cucujus clavipes Fabricius, 1781	Species	Animalia
+649	31307	Culicidae	Family	Animalia
+159	35753	Culiseta impatiens (Walker, 1848)	Species	Animalia
+641	23502	Curculionidae Latreille, 1802	Family	Animalia
+200	725501	Cyclops columbianus Lindberg, 1956	Species	Animalia
+665	725505	Cyclops strenuus Fischer, 1851	Species	Animalia
+46	819875	Cyclosa conica (Pallas, 1772)	Species	Animalia
+31	58688	Cynipidae	Family	Animalia
+841	60996	Cynomya cadaverina Robineau-Desvoidy, 1830	Species	Animalia
+590	16552	Cyphon variabilis (Thunberg, 1785)	Species	Animalia
+264	716706	Daphnia longiremis G. O. Sars, 1861	Species	Animalia
+160	24647	Dasineura serrulatae (Osten Sacken, 1862)	Species	Animalia
+292	59003	Delia alaba (Walker, 1849)	Species	Animalia
+768	59049	Delia bucculenta (Coquillett, 1904)	Species	Animalia
+420	59622	Delia echinata (Seguy, 1923)	Species	Animalia
+427	59629	Delia extensa (Huckett, 1951)	Species	Animalia
+503	59686	Delia lineariventris (Zetterstedt, 1845)	Species	Animalia
+840	60708	Delia prostriata (Huckett, 1965)	Species	Animalia
+588	6685	Delphacidae Leach, 1815	Family	Animalia
+845	893881	Delphacodes Fieber, 1866	Genus	Animalia
+345	895756	Delphacodes serrata Beamer, 1948	Species	Animalia
+270	965183	Dendrobaena octaedra (Savigny, 1826)	Species	Animalia
+548	383698	Dendrocerus laevis (Ratzeburg, 1852)	Species	Animalia
+809	387152	Dendrocerus Ratzeburg, 1852	Genus	Animalia
+742	11627	Dendroctonus rufipennis (Kirby, 1837)	Species	Animalia
+712	959625	Dendrodrilus rubidus (Savigny, 1826)	Species	Animalia
+532	21376	Dendroides	Genus	Animalia
+761	584452	Dendrophagus cygnaei Mannerheim, 1846	Species	Animalia
+581	12359	Dermestes lardarius Linnaeus, 1758	Species	Animalia
+679	716982	Deroceras laeve (Muller, 1774)	Species	Animalia
+519	27740	Diamesa	Genus	Animalia
+508	724464	Diaptomus pribilofensis Juday and Muttkowski	Species	Animalia
+782	759614	Diarsia esurialis (Grote, 1881)	Species	Animalia
+664	99247	Diarsia Hübner, 1821	Genus	Animalia
+667	759615	Diarsia rosaria (Grote, 1878)	Species	Animalia
+228	36168	Dicrotendipes Kieffer, 1913	Genus	Animalia
+466	45836	Dictya umbroides Curran, 1932	Species	Animalia
+793	798790	Dictyna alaskae Chamberlin & Ivie, 1947	Species	Animalia
+674	798800	Dictyna arundinacea (Linnaeus, 1758)	Species	Animalia
+66	798850	Dictyna major Menge, 1869	Species	Animalia
+450	636876	Dictyoptera aurora (Herbst, 1784)	Species	Animalia
+534	22035	Dilophus	Genus	Animalia
+552	21596	Diptera	Order	Animalia
+442	52290	Discocerina obscurella (Fallen, 1813)	Species	Animalia
+757	294714	Discus whitneyi (Newcomb, 1864)	Species	Animalia
+51	825529	Dismodicus alticeps Chamberlin & Ivie, 1947	Species	Animalia
+796	825534	Dismodicus modicus Chamberlin & Ivie, 1947	Species	Animalia
+709	814845	Dismodicus Simon, 1884	Genus	Animalia
+56	52310	Ditrichophora occidentalis Cresson, 1942	Species	Animalia
+461	42580	Dolichopodidae	Family	Animalia
+128	45432	Dolichopus	Genus	Animalia
+155	45555	Dolichopus detersus Loew, 1866	Species	Animalia
+639	47319	Dolichopus plumipes (Scopoli, 1763)	Species	Animalia
+181	47342	Dolichopus remipes Wahlberg, 1839	Species	Animalia
+105	47384	Dolichopus stenhammari Zetterdtedt, 1843	Species	Animalia
+179	60011	Dolichovespula arenaria (Fabricius)	Species	Animalia
+178	60010	Dolichovespula Rohwer, 1916	Genus	Animalia
+127	799100	Dolomedes triton (Walckenaer, 1837)	Species	Animalia
+655	38213	Doros aequalis Loew, 1863	Species	Animalia
+838	41987	Dorylomorpha	Genus	Animalia
+811	490925	Dorypteryx domestica (Smithers, 1958)	Species	Animalia
+130	402177	Dorytomus Germar, 1817	Genus	Animalia
+201	400650	Dorytomus leucophyllus (Motschulsky, 1845)	Species	Animalia
+112	400652	Dorytomus luridus (Mannerheim, 1853)	Species	Animalia
+113	400654	Dorytomus mannerheimi (Gemminger, 1871)	Species	Animalia
+728	46066	Drosophilidae	Family	Animalia
+122	59909	Dryinidae	Family	Animalia
+209	408577	Dryocoetes caryi Hopkins, 1915	Species	Animalia
+61	44153	Dryomyza	Genus	Animalia
+850	44164	Dryomyza setosa (Bigot, 1886)	Species	Animalia
+17	44151	Dryomyzidae	Family	Animalia
+486	12630	Dytiscus circumcinctus Ahrens, 1811	Species	Animalia
+353	12631	Dytiscus dauricus Gebler, 1832	Species	Animalia
+485	12622	Dytiscus harrisii Kirby, 1837	Species	Animalia
+802	20094	Ecclisomyia conspersa Banks, 1907	Species	Animalia
+268	941123	Ecliptopera Warren, 1894	Genus	Animalia
+579	11131	Elasmostethus interstinctus (Linnaeus, 1758)	Species	Animalia
+424	15525	Elateridae Leach, 1815	Family	Animalia
+35	621203	Ellychnia Blanchard, 1845	Genus	Animalia
+343	789077	Emblyna annulipes (Blackwall, 1846)	Species	Animalia
+412	789087	Emblyna chitina (Chamberlin & Gertsch, 1958)	Species	Animalia
+463	789111	Emblyna manitoba (Ivie, 1947)	Species	Animalia
+158	35313	Empididae	Family	Animalia
+774	622554	Enallagma annexum (Hagen, 1861)	Species	Animalia
+307	5771	Enallagma boreale Selys, 1875	Species	Animalia
+593	5080	Enallagma Charpentier, 1840	Genus	Animalia
+185	820268	Enoplognatha intrepida (Sorensen, 1898)	Species	Animalia
+685	756293	Entomobrya nivalis (Linnaeus, 1758)	Species	Animalia
+597	6470	Epeorus grandis (McDunnough, 1924)	Species	Animalia
+828	11715	Ephemerella aurivillii (Bengtsson, 1908)	Species	Animalia
+64	49617	Ephydra	Genus	Animalia
+310	49639	Ephydra riparia Fallen, 1813	Species	Animalia
+319	51806	Ephydridae	Family	Animalia
+13	938948	Epirrita undulata (Harrison, 1942)	Species	Animalia
+864	724525	Epischura nevadensis Lilljeborg in Guerne and Richard, 1889	Species	Animalia
+36	98634	Erebia Dalman, 1816	Genus	Animalia
+239	766360	Erebia discoidalis (W. Kirby, 1837)	Species	Animalia
+452	657641	Eremaeus translamellatus Hammer, 1952	Species	Animalia
+458	7114	Eremocoris borealis (Dallas, 1852)	Species	Animalia
+789	815317	Erigone Audouin, 1826	Genus	Animalia
+186	820586	Erigone tirolensis L. Koch, 1872	Species	Animalia
+42	559542	Erpobdella punctata (Leidy, 1870)	Species	Animalia
+476	820866	Estrandia grandaeva (Keyserling, 1886)	Species	Animalia
+657	75	Eucapnopsis brevicauda (Claassen, 1924)	Species	Animalia
+776	765987	Euchloe ausonides (Lucas, 1852)	Species	Animalia
+194	765854	Euchloe Hübner, 1819	Genus	Animalia
+453	51081	Eudasyphora	Genus	Animalia
+725	29455	Eukiefferiella claripennis Lundbeck	Species	Animalia
+726	29465	Eukiefferiella coerulescens (Kieffer)	Species	Animalia
+327	101835	Eulithis propulsata (Walker, 1862)	Species	Animalia
+481	55990	Eulophidae	Family	Animalia
+529	22387	Eupithecia Curtis, 1825	Genus	Animalia
+14	944614	Eupithecia sharronata Bolte, 1990	Species	Animalia
+285	718121	Eurycercus longirostris Hann, 1982	Species	Animalia
+229	57864	Eurytoma Illiger, 1807	Genus	Animalia
+18	57859	Eurytomidae	Family	Animalia
+536	797038	Evarcha proszynskii Marusik & Logunov, 1998	Species	Animalia
+102	556122	Exochomus Redtenbacher, 1843	Genus	Animalia
+847	60199	Fannia postica (Stein, 1895)	Species	Animalia
+848	60215	Fannia serena (Fallen, 1825)	Species	Animalia
+180	60223	Fannia spathiophora Malloch, 1918	Species	Animalia
+849	60224	Fannia subpellucens (Zetterstedt, 1845)	Species	Animalia
+769	58684	Figitidae	Family	Animalia
+613	313025	Formica aserva Forel, 1901	Species	Animalia
+214	314138	Formica gagatoides Ruzsky, 1904	Species	Animalia
+482	59959	Formica Linnaeus, 1758	Genus	Animalia
+547	314844	Formica neorufibarbis Emery, 1893	Species	Animalia
+123	59938	Formicidae	Family	Animalia
+861	934508	Furcula occidentalis (Lintner, 1878)	Species	Animalia
+514	22292	Galerucella Crotch, 1873	Genus	Animalia
+515	22294	Galerucella nymphaeae (Linnaeus, 1758)	Species	Animalia
+33	735462	Gammarus lacustris G. O. Sars, 1863	Species	Animalia
+551	5554	Geocoris bullatus (Say, 1832)	Species	Animalia
+357	21566	Geometridae	Family	Animalia
+567	7815	Gerris buenoi Kirkaldy, 1911	Species	Animalia
+599	7800	Gerris Fabricius, 1794	Genus	Animalia
+281	97391	Glaucopsyche lygdamus (E. Doubleday, 1841)	Species	Animalia
+425	97390	Glaucopsyche Scudder, 1872	Genus	Animalia
+798	839048	Glischrochilus vittatus (Say, 1835)	Species	Animalia
+393	561715	Glossiphonia complanata (Linnaeus, 1758)	Species	Animalia
+49	824327	Grammonota vittata Barrows, 1919	Species	Animalia
+53	705804	Gyraulus deflectus (Say, 1824)	Species	Animalia
+338	15216	Gyrinidae Latreille, 1810	Family	Animalia
+421	15226	Gyrinus maculiventris LeConte, 1868	Species	Animalia
+423	15242	Gyrinus minutus Fabricius, 1798	Species	Animalia
+422	15241	Gyrinus opacus Sahlberg, 1817	Species	Animalia
+540	15222	Gyrinus picipes Aubé, 1838	Species	Animalia
+440	51139	Haematobosca alcis (Snow, 1891)	Species	Animalia
+260	560736	Haemopis lateromaculata Mathers, 1963	Species	Animalia
+436	718886	Halobisium occidentale Beier, 1931	Species	Animalia
+392	44176	Helcomyza	Genus	Animalia
+446	44177	Helcomyza mirabilis Melander, 1920	Species	Animalia
+645	30167	Heleniella	Genus	Animalia
+751	51658	Heleomyza	Genus	Animalia
+836	51685	Heleomyza nebulosa (Coquillett, 1910)	Species	Animalia
+419	50957	Heleomyzidae	Family	Animalia
+459	563878	Helobdella stagnalis (Linnaeus, 1758)	Species	Animalia
+50	824686	Helophora reducta (Keyserling, 1886)	Species	Animalia
+129	12876	Hemerobiidae Latreille, 1802	Family	Animalia
+169	4196	Hemiptera Linnaeus, 1758	Order	Animalia
+257	19381	Hesperiidae Latreille, 1809	Family	Animalia
+60	37037	Hilara	Genus	Animalia
+58	555823	Hippodamia falcigera Crotch, 1873	Species	Animalia
+512	20587	Hippodamia tredecimpunctata (Linnaeus, 1758)	Species	Animalia
+564	6571	Homaemus aeneifrons (Say, 1824)	Species	Animalia
+119	58396	Hoplocampa Hartig, 1837	Genus	Animalia
+397	47953	Hyadina binotata (Cresson, 1926)	Species	Animalia
+681	727026	Hyalella azteca Saussure, 1858	Species	Animalia
+434	29210	Hybomitra	Genus	Animalia
+68	30709	Hybomitra zonalis (Kirby, 1837)	Species	Animalia
+161	39823	Hybotidae	Family	Animalia
+165	171663	Hydra hymanae Hadley and Forrest, 1949	Species	Animalia
+443	53395	Hydrellia	Genus	Animalia
+444	53441	Hydrellia morrisoni Cresson, 1924	Species	Animalia
+763	53864	Hydrellia tibialis Cresson, 1917	Species	Animalia
+646	30193	Hydrobaenus fusistylus (Goetghebuer, 1933)	Species	Animalia
+336	39443	Hydrophorus algens Wheeler, 1899	Species	Animalia
+151	39477	Hydrophorus glaber (Walker, 1849)	Species	Animalia
+584	14814	Hydroporus badiellus Fall, 1923	Species	Animalia
+606	14749	Hydroporus dentellus Fall, 1917	Species	Animalia
+355	14790	Hydroporus lapponum (Gyllenhal, 1808)	Species	Animalia
+164	100335	Hydroporus morio Aubé, 1838	Species	Animalia
+362	632654	Hydroporus nigellus Mannerheim, 1853	Species	Animalia
+583	14003	Hydroporus notabilis LeConte, 1850	Species	Animalia
+279	14064	Hydroporus obscurus Sturm, 1835	Species	Animalia
+59	632658	Hydroporus puberulus LeConte, 1850	Species	Animalia
+356	14817	Hydroporus rectus Fall, 1923	Species	Animalia
+354	14742	Hydroporus striola (Gyllenhal, 1826)	Species	Animalia
+337	14741	Hydroporus tristis (Paykull, 1798)	Species	Animalia
+316	13003	Hygrotus compar (Fall, 1919)	Species	Animalia
+831	12715	Hygrotus impressopunctatus (Schaller, 1783)	Species	Animalia
+251	633585	Hygrotus novemlineatus (Stephens, 1829)	Species	Animalia
+717	12720	Hygrotus picatus (Kirby, 1837)	Species	Animalia
+745	12729	Hygrotus turbidus (LeConte, 1855)	Species	Animalia
+44	60912	Hylaeus Fabricius, 1793	Genus	Animalia
+546	98717	Hyles gallii (Rottemburg, 1775)	Species	Animalia
+231	58311	Hymenoptera	Order	Animalia
+266	929240	Hypena californica Behr, 1870	Species	Animalia
+217	932804	Hypenodes Doubleday, 1850	Genus	Animalia
+857	928680	Hypenodes palustris Ferguson, 1954	Species	Animalia
+162	822022	Hypselistes florens (O. P.-Cambridge, 1875)	Species	Animalia
+47	822042	Hypsosinga pygmaea (Sundevall, 1831)	Species	Animalia
+402	53526	Ichneumonidae	Family	Animalia
+744	12701	Ilybius angustior (Gyllenhal, 1808)	Species	Animalia
+377	12696	Ilybius discedens Sharp, 1882	Species	Animalia
+237	635989	Ilybius erichsoni (Gemminger and Harold, 1868)	Species	Animalia
+449	635997	Ilybius hypomelas (Mannerheim, 1843)	Species	Animalia
+582	12690	Ilybius picipes (Kirby, 1837)	Species	Animalia
+539	53878	Ilythea spilota (Curtis, 1832)	Species	Animalia
+210	408606	Ips borealis Swaine, 1911	Species	Animalia
+686	757375	Irbisia sericans (Stål, 1858)	Species	Animalia
+204	2087	Isoperla petersoni Needham and Christenson, 1927	Species	Animalia
+651	37096	Iteaphila macquarti Zetterstedt, 1838	Species	Animalia
+854	37104	Iteaphila orchestris Melander, 1902	Species	Animalia
+652	37105	Iteaphila testacea Melander, 1946	Species	Animalia
+855	37106	Iteaphila triangula (Coquillett, 1900)	Species	Animalia
+642	24827	Iteomyia salicisverruca (Osten Sacken, 1878)	Species	Animalia
+846	897485	Javesella atrata (Osborn, 1938)	Species	Animalia
+714	896268	Javesella Fennah, 1963	Genus	Animalia
+347	898492	Javesella pellucida (Fabricius, 1794)	Species	Animalia
+630	580617	Judolia montivagans (Couper, 1864)	Species	Animalia
+325	581943	Judolia montivagans montivagans (Couper, 1864)	Subspecies	Animalia
+4	822418	Kaestneria pullata (O. P.-Cambridge, 1863)	Species	Animalia
+5	822419	Kaestneria rufula (Hackman, 1954)	Species	Animalia
+484	5593	Kleidocerys resedae (Panzer, 1797)	Species	Animalia
+596	5590	Kleidocerys Stephens, 1829	Genus	Animalia
+705	900412	Kosswigianella analis (Crawford, 1914)	Species	Animalia
+348	901621	Kusnezoviella macleani Wilson, 1988	Species	Animalia
+236	933945	Lacanobia Billberg, 1820	Genus	Animalia
+65	49682	Lamproscatella occidentalis Mathis, 1979	Species	Animalia
+676	695418	Lasioglossum behri (Cockerell, 1910)	Species	Animalia
+45	56419	Lasiomma atricaudum (Zetterstedt, 1845)	Species	Animalia
+640	47578	Lauxaniidae	Family	Animalia
+607	15457	Leiodidae Fleming, 1821	Family	Animalia
+314	43163	Leiomyza	Genus	Animalia
+315	43165	Leiomyza curvinervis (Zetterstedt, 1838)	Species	Animalia
+20	44798	Lejops perfidiosus (Hunter, 1897)	Species	Animalia
+468	19331	Lepidoptera	Order	Animalia
+48	822829	Lepthyphantes alpinus (Emerton, 1882)	Species	Animalia
+216	929263	Leptinillus validus (Horn, 1872)	Species	Animalia
+6	1030866	Leptobunus borealis Banks, 1899	Species	Animalia
+408	39923	Leptopeza	Genus	Animalia
+758	306843	Leptothorax Mayr, 1855	Genus	Animalia
+330	317987	Leptothorax muscorum (Nylander, 1846)	Species	Animalia
+245	404227	Lepyrus gemellus Kirby, 1837	Species	Animalia
+255	402860	Lepyrus Germar, 1817	Genus	Animalia
+561	5036	Lestes disjunctus Selys, 1862	Species	Animalia
+304	4435	Leucorrhinia Brittinger, 1850	Genus	Animalia
+305	4437	Leucorrhinia hudsonica (Selys, 1850)	Species	Animalia
+429	4442	Leucorrhinia patricia Walker, 1940	Species	Animalia
+662	4443	Leucorrhinia proxima Calvert, 1890	Species	Animalia
+663	4444	Libellula Linnaeus, 1758	Genus	Animalia
+430	4447	Libellula quadrimaculata Linnaeus, 1758	Species	Animalia
+609	4069	Libellulidae	Family	Animalia
+39	7652	Ligyrocoris sylvestris (Linnaeus, 1758)	Species	Animalia
+259	19987	Limnephilidae Kolenati, 1848	Family	Animalia
+72	373616	Limnephilus dispar McLachlan, 1875	Species	Animalia
+470	21028	Limnephilus externus Hagen, 1861	Species	Animalia
+358	22166	Limnephilus sericeus (Say, 1824)	Species	Animalia
+153	30217	Limnophyes Eaton	Genus	Animalia
+568	7849	Limnoporus rufoscutellatus (Latreille, 1807)	Species	Animalia
+767	58890	Limnospila albifrons (Zetterstedt, 1849)	Species	Animalia
+405	636940	Liodessus obscurellus (LeConte, 1852)	Species	Animalia
+92	491952	Liposcelis corrodens (Heymons, 1909)	Species	Animalia
+263	1181896	Lithobius stejnegeri (Bollman, 1893)	Species	Animalia
+858	928699	Litholomia napaea (Morrison, 1874)	Species	Animalia
+267	932585	Lithomoia germana (Morrison, 1875)	Species	Animalia
+612	292864	Littorina subrotundata (Carpenter, 1864)	Species	Animalia
+467	46096	Lonchaea	Genus	Animalia
+448	45129	Lonchaeidae	Family	Animalia
+350	40721	Lonchoptera uniseta Curran, 1934	Species	Animalia
+489	621207	Lucidota Laporte, 1833	Genus	Animalia
+269	962730	Lumbricus rubellus Hoffmeister, 1843	Species	Animalia
+271	981882	Lumbricus terrestris Linnaeus, 1758	Species	Animalia
+276	97379	Lycaena dorcas W. Kirby, 1837	Species	Animalia
+256	19335	Lycaenidae [Leach], 1815	Family	Animalia
+293	935770	Lycia rachelae (Hulst, 1896)	Species	Animalia
+332	935624	Lycia ursaria (Walker in D'Urban, 1860)	Species	Animalia
+844	885393	Lycosidae Sundevall, 1833	Family	Animalia
+608	4000	Lygaeidae Schilling, 1829	Family	Animalia
+814	757427	Lygocoris pabulinus (Linnaeus, 1761)	Species	Animalia
+816	757482	Lygus borealis (Kelton, 1955)	Species	Animalia
+815	757474	Lygus Hahn, 1833	Genus	Animalia
+55	613681	Lygus lupini Schwartz in Schwartz and Foottit, 1998	Species	Animalia
+120	613673	Lygus punctatus (Zetterstedt, 1838)	Species	Animalia
+755	613675	Lygus rugulipennis Poppius, 1911	Species	Animalia
+32	757510	Lygus shulli Knight, 1941	Species	Animalia
+79	757513	Lygus striatus Knight, 1917	Species	Animalia
+87	705280	Lymnaea atkaensis Dall, 1884	Species	Animalia
+772	47964	Lytogaster	Genus	Animalia
+222	48648	Lytogaster obscura Clausen, 1982	Species	Animalia
+683	754700	Machilidae	Family	Animalia
+808	293627	Macoma balthica (Linnaeus, 1758)	Species	Animalia
+703	118120	Macrosiphum euphorbiae (Thomas, 1878)	Species	Animalia
+150	38129	Medetera	Genus	Animalia
+391	39028	Medetera vockerothi Bickel, 1985	Species	Animalia
+213	801388	Megalepthyphantes nebulosus (Sundevall, 1830)	Species	Animalia
+563	5105	Megalothorax minimus Willem, 1900	Species	Animalia
+545	387097	Megaspilidae	Family	Animalia
+530	634220	Megatoma cylindrica (Kirby, 1837)	Species	Animalia
+363	634239	Megatoma perversa (Fall, 1926)	Species	Animalia
+799	861453	Melanophila acuminata (De Geer, 1774)	Species	Animalia
+617	488755	Melanoplus fasciatus (F. Walker, 1870)	Species	Animalia
+635	48824	Melanostoma mellinum (Linnaeus, 1758)	Species	Animalia
+193	47158	Melieria	Genus	Animalia
+212	47159	Melieria cana (Loew, 1858)	Species	Animalia
+677	708339	Menetus opercularis (Gould, 1847)	Species	Animalia
+627	430360	Mermis nigrescens	Species	Animalia
+439	51084	Mesembrina	Genus	Animalia
+464	51085	Mesembrina latreillii Robineau-Desvoidy, 1830	Species	Animalia
+296	985968	Mesenchytraeus solifugus (Emery, 1898)	Species	Animalia
+2	815239	Micrargus longitarsus (Emerton, 1882)	Species	Animalia
+866	112104	Microbisium brunneum (Hagen, 1868)	Species	Animalia
+219	800274	Microlinyphia Gerhardt, 1928	Genus	Animalia
+522	756854	Miridae	Family	Animalia
+329	609859	Mirini Hahn, 1833	Tribe	Animalia
+780	777844	Misumena Latreille, 1804	Genus	Animalia
+365	792696	Misumena vatia (Clerck, 1757)	Species	Animalia
+863	1030892	Mitopus morio (Fabricus, 1779)	Species	Animalia
+142	97952	Monochamus Megerle in Dejean, 1821	Genus	Animalia
+760	582607	Monochamus scutellatus (Say, 1824)	Species	Animalia
+454	51097	Morellia podagrica (Loew, 1857)	Species	Animalia
+795	801837	Mughiphantes marusiki (Tanasevitch, 1988)	Species	Animalia
+770	61635	Muscidae	Family	Animalia
+771	61645	Muscina levida (Harris, 1788)	Species	Animalia
+349	23903	Mycetophilidae	Family	Animalia
+366	55330	Mymaridae	Family	Animalia
+71	321222	Myrmica alaskensis Wheeler, 1917	Species	Animalia
+624	307441	Myrmica Latreille, 1804	Genus	Animalia
+372	14076	Mystacides alafimbriatus Hill-Griffin, 1912	Species	Animalia
+580	11276	Nabidae Costa, 1853	Family	Animalia
+25	31117	Nanocladius spiniplenus Saether, 1977	Species	Animalia
+869	10821	Nebria piperi Van Dyke, 1925	Species	Animalia
+69	1030895	Nelima paessleri (Roewer, 1910)	Species	Animalia
+553	21597	Nematocera	Suborder	Animalia
+370	58402	Nematus Panzer, 1801	Genus	Animalia
+746	12814	Nemotaulius Banks, 1906	Genus	Animalia
+747	12816	Nemotaulius hostilis (Hagen, 1873)	Species	Animalia
+853	34463	Nemotelus canadensis Loew, 1863	Species	Animalia
+22	46682	Neoascia	Genus	Animalia
+190	46692	Neoascia metallica (Williston, 1882)	Species	Animalia
+205	3047	Neottiglossa undata (Say, 1832)	Species	Animalia
+687	802769	Neriene radiata (Walckenaer, 1841)	Species	Animalia
+654	38070	Neurigona	Genus	Animalia
+149	38083	Neurigona ciliata Van Duzee, 1913	Species	Animalia
+352	12382	Neuroptera Linnaeus, 1758	Order	Animalia
+541	15462	Nicrophorus Fabricius, 1775	Genus	Animalia
+773	611362	Nicrophorus investigator Zetterstedt, 1824	Species	Animalia
+215	612139	Nicrophorus vespilloides Herbst, 1783	Species	Animalia
+342	759627	Noctua pronuba (Linnaeus, 1758)	Species	Animalia
+258	19426	Noctuidae Latreille, 1809	Family	Animalia
+451	653523	Nothrus borussicus Sellnick, 1928	Species	Animalia
+414	10837	Notiophilus aquaticus (Linnaeus, 1758)	Species	Animalia
+826	53895	Notiphila	Genus	Animalia
+827	53931	Notiphila loewi Cresson, 1917	Species	Animalia
+595	19379	Nymphalidae Rafinesque, 1815	Family	Animalia
+473	98672	Nymphalis antiopa (Linnaeus, 1758)	Species	Animalia
+693	98667	Nymphalis Kluk, 1780	Genus	Animalia
+824	40737	Ocydromia glabricula (Fallen, 1816)	Species	Animalia
+500	2235	Odonata Fabricius, 1793	Order	Animalia
+520	27841	Odontomesa	Genus	Animalia
+379	14087	Oecetis inconspicua (Walker, 1852)	Species	Animalia
+672	766369	Oeneis bore (Esper, 1789)	Species	Animalia
+696	98625	Oeneis Hübner, 1819	Genus	Animalia
+713	98632	Oeneis polixenes (Fabricius, 1775)	Species	Animalia
+3	803673	Ohlertidion ohlerti (Thorell, 1870)	Species	Animalia
+740	22405	Operophtera bruceata (Hulst, 1886)	Species	Animalia
+680	719624	Opiliones Sundevall, 1833	Order	Animalia
+455	858922	Oreodytes dauricus (Motschulsky, 1860)	Species	Animalia
+133	633468	Oreodytes laevis (Kirby, 1837)	Species	Animalia
+98	592986	Orgyia Ochsenheimer, 1810	Genus	Animalia
+524	31135	Orthocladius appersoni Soponis, 1977	Species	Animalia
+26	31146	Orthocladius curtiseta Saether, 1973	Species	Animalia
+648	31183	Orthocladius oblidens (Walker, 1856)	Species	Animalia
+505	31189	Orthocladius rivicola Kieffer, 1911	Species	Animalia
+851	31190	Orthocladius rivulorum Kieffer, 1909	Species	Animalia
+114	404819	Otiorhynchus ovatus (Linnaeus, 1758)	Species	Animalia
+328	46190	Otitidae	Family	Animalia
+762	585185	Pachyta lamed (Linnaeus, 1758)	Species	Animalia
+720	27792	Pagastia	Genus	Animalia
+673	765936	Papilio canadensis Rothschild and Jordan, 1906	Species	Animalia
+695	98612	Papilio Linnaeus, 1758	Genus	Animalia
+196	765922	Papilio machaon Linnaeus, 1758	Species	Animalia
+594	19370	Papilionidae Latreille, 1802	Family	Animalia
+7	31216	Parachaetocladius	Genus	Animalia
+660	10038	Paraleptophlebia debilis (Walker, 1853)	Species	Animalia
+344	894853	Paraliburnia Jensen-Haarup, 1917	Genus	Animalia
+139	904765	Paraliburnia kilmani (Van Duzee, 1897)	Species	Animalia
+409	39946	Parasyrphus tarsatus (Zetterstedt, 1838)	Species	Animalia
+274	27708	Paratanytarsus Bause	Genus	Animalia
+822	812659	Pardosa albomaculata Emerton, 1885	Species	Animalia
+220	801754	Pardosa C. L. Koch, 1847	Genus	Animalia
+787	812768	Pardosa diuturna Fox, 1937	Species	Animalia
+788	812819	Pardosa groenlandica (Thorell, 1872)	Species	Animalia
+823	813549	Pardosa xerampelina (Keyserling, 1877)	Species	Animalia
+382	44831	Parhelophilus	Genus	Animalia
+669	765744	Parnassius Latreille, 1804	Genus	Animalia
+195	765913	Parnassius phoebus (Fabricius, 1793)	Species	Animalia
+634	48705	Parydra	Genus	Animalia
+320	48713	Parydra aquila (Fallen, 1813)	Species	Animalia
+321	48748	Parydra quadriloba Clausen and Cook, 1971	Species	Animalia
+478	1033	Patrobus Dejean, 1821	Genus	Animalia
+487	1040	Patrobus foveocollis (Eschscholtz, 1823)	Species	Animalia
+384	48295	Pegomya flavoscutellata (Zetterstedt, 1838)	Species	Animalia
+223	48655	Pelina	Genus	Animalia
+633	48660	Pelina canadensis Cresson, 1934	Species	Animalia
+283	614632	Peritrechus convivus (Stål, 1851)	Species	Animalia
+398	542575	Petridiobius (Pacltiobius) Paclt, 1995	Subgenus	Animalia
+101	542588	Petridiobius arcticus (Folsom, 1902)	Species	Animalia
+865	1030911	Phalangium opilio Linnaeus, 1758	Species	Animalia
+860	932291	Pheosia rimosa Packard, 1864	Species	Animalia
+447	44196	Pherbellia	Genus	Animalia
+154	44197	Pherbellia albocostata (Fallen, 1820)	Species	Animalia
+21	44931	Pherbellia tenuipes (Loew, 1872)	Species	Animalia
+625	114765	Philaenus spumarius (Linnaeus, 1758)	Species	Animalia
+378	12774	Philarctus quaeris (Milne, 1935)	Species	Animalia
+711	885332	Philodromidae Thorell, 1870	Family	Animalia
+81	790459	Philodromus rufus Walckenaer, 1826	Species	Animalia
+86	781329	Philodromus Walckenaer, 1826	Genus	Animalia
+311	49706	Philotelma	Genus	Animalia
+309	49585	Philygria debilis Loew, 1861	Species	Animalia
+246	405364	Phloeotribus piceae Swaine, 1911	Species	Animalia
+184	41527	Phoridae	Family	Animalia
+469	19809	Phryganea cinerea Walker, 1852	Species	Animalia
+600	19807	Phryganea Linnaeus, 1758	Genus	Animalia
+614	361439	Phryganeinae Leach, 1815	Subfamily	Animalia
+533	21560	Phyllodesma americana (Harris)	Species	Animalia
+144	19369	Pieridae Swainson, 1820	Family	Animalia
+417	98605	Pieris Schrank, 1801	Genus	Animalia
+312	41945	Pipunculidae	Family	Animalia
+835	42006	Pipunculus	Genus	Animalia
+783	805083	Pityohyphantes subarcticus Chamberlin & Ivie, 1943	Species	Animalia
+174	398412	Pityophthorus Eichhoff, 1864	Genus	Animalia
+399	408688	Pityophthorus nitidulus (Mannerheim, 1843)	Species	Animalia
+371	8495	Plagiognathus alboradialis Knight, 1923	Species	Animalia
+40	8484	Plagiognathus Fieber, 1858	Genus	Animalia
+137	711163	Planorbella trivolvis (Say, 1817)	Species	Animalia
+326	99142	Platarctia parthenos (Harris, 1850)	Species	Animalia
+300	22322	Plateumaris flavipes (Kirby, 1837)	Species	Animalia
+376	22326	Plateumaris germari (Mannerheim, 1843)	Species	Animalia
+308	48843	Platycheirus angustatus (Zetterstedt, 1843)	Species	Animalia
+730	49857	Platycheirus modestus Ide, 1926	Species	Animalia
+407	49886	Platycheirus peltatoides Curran, 1923	Species	Animalia
+731	49896	Platycheirus rosarum (Fabricius, 1787)	Species	Animalia
+89	59887	Platygaster Latreille, 1809	Genus	Animalia
+675	641471	Platygaster obscuripennis Ashmead, 1893	Species	Animalia
+632	593082	Platygastridae Haliday, 1833	Family	Animalia
+78	1742	Platynus Bonelli, 1810	Genus	Animalia
+496	2424	Platynus decentis (Say, 1823)	Species	Animalia
+351	41735	Platypalpus lateralis Loew, 1864	Species	Animalia
+735	41806	Platypalpus xanthopodus Melander, 1927	Species	Animalia
+777	766146	Plebejus idas (Linnaeus, 1761)	Species	Animalia
+85	97384	Plebejus Kluk, 1780	Genus	Animalia
+52	102613	Plemyria georgii Hulst, 1896	Species	Animalia
+499	3602	Plumiperla diversa (Frison, 1935)	Species	Animalia
+394	805308	Pocadicnemis pumila (Blackwall, 1841)	Species	Animalia
+779	776797	Podabrini Gistel, 1856	Tribe	Animalia
+361	61089	Pollenia vagabunda (Meigen, 1826)	Species	Animalia
+528	247878	Polycelis coronata (Girard, 1891)	Species	Animalia
+163	98663	Polygonia faunus (W. H. Edwards, 1862)	Species	Animalia
+692	98661	Polygonia Hübner, 1819	Genus	Animalia
+765	59082	Pontania Costa, 1859	Genus	Animalia
+670	765766	Pontia [Fabricius], 1807	Genus	Animalia
+100	593603	Priognathus LeConte, 1850	Genus	Animalia
+631	592061	Priognathus monilicornis (Randall, 1838)	Species	Animalia
+301	22626	Prionocera unimicra (Alexander, 1915)	Species	Animalia
+518	26715	Procladius Skuse, 1889	Genus	Animalia
+623	295850	Procloeon pennulatum (Eaton, 1870)	Species	Animalia
+510	58725	Proctotrupidae	Family	Animalia
+721	27848	Prodiamesa	Genus	Animalia
+82	24021	Prosimulium travisi Stone, 1952	Species	Animalia
+28	50340	Protophormia terraenovae (Robineau-desvoidy, 1830)	Species	Animalia
+106	45078	Psilidae	Family	Animalia
+9	32704	Psilometriocnemus triannulatus Saether, 1969	Species	Animalia
+339	53378	Psilopa girschneri Von Roeder, 1889	Species	Animalia
+741	25170	Psychodidae	Family	Animalia
+254	6698	Psyllidae	Family	Animalia
+206	3144	Ptenothrix Boerner, 1906	Genus	Animalia
+83	57820	Pteromalidae	Family	Animalia
+415	8319	Pteronarcella badia (Hagen, 1874)	Species	Animalia
+497	2691	Pterostichus adstrictus Eschscholtz, 1823	Species	Animalia
+589	2493	Pterostichus Bonelli, 1810	Genus	Animalia
+67	2749	Pterostichus brevicornis (Kirby, 1837)	Species	Animalia
+498	2746	Pterostichus riparius (Dejean, 1828)	Species	Animalia
+537	565655	Ptinus raptor Sturm, 1837	Species	Animalia
+531	21374	Pyrochroidae Latreille, 1807	Family	Animalia
+622	528125	Pythidae Solier, 1834	Family	Animalia
+302	25336	Rabdophaga rigidae (Osten Sacken, 1862)	Species	Animalia
+509	708220	Radix auricularia (Linnaeus, 1758)	Species	Animalia
+538	45912	Renocera	Genus	Animalia
+242	45914	Renocera brevis (Cresson, 1920)	Species	Animalia
+368	49452	Rhagoletis basiola (Osten Sacken, 1877)	Species	Animalia
+504	866188	Rhagonycha Eschscholtz, 1830	Genus	Animalia
+291	37929	Rhamphomyia anthracodes Coquillett, 1900	Species	Animalia
+389	37934	Rhamphomyia atrata Coquillett, 1900	Species	Animalia
+525	37936	Rhamphomyia barypoda Coquillett, 1900	Species	Animalia
+749	41608	Rhaphium discolor Zetterstedt, 1838	Species	Animalia
+734	41615	Rhaphium elegantulum (Meigen, 1824)	Species	Animalia
+750	41624	Rhaphium femoratum (Van Duzee, 1922)	Species	Animalia
+10	32706	Rheocricotopus Thienemann and Harnisch	Genus	Animalia
+650	32730	Rheosmittia	Genus	Animalia
+111	27727	Rheotanytarsus Bause and Thienemann, 1913	Genus	Animalia
+241	102674	Rheumaptera Hübner, 1822	Genus	Animalia
+404	102675	Rheumaptera hastata (Linnaeus, 1758)	Species	Animalia
+167	102676	Rheumaptera subhastata (Nolcken, 1870)	Species	Animalia
+818	805914	Robertus crosbyi (Kaston, 1946)	Species	Animalia
+819	806087	Rugathodes aurantius (Emerton, 1915)	Species	Animalia
+171	1030928	Sabacon occidentalis (Banks, 1894)	Species	Animalia
+682	730218	Salmincola californiensis (Dana, 1853)	Species	Animalia
+375	50592	Sarcophagidae	Family	Animalia
+574	10721	Scaphinotus Dejean, 1826	Genus	Animalia
+575	10759	Scaphinotus marginatus (Fischer von Waldheim, 1820)	Species	Animalia
+492	21434	Scarabaeidae Latreille, 1802	Family	Animalia
+729	49708	Scatella	Genus	Animalia
+526	50384	Scatella laxa Cresson, 1933	Species	Animalia
+118	50392	Scatella obsoleta Loew, 1861	Species	Animalia
+374	50419	Scatophila cribrata (Stenhammar, 1844)	Species	Animalia
+188	58728	Scelionidae Haliday, 1839	Family	Animalia
+495	23191	Sciaridae	Family	Animalia
+115	408290	Scierus pubescens Swaine, 1924	Species	Animalia
+148	44183	Sciomyzidae	Family	Animalia
+699	101781	Scoliopteryx libatrix (Linnaeus, 1758)	Species	Animalia
+527	7140	Scolopostethus thomsoni Reuter, 1874	Species	Animalia
+621	528021	Scolytinae Latreille, 1804	Subfamily	Animalia
+543	102565	Scopula frigidaria (Möschler, 1860)	Species	Animalia
+542	102563	Scopula Schrank, 1802	Genus	Animalia
+243	45934	Sepedon borealis Steyskal, 1951	Species	Animalia
+77	46817	Sepsidae	Family	Animalia
+192	46824	Sepsinae	Subfamily	Animalia
+549	43905	Sericomyia militaris Walker, 1849	Species	Animalia
+637	49660	Setacera micans (Haliday, 1833)	Species	Animalia
+585	15458	Silphidae Latreille, 1806	Family	Animalia
+569	716723	Simocephalus serrulatus (Koch, 1841)	Species	Animalia
+535	23094	Simuliidae	Family	Animalia
+183	24726	Simulium vittatum (Zetterstedt, 1838)	Species	Animalia
+479	475652	Siphona maculata Staeger, 1849	Species	Animalia
+804	59097	Siricidae	Family	Animalia
+659	3103	Sminthuridae	Family	Animalia
+431	4574	Sminthurus Latreille, 1802	Genus	Animalia
+306	4510	Somatochlora albicincta (Burmeister, 1839)	Species	Animalia
+403	102668	Spargania luctuata ([Denis and Schiffermüller], 1775)	Species	Animalia
+367	766229	Speyeria mormonia (Boisduval, 1869)	Species	Animalia
+862	98636	Speyeria Scudder, 1872	Genus	Animalia
+250	593611	Sphaeriestes Stephens, 1831	Genus	Animalia
+825	52538	Sphaeroceridae	Family	Animalia
+157	39979	Sphaerophoria	Genus	Animalia
+736	39995	Sphaerophoria philanthus Meigen	Species	Animalia
+618	493648	Sphaeropsocidae	Family	Animalia
+88	709219	Stagnicola elodes (Say, 1821)	Species	Animalia
+739	10556	Staphylinidae Latreille, 1802	Family	Animalia
+707	807487	Steatoda borealis (Hentz, 1850)	Species	Animalia
+602	28683	Stempellinella Brundin	Genus	Animalia
+666	758148	Stenodema Laporte, 1833	Genus	Animalia
+99	593146	Stenotrachelus aeneus (Fabricius, 1787)	Species	Animalia
+598	6696	Sternorrhyncha	Suborder	Animalia
+202	401243	Sthereus quadrituberculatus Motschulsky, 1845	Species	Animalia
+457	26871	Stictochironomus Kieffer	Genus	Animalia
+24	29689	Stratiomyidae Latreille, 1802	Family	Animalia
+559	12371	Strepsiptera Kirby, 1813	Order	Animalia
+262	1186269	Strigamia chionophila Wood, 1862	Species	Animalia
+465	52004	Suillia apicalis (Loew, 1862)	Species	Animalia
+441	52011	Suillia convergens (Walker, 1849)	Species	Animalia
+172	101272	Sunira bicolorago (Guenée, 1852)	Species	Animalia
+859	931453	Sunira verberata (Smith, 1904)	Species	Animalia
+396	386806	Suwallia forcipata (Neave, 1929)	Species	Animalia
+722	27994	Sylvicola	Genus	Animalia
+723	28000	Sylvicola fuscatus (Fabricius, 1775)	Species	Animalia
+800	4553	Sympetrum danae (Sulzer, 1776)	Species	Animalia
+658	3102	Symphypleona	Suborder	Animalia
+232	58312	Symphyta	Suborder	Animalia
+702	101349	Syngrapha alticola (Walker, 1858)	Species	Animalia
+218	933630	Syngrapha viridisigma (Grote, 1874)	Species	Animalia
+647	30309	Synneuridae	Family	Animalia
+604	30312	Synneuron	Genus	Animalia
+359	30315	Synneuron decipiens Hutson, 1977	Species	Animalia
+605	32791	Synorthocladius semivirens (Keiffer, 1909)	Species	Animalia
+383	48066	Syrphidae	Family	Animalia
+502	40011	Syrphus	Genus	Animalia
+275	40041	Syrphus vitripennis Meigen, 1822	Species	Animalia
+653	37125	Tabanidae	Family	Animalia
+418	474811	Tachina marklini Zetterstedt, 1838	Species	Animalia
+108	57533	Tachinidae	Family	Animalia
+252	42505	Tachyempis	Genus	Animalia
+96	569730	Taeniothrips orionis Treherne, 1924	Species	Animalia
+603	28693	Tanytarsus Van Der Wulp	Genus	Animalia
+833	25323	Tarnania tarnanii (Dziedzicki, 1910)	Species	Animalia
+278	58370	Tenthredinidae	Family	Animalia
+629	48563	Tephritidae Newman, 1834	Family	Animalia
+244	45951	Tetanocera	Genus	Animalia
+107	46768	Tetanocera fuscinervis (Zetterstedt, 1838)	Species	Animalia
+74	46779	Tetanocera montana Day, 1881	Species	Animalia
+191	46787	Tetanocera phyllophora Melander, 1920	Species	Animalia
+75	46788	Tetanocera plebeja Loew, 1862	Species	Animalia
+76	46796	Tetanocera silvatica Meigen, 1830	Species	Animalia
+785	811366	Tetragnatha extensa (Linnaeus, 1758)	Species	Animalia
+786	811430	Tetragnatha laboriosa Hentz, 1850	Species	Animalia
+490	802723	Tetragnatha Latreille, 1804	Genus	Animalia
+19	57868	Tetramesa Walker, 1848	Genus	Animalia
+626	577365	Tetropium Kirby in Richardson, 1837	Genus	Animalia
+323	580477	Tetropium parvulum Casey, 1891	Species	Animalia
+290	54880	Thaumatomyia trifasciata (Zetterstedt, 1848)	Species	Animalia
+182	47576	Themira putris (Linnaeus, 1758)	Species	Animalia
+821	812201	Theridion pictum (Walckenaer, 1802)	Species	Animalia
+456	885356	Theridiosomatidae Simon, 1881	Family	Animalia
+73	724301	Thersitina gasterostei (Pagenstecher, 1861)	Species	Animalia
+507	32813	Thienemanniella Kieffer	Genus	Animalia
+517	26670	Thienemannimyia	Genus	Animalia
+843	885318	Thomisidae Sundevall, 1833	Family	Animalia
+385	49964	Thricops coquilletti (Malloch, 1920)	Species	Animalia
+373	49966	Thricops diaphanus (Wiedemann, 1817)	Species	Animalia
+610	4190	Thripidae Stephens, 1829	Family	Animalia
+586	4184	Thysanoptera Haliday, 1836	Order	Animalia
+34	780797	Tibellus maritimus (Menge, 1875)	Species	Animalia
+261	787925	Tibellus Simon, 1875	Genus	Animalia
+830	11982	Tipula entomophthorae Alexander, 1918	Species	Animalia
+516	22629	Tipula Linnaeus, 1758	Genus	Animalia
+333	21606	Tipulidae	Family	Animalia
+820	808348	Tiso aestivus (L. Koch, 1872)	Species	Animalia
+138	42407	Tomosvaryella	Genus	Animalia
+390	38904	Toreus	Genus	Animalia
+560	12472	Tortricidae	Family	Animalia
+737	57813	Torymidae	Family	Animalia
+738	57814	Torymus Dalman, 1820	Genus	Animalia
+249	9292	Trachypachus holmbergi Mannerheim, 1853	Species	Animalia
+416	9290	Trachypachus Motschulsky, 1845	Genus	Animalia
+810	482317	Traskorchestia georgiana (Bousfield, 1958)	Species	Animalia
+570	9251	Trechus chalybeus Dejean, 1831	Species	Animalia
+248	8307	Trechus Clairville, 1806	Genus	Animalia
+203	401327	Trichalophus alternatus (Say, 1831)	Species	Animalia
+756	398304	Trichalophus LeConte, 1876	Genus	Animalia
+698	102587	Trichodezia albovittata (Guenée in Boisduval and Guenée, 1858)	Species	Animalia
+697	102586	Trichodezia Warren, 1895	Genus	Animalia
+719	12892	Trichoptera	Order	Animalia
+784	808634	Trochosa terricola Thorell, 1856	Species	Animalia
+331	528155	Trogossitidae Latreille, 1802	Family	Animalia
+494	12334	Trypodendron lineatum (Olivier, 1795)	Species	Animalia
+852	32830	Tvetenia calvescens (Edwards, 1929)	Species	Animalia
+445	41	Utacapnia columbiana (Claassen, 1924)	Species	Animalia
+812	492019	Valenzuela flavidus (Stephens, 1836)	Species	Animalia
+759	582321	Valvata sincera Say, 1824	Species	Animalia
+177	60000	Vespidae	Family	Animalia
+842	60832	Vespula Thomson, 1869	Genus	Animalia
+688	809539	Walckenaeria directa (O. P.-Cambridge, 1874)	Species	Animalia
+684	755763	Weberacantha octa Christiansen, 1951	Species	Animalia
+752	506702	Wesmaelius nervosus (Fabricius, 1793)	Species	Animalia
+295	948147	Xanthorhoe decoloraria (Esper, 1806)	Species	Animalia
+611	102640	Xanthorhoe ferrugata (Clerck, 1759)	Species	Animalia
+12	937368	Xanthorhoe fossaria Taylor, 1906	Species	Animalia
+131	102634	Xanthorhoe Hübner, 1825	Genus	Animalia
+406	759668	Xestia c-nigrum (Linnaeus, 1758)	Species	Animalia
+668	759677	Xestia homogena (McDunnough, 1921)	Species	Animalia
+475	759702	Xestia tecta (Hübner, 1808)	Species	Animalia
+116	408364	Xylechinus montanus Blackman, 1940	Species	Animalia
+135	101249	Xylena thoracica (Putnam-Cramer, 1886)	Species	Animalia
+644	28801	Xylophagidae	Family	Animalia
+727	29646	Xylophagus	Genus	Animalia
+817	29650	Xylophagus decorus Williston, 1885	Species	Animalia
+324	581229	Xylotrechus undulatus (Say, 1824)	Species	Animalia
+488	101253	Xylotype Hampson, 1906	Genus	Animalia
+80	788195	Xysticus C. L. Koch, 1835	Genus	Animalia
+199	57922	Zaphne borealis (Malloch, 1920)	Species	Animalia
+230	57945	Zaphne lineatocollis (Zetterstedt, 1838)	Species	Animalia
+225	57992	Zaphne zetterstedtii (Ringdahl, 1918)	Species	Animalia
+110	26695	Zavrelimyia Kittkau	Genus	Animalia
+136	708038	Zoogenetes harpa (Say, 1824)	Species	Animalia
+965	79505	Accipiter Brisson, 1760	Genus	Animalia
+1066	79508	Accipiter gentilis (Linnaeus, 1758)	Species	Animalia
+1192	79512	Accipiter striatus Vieillot, 1808	Species	Animalia
+1132	79485	Accipitridae Vigors, 1824	Family	Animalia
+890	79221	Actitis Illiger, 1811	Genus	Animalia
+1080	631809	Actitis macularius (Linnaeus, 1766)	Species	Animalia
+1039	82979	Aegolius acadicus (J. F. Gmelin, 1788)	Species	Animalia
+1182	82974	Aegolius funereus (Linnaeus, 1758)	Species	Animalia
+1207	82973	Aegolius Kaup, 1829	Genus	Animalia
+1129	594612	Afrosoricida Stanhope, 1998	Order	Animalia
+1005	87351	Alaudidae Vigors, 1825	Family	Animalia
+1117	95052	Alces alces (Linnaeus, 1758)	Species	Animalia
+1122	95051	Alces Gray, 1821	Genus	Animalia
+884	77782	Anas acuta Linnaeus, 1758	Species	Animalia
+875	77804	Anas americana Gmelin, 1789	Species	Animalia
+1044	77806	Anas clypeata Linnaeus, 1758	Species	Animalia
+979	77790	Anas crecca Linnaeus, 1758	Species	Animalia
+874	77795	Anas discors Linnaeus, 1766	Species	Animalia
+930	77769	Anas Linnaeus, 1758	Genus	Animalia
+927	77770	Anas platyrhynchos Linnaeus, 1758	Species	Animalia
+882	77781	Anas strepera Linnaeus, 1758	Species	Animalia
+908	76608	Anatidae	Family	Animalia
+1024	77723	Anser albifrons (Scopoli, 1769)	Species	Animalia
+873	77721	Anser Brisson, 1760	Genus	Animalia
+982	77736	Anser cygnoides (Linnaeus, 1758)	Species	Animalia
+907	76607	Anseriformes	Order	Animalia
+1029	87453	Anthus Bechstein, 1805	Genus	Animalia
+1201	266934	Anthus rubescens (Tunstall, 1771)	Species	Animalia
+1060	83035	Apodiformes	Order	Animalia
+915	80428	Aquila Brisson, 1760	Genus	Animalia
+1092	80429	Aquila chrysaetos (Linnaeus, 1758)	Species	Animalia
+881	77699	Arenaria Brisson, 1760	Genus	Animalia
+945	77702	Arenaria interpres (Linnaeus, 1758)	Species	Animalia
+1176	77705	Arenaria melanocephala (Vigors, 1829)	Species	Animalia
+1227	95039	Artiodactyla Owen, 1848	Order	Animalia
+1181	82967	Asio Brisson, 1760	Genus	Animalia
+999	82971	Asio flammeus (Pontoppidan, 1763)	Species	Animalia
+885	77839	Aythya americana (Eyton, 1838)	Species	Animalia
+926	78512	Aythya collaris (Donovan, 1809)	Species	Animalia
+883	77838	Aythya F. Boie, 1822	Genus	Animalia
+894	78515	Aythya marila (Linnaeus, 1761)	Species	Animalia
+1045	78513	Aythya valisineria (A. Wilson, 1814)	Species	Animalia
+1016	79220	Bartramia longicauda (Bechstein, 1812)	Species	Animalia
+1198	88292	Bombycilla garrulus (Linnaeus, 1758)	Species	Animalia
+1065	88291	Bombycilla Vieillot, 1808	Genus	Animalia
+1064	88290	Bombycillidae Swainson, 1831	Family	Animalia
+1208	83129	Bonasa Stephens, 1819	Genus	Animalia
+975	83131	Bonasa umbellus (Linnaeus, 1766)	Species	Animalia
+1169	95053	Bovidae Gray, 1821	Family	Animalia
+942	81923	Brachyramphus Brandt, 1837	Genus	Animalia
+985	81924	Brachyramphus marmoratus (Gmelin, 1789)	Species	Animalia
+932	76625	Branta canadensis (Linnaeus, 1758)	Species	Animalia
+928	604603	Branta hutchinsii (Richardson, 1832)	Species	Animalia
+931	76624	Branta Scopoli, 1769	Genus	Animalia
+1098	80771	Bubo Duméril, 1805	Genus	Animalia
+1112	80772	Bubo virginianus (J. F. Gmelin, 1788)	Species	Animalia
+1048	78531	Bucephala albeola (Linnaeus, 1758)	Species	Animalia
+933	78527	Bucephala clangula (Linnaeus, 1758)	Species	Animalia
+1046	78530	Bucephala islandica (Gmelin, 1789)	Species	Animalia
+900	78526	Bucephala S. F. Baird, 1858	Genus	Animalia
+1070	79563	Buteo jamaicensis (Gmelin, 1788)	Species	Animalia
+1067	79561	Buteo Lacepede, 1799	Genus	Animalia
+1074	80391	Buteo lagopus (Pontoppidan, 1763)	Species	Animalia
+1163	85679	Calcarius Bechstein, 1802	Genus	Animalia
+1210	85681	Calcarius lapponicus (Linnaeus, 1758)	Species	Animalia
+1137	79269	Calidris bairdii (Coues, 1861)	Species	Animalia
+922	79283	Calidris mauri (Cabanis, 1857)	Species	Animalia
+1072	79267	Calidris melanotos (Vieillot, 1819)	Species	Animalia
+1021	79254	Calidris Merrem, 1804	Genus	Animalia
+1128	79270	Calidris minutilla (Vieillot, 1819)	Species	Animalia
+1138	79282	Calidris pusilla (Linnaeus, 1766)	Species	Animalia
+1086	93335	Canidae Fischer, 1817	Family	Animalia
+935	93340	Canis latrans Say, 1823	Species	Animalia
+895	93336	Canis Linnaeus, 1758	Genus	Animalia
+934	93337	Canis lupus Linnaeus, 1758	Species	Animalia
+906	95274	Carduelis Brisson, 1760	Genus	Animalia
+903	92616	Carnivora Bowdich, 1821	Order	Animalia
+1245	90673	Castor canadensis Kuhl, 1820	Species	Animalia
+1162	90672	Castor Linnaeus, 1758	Genus	Animalia
+1020	90671	Castoridae Hemprich, 1820	Family	Animalia
+991	87157	Catharus Bonaparte, 1850	Genus	Animalia
+1105	87158	Catharus guttatus (Pallas, 1811)	Species	Animalia
+1106	87174	Catharus minimus (Lafresnaye, 1848)	Species	Animalia
+992	87168	Catharus ustulatus (Nuttall, 1840)	Species	Animalia
+1171	65702	Catostomidae	Family	Animalia
+1173	65704	Catostomus catostomus (Forster, 1773)	Species	Animalia
+1172	65703	Catostomus Lesueur, 1817	Genus	Animalia
+1231	90967	Certhia americana Bonaparte, 1838	Species	Animalia
+1251	90956	Certhia Linnaeus, 1758	Genus	Animalia
+1248	90955	Certhiidae Leach, 1820	Family	Animalia
+916	95040	Cervidae Goldfuss, 1820	Family	Animalia
+892	557628	Cerylinae	Subfamily	Animalia
+958	77599	Charadriidae Leach, 1820	Family	Animalia
+959	77627	Charadrius Linnaeus, 1758	Genus	Animalia
+1031	77630	Charadrius semipalmatus Bonaparte, 1825	Species	Animalia
+1025	77741	Chen Boie, 1822	Genus	Animalia
+918	77742	Chen caerulescens (Linnaeus, 1758)	Species	Animalia
+1028	84413	Ciconiiformes	Order	Animalia
+1189	88298	Cinclidae Sundevall, 1836	Family	Animalia
+1190	88299	Cinclus Borkhausen, 1797	Genus	Animalia
+1199	88300	Cinclus mexicanus Swainson, 1827	Species	Animalia
+1135	80455	Circus cyaneus (Linnaeus, 1766)	Species	Animalia
+1114	80453	Circus Lacepede, 1799	Genus	Animalia
+949	78533	Clangula hyemalis (Linnaeus, 1758)	Species	Animalia
+1049	78532	Clangula Leach, 1819	Genus	Animalia
+997	84820	Colaptes auratus (Linnaeus, 1758)	Species	Animalia
+876	84819	Colaptes Swainson, 1825	Genus	Animalia
+1219	85842	Contopus Cabanis, 1855	Genus	Animalia
+1068	267828	Contopus cooperi (Nuttall, 1831)	Species	Animalia
+1220	85848	Contopus sordidulus P. L. Sclater, 1859	Species	Animalia
+910	83962	Coraciiformes	Order	Animalia
+1124	71721	Coregonus Linnaeus, 1758	Genus	Animalia
+1056	86235	Corvidae Leach, 1820	Family	Animalia
+952	87111	Corvus caurinus S. F. Baird, 1858	Species	Animalia
+1180	87099	Corvus corax Linnaeus, 1758	Species	Animalia
+1174	87098	Corvus Linnaeus, 1758	Genus	Animalia
+980	70682	Cottidae	Family	Animalia
+1030	70721	Cottus aleuticus Gilbert, 1896	Species	Animalia
+1123	70723	Cottus cognatus Richardson, 1836	Species	Animalia
+1057	70719	Cottus Linnaeus, 1758	Genus	Animalia
+938	86257	Cyanocitta stelleri (Gmelin, 1788)	Species	Animalia
+937	86250	Cyanocitta Strickland, 1845	Genus	Animalia
+901	76609	Cygnus Bechstein, 1803	Genus	Animalia
+1141	76618	Cygnus buccinator Richardson, 1831	Species	Animalia
+902	76612	Cygnus columbianus (Ord, 1815)	Species	Animalia
+968	92554	Delphinapterus leucas (Pallas, 1776)	Species	Animalia
+1232	85826	Empidonax alnorum Brewster, 1895	Species	Animalia
+1119	85822	Empidonax Cabanis, 1855	Genus	Animalia
+1206	264075	Empidonax hammondii (Xantus de Vesey, 1858)	Species	Animalia
+1053	264079	Eremophila alpestris (Linnaeus, 1758)	Species	Animalia
+1194	87357	Eremophila F. Boie, 1828	Genus	Animalia
+1077	91791	Erethizon F. Cuvier, 1823	Genus	Animalia
+1076	91790	Erethizontidae Bonaparte, 1845	Family	Animalia
+1130	594614	Erinaceomorpha Gregory, 1910	Order	Animalia
+1015	73557	Esocidae	Family	Animalia
+995	264354	Esociformes	Order	Animalia
+1040	73558	Esox Linnaeus, 1758	Genus	Animalia
+879	73559	Esox lucius Linnaeus, 1758	Species	Animalia
+1253	93664	Euphagus carolinus (Statius Muller, 1776)	Species	Animalia
+1087	93663	Euphagus Cassin, 1867	Genus	Animalia
+1054	263111	Falcipennis canadensis (Linnaeus, 1758)	Species	Animalia
+1175	82533	Falco columbarius Linnaeus, 1758	Species	Animalia
+1158	81846	Falco Linnaeus, 1758	Genus	Animalia
+1047	81854	Falco peregrinus Tunstall, 1771	Species	Animalia
+1159	81847	Falco rusticolus Linnaeus, 1758	Species	Animalia
+1143	82543	Falco sparverius Linnaeus, 1758	Species	Animalia
+887	81841	Falconidae Leach, 1820	Family	Animalia
+1228	93320	Felidae Fischer de Waldheim, 1817	Family	Animalia
+897	86104	Felis catus Linnaeus, 1758	Species	Animalia
+872	94226	Fringillidae Leach, 1820	Family	Animalia
+1096	82621	Galliformes	Order	Animalia
+1131	631807	Gallinago delicata (Ord, 1825)	Species	Animalia
+1147	74129	Gasterosteidae	Family	Animalia
+1023	74127	Gasterosteiformes	Order	Animalia
+1033	74131	Gasterosteus aculeatus Linnaeus, 1758	Species	Animalia
+1249	74130	Gasterosteus Linnaeus, 1758	Genus	Animalia
+1035	81671	Gavia immer (Brunnich, 1764)	Species	Animalia
+921	81670	Gavia J. R. Forster, 1788	Genus	Animalia
+1051	81678	Gavia pacifica (Lawrence, 1858)	Species	Animalia
+1036	81677	Gavia stellata (Pontoppidan, 1763)	Species	Animalia
+920	81669	Gaviidae Allen, 1897	Family	Animalia
+1221	86493	Gruidae	Family	Animalia
+1061	86463	Gruiformes	Order	Animalia
+1233	86494	Grus Brisson, 1760	Genus	Animalia
+870	86496	Grus canadensis (Linnaeus, 1758)	Species	Animalia
+1082	93288	Gulo gulo (Linnaeus, 1758)	Species	Animalia
+1085	93287	Gulo Pallas, 1780	Genus	Animalia
+1113	80444	Haliaeetus leucocephalus (Linnaeus, 1766)	Species	Animalia
+1097	80441	Haliaeetus Savigny, 1809	Genus	Animalia
+1107	87382	Hirundinidae Rafinesque, 1815	Family	Animalia
+1003	78535	Histrionicus histrionicus (Linnaeus, 1758)	Species	Animalia
+1155	78534	Histrionicus Lesson, 1828	Genus	Animalia
+973	89615	Homo sapiens Linnaeus, 1758	Species	Animalia
+1145	87151	Ixoreus Bonaparte, 1854	Genus	Animalia
+947	87152	Ixoreus naevius (Gmelin, 1789)	Species	Animalia
+1007	84754	Junco hyemalis (Linnaeus, 1758)	Species	Animalia
+1161	84752	Junco Wagler, 1831	Genus	Animalia
+1239	89630	Lagomorpha Brandt, 1855	Order	Animalia
+1002	83146	Lagopus Brisson, 1760	Genus	Animalia
+1019	83147	Lagopus lagopus (Linnaeus, 1758)	Species	Animalia
+1197	529883	Lagopus leucura (Richardson, 1831)	Species	Animalia
+878	529885	Lagopus muta (Montin, 1781)	Species	Animalia
+977	65116	Lampetra Bonnaterre, 1788	Genus	Animalia
+1187	88270	Laniidae Rafinesque, 1815	Family	Animalia
+961	88273	Lanius excubitor Linnaeus, 1758	Species	Animalia
+1188	88272	Lanius Linnaeus, 1758	Genus	Animalia
+1018	80370	Laridae	Family	Animalia
+956	81064	Larus argentatus Pontoppidan, 1763	Species	Animalia
+957	81073	Larus canus Linnaeus, 1758	Species	Animalia
+1009	80383	Larus glaucescens J. F. Naumann, 1840	Species	Animalia
+1091	80371	Larus Linnaeus, 1758	Genus	Animalia
+1017	89636	Leporidae Fischer, 1817	Family	Animalia
+1240	89638	Lepus americanus Erxleben, 1777	Species	Animalia
+1154	89637	Lepus Linnaeus, 1758	Genus	Animalia
+1011	94328	Leucosticte Swainson, 1832	Genus	Animalia
+1120	94329	Leucosticte tephrocotis (Swainson, 1832)	Species	Animalia
+944	79291	Limnodromus griseus (Gmelin, 1789)	Species	Animalia
+963	79295	Limnodromus scolopaceus (Say, 1822)	Species	Animalia
+943	79290	Limnodromus Wied-Neuwied, 1833	Genus	Animalia
+964	79302	Limosa Brisson, 1760	Genus	Animalia
+1006	79308	Limosa haemastica (Linnaeus, 1758)	Species	Animalia
+1088	763343	Lithobates sylvaticus (LeConte, 1825)	Species	Animalia
+1084	93285	Lontra canadensis (Schreber, 1777)	Species	Animalia
+1212	93284	Lontra Gray, 1843	Genus	Animalia
+1032	73193	Lota lota (Linnaeus, 1758)	Species	Animalia
+909	73192	Lota Oken, 1817	Genus	Animalia
+978	95311	Loxia curvirostra Linnaeus, 1758	Species	Animalia
+1101	83794	Loxia leucoptera J. F. Gmelin, 1789	Species	Animalia
+951	95310	Loxia Linnaeus, 1758	Genus	Animalia
+1229	93321	Lynx Kerr, 1792	Genus	Animalia
+1083	93324	Lynx lynx (Linnaeus, 1758)	Species	Animalia
+899	89664	Marmota Blumenbach, 1779	Genus	Animalia
+1243	89666	Marmota broweri Hall and Gilmore, 1934	Species	Animalia
+1164	89667	Marmota caligata (Eschscholtz, 1829)	Species	Animalia
+1001	93296	Martes americana (Turton, 1806)	Species	Animalia
+1195	93295	Martes Pinel, 1792	Genus	Animalia
+1103	83966	Megaceryle alcyon (Linnaeus, 1758)	Species	Animalia
+1042	78550	Melanitta F. Boie, 1822	Genus	Animalia
+1043	78551	Melanitta fusca (Linnaeus, 1758)	Species	Animalia
+1205	78560	Melanitta nigra (Linnaeus, 1758)	Species	Animalia
+1204	78559	Melanitta perspicillata (Linnaeus, 1758)	Species	Animalia
+1034	86451	Meleagris gallopavo Linnaeus, 1758	Species	Animalia
+1109	85634	Melospiza lincolnii (Audubon, 1834)	Species	Animalia
+1110	85643	Melospiza melodia (A. Wilson, 1810)	Species	Animalia
+1116	85633	Melospiza S. F. Baird, 1858	Genus	Animalia
+1004	78574	Mergus Linnaeus, 1758	Genus	Animalia
+1050	78575	Mergus merganser Linnaeus, 1758	Species	Animalia
+877	78577	Mergus serrator Linnaeus, 1758	Species	Animalia
+871	91699	Microtus miurus Osgood, 1901	Species	Animalia
+1236	90767	Microtus oeconomus (Pallas, 1776)	Species	Animalia
+1254	90765	Microtus Schrank, 1798	Genus	Animalia
+1075	91756	Muridae Illiger, 1811	Family	Animalia
+967	90019	Muscicapidae Fleming, 1822	Family	Animalia
+1242	93292	Mustela erminea Linnaeus, 1758	Species	Animalia
+976	93289	Mustela Linnaeus, 1758	Genus	Animalia
+1252	93281	Mustelidae Fischer, 1817	Family	Animalia
+1062	88005	Myadestes Swainson, 1838	Genus	Animalia
+1063	88006	Myadestes townsendi (Audubon, 1838)	Species	Animalia
+941	88705	Myotis Kaup, 1829	Genus	Animalia
+1150	88706	Myotis lucifugus (Le Conte, 1831)	Species	Animalia
+1196	629081	Neovison vison (Schreber, 1777)	Species	Animalia
+1225	79199	Numenius Brisson, 1760	Genus	Animalia
+1126	79206	Numenius phaeopus (Linnaeus, 1758)	Species	Animalia
+1026	82514	Oceanodroma furcata (Gmelin, 1789)	Species	Animalia
+1095	82513	Oceanodroma Reichenbach, 1853	Genus	Animalia
+936	95045	Odocoileus hemionus (Rafinesque, 1817)	Species	Animalia
+948	87198	Oenanthe oenanthe (Linnaeus, 1758)	Species	Animalia
+1010	87196	Oenanthe Vieillot, 1816	Genus	Animalia
+913	71768	Oncorhynchus gorbuscha (Walbaum, 1792)	Species	Animalia
+1222	71769	Oncorhynchus keta (Walbaum in Artedi, 1792)	Species	Animalia
+1177	71770	Oncorhynchus kisutch (Walbaum, 1792)	Species	Animalia
+1069	71783	Oncorhynchus mykiss (Walbaum, 1792)	Species	Animalia
+971	71772	Oncorhynchus nerka (Walbaum in Artedi, 1792)	Species	Animalia
+912	71767	Oncorhynchus Suckley, 1861	Genus	Animalia
+1014	71774	Oncorhynchus tshawytscha (Walbaum in Artedi, 1792)	Species	Animalia
+919	91708	Ondatra Link, 1795	Genus	Animalia
+1078	91709	Ondatra zibethicus (Linnaeus, 1766)	Species	Animalia
+1214	95063	Oreamnos americanus (Blainville, 1816)	Species	Animalia
+1213	95062	Oreamnos Rafinesque, 1817	Genus	Animalia
+1241	89656	Oryctolagus cuniculus (Linnaeus, 1758)	Species	Animalia
+1090	95060	Ovis dalli Nelson, 1884	Species	Animalia
+1089	95058	Ovis Linnaeus, 1758	Genus	Animalia
+1157	81838	Pandion haliaetus (Linnaeus, 1758)	Species	Animalia
+1038	81836	Pandion Savigny, 1809	Genus	Animalia
+1202	90056	Paridae Vigors, 1825	Family	Animalia
+1139	83845	Passerculus Bonaparte, 1838	Genus	Animalia
+1140	83846	Passerculus sandwichensis (J. F. Gmelin, 1789)	Species	Animalia
+946	85612	Passerella iliaca (Merrem, 1786)	Species	Animalia
+984	85611	Passerella Swainson, 1837	Genus	Animalia
+993	262790	Passeridae Rafinesque, 1815	Family	Animalia
+1191	85742	Passeriformes	Order	Animalia
+1000	86236	Perisoreus Bonaparte, 1831	Genus	Animalia
+1200	86237	Perisoreus canadensis (Linnaeus, 1766)	Species	Animalia
+1183	87416	Petrochelidon Cabanis, 1850	Genus	Animalia
+1008	87417	Petrochelidon pyrrhonota (Vieillot, 1817)	Species	Animalia
+955	64441	Petromyzontidae	Family	Animalia
+924	64440	Petromyzontiformes	Order	Animalia
+1160	83415	Phalacrocoracidae Reichenbach, 1849	Family	Animalia
+954	83419	Phalacrocorax auritus (Lesson, 1831)	Species	Animalia
+1215	83416	Phalacrocorax Brisson, 1760	Genus	Animalia
+1133	80293	Phalaropus Brisson, 1760	Genus	Animalia
+891	80295	Phalaropus lobatus (Linnaeus, 1758)	Species	Animalia
+1111	84279	Phasianidae	Family	Animalia
+1165	84328	Phasianus colchicus Linnaeus, 1758	Species	Animalia
+1244	93396	Phoca vitulina Linnaeus, 1758	Species	Animalia
+987	87092	Pica Brisson, 1760	Genus	Animalia
+988	87094	Pica pica (Linnaeus, 1758)	Species	Animalia
+1235	84813	Picidae	Family	Animalia
+1234	84805	Piciformes	Order	Animalia
+1153	84927	Picoides arcticus (Swainson, 1832)	Species	Animalia
+1079	546917	Picoides dorsalis S. F. Baird, 1858	Species	Animalia
+1152	84925	Picoides Lacepede, 1799	Genus	Animalia
+896	84936	Picoides pubescens (Linnaeus, 1766)	Species	Animalia
+986	85739	Picoides villosus (Linnaeus, 1766)	Species	Animalia
+969	94318	Pinicola enucleator (Linnaeus, 1758)	Species	Animalia
+1217	94317	Pinicola Vieillot, 1808	Genus	Animalia
+911	85688	Plectrophenax nivalis (Linnaeus, 1758)	Species	Animalia
+1185	85687	Plectrophenax Stejneger, 1882	Genus	Animalia
+1166	77690	Pluvialis Brisson, 1760	Genus	Animalia
+1022	77694	Pluvialis dominica (Statius Muller, 1776)	Species	Animalia
+1012	265872	Pluvialis fulva (Gmelin, 1789)	Species	Animalia
+1041	77697	Pluvialis squatarola (Linnaeus, 1758)	Species	Animalia
+886	81686	Podiceps auritus (Linnaeus, 1758)	Species	Animalia
+1156	81682	Podiceps grisegena (Boddaert, 1783)	Species	Animalia
+1037	81681	Podiceps Latham, 1787	Genus	Animalia
+1052	81680	Podicipedidae Bonaparte, 1831	Family	Animalia
+914	265874	Poecile atricapillus (Linnaeus, 1766)	Species	Animalia
+1013	265882	Poecile hudsonicus (J. R. Forster, 1772)	Species	Animalia
+1055	263793	Poecile Kaup, 1829	Genus	Animalia
+1100	82411	Procellariidae Leach, 1820	Family	Animalia
+1125	71806	Prosopium cylindraceum (Pennant, 1784)	Species	Animalia
+1134	71805	Prosopium Jordan, 1878	Genus	Animalia
+1250	74154	Pungitius Coste, 1848	Genus	Animalia
+1168	74155	Pungitius pungitius (Linnaeus, 1758)	Species	Animalia
+970	95049	Rangifer C. H. Smith, 1827	Genus	Animalia
+1121	95050	Rangifer tarandus (Linnaeus, 1758)	Species	Animalia
+994	262794	Regulidae Vigors, 1825	Family	Animalia
+1237	88057	Regulus calendula (Linnaeus, 1766)	Species	Animalia
+929	88050	Regulus Cuvier, 1800	Genus	Animalia
+960	88051	Regulus satrapa Lichtenstein, 1823	Species	Animalia
+1148	87396	Riparia riparia (Linnaeus, 1758)	Species	Animalia
+1149	87395	Riparia T. Forster, 1817	Genus	Animalia
+1226	80374	Rissa Stephens, 1826	Genus	Animalia
+1115	81120	Rissa tridactyla (Linnaeus, 1758)	Species	Animalia
+898	89658	Rodentia Bowdich, 1821	Order	Animalia
+1059	71720	Salmonidae	Family	Animalia
+1058	71717	Salmoniformes	Order	Animalia
+1223	71799	Salvelinus alpinus (Linnaeus, 1758)	Species	Animalia
+1179	71798	Salvelinus malma (Walbaum in Artedi, 1792)	Species	Animalia
+1224	71800	Salvelinus namaycush (Walbaum in Artedi, 1792)	Species	Animalia
+1178	71794	Salvelinus Richardson, 1836	Genus	Animalia
+923	89663	Sciuridae Fischer de Waldheim, 1817	Family	Animalia
+1167	77698	Scolopacidae Rafinesque, 1815	Family	Animalia
+950	92688	Seiurus Swainson, 1827	Genus	Animalia
+1102	83893	Selasphorus rufus (Gmelin, 1788)	Species	Animalia
+1230	83889	Selasphorus Swainson, 1832	Genus	Animalia
+1247	90945	Sitta canadensis Linnaeus, 1766	Species	Animalia
+1246	90934	Sitta Linnaeus, 1758	Genus	Animalia
+1203	90933	Sittidae Lesson, 1828	Family	Animalia
+1186	88122	Sorex cinereus Kerr, 1792	Species	Animalia
+939	88660	Sorex hoyi Baird, 1857	Species	Animalia
+1170	88121	Sorex Linnaeus, 1758	Genus	Animalia
+972	88665	Sorex monticolus Merriam, 1890	Species	Animalia
+1238	88120	Soricidae G. Fischer, 1814	Family	Animalia
+925	595449	Soricomorpha Gregory, 1910	Order	Animalia
+996	84777	Spizella Bonaparte, 1832	Genus	Animalia
+1094	81131	Sterna Linnaeus, 1758	Genus	Animalia
+1184	81137	Sterna paradisaea Pontoppidan, 1763	Species	Animalia
+1136	80739	Strigidae	Family	Animalia
+1093	80732	Strigiformes	Order	Animalia
+962	82955	Strix Linnaeus, 1758	Genus	Animalia
+998	82964	Strix nebulosa J. R. Forster, 1772	Species	Animalia
+1099	80786	Surnia Duméril, 1805	Genus	Animalia
+974	80787	Surnia ulula (Linnaeus, 1758)	Species	Animalia
+1218	91714	Synaptomys Baird, 1857	Genus	Animalia
+905	91715	Synaptomys borealis (Richardson, 1828)	Species	Animalia
+953	87391	Tachycineta bicolor (Vieillot, 1808)	Species	Animalia
+1108	87385	Tachycineta Cabanis, 1850	Genus	Animalia
+1146	87386	Tachycineta thalassina (Swainson, 1827)	Species	Animalia
+1073	89697	Tamiasciurus hudsonicus (Erxleben, 1777)	Species	Animalia
+966	89696	Tamiasciurus Trouessart, 1880	Genus	Animalia
+880	72619	Thymallus arcticus (Pallas, 1776)	Species	Animalia
+1216	72618	Thymallus Linck, 1790	Genus	Animalia
+889	79231	Tringa flavipes (Gmelin, 1789)	Species	Animalia
+981	79224	Tringa Linnaeus, 1758	Genus	Animalia
+1071	79229	Tringa melanoleuca (Gmelin, 1789)	Species	Animalia
+1127	79225	Tringa solitaria A. Wilson, 1813	Species	Animalia
+1027	83879	Trochilidae	Family	Animalia
+888	921891	Troglodytes pacificus S. F. Baird, 1864	Species	Animalia
+989	87128	Turdidae	Family	Animalia
+990	87129	Turdus Linnaeus, 1758	Genus	Animalia
+1142	87136	Turdus migratorius Linnaeus, 1766	Species	Animalia
+1118	85755	Tyrannidae	Family	Animalia
+1211	93276	Ursidae Fischer de Waldheim, 1817	Family	Animalia
+1081	93280	Ursus americanus Pallas, 1780	Species	Animalia
+1193	93279	Ursus arctos Linnaeus, 1758	Species	Animalia
+917	93277	Ursus Linnaeus, 1758	Genus	Animalia
+893	91020	Vermivora Swainson, 1827	Genus	Animalia
+940	88704	Vespertilionidae Gray, 1821	Family	Animalia
+1209	93346	Vulpes Frisch, 1775	Genus	Animalia
+904	93347	Vulpes vulpes (Linnaeus, 1758)	Species	Animalia
+1104	85609	Zonotrichia atricapilla (J. F. Gmelin, 1789)	Species	Animalia
+1144	85602	Zonotrichia leucophrys (J. R. Forster, 1772)	Species	Animalia
+983	85604	Zonotrichia leucophrys gambelii (Nuttall, 1840)	Subspecies	Animalia
+1151	84801	Zonotrichia Swainson, 1832	Genus	Animalia
+1255	15767	Nostoc pruniforme C. Agardh	Species	Bacteria
+1256	11476	Fucus distichus Linnaeus, 1767	Species	Chromista
+1296	96602	Acarospora Massal.	Genus	Fungi
+1425	96671	Acarospora smaragdula (Wahlenb.) A. Massal.	Species	Fungi
+1408	97482	Agyriaceae Corda, 1838	Family	Fungi
+1294	387064	Agyriales Clem. & Shear, 1931	Order	Fungi
+1428	100190	Alectoria Ach.	Genus	Fungi
+1464	103760	Allantoparmelia alpicola (Th. Fr.) Essl.	Species	Fungi
+1540	103765	Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb.	Species	Fungi
+1535	103764	Asahinea Culb. and C. Culb.	Genus	Fungi
+1444	103766	Asahinea scholanderi	Species	Fungi
+1440	386448	Ascomycota	Division	Fungi
+1340	96718	Aspicilia Massal.	Genus	Fungi
+1379	97427	Aspicilia myrinii (Fr.) Stein	Species	Fungi
+1484	100259	Bacidia rosella	Species	Fungi
+1371	99365	Bellemerea alpina (Sommerf.) Clauzade & Cl. Roux	Species	Fungi
+1466	99369	Bellemerea subsorediza (Lynge) R. Sant.	Species	Fungi
+1475	100277	Biatora Fr.	Genus	Fungi
+1308	100283	Biatora vernalis (L.) Fr.	Species	Fungi
+1505	103768	Brodoa oroarctica (Krog) Goward	Species	Fungi
+1496	103770	Bryocaulon divergens (Ach.) Kärnefelt	Species	Fungi
+1455	103769	Bryocaulon Kamef.	Genus	Fungi
+1445	103772	Bryoria Brodo & D. Hawksw.	Genus	Fungi
+1446	103776	Bryoria capillaris (Ach.) Brodo & D. Hawksw.	Species	Fungi
+1530	103777	Bryoria carlottae Brodo & D. Hawksw.	Species	Fungi
+1493	103780	Bryoria fremontii (Tuck.) Brodo & D. Hawksw.	Species	Fungi
+1449	103783	Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw.	Species	Fungi
+1494	103787	Bryoria lanestris (Ach.) Brodo & D. Hawksw.	Species	Fungi
+1269	103789	Bryoria nitidula (Th. Fr.) Brodo & D. Hawksw.	Species	Fungi
+1329	103793	Bryoria pseudofuscescens (Gyeln.) Brodo & D. Hawksw.	Species	Fungi
+1504	103796	Bryoria simplicior (Vain.) Brodo & D. Hawksw.	Species	Fungi
+1423	38286	Buellia De Not.	Genus	Fungi
+1281	105499	Buellia disciformis (Fr.) Mudd	Species	Fungi
+1333	105507	Buellia griseovirens (Turner & Borrer ex Sm.) Almb.	Species	Fungi
+1334	38308	Buellia punctata (Hoffm.) A. Massal.	Species	Fungi
+1492	101643	Caloplaca holocarpa (Hoffm.) A.E. Wade	Species	Fungi
+1476	101662	Caloplaca nivalis (Körb.) Th. Fr.	Species	Fungi
+1436	101699	Caloplaca tetraspora (Nyl.) H. Olivier	Species	Fungi
+1421	40093	Caloplaca Th. Fr.	Genus	Fungi
+1305	101009	Candelariaceae Hakul., 1954	Family	Fungi
+1487	101016	Candelariella Mull. Arg.	Genus	Fungi
+1488	101034	Candelariella terrigena	Species	Fungi
+1489	101036	Candelariella xanthostigma (Ach.) Lettau	Species	Fungi
+1432	101046	Catinaria atropurpurea	Species	Fungi
+1270	103805	Cavernularia Degel.	Genus	Fungi
+1451	103810	Cetraria Ach.	Genus	Fungi
+1353	103815	Cetraria commixta (Nyl.) Th. Fr.	Species	Fungi
+1354	103816	Cetraria cucullata (Bellardi) Ach.	Species	Fungi
+1337	103821	Cetraria ericetorum Opiz	Species	Fungi
+1373	103823	Cetraria ericetorum var. reticulata	Variety	Fungi
+1355	103825	Cetraria hepatizon (Ach.) Vain.	Species	Fungi
+1497	103827	Cetraria islandica (L.) Ach.	Species	Fungi
+1375	103830	Cetraria islandica var. crispiformes (Räsänen) Kärnefelt	Variety	Fungi
+1374	103828	Cetraria islandica var. islandica	Variety	Fungi
+1376	103832	Cetraria kamczatica	Species	Fungi
+1326	103833	Cetraria laevigata	Species	Fungi
+1327	103834	Cetraria nigricans Nyl.	Species	Fungi
+1498	103835	Cetraria nigricascens	Species	Fungi
+1363	103836	Cetraria nivalis (L.) Ach.	Species	Fungi
+1411	98212	Cladonia acuminata (Ach.) Norrl.	Species	Fungi
+1515	98216	Cladonia amaurocraea	Species	Fungi
+1293	98223	Cladonia bacilliformis (Nyl.) Glück	Species	Fungi
+1298	98225	Cladonia bellidiflora (Ach.) Schaer.	Species	Fungi
+1470	98226	Cladonia borealis S. Stenroos	Species	Fungi
+1471	98233	Cladonia cariosa (Ach.) Spreng.	Species	Fungi
+1472	98234	Cladonia carneola (Fr.) Fr.	Species	Fungi
+1319	98236	Cladonia cenotea (Ach.) Schaer.	Species	Fungi
+1315	98241	Cladonia chlorophaea (Flörke ex Sommerf.) Spreng.	Species	Fungi
+1430	98242	Cladonia coccifera (L.) Willd.	Species	Fungi
+1439	98243	Cladonia coniocraea (Flörke) Spreng.	Species	Fungi
+1405	98244	Cladonia cornuta (L.) Hoffm.	Species	Fungi
+1506	98247	Cladonia crispata	Species	Fungi
+1316	98248	Cladonia crispata var. crispata	Variety	Fungi
+1317	98258	Cladonia deformis	Species	Fungi
+1516	98263	Cladonia digitata (L.) Hoffm.	Species	Fungi
+1318	98266	Cladonia ecmocyna	Species	Fungi
+1517	98270	Cladonia fimbriata (L.) Fr.	Species	Fungi
+1272	98275	Cladonia furcata (Huds.) Schrad.	Species	Fungi
+1300	98279	Cladonia gracilis (L.) Willd.	Species	Fungi
+1336	98280	Cladonia gracilis var. gracilis	Variety	Fungi
+1347	98282	Cladonia gracilis var. turbinata (Ach.) Ahti	Variety	Fungi
+1273	98283	Cladonia gracilis var. vulnerata Ahti	Variety	Fungi
+1341	98286	Cladonia grayi G. Merr. ex Sandst.	Species	Fungi
+1328	98210	Cladonia Hill ex P. Browne	Genus	Fungi
+1381	98288	Cladonia hookeri	Species	Fungi
+1330	98293	Cladonia kanewskii	Species	Fungi
+1348	98298	Cladonia macilenta Hoffm.	Species	Fungi
+1301	98299	Cladonia macroceras (Delise) Ahti	Species	Fungi
+1349	98301	Cladonia macrophyllodes	Species	Fungi
+1382	98305	Cladonia maxima (Asahina) Ahti	Species	Fungi
+1302	98310	Cladonia metacorallifera Asahina	Species	Fungi
+1473	98311	Cladonia multiformis	Species	Fungi
+1383	98314	Cladonia ochrochlora Flörke	Species	Fungi
+1364	98323	Cladonia pleurota (Flörke) Schaer.	Species	Fungi
+1352	99268	Cladonia pyxidata (L.) Hoffm.	Species	Fungi
+1463	99275	Cladonia rei Schaer.	Species	Fungi
+1386	99278	Cladonia scabriuscula (Delise) Leight.	Species	Fungi
+1279	99281	Cladonia squamosa (Scop.) Hoffm.	Species	Fungi
+1387	99286	Cladonia stricta	Species	Fungi
+1280	99290	Cladonia subfurcata (Nyl.) Arnold	Species	Fungi
+1474	99296	Cladonia subulata (L.) F.H. Wigg.	Species	Fungi
+1388	99297	Cladonia sulphurina (Michx.) Fr.	Species	Fungi
+1389	99298	Cladonia symphycarpa (Ach.) Fr.	Species	Fungi
+1390	99303	Cladonia umbricola Tønsberg & Ahti	Species	Fungi
+1482	99304	Cladonia uncialis	Species	Fungi
+1524	98202	Cladoniaceae Zenker, 1827	Family	Fungi
+1485	100287	Cliostomum griffithii (Sm.) Coppins	Species	Fungi
+1499	103855	Coelocaulon aculeatum (Schreb.) Link	Species	Fungi
+1391	99030	Collema furfuraceum (Arnold) Du Rietz	Species	Fungi
+1267	99048	Collema subflaccidum Degel.	Species	Fungi
+1465	99004	Collemataceae Zenker, 1827	Family	Fungi
+1399	103864	Dactylina arctica (Hook. f.) Nyl.	Species	Fungi
+1507	103863	Dactylina Nyl.	Genus	Fungi
+1522	95907	Heterodermia speciosa (Wulfen) Trevis.	Species	Fungi
+1426	101088	Hypocenomyce M. Choisy	Genus	Fungi
+1400	103882	Hypogymnia austerodes (Nyl.) Räsänen	Species	Fungi
+1447	103883	Hypogymnia bitteri (Lynge) Ahti	Species	Fungi
+1378	104421	Hypogymnia duplicata	Species	Fungi
+1365	104422	Hypogymnia enteromorpha	Species	Fungi
+1402	104429	Hypogymnia metaphysodes	Species	Fungi
+1403	104432	Hypogymnia occidentalis L.H. Pike	Species	Fungi
+1526	104434	Hypogymnia physodes (L.) Nyl.	Species	Fungi
+1527	104437	Hypogymnia rugosa	Species	Fungi
+1278	388630	Icmadophilaceae Triebel, 1993	Family	Fungi
+1528	104444	Imshaugia aleurites (Ach.) S.L.F. Mey.	Species	Fungi
+1450	101100	Japewia subaurifera Muhr & Tønsberg	Species	Fungi
+1491	101101	Japewia tornoensis (Nyl.) Tønsberg	Species	Fungi
+1309	100295	Lecania cyrtella (Ach.) Th. Fr.	Species	Fungi
+1486	100297	Lecania dubitans (Nyl.) A.L. Sm.	Species	Fungi
+1314	39201	Lecanora Ach.	Genus	Fungi
+1393	102045	Lecanora boligera (Th. Fr.) Hedl.	Species	Fungi
+1477	102064	Lecanora chlarotera Nyl.	Species	Fungi
+1372	102070	Lecanora circumborealis Brodo & Vitik.	Species	Fungi
+1478	102090	Lecanora farinaria	Species	Fungi
+1406	102092	Lecanora fuliginosa Brodo	Species	Fungi
+1407	102093	Lecanora fuscescens (Sommerf.) Nyl.	Species	Fungi
+1282	102106	Lecanora hagenii	Species	Fungi
+1479	102959	Lecanora piniperda Körb.	Species	Fungi
+1480	102961	Lecanora polytropa (Hoffm.) Rabenh.	Species	Fungi
+1431	102966	Lecanora pulicaris (Pers.) Ach.	Species	Fungi
+1358	102971	Lecanora rupicola (L.) Zahlbr.	Species	Fungi
+1481	102988	Lecanora symmicta (Ach.) Ach.	Species	Fungi
+1441	102999	Lecanora varia (Hoffm.) Ach.	Species	Fungi
+1533	39190	Lecanoraceae Körb., 1855	Family	Fungi
+1454	38231	Lecanorales Nannf., 1932	Order	Fungi
+1462	99356	Lecidea Ach.	Genus	Fungi
+1422	38242	Lecideaceae Chevall., 1826	Family	Fungi
+1350	103015	Lecidella elaeochroma (Ach.) M. Choisy	Species	Fungi
+1351	103017	Lecidella euphorea (Flörke) Hertel	Species	Fungi
+1359	103008	Lecidella Körb.	Genus	Fungi
+1366	103028	Lecidella wulfenii (Hepp) Körb.	Species	Fungi
+1331	104257	Lepraria Ach.	Genus	Fungi
+1361	104262	Lepraria incana (L.) Ach.	Species	Fungi
+1401	104266	Lepraria neglecta Vain.	Species	Fungi
+1266	98177	Leproloma membranaceum (Dicks.) Vain.	Species	Fungi
+1257	99065	Leptogium (Ach.) Gray	Genus	Fungi
+1260	99074	Leptogium burnetiae	Species	Fungi
+1299	99113	Leptogium saturninum (Dicks.) Nyl.	Species	Fungi
+1380	99118	Leptogium teretiusculum (Wallr.) Arnold	Species	Fungi
+1418	98126	Lobaria (Schreb.) Hoffm.	Genus	Fungi
+1419	98127	Lobaria hallii (Tuck.) Zahlbr.	Species	Fungi
+1335	98129	Lobaria linita	Species	Fungi
+1460	98133	Lobaria pulmonaria (L.) Hoffm.	Species	Fungi
+1397	98122	Lobariaceae Chevall., 1826	Family	Fungi
+1394	103317	Lopadium coralloideum (Nyl.) Lynge	Species	Fungi
+1395	103320	Lopadium pezizoideum	Species	Fungi
+1512	87538	Mucilago crustacea F.H. Wigg.	Species	Fungi
+1264	103082	Mycoblastaceae Hafellner, 1984	Family	Fungi
+1367	103084	Mycoblastus affinis (Schaer.) T. Schauer	Species	Fungi
+1368	103085	Mycoblastus alpinus (Fr.) Hellb.	Species	Fungi
+1283	103083	Mycoblastus Norm.	Genus	Fungi
+1277	103087	Mycoblastus sanguinarius (L.) Norman	Species	Fungi
+1534	98158	Nephroma Ach.	Genus	Fungi
+1495	98159	Nephroma arcticum (L.) Torss.	Species	Fungi
+1377	98160	Nephroma bellum (Spreng.) Tuck.	Species	Fungi
+1539	98161	Nephroma expallidum (Nyl.) Nyl.	Species	Fungi
+1435	98166	Nephroma isidiosum	Species	Fungi
+1265	98169	Nephroma parile (Ach.) Ach.	Species	Fungi
+1342	98157	Nephromataceae Wetm. ex J.C. David & D. Hawksw., 1991	Family	Fungi
+1275	99856	Ochrolechia androgyna (Hoffm.) Arnold	Species	Fungi
+1320	39245	Ochrolechia frigida (Sw.) Lynge	Species	Fungi
+1468	99861	Ochrolechia grimmiae Lynge	Species	Fungi
+1287	99864	Ochrolechia gyalectina	Species	Fungi
+1271	39234	Ochrolechia Massal.	Genus	Fungi
+1276	99867	Ochrolechia oregonensis H. Magn.	Species	Fungi
+1323	99880	Ochrolechia szatalaensis Verseghy	Species	Fungi
+1427	99886	Ochrolechia upsaliensis (L.) A. Massal.	Species	Fungi
+1284	98179	Pannaria Del. ex Bory	Genus	Fungi
+1461	98990	Pannaria praetermissa Nyl.	Species	Fungi
+1523	98171	Pannariaceae Tuck., 1872	Family	Fungi
+1434	39134	Parmelia Ach.	Genus	Fungi
+1429	104470	Parmelia hygrophila Goward & Ahti	Species	Fungi
+1538	104473	Parmelia omphalodes (L.) Ach.	Species	Fungi
+1396	39146	Parmelia saxatilis (L.) Ach.	Species	Fungi
+1448	104477	Parmelia skultii Hale	Species	Fungi
+1288	104478	Parmelia squarrosa	Species	Fungi
+1385	39157	Parmelia sulcata Taylor	Species	Fungi
+1456	38319	Parmeliaceae Zenker, 1827	Family	Fungi
+1289	104479	Parmeliopsis (Nyl. Ex Stiz.) Nyl.	Genus	Fungi
+1360	104480	Parmeliopsis ambigua (Wulfen) Nyl.	Species	Fungi
+1500	104481	Parmeliopsis hyperopta (Ach.) Arnold	Species	Fungi
+1410	98091	Peltigera aphthosa	Species	Fungi
+1346	98092	Peltigera britannica (Gyeln.) Holt.-Hartw. & Tønsberg	Species	Fungi
+1537	98093	Peltigera canina	Species	Fungi
+1297	98094	Peltigera collina (Ach.) Schrad.	Species	Fungi
+1343	98095	Peltigera degenii Gyeln.	Species	Fungi
+1459	98096	Peltigera didactyla (Nyl. ex Vain.) Goffinet & Hastings	Species	Fungi
+1513	98102	Peltigera kristinssonii Vitik.	Species	Fungi
+1412	98105	Peltigera leucophlebia (Nyl.) Gyeln.	Species	Fungi
+1413	98106	Peltigera malacea (Ach.) Funck	Species	Fungi
+1532	40060	Peltigera membranacea (Ach.) Nyl.	Species	Fungi
+1268	98107	Peltigera neckeri Hepp	Species	Fungi
+1414	98109	Peltigera neopolydactyla (Gyeln.) Gyeln.	Species	Fungi
+1344	98112	Peltigera ponojensis Gyeln.	Species	Fungi
+1345	98113	Peltigera praetextata (Flörke ex Sommerf.) Zopf	Species	Fungi
+1415	98114	Peltigera retifoveata Vitik.	Species	Fungi
+1416	98115	Peltigera rufescens (Weiss) Humb.	Species	Fungi
+1417	98116	Peltigera scabrosa Th. Fr.	Species	Fungi
+1384	40049	Peltigera Willd.	Genus	Fungi
+1313	40038	Peltigeraceae Dumort., 1822	Family	Fungi
+1324	99890	Pertusaria alaskensis	Species	Fungi
+1483	99901	Pertusaria carneopallida (Nyl.) Anzi ex Nyl.	Species	Fungi
+1469	99907	Pertusaria dactylina (Ach.) Nyl.	Species	Fungi
+1312	39938	Pertusaria DC.	Genus	Fungi
+1303	100715	Pertusaria oculata (Dicks.) Th. Fr.	Species	Fungi
+1304	100716	Pertusaria ophthalmiza (Nyl.) Nyl.	Species	Fungi
+1369	100740	Pertusaria subobducens	Species	Fungi
+1370	100741	Pertusaria suboculata Brodo & Dibben	Species	Fungi
+1321	39257	Pertusariaceae Körb. ex Körb., 1855	Family	Fungi
+1519	387070	Pertusariales M. Choisy ex D. Hawksw. & O.E. Erikss., 1986	Order	Fungi
+1262	95923	Phaeophyscia endococcinodes	Species	Fungi
+1263	95916	Phaeophyscia Mob.	Genus	Fungi
+1310	104186	Phlyctis argena (Spreng.) Flot.	Species	Fungi
+1457	39971	Physcia (Schreb.) Michaux	Genus	Fungi
+1338	97001	Physcia adscendens (Th. Fr.) H. Olivier	Species	Fungi
+1339	97002	Physcia aipolia (Ehrh. ex Humb.) Fürnr.	Species	Fungi
+1458	39982	Physcia caesia (Hoffm.) Fürnr.	Species	Fungi
+1404	39993	Physcia dubia (Hoffm.) Lettau	Species	Fungi
+1285	97030	Physcia stellaris (L.) Nyl.	Species	Fungi
+1424	39960	Physciaceae Zahlbr., 1898	Family	Fungi
+1518	39168	Platismatia Culb. and C. Culb.	Genus	Fungi
+1501	104483	Platismatia glauca (L.) W.L. Culb. & C.F. Culb.	Species	Fungi
+1467	99379	Porpidia Koerber	Genus	Fungi
+1525	104490	Pseudephebe M. Choisy	Genus	Fungi
+1292	104491	Pseudephebe minuscula (Arnold) Brodo & D. Hawksw.	Species	Fungi
+1509	104492	Pseudephebe pubescens (L.) M. Choisy	Species	Fungi
+1420	98144	Pseudocyphellaria crocata (L.) Vain.	Species	Fungi
+1398	98139	Pseudocyphellaria Vain.	Genus	Fungi
+1274	99810	Psoroma hypnorum (Vahl) Gray	Species	Fungi
+1322	99809	Psoroma Michaux	Genus	Fungi
+1521	40160	Ramalina Ach.	Genus	Fungi
+1502	105301	Ramalina dilacerata (Hoffm.) Hoffm.	Species	Fungi
+1503	105303	Ramalina farinacea (L.) Ach.	Species	Fungi
+1261	105310	Ramalina intermedia	Species	Fungi
+1311	105317	Ramalina obtusata	Species	Fungi
+1332	105324	Ramalina roesleri	Species	Fungi
+1520	40149	Ramalinaceae C. Agardh, 1821	Family	Fungi
+1259	99388	Rhizocarpon Ramond ex DC.	Genus	Fungi
+1258	104504	Rhizoplaca melanophthalma (DC.) Leuckert	Species	Fungi
+1286	97086	Rinodina efflorescens Malme	Species	Fungi
+1529	97116	Rinodina mniaraea (Ach.) Körb.	Species	Fungi
+1536	98067	Rinodina septentrionalis Malme	Species	Fungi
+1514	98074	Rinodina turfacea (Wahlenb.) Körb.	Species	Fungi
+1433	40004	Stereocaulaceae Chevall., 1826	Family	Fungi
+1438	99352	Stereocaulon Hoffm.	Genus	Fungi
+1295	40082	Teloschistaceae Zahlbr., 1898	Family	Fungi
+1362	104272	Thamnolia Ach. ex Schaerer	Genus	Fungi
+1508	104275	Thamnolia vermicularis (Sw.) Ach. ex Schaer.	Species	Fungi
+1490	97508	Trapeliopsis granulosa (Hoffm.) Lumbsch	Species	Fungi
+1409	97505	Trapeliopsis M. Choisy and G. Schneider	Genus	Fungi
+1452	104512	Tuckermannopsis chlorophylla (Willd.) Hale	Species	Fungi
+1356	104507	Tuckermannopsis Gyel.	Genus	Fungi
+1453	104524	Tuckermannopsis sepincola (Ehrh.) Hale	Species	Fungi
+1443	103241	Umbilicaria Hoffm.	Genus	Fungi
+1325	103236	Umbilicariaceae Chevall., 1826	Family	Fungi
+1392	103254	Umbillicaria hyperborea (Ach.) Hoffm.	Species	Fungi
+1357	104526	Usnea Dill. ex Adans.	Genus	Fungi
+1510	105237	Usnea lapponica Vain.	Species	Fungi
+1290	105260	Usnea scabrata Nyl.	Species	Fungi
+1511	105274	Usnea subfloridana Stirt.	Species	Fungi
+1291	105279	Usnea substerilis Motyka	Species	Fungi
+1437	101734	Xanthoria (Fr.) Th. Fr.	Genus	Fungi
+1442	101735	Xanthoria candelaria	Species	Fungi
+1306	101736	Xanthoria elegans (Link) Th. Fr.	Species	Fungi
+1307	101745	Xanthoria polycarpa (Hoffm.) Rieber	Species	Fungi
+1531	97518	Xylographa vitiligo (Ach.) J.R. Laundon	Species	Fungi
+2582	133555	Achillea L.	Genus	Plantae
+2238	133556	Achillea millefolium L.	Species	Plantae
+2588	133562	Achillea ptarmica L.	Species	Plantae
+2228	851164	Aconitum delphiniifolium DC.	Species	Plantae
+1804	88448	Aconitum L.	Genus	Plantae
+1739	95176	Actaea L.	Genus	Plantae
+1659	95198	Actaea rubra (Aiton) Willd.	Species	Plantae
+2458	131740	Adoxa moschatellina L.	Species	Plantae
+2304	89942	Agrostis capillaris L.	Species	Plantae
+2485	141899	Agrostis L.	Genus	Plantae
+2282	86345	Agrostis mertensii Trin.	Species	Plantae
+2094	142895	Agrostis scabra Willd.	Species	Plantae
+1847	149544	Allium L.	Genus	Plantae
+2254	149546	Allium schoenoprasum L.	Species	Plantae
+2246	92015	Alnus incana ssp. tenuifolia (Nutt.) Breitung	Subspecies	Plantae
+1770	101988	Alnus Mill.	Genus	Plantae
+1806	92021	Alnus viridis ssp. crispa (Aiton) Turrill	Subspecies	Plantae
+1616	92022	Alnus viridis ssp. sinuata (Regel) Á. Löve & D. Löve	Subspecies	Plantae
+2515	142909	Alopecurus geniculatus L.	Species	Plantae
+2514	142903	Alopecurus L.	Genus	Plantae
+1937	142910	Alopecurus pratensis L.	Species	Plantae
+2607	68862	Amblystegiaceae	Family	Plantae
+1550	73615	Amblystegium Schimp. in B.S.G.	Genus	Plantae
+2027	63155	Amblystegium serpens (Hedw.) Schimp. in B.S.G.	Species	Plantae
+2121	129583	Amelanchier alnifolia (Nutt.) Nutt. ex M. Roem.	Species	Plantae
+2051	129582	Amelanchier Medik.	Genus	Plantae
+2579	131001	Amsinckia Lehm.	Genus	Plantae
+2272	56691	Anastrophyllum (Spruce) Steph.	Genus	Plantae
+2448	57382	Anastrophyllum minutum (Schreb.) R.M. Schust.	Species	Plantae
+1827	255221	Andreaea rothii var. rothii Web. & Mohr	Variety	Plantae
+2555	127185	Andromeda L.	Genus	Plantae
+2442	127186	Andromeda polifolia L.	Species	Plantae
+2418	121069	Androsace alaskana Coville & Standl. ex Hultén	Species	Plantae
+2105	88997	Anemone L.	Genus	Plantae
+2557	89487	Anemone parviflora Michx.	Species	Plantae
+1666	89498	Anemone richardsonii Hook.	Species	Plantae
+2007	62277	Aneura pinguis (L.) Dumort.	Species	Plantae
+1733	132578	Angelica genuflexa Nutt.	Species	Plantae
+1904	132566	Angelica L.	Genus	Plantae
+1905	132567	Angelica lucida L.	Species	Plantae
+1561	133760	Antennaria alpina (L.) Gaertn.	Species	Plantae
+2177	133757	Antennaria Gaertn.	Genus	Plantae
+2271	133785	Antennaria monocephala DC.	Species	Plantae
+1900	133786	Antennaria monocephala ssp. monocephala DC.	Subspecies	Plantae
+1772	172801	Anthoxanthum monticola (Bigelow) Veldkamp	Species	Plantae
+1603	172811	Anticlea elegans (Pursh) Rydb.	Species	Plantae
+1934	804936	Anticlea elegans var. elegans (Pursh) Rydb.	Variety	Plantae
+2616	157885	Apiaceae	Family	Plantae
+2249	157857	Apiales	Order	Plantae
+1738	96289	Aquilegia formosa Fisch. ex DC.	Species	Plantae
+1852	95253	Aquilegia L.	Genus	Plantae
+2622	121263	Arabis hirsuta (L.) Scop.	Species	Plantae
+2417	120560	Arabis L.	Genus	Plantae
+2060	148570	Araceae	Family	Plantae
+1993	132499	Araliaceae	Family	Plantae
+2516	142948	Arctagrostis latifolia (R. Br.) Griseb.	Species	Plantae
+1711	152867	Arctophila fulva (Trin.) Andersson	Species	Plantae
+2610	879007	Arctopoa eminens (J. Presl) Prob.	Species	Plantae
+2015	127188	Arctostaphylos Adans.	Genus	Plantae
+2568	127657	Arctostaphylos uva-ursi (L.) Spreng.	Species	Plantae
+2379	169155	Arctous rubra (Rehder & Wilson) Nakai	Species	Plantae
+1542	141479	Arnica chamissonis Less.	Species	Plantae
+2483	141472	Arnica L.	Genus	Plantae
+2093	141485	Arnica latifolia Bong.	Species	Plantae
+1933	141486	Arnica lessingii Greene	Species	Plantae
+1817	133565	Artemisia L.	Genus	Plantae
+1543	129607	Aruncus dioicus (Walter) Fernald	Species	Plantae
+1723	91139	Aruncus dioicus var. vulgaris (Maxim.) H. Hara	Variety	Plantae
+2535	129605	Aruncus L.	Genus	Plantae
+1787	131026	Asperugo procumbens L.	Species	Plantae
+2114	133653	Aster L.	Genus	Plantae
+2581	133553	Asteraceae	Family	Plantae
+2626	133551	Asterales	Order	Plantae
+1619	121400	Astragalus alpinus L.	Species	Plantae
+1618	121399	Astragalus L.	Genus	Plantae
+2166	123006	Astragalus polaris (Seem.) Benth. ex Hook. f.	Species	Plantae
+2623	121401	Astragalus umbellatus Bunge	Species	Plantae
+1551	79018	Athyrium filix-femina (L.) Roth	Species	Plantae
+1612	78962	Athyrium Roth	Genus	Plantae
+2313	119422	Atriplex L.	Genus	Plantae
+2617	157888	Aulacomniaceae	Family	Plantae
+2600	249615	Aulacomnium androgynum (Hedw.) Schwaegr.	Species	Plantae
+2241	249619	Aulacomnium palustre (Hedw.) Schwaegr.	Species	Plantae
+1605	257256	Aulacomnium Schwaegr.	Genus	Plantae
+1843	249621	Aulacomnium turgidum (Wahlenb.) Schwaegr.	Species	Plantae
+1864	121307	Barbarea orthoceras Ledeb.	Species	Plantae
+2123	52328	Barbilophozia attenuata (Mart.) Loeske	Species	Plantae
+2120	53331	Barbilophozia barbata (Schmidel ex Schreb.) Loeske	Species	Plantae
+2124	53442	Barbilophozia hatcheri (A. Evans) Loeske	Species	Plantae
+2044	53911	Barbilophozia kunzeana (Huebener) Müll. Frib.	Species	Plantae
+1914	53944	Barbilophozia lycopodioides (Wallr.) Loeske	Species	Plantae
+2573	53966	Barbilophozia quadriloba (Lindb.) Loeske	Species	Plantae
+2469	62814	Bartramia pomiformis Hedw.	Species	Plantae
+1970	103529	Betula glandulosa Michx.	Species	Plantae
+1972	100478	Betula kenaica W.H. Evans	Species	Plantae
+2077	102783	Betula L.	Genus	Plantae
+1860	102794	Betula nana L.	Species	Plantae
+2358	100457	Betula nana ssp. exilis (Sukaczev) Hultén	Subspecies	Plantae
+1981	94772	Betula neoalaskana Sarg.	Species	Plantae
+1608	104709	Betula pendula Roth	Species	Plantae
+2357	101977	Betulaceae	Family	Plantae
+1831	47821	Blepharostoma trichophyllum (L.) Dumort.	Species	Plantae
+2264	130261	Boraginaceae	Family	Plantae
+2002	134463	Boschniakia C.A. Mey. ex Bong.	Genus	Plantae
+2450	134466	Boschniakia rossica (Cham. & Schltdl.) B. Fedtsch.	Species	Plantae
+2377	81411	Botrychium boreale Milde	Species	Plantae
+1794	82136	Botrychium lunaria (L.) Sw.	Species	Plantae
+1964	81345	Botrychium Sw.	Genus	Plantae
+2023	63657	Brachytheciaceae	Family	Plantae
+2194	64605	Brachythecium albicans (Hedw.) Schimp. in B.S.G.	Species	Plantae
+2167	64650	Brachythecium calcareum Kindb.	Species	Plantae
+2601	249688	Brachythecium oedipodium (Mitt.) Jaeg.	Species	Plantae
+2464	64639	Brachythecium oxycladon (Brid.) Jaeg.	Species	Plantae
+2461	63757	Brachythecium reflexum (Starke in Web. & Mohr) Schimp. in B.S.G.	Species	Plantae
+2526	64683	Brachythecium rutabulum (Hedw.) Schimp. in B.S.G.	Species	Plantae
+2463	64616	Brachythecium salebrosum (Web. & Mohr) Schimp. in B.S.G.	Species	Plantae
+2024	63668	Brachythecium Schimp. in B.S.G.	Genus	Plantae
+2460	63735	Brachythecium velutinum (Hedw.) Schimp. in B.S.G.	Species	Plantae
+1973	124469	Brassica rapa L.	Species	Plantae
+2076	120557	Brassicaceae	Family	Plantae
+1792	142982	Bromus inermis Leyss.	Species	Plantae
+2490	142954	Bromus L.	Genus	Plantae
+1749	143551	Bromus tectorum L.	Species	Plantae
+2186	62949	Bryaceae	Family	Plantae
+2091	62927	Bryales	Order	Plantae
+2558	43346	Bryophyta	Division	Plantae
+1819	65159	Bryum caespiticium Hedw.	Species	Plantae
+2026	62960	Bryum Hedw.	Genus	Plantae
+1596	64422	Bryum weigelii Spreng. in Biehler	Species	Plantae
+2314	121322	Cakile Mill.	Genus	Plantae
+2041	143556	Calamagrostis Adans.	Genus	Plantae
+2259	143573	Calamagrostis canadensis (Michx.) P. Beauv.	Species	Plantae
+1750	143561	Calamagrostis lapponica (Wahlenb.) Hartm.	Species	Plantae
+2337	154678	Calamagrostis stricta (Timm) Koeler	Species	Plantae
+1625	148596	Calla L.	Genus	Plantae
+2061	148597	Calla palustris L.	Species	Plantae
+2173	71350	Calliergon (Sull.) Kindb.	Genus	Plantae
+2174	71361	Calliergon cordifolium (Hedw.) Kindb.	Species	Plantae
+1645	71394	Calliergon giganteum (Schimp.) Kindb.	Species	Plantae
+1935	71405	Calliergon stramineum (Brid.) Kindb.	Species	Plantae
+2580	132857	Callitriche L.	Genus	Plantae
+2182	155598	Callitriche palustris L.	Species	Plantae
+1834	91037	Caltha L.	Genus	Plantae
+2305	91059	Caltha leptosepala DC.	Species	Plantae
+1622	91048	Caltha palustris L.	Species	Plantae
+1613	683336	Calypogeia neesiana (C. Massal. & Carestia) Müll. Frib.	Species	Plantae
+2477	135356	Campanula L.	Genus	Plantae
+2592	135371	Campanula lasiocarpa Cham.	Species	Plantae
+1685	136183	Campanula rotundifolia L.	Species	Plantae
+2476	135355	Campanulaceae	Family	Plantae
+1807	72700	Campylium (Sull.) Mitt.	Genus	Plantae
+1808	72723	Campylium hispidulum (Brid.) Mitt.	Species	Plantae
+2513	72734	Campylium stellatum (Hedw.) C. Jens.	Species	Plantae
+2301	73560	Campylium stellatum var. protensum (Brid.) Bryhn	Variety	Plantae
+1636	130830	Caprifoliaceae	Family	Plantae
+1718	121335	Capsella bursa-pastoris (L.) Medik.	Species	Plantae
+2127	121334	Capsella Medik.	Genus	Plantae
+2055	121351	Cardamine bellidifolia L.	Species	Plantae
+2315	121337	Cardamine L.	Genus	Plantae
+2128	121343	Cardamine pratensis L.	Species	Plantae
+2062	122326	Cardamine umbellata Greene	Species	Plantae
+2632	211772	Carex aquatilis var. dives (T. Holm) Kük.	Variety	Plantae
+2118	144425	Carex aquatilis Wahlenb.	Species	Plantae
+2519	144429	Carex bigelowii Torr. ex Schwein.	Species	Plantae
+1963	145322	Carex brunnescens (Pers.) Poir.	Species	Plantae
+1583	145323	Carex canescens L.	Species	Plantae
+2240	145434	Carex chordorrhiza Ehrh. ex L. f.	Species	Plantae
+2350	146151	Carex deflexa Hornem.	Species	Plantae
+2351	146153	Carex deweyana Schwein.	Species	Plantae
+2001	863015	Carex dioica L.	Species	Plantae
+2545	146155	Carex disperma Dewey	Species	Plantae
+2056	146208	Carex gynocrates Wormsk. ex Drejer	Species	Plantae
+1548	146239	Carex interior L.H. Bailey	Species	Plantae
+2100	144419	Carex L.	Genus	Plantae
+2066	146245	Carex laeviculmis Meinsh.	Species	Plantae
+2542	145336	Carex lasiocarpa Ehrh.	Species	Plantae
+2138	146254	Carex lenticularis var. lipocarpa (T. Holm) L.A. Standl.	Variety	Plantae
+2546	146257	Carex leptalea Wahlenb.	Species	Plantae
+1599	147091	Carex limosa L.	Species	Plantae
+2436	147092	Carex livida (Wahlenb.) Willd.	Species	Plantae
+1926	147093	Carex loliacea L.	Species	Plantae
+1714	144471	Carex lyngbyei Hornem.	Species	Plantae
+1556	144474	Carex macrochaeta C.A. Mey.	Species	Plantae
+2615	156506	Carex magellanica Lam.	Species	Plantae
+2628	202594	Carex magellanica ssp. irrigua (Wahlenb.) Hultén	Subspecies	Plantae
+1909	144477	Carex membranacea Hook.	Species	Plantae
+2109	147112	Carex mertensii J.D. Prescott ex Bong.	Species	Plantae
+2344	202602	Carex microchaeta ssp. microchaeta T. Holm	Subspecies	Plantae
+2345	202604	Carex microchaeta ssp. nesophila (T. Holm) D.F. Murray	Subspecies	Plantae
+1715	144478	Carex microchaeta T. Holm	Species	Plantae
+1572	137566	Carex norvegica Retz.	Species	Plantae
+1662	137581	Carex pachystachya Cham. ex Steud.	Species	Plantae
+1573	137590	Carex pauciflora Lightf.	Species	Plantae
+1574	137601	Carex phaeocephala Piper	Species	Plantae
+1661	137612	Carex pluriflora Hultén	Species	Plantae
+2608	137613	Carex podocarpa R. Br.	Species	Plantae
+1844	137621	Carex preslii Steud.	Species	Plantae
+1845	137627	Carex pyrenaica Wahlenb.	Species	Plantae
+2520	144483	Carex ramenskii Kom.	Species	Plantae
+2223	145305	Carex rotundata Wahlenb.	Species	Plantae
+2433	145306	Carex saxatilis L.	Species	Plantae
+1664	138183	Carex scirpoidea Michx.	Species	Plantae
+1825	138197	Carex spectabilis Dewey	Species	Plantae
+2598	138230	Carex tenuiflora Wahlenb.	Species	Plantae
+2370	151292	Carex utriculata Boott	Species	Plantae
+1930	138260	Carex viridula Michx.	Species	Plantae
+2346	202623	Carex viridula ssp. viridula Michx.	Subspecies	Plantae
+1717	108617	Caryophyllaceae	Family	Plantae
+2273	100451	Caryophyllales	Order	Plantae
+2016	127661	Cassiope D. Don	Genus	Plantae
+2086	127663	Cassiope lycopodioides (Pall.) D. Don	Species	Plantae
+2017	127662	Cassiope tetragona (L.) D. Don	Species	Plantae
+2541	130348	Castilleja Mutis ex L. f.	Genus	Plantae
+2451	135085	Castilleja unalaschcensis (Cham. & Schltdl.) Malte	Species	Plantae
+1813	136814	Centaurea cyanus L.	Species	Plantae
+2583	51518	Cephalozia (Dumort.) Dumort.	Genus	Plantae
+1940	42327	Cephalozia lunulifolia (Dumort.) Dumort.	Species	Plantae
+2154	50705	Cephaloziaceae	Family	Plantae
+2230	109473	Cerastium arvense L.	Species	Plantae
+1876	108639	Cerastium beeringianum Cham. & Schltdl.	Species	Plantae
+2280	109540	Cerastium fischerianum Ser.	Species	Plantae
+1725	109551	Cerastium fontanum Baumg.	Species	Plantae
+1988	202723	Cerastium fontanum ssp. vulgare (Hartm.) Greuter & Burdet	Subspecies	Plantae
+1731	108628	Cerastium L.	Genus	Plantae
+2283	75993	Ceratodon Brid.	Genus	Plantae
+1977	76004	Ceratodon purpureus (Hedw.) Brid.	Species	Plantae
+2020	127784	Chamaedaphne calyculata (L.) Moench	Species	Plantae
+2019	127783	Chamaedaphne Moench	Genus	Plantae
+1597	177089	Chamerion angustifolium (L.) Holub	Species	Plantae
+2289	291305	Chamerion angustifolium ssp. angustifolium (L.) Holub	Subspecies	Plantae
+1853	177093	Chamerion latifolium (L.) Holub	Species	Plantae
+2533	289512	Chamerion Raf. ex Holub	Genus	Plantae
+2571	51836	Chandonanthus setiformis (Ehrh.) Lindb.	Species	Plantae
+2386	117716	Chenopodium album L.	Species	Plantae
+2311	117738	Chenopodium berlandieri Moq.	Species	Plantae
+2161	117682	Chenopodium L.	Genus	Plantae
+1734	135964	Chrysanthemum arcticum L.	Species	Plantae
+1869	122554	Chrysosplenium L.	Genus	Plantae
+1984	122555	Chrysosplenium tetrandrum Th. Fr.	Species	Plantae
+1578	133391	Cicuta douglasii (DC.) J.M. Coult. & Rose	Species	Plantae
+2589	133389	Cicuta L.	Genus	Plantae
+2064	93775	Cicuta virosa L.	Species	Plantae
+2473	70973	Cinclidium stygium Sw. in Schrad.	Species	Plantae
+1757	250557	Cinclidium subrotundum Lindb.	Species	Plantae
+1639	128820	Circaea alpina L.	Species	Plantae
+2067	128819	Circaea L.	Genus	Plantae
+2481	139500	Cirsium arvense (L.) Scop.	Species	Plantae
+2364	108755	Claytonia L.	Genus	Plantae
+2279	108800	Claytonia sarmentosa C.A. Mey.	Species	Plantae
+2028	70542	Climacium dendroides (Hedw.) Web. & Mohr	Species	Plantae
+1703	158479	Comarum L.	Genus	Plantae
+1601	155907	Comarum palustre L.	Species	Plantae
+2449	133402	Conioselinum chinense (L.) Britton, Sterns & Poggenb.	Species	Plantae
+2225	133401	Conioselinum Fisch. ex Hoffm.	Genus	Plantae
+1840	59510	Conocephalaceae	Family	Plantae
+2586	59533	Conocephalum conicum (L.) Dumort.	Species	Plantae
+1841	59521	Conocephalum Hill	Genus	Plantae
+1745	63952	Conostomum tetragonum (Hedw.) Lindb.	Species	Plantae
+1916	98025	Coptis Salisb.	Genus	Plantae
+2330	98736	Coptis trifolia (L.) Salisb.	Species	Plantae
+2536	130546	Cornaceae	Family	Plantae
+2202	130537	Cornales	Order	Plantae
+2570	130569	Cornus canadensis L.	Species	Plantae
+2211	130548	Cornus L.	Genus	Plantae
+1634	130557	Cornus suecica L.	Species	Plantae
+1722	99294	Corydalis DC.	Genus	Plantae
+2331	100193	Corydalis pauciflora (Stephan) Pers.	Species	Plantae
+1769	100216	Corydalis sempervirens (L.) Pers.	Species	Plantae
+2459	138639	Cosmos bipinnatus Cav.	Species	Plantae
+1868	122453	Crassulaceae	Family	Plantae
+1577	138695	Crepis tectorum L.	Species	Plantae
+1571	132133	Cryptantha torreyana (A. Gray) Greene	Species	Plantae
+1965	82497	Cryptogramma acrostichoides R. Br.	Species	Plantae
+2521	82519	Cryptogramma crispa (L.) R. Br.	Species	Plantae
+1952	82486	Cryptogramma R. Br.	Genus	Plantae
+1623	92484	Cupressaceae	Family	Plantae
+2117	250603	Cynodontium polycarpon (Hedw.) Schimp.	Species	Plantae
+1691	71206	Cynodontium strumiferum (Hedw.) Lindb.	Species	Plantae
+1751	144406	Cyperaceae	Family	Plantae
+2193	84446	Cystopteris Bernh.	Genus	Plantae
+2242	84468	Cystopteris fragilis (L.) Bernh.	Species	Plantae
+2372	156251	Cytisus scoparius (L.) Link	Species	Plantae
+2276	103360	Dactylis glomerata L.	Species	Plantae
+1919	141947	Danthonia DC.	Genus	Plantae
+1698	141954	Danthonia intermedia Vasey	Species	Plantae
+2507	837824	Dasiphora fruticosa (L.) Rydb.	Species	Plantae
+1871	289523	Dasiphora Raf.	Genus	Plantae
+1541	91092	Delphinium glaucum S. Watson	Species	Plantae
+2306	91081	Delphinium L.	Genus	Plantae
+1693	139508	Dendranthema (DC.) Des Moul.	Genus	Plantae
+1752	143618	Deschampsia P. Beauv.	Genus	Plantae
+2036	67150	Desmatodon Brid.	Genus	Plantae
+1802	67217	Desmatodon latifolius (Hedw.) Brid.	Species	Plantae
+2308	110069	Dianthus deltoides L.	Species	Plantae
+2359	110036	Dianthus L.	Genus	Plantae
+1726	110092	Dianthus repens Willd.	Species	Plantae
+2224	120237	Diapensia L.	Genus	Plantae
+2407	120238	Diapensia lapponica L.	Species	Plantae
+2316	120236	Diapensiaceae	Family	Plantae
+2525	71162	Dichodontium pellucidum (Hedw.) Schimp.	Species	Plantae
+2524	71151	Dichodontium Schimp.	Genus	Plantae
+2199	73811	Dicranaceae	Family	Plantae
+2101	73799	Dicranales	Order	Plantae
+2116	71251	Dicranella (C. Müll.) Schimp.	Genus	Plantae
+1555	72288	Dicranella subulata (Hedw.) Schimp.	Species	Plantae
+2523	70470	Dicranoweisia crispula (Hedw.) Lindb. ex Milde	Species	Plantae
+1670	250656	Dicranum acutifolium (Lindb. & Arnell) C. Jens. ex Weinm.	Species	Plantae
+2088	250663	Dicranum brevifolium (Lindb.) Lindb.	Species	Plantae
+1870	74748	Dicranum elongatum Schleich. ex Schwaegr.	Species	Plantae
+2196	74714	Dicranum fuscescens Turn.	Species	Plantae
+1920	74626	Dicranum Hedw.	Genus	Plantae
+1672	251501	Dicranum howellii Ren. & Card.	Species	Plantae
+1744	74659	Dicranum majus Sm.	Species	Plantae
+1780	74737	Dicranum montanum Hedw.	Species	Plantae
+2032	74637	Dicranum polysetum Sw.	Species	Plantae
+1743	74648	Dicranum scoparium Hedw.	Species	Plantae
+2171	251513	Dicranum tauricum Sapeh.	Species	Plantae
+1728	255301	Didymodon rigidulus var. gracilis (Schleich. ex Hook. & Grev.) Zand.	Variety	Plantae
+2125	53665	Diplophyllum obtusifolium (Hook.) Dumort.	Species	Plantae
+2043	53698	Diplophyllum taxifolium (Wahlenb.) Dumort.	Species	Plantae
+1635	130829	Dipsacales	Order	Plantae
+1967	76037	Distichium capillaceum (Hedw.) Bruch & Schimp. in B.S.G.	Species	Plantae
+1809	75100	Ditrichaceae	Family	Plantae
+1810	75111	Ditrichum Hampe	Genus	Plantae
+2079	122361	Draba borealis DC.	Species	Plantae
+1881	122405	Draba incerta Payson	Species	Plantae
+2409	286485	Draba juvenilis Kom.	Species	Plantae
+1980	122360	Draba L.	Genus	Plantae
+2296	122416	Draba nivalis Lilj.	Species	Plantae
+1882	122441	Draba stenoloba Ledeb.	Species	Plantae
+2612	69710	Drepanocladus (C. Müll.) G. Roth	Genus	Plantae
+1673	251553	Drepanocladus sendtneri (Schimp.) Warnst.	Species	Plantae
+1954	125899	Drosera anglica Huds.	Species	Plantae
+2400	125889	Drosera L.	Genus	Plantae
+1784	125898	Drosera rotundifolia L.	Species	Plantae
+2426	125886	Droseraceae	Family	Plantae
+2191	126244	Dryas drummondii Richardson ex Hook.	Species	Plantae
+1939	126235	Dryas integrifolia ssp. integrifolia Vahl	Subspecies	Plantae
+2553	126234	Dryas integrifolia Vahl	Species	Plantae
+2131	126233	Dryas L.	Genus	Plantae
+1667	126239	Dryas octopetala L.	Species	Plantae
+1764	157901	Dryopteridaceae	Family	Plantae
+1875	78580	Dryopteris Adans.	Genus	Plantae
+2284	79551	Dryopteris expansa (C. Presl) Fraser-Jenk. & Jermy	Species	Plantae
+2427	79573	Dryopteris fragrans (L.) Schott	Species	Plantae
+1910	130515	Elaeagnaceae	Family	Plantae
+2494	139092	Eleocharis palustris (L.) Roem. & Schult.	Species	Plantae
+2493	139083	Eleocharis R. Br.	Genus	Plantae
+1732	156033	Elymus alaskanus (Scribn. & Merr.) Á. Löve	Species	Plantae
+2340	144540	Elymus L.	Genus	Plantae
+1773	178082	Elymus repens (L.) Gould	Species	Plantae
+2222	144575	Elymus sibiricus L.	Species	Plantae
+2373	156082	Elymus trachycaulus (Link) Gould ex Shinners	Species	Plantae
+2343	200380	Elymus trachycaulus ssp. trachycaulus (Link) Gould ex Shinners	Subspecies	Plantae
+2143	870389	Elymus violaceus (Hornem.) Feilberg	Species	Plantae
+2396	120183	Empetrum L.	Genus	Plantae
+2397	120184	Empetrum nigrum L.	Species	Plantae
+1857	257303	Encalypta Hedw.	Genus	Plantae
+2293	474216	Enteromorpha intestinalis (Linnaeus) Link	Species	Plantae
+2552	126647	Epilobium anagallidifolium Lam.	Species	Plantae
+2046	126658	Epilobium ciliatum Raf.	Species	Plantae
+2529	126660	Epilobium ciliatum ssp. glandulosum (Lehm.) Hoch & P.H. Raven	Subspecies	Plantae
+2564	126673	Epilobium hornemannii Rchb.	Species	Plantae
+2104	126675	Epilobium hornemannii ssp. behringianum (Hausskn.) Hoch & P.H. Raven	Subspecies	Plantae
+2563	126644	Epilobium L.	Genus	Plantae
+1835	126676	Epilobium lactiflorum Hausskn.	Species	Plantae
+1552	126689	Epilobium palustre L.	Species	Plantae
+2302	79616	Equisetaceae	Family	Plantae
+2428	79605	Equisetales	Order	Plantae
+2239	79672	Equisetum arvense L.	Species	Plantae
+1884	79650	Equisetum fluviatile L.	Species	Plantae
+2431	79694	Equisetum hyemale L.	Species	Plantae
+2303	79627	Equisetum L.	Genus	Plantae
+2501	79683	Equisetum palustre L.	Species	Plantae
+2381	80552	Equisetum pratense Ehrh.	Species	Plantae
+2505	80575	Equisetum sylvaticum L.	Species	Plantae
+1609	79638	Equisetum variegatum Schleich. ex F. Weber & D. Mohr	Species	Plantae
+2554	127184	Ericaceae	Family	Plantae
+2621	127162	Ericales	Order	Plantae
+1633	135986	Erigeron acris L.	Species	Plantae
+1684	136021	Erigeron compositus Pursh	Species	Plantae
+1913	135981	Erigeron humilis Graham	Species	Plantae
+1629	135977	Erigeron L.	Genus	Plantae
+2595	136911	Erigeron peregrinus (Banks ex Pursh) Greene	Species	Plantae
+2489	140223	Eriophorum angustifolium Honck.	Species	Plantae
+2528	140236	Eriophorum callitrix Cham. ex C.A. Mey.	Species	Plantae
+2482	140221	Eriophorum L.	Genus	Plantae
+2038	140228	Eriophorum russeolum Fr.	Species	Plantae
+2039	140231	Eriophorum scheuchzeri Hoppe	Species	Plantae
+2198	140250	Eriophorum vaginatum L.	Species	Plantae
+1557	140252	Eriophorum viridicarinatum (Engelm.) Fernald	Species	Plantae
+2219	123260	Erysimum cheiranthoides L.	Species	Plantae
+1983	122451	Erysimum L.	Genus	Plantae
+2157	848825	Erysimum X marshallii (Henfr.) Bois	Species	Plantae
+2183	95643	Eschscholzia californica Cham.	Species	Plantae
+1907	138348	Euphrasia mollis (Ledeb.) Wettst.	Species	Plantae
+1826	251625	Eurhynchium oreganum (Sull.) Jaeg.	Species	Plantae
+2034	65420	Eurhynchium pulchellum (Hedw.) Jenn.	Species	Plantae
+2033	65409	Eurhynchium Schimp. in B.S.G.	Genus	Plantae
+1968	289540	Eurybia (Cass.) Cass.	Genus	Plantae
+2334	181584	Eurybia sibirica (L.) G.L. Nesom	Species	Plantae
+2618	157903	Fabaceae	Family	Plantae
+1653	157863	Fabales	Order	Plantae
+1740	96440	Fagales	Order	Plantae
+1736	182231	Fallopia convolvulus (L.) Á. Löve	Species	Plantae
+2349	145646	Festuca altaica Trin.	Species	Plantae
+2432	145630	Festuca brachyphylla Schult. & Schult. f.	Species	Plantae
+1767	159888	Festuca brevissima Jurtzev	Species	Plantae
+1716	145628	Festuca L.	Genus	Plantae
+2539	145632	Festuca rubra L.	Species	Plantae
+2325	159917	Festuca saximontana Rydb.	Species	Plantae
+2192	126245	Fragaria L.	Genus	Plantae
+2097	126256	Fragaria vesca L.	Species	Plantae
+2132	126259	Fragaria vesca ssp. bracteata (A. Heller) Staudt	Subspecies	Plantae
+1999	126252	Fragaria X ananassa (Weston) Duchesne ex Rozier (pro sp.)	Species	Plantae
+2326	161012	Fritillaria camschatcensis (L.) Ker Gawl.	Species	Plantae
+2010	141681	Fritillaria L.	Genus	Plantae
+1901	135607	Galeopsis bifida Boenn.	Species	Plantae
+2362	108241	Galeopsis L.	Genus	Plantae
+2475	135610	Galeopsis tetrahit L.	Species	Plantae
+2532	287453	Galium boreale L.	Species	Plantae
+2631	211724	Galium circaezans var. circaezans Michx.	Variety	Plantae
+2478	137981	Galium L.	Genus	Plantae
+1846	137993	Galium trifidum L.	Species	Plantae
+1929	137994	Galium trifidum ssp. trifidum L.	Subspecies	Plantae
+1594	138799	Galium triflorum Michx.	Species	Plantae
+1799	128162	Gentiana douglasiana Bong.	Species	Plantae
+1878	128163	Gentiana glauca Pall.	Species	Plantae
+1658	128148	Gentiana L.	Genus	Plantae
+2263	128147	Gentianaceae	Family	Plantae
+1638	128090	Gentianales	Order	Plantae
+1641	129055	Gentianella amarella (L.) Börner	Species	Plantae
+1948	129058	Gentianella amarella ssp. acuta (Michx.) J.M. Gillett	Subspecies	Plantae
+2574	129054	Gentianella Moench	Genus	Plantae
+1872	148897	Geocaulon Fernald	Genus	Plantae
+1762	157448	Geocaulon lividum (Richardson) Fernald	Species	Plantae
+2577	130069	Geraniaceae	Family	Plantae
+1800	128418	Geraniales	Order	Plantae
+2152	157452	Geranium erianthum DC.	Species	Plantae
+1651	130070	Geranium L.	Genus	Plantae
+1797	126272	Geum calthifolium Menzies ex Sm.	Species	Plantae
+2133	126267	Geum L.	Genus	Plantae
+2361	106580	Geum macrophyllum var. macrophyllum Willd.	Variety	Plantae
+2411	126278	Geum macrophyllum Willd.	Species	Plantae
+2412	126285	Geum rossii (R. Br.) Ser.	Species	Plantae
+2543	145683	Glyceria borealis (Nash) Batch.	Species	Plantae
+2126	145672	Glyceria R. Br.	Genus	Plantae
+2441	148031	Goodyera R. Br.	Genus	Plantae
+1554	148034	Goodyera repens (L.) R. Br.	Species	Plantae
+1811	76455	Grimmia anodon Bruch & Schimp. in B.S.G.	Species	Plantae
+2474	77314	Grimmia donniana Sm.	Species	Plantae
+2014	75350	Grimmia Hedw.	Genus	Plantae
+2013	75339	Grimmiaceae	Family	Plantae
+2170	74413	Grimmiales	Order	Plantae
+2136	121780	Grossulariaceae	Family	Plantae
+1600	83130	Gymnocarpium dryopteris (L.) Newman	Species	Plantae
+1615	83119	Gymnocarpium Newman	Genus	Plantae
+2262	58184	Gymnocolea (Dumort.) Dumort.	Genus	Plantae
+1836	58218	Gymnocolea inflata (Huds.) Dumort.	Species	Plantae
+2119	51090	Gymnomitrion corralioides Nees	Species	Plantae
+2155	51145	Gymnomitrion pacificum Grolle	Species	Plantae
+2360	111012	Gypsophila elegans M. Bieb.	Species	Plantae
+1758	252569	Hamatocaulis vernicosus (Mitt.) Hedenäs	Species	Plantae
+2140	119296	Harrimanella Coville	Genus	Plantae
+2388	119297	Harrimanella hypnoides (L.) Coville	Species	Plantae
+1547	159074	Harrimanella stelleriana (Pall.) Coville	Species	Plantae
+2321	121881	Hedysarum alpinum L.	Species	Plantae
+2320	121880	Hedysarum L.	Genus	Plantae
+2012	142204	Helianthus annuus L.	Species	Plantae
+1765	157908	Helodiaceae	Family	Plantae
+2465	67948	Helodium blandowii (Web. & Mohr) Warnst.	Species	Plantae
+2112	67937	Helodium Warnst.	Genus	Plantae
+2003	134815	Heracleum L.	Genus	Plantae
+2004	134818	Heracleum sphondylium L.	Species	Plantae
+2147	124336	Heuchera glabra Willd. ex Roem. & Schult.	Species	Plantae
+2063	124320	Heuchera L.	Genus	Plantae
+2486	142162	Hieracium aurantiacum L.	Species	Plantae
+2375	161162	Hieracium caespitosum Dumort.	Species	Plantae
+1699	142156	Hieracium L.	Genus	Plantae
+1938	143024	Hieracium triste Willd. ex Spreng.	Species	Plantae
+1706	161228	Hieracium umbellatum L.	Species	Plantae
+2220	125202	Hippuris L.	Genus	Plantae
+2221	125203	Hippuris tetraphylla L. f.	Species	Plantae
+1681	125204	Hippuris vulgaris L.	Species	Plantae
+1982	110382	Honckenya Ehrh.	Genus	Plantae
+2352	146265	Hordeum brachyantherum Nevski	Species	Plantae
+2209	146261	Hordeum jubatum L.	Species	Plantae
+2544	145709	Hordeum L.	Genus	Plantae
+2547	146264	Hordeum vulgare L.	Species	Plantae
+1730	107302	Huperzia Bernh.	Genus	Plantae
+1855	255924	Hygroamblystegium tenax var. tenax (Hedw.) Jenn.	Variety	Plantae
+1560	63356	Hylocomiaceae	Family	Plantae
+1883	257324	Hylocomiastrum Fleisch. in Broth.	Genus	Plantae
+1655	253572	Hylocomiastrum umbratum (Hedw.) Fleisch. in Broth.	Species	Plantae
+1891	64193	Hylocomium Schimp. in B.S.G.	Genus	Plantae
+2025	64204	Hylocomium splendens (Hedw.) Schimp. in B.S.G.	Species	Plantae
+1822	68119	Hypnaceae	Family	Plantae
+1895	66096	Hypnales	Order	Plantae
+1917	69247	Hypnum circinale Hook.	Species	Plantae
+1823	68132	Hypnum Hedw.	Genus	Plantae
+1824	68143	Hypnum revolutum (Mitt.) Lindb.	Species	Plantae
+1656	253591	Hypnum subimponens Lesq.	Species	Plantae
+1790	130162	Impatiens noli-tangere L.	Species	Plantae
+1701	144283	Iridaceae	Family	Plantae
+1755	144284	Iris L.	Genus	Plantae
+1580	144288	Iris setosa Pall. ex Link	Species	Plantae
+1789	77887	Isoetes echinospora Durieu	Species	Plantae
+1724	91233	Isoetes maritima Underw.	Species	Plantae
+2504	71958	Isopterygium Mitt.	Genus	Plantae
+2500	143434	Juncaceae	Family	Plantae
+2497	141545	Juncaginaceae	Family	Plantae
+2087	158253	Juncus alpinoarticulatus Chaix	Species	Plantae
+2518	143443	Juncus bufonius L.	Species	Plantae
+1746	143445	Juncus castaneus Sm.	Species	Plantae
+1748	143458	Juncus filiformis L.	Species	Plantae
+2180	143436	Juncus L.	Genus	Plantae
+1816	143516	Juncus mertensianus Bong.	Species	Plantae
+1747	143456	Juncus triglumis L.	Species	Plantae
+1620	51780	Jungermanniaceae	Family	Plantae
+1595	45055	Jungermanniales	Order	Plantae
+2057	103497	Juniperus communis L.	Species	Plantae
+2134	103503	Juniperus communis var. montana Aiton	Variety	Plantae
+2322	92539	Juniperus L.	Genus	Plantae
+1996	134010	Lamiaceae	Family	Plantae
+1642	130260	Lamiales	Order	Plantae
+2634	214930	Lathyrus japonicus var. maritimus (L.) Kartesz & Gandhi	Variety	Plantae
+2300	123892	Lathyrus japonicus Willd.	Species	Plantae
+2299	123890	Lathyrus L.	Genus	Plantae
+2213	124594	Lathyrus palustris L.	Species	Plantae
+2285	149495	Lemna minor L.	Species	Plantae
+1632	149500	Lemna trisulca L.	Species	Plantae
+1621	135312	Lentibulariaceae	Family	Plantae
+2611	143735	Leontodon autumnalis L.	Species	Plantae
+2295	123290	Lepidium densiflorum Schrad.	Species	Plantae
+2298	123307	Lepidium ramosissimum A. Nelson	Species	Plantae
+2445	46263	Lepidozia (Dumort.) Dumort.	Genus	Plantae
+2446	46286	Lepidozia reptans (L.) Dumort.	Species	Plantae
+1756	45316	Lepidoziaceae	Family	Plantae
+2420	124373	Leptarrhena pyrolifolia (D. Don) R. Br. ex Ser.	Species	Plantae
+2236	124372	Leptarrhena R. Br.	Genus	Plantae
+2111	67915	Leptobryum (Bruch & Schimp. in B.S.G.) Wils.	Genus	Plantae
+1918	69266	Leptobryum pyriforme (Hedw.) Wils.	Species	Plantae
+1858	257334	Leptodictyum (Schimp.) Warnst.	Genus	Plantae
+1657	253623	Leptodictyum humile (P. Beauv.) Ochyra	Species	Plantae
+1922	73231	Lescuraea Schimp. in B.S.G.	Genus	Plantae
+2029	70564	Leskeaceae	Family	Plantae
+1753	143757	Leucanthemum maximum (Ramond) DC.	Species	Plantae
+1754	143758	Leucanthemum vulgare Lam.	Species	Plantae
+1888	148993	Leymus Hochst.	Genus	Plantae
+2227	161557	Leymus mollis (Trin.) Pilg.	Species	Plantae
+2629	203763	Leymus mollis ssp. mollis (Trin.) Pilg.	Subspecies	Plantae
+1589	133465	Ligusticum L.	Genus	Plantae
+1652	133466	Ligusticum scoticum L.	Species	Plantae
+2158	149543	Liliaceae	Family	Plantae
+2253	149520	Liliales	Order	Plantae
+2248	253646	Limprichtia revolvens (Sw.) Loeske	Species	Plantae
+1628	135664	Linaria vulgaris Mill.	Species	Plantae
+1803	131703	Linnaea borealis L.	Species	Plantae
+1990	131702	Linnaea L.	Genus	Plantae
+1832	130186	Linum grandiflorum Desf.	Species	Plantae
+1958	131394	Linum perenne L.	Species	Plantae
+2336	150368	Lloydia Salisb. ex Rchb.	Genus	Plantae
+1710	150370	Lloydia serotina (L.) Salisb. ex Rchb.	Species	Plantae
+2353	146284	Lolium multiflorum Lam.	Species	Plantae
+2139	146285	Lolium perenne L.	Species	Plantae
+2550	51040	Lophocolea heterophylla (Schrad.) Dumort.	Species	Plantae
+2624	48652	Lophozia (Dumort.) Dumort.	Genus	Plantae
+1614	49588	Lophozia bicrenata (Schmidel ex Hoffm.) Dumort.	Species	Plantae
+2122	52176	Lophozia incisa (Schrad.) Dumort.	Species	Plantae
+2572	53068	Lophozia obtusa (Lindb.) A. Evans	Species	Plantae
+2270	54451	Lophozia sudetica (Nees ex Huebener) Grolle	Species	Plantae
+1631	54462	Lophozia ventricosa (Dicks.) Dumort.	Species	Plantae
+1575	149006	Luetkea Bong.	Genus	Plantae
+1848	162941	Luetkea pectinata (Pursh) Kuntze	Species	Plantae
+2080	124651	Lupinus arcticus S. Watson	Species	Plantae
+2429	124650	Lupinus L.	Genus	Plantae
+2405	125629	Lupinus nootkatensis Donn ex Sims	Species	Plantae
+2297	124656	Lupinus polyphyllus Lindl.	Species	Plantae
+2604	144384	Luzula arcuata (Wahlenb.) Sw.	Species	Plantae
+1702	144377	Luzula DC.	Genus	Plantae
+2049	144380	Luzula multiflora (Ehrh.) Lej.	Species	Plantae
+1899	144395	Luzula parviflora (Ehrh.) Desv.	Species	Plantae
+2627	201698	Luzula parviflora ssp. parviflora (Ehrh.) Desv.	Subspecies	Plantae
+2181	144396	Luzula piperi (Coville) M.E. Jones	Species	Plantae
+2031	144399	Luzula spicata (L.) DC.	Species	Plantae
+2517	144382	Luzula wahlenbergii Rupr.	Species	Plantae
+1785	79166	Lycopodiaceae	Family	Plantae
+1649	79155	Lycopodiales	Order	Plantae
+1781	80025	Lycopodium alpinum L.	Species	Plantae
+1563	80036	Lycopodium annotinum L.	Species	Plantae
+2078	80103	Lycopodium clavatum L.	Species	Plantae
+2307	80114	Lycopodium complanatum L.	Species	Plantae
+1829	79177	Lycopodium L.	Genus	Plantae
+2380	169612	Lycopodium lagopus (Laest. ex Hartm.) G. Zinserl. ex Kuzen.	Species	Plantae
+1763	157789	Maianthemum stellatum (L.) Link	Species	Plantae
+2229	149621	Malaxis paludosa (L.) Sw.	Species	Plantae
+1647	782269	Malpighiales	Order	Plantae
+2471	61541	Marchantia L.	Genus	Plantae
+2184	61574	Marchantia polymorpha L.	Species	Plantae
+1887	60525	Marchantiaceae	Family	Plantae
+1565	56280	Marchantiales	Order	Plantae
+2591	60815	Marsupella condensata (Ångstr. ex C. Hartm.) Lindb. ex Kaal.	Species	Plantae
+1793	153776	Matricaria discoidea DC.	Species	Plantae
+1921	84388	Matteuccia struthiopteris (L.) Tod.	Species	Plantae
+2338	158887	Medicago lupulina L.	Species	Plantae
+1812	65069	Meesia Hedw.	Genus	Plantae
+1818	65091	Meesia longiseta Hedw.	Species	Plantae
+1928	65080	Meesia uliginosa Hedw.	Species	Plantae
+1679	65013	Meesiaceae	Family	Plantae
+2141	126514	Melilotus officinalis (L.) Lam.	Species	Plantae
+1814	137186	Menyanthaceae	Family	Plantae
+2454	129104	Menyanthes L.	Genus	Plantae
+2455	129105	Menyanthes trifoliata L.	Species	Plantae
+2390	119314	Menziesia ferruginea Sm.	Species	Plantae
+2389	119313	Menziesia Sm.	Genus	Plantae
+1833	130295	Mertensia paniculata (Aiton) G. Don	Species	Plantae
+2265	130291	Mertensia Roth	Genus	Plantae
+1663	135686	Mimulus guttatus DC.	Species	Plantae
+2365	111441	Minuartia arctica (Steven ex Ser.) Graebn.	Species	Plantae
+2625	111429	Minuartia L.	Genus	Plantae
+1951	111452	Minuartia macrocarpa (Pursh) Ostenf.	Species	Plantae
+2367	112278	Minuartia rubella (Wahlenb.) Hiern	Species	Plantae
+2421	124395	Mitella L.	Genus	Plantae
+2042	69333	Mniaceae	Family	Plantae
+2502	69344	Mnium Hedw.	Genus	Plantae
+2201	70215	Mnium spinulosum Bruch & Schimp. in B.S.G.	Species	Plantae
+2068	114788	Moehringia L.	Genus	Plantae
+1719	114799	Moehringia lateriflora (L.) Fenzl	Species	Plantae
+2255	149880	Moneses Salisb. ex Gray	Genus	Plantae
+2153	161413	Moneses uniflora (L.) A. Gray	Species	Plantae
+1943	48354	Mylia anomala (Hook.) Gray	Species	Plantae
+1942	48342	Mylia Gray	Genus	Plantae
+2226	161466	Myosotis asiatica (Vestergr.) Schischk. & Serg.	Species	Plantae
+2540	130320	Myosotis L.	Genus	Plantae
+2178	96351	Myrica gale L.	Species	Plantae
+1890	96162	Myrica L.	Genus	Plantae
+2252	96128	Myricaceae	Family	Plantae
+2430	125176	Myriophyllum farwellii Morong	Species	Plantae
+2324	161492	Myriophyllum sibiricum Kom.	Species	Plantae
+2235	125173	Myriophyllum verticillatum L.	Species	Plantae
+2232	125208	Myrtales	Order	Plantae
+2606	68751	Myurella sibirica (C. Müll.) Reim.	Species	Plantae
+2148	50194	Nardia Gray	Genus	Plantae
+1559	51365	Nardia scalaris Gray	Species	Plantae
+2268	128563	Nemophila menziesii Hook. & Arn.	Species	Plantae
+2613	162455	Nuphar lutea (L.) Sm.	Species	Plantae
+1646	86007	Nuphar Sm.	Genus	Plantae
+1945	86840	Nymphaea tetragona Georgi	Species	Plantae
+1953	85571	Nymphaeaceae	Family	Plantae
+1851	85560	Nymphaeales	Order	Plantae
+2562	126642	Onagraceae	Family	Plantae
+2503	70413	Oncophorus (Brid.) Brid.	Genus	Plantae
+1923	70424	Oncophorus virens (Hedw.) Brid.	Species	Plantae
+2522	70446	Oncophorus wahlenbergii Brid.	Species	Plantae
+1877	81333	Ophioglossaceae	Family	Plantae
+2506	80652	Ophioglossales	Order	Plantae
+1994	132526	Oplopanax (Torr. & A. Gray) Miq.	Genus	Plantae
+1995	132527	Oplopanax horridus (Sm.) Miq.	Species	Plantae
+2512	146979	Orchidaceae	Family	Plantae
+1997	134462	Orobanchaceae	Family	Plantae
+2256	149913	Orthilia Raf.	Genus	Plantae
+2602	157180	Orthilia secunda (L.) House	Species	Plantae
+1893	65891	Orthotrichum Hedw.	Genus	Plantae
+1894	65902	Orthotrichum obtusifolium Brid.	Species	Plantae
+1897	66761	Orthotrichum rupestre Schleich. ex Schwaegr.	Species	Plantae
+1677	126358	Osmorhiza depauperata Phil.	Species	Plantae
+1941	126351	Osmorhiza Raf.	Genus	Plantae
+1880	116005	Oxyria digyna (L.) Hill	Species	Plantae
+1783	115994	Oxyria Hill	Genus	Plantae
+1592	126531	Oxytropis campestris (L.) DC.	Species	Plantae
+2560	126519	Oxytropis DC.	Genus	Plantae
+2142	126522	Oxytropis nigrescens (Pall.) Fisch. ex DC.	Species	Plantae
+2047	126527	Oxytropis splendens Douglas ex Hook.	Species	Plantae
+2287	290296	Packera Á. Löve & D. Löve	Genus	Plantae
+2245	289976	Packera cymbalaria (Pursh) W.A. Weber & Á. Löve	Species	Plantae
+2185	192582	Packera indecora (Greene) Á. Löve & D. Löve	Species	Plantae
+1680	65036	Paludella squarrosa (Hedw.) Brid.	Species	Plantae
+1593	251301	Palustriella commutata (Brid.) Ochyra	Species	Plantae
+2356	100020	Papaver alboroseum Hultén	Species	Plantae
+1768	99965	Papaver L.	Genus	Plantae
+2243	101263	Papaver nudicaule L.	Species	Plantae
+2355	99954	Papaveraceae	Family	Plantae
+2218	122572	Parnassia L.	Genus	Plantae
+2165	122575	Parnassia palustris L.	Species	Plantae
+2479	136618	Pedicularis capitata M.F. Adams	Species	Plantae
+1686	136617	Pedicularis L.	Genus	Plantae
+1544	136646	Pedicularis labradorica Wirsing	Species	Plantae
+2605	136630	Pedicularis lanata Cham. & Schltdl.	Species	Plantae
+2374	158627	Pedicularis macrodonta Richardson	Species	Plantae
+2260	136651	Pedicularis parviflora Sm.	Species	Plantae
+1927	136623	Pedicularis verticillata L.	Species	Plantae
+2000	848140	Persicaria amphibia (L.) Delarbre	Species	Plantae
+2508	848107	Persicaria maculosa Gray	Species	Plantae
+2594	137455	Petasites frigidus (L.) Fr.	Species	Plantae
+2596	137454	Petasites Mill.	Genus	Plantae
+1695	139359	Phalaris arundinacea L.	Species	Plantae
+2341	160700	Phegopteris connectilis (Michx.) Watt	Species	Plantae
+2257	149943	Phegopteris Fée	Genus	Plantae
+2203	147309	Phleum alpinum L.	Species	Plantae
+2437	147307	Phleum L.	Genus	Plantae
+2438	147308	Phleum pratense L.	Species	Plantae
+2392	119324	Phyllodoce aleutica (Spreng.) Heller	Species	Plantae
+2391	119323	Phyllodoce Salisb.	Genus	Plantae
+1805	91722	Picea A. Dietr.	Genus	Plantae
+1626	93037	Picea glauca (Moench) Voss	Species	Plantae
+1687	93046	Picea mariana (Mill.) Britton, Sterns & Poggenb.	Species	Plantae
+1859	102780	Picea X lutzii Little	Species	Plantae
+2163	91689	Pinaceae	Family	Plantae
+2250	157869	Pinales	Order	Plantae
+2005	135313	Pinguicula L.	Genus	Plantae
+1630	135314	Pinguicula villosa L.	Species	Plantae
+2089	135323	Pinguicula vulgaris L.	Species	Plantae
+1865	93073	Pinus contorta Douglas ex Loudon	Species	Plantae
+2636	251329	Plagiomnium ciliare (C. Müll.) T. Kop.	Species	Plantae
+2082	251335	Plagiomnium ellipticum (Brid.) T. Kop.	Species	Plantae
+2130	251337	Plagiomnium insigne (Mitt.) T. Kop.	Species	Plantae
+2278	255752	Plagiomnium medium (Bruch & Schimp. in B.S.G.) T. Kop.	Species	Plantae
+1671	251339	Plagiomnium rostratum (Schrad.) T. Kop.	Species	Plantae
+2281	70939	Plagiomnium T. Kop.	Genus	Plantae
+2092	67350	Plagiotheciaceae	Family	Plantae
+1697	68075	Plagiothecium denticulatum (Hedw.) Schimp. in B.S.G.	Species	Plantae
+1674	68064	Plagiothecium laetum Schimp. in B.S.G.	Species	Plantae
+2103	67361	Plagiothecium Schimp. in B.S.G.	Genus	Plantae
+2453	129345	Plantaginaceae	Family	Plantae
+1795	129347	Plantago L.	Genus	Plantae
+2575	129365	Plantago major L.	Species	Plantae
+1796	129348	Plantago maritima L.	Species	Plantae
+2633	214526	Plantago maritima var. juncoides (Lam.) A. Gray	Variety	Plantae
+2435	147011	Platanthera dilatata (Pursh) Lindl. ex L.C. Beck	Species	Plantae
+2548	146996	Platanthera obtusata (Banks ex Pursh) Lindl.	Species	Plantae
+2214	146995	Platanthera Rich.	Genus	Plantae
+1830	829846	Pleurocladula albescens (Hook.) Grolle	Species	Plantae
+1801	63367	Pleurozium Mitt.	Genus	Plantae
+1791	64182	Pleurozium schreberi (Brid.) Mitt.	Species	Plantae
+2354	147323	Poa alpina L.	Species	Plantae
+1644	148055	Poa annua L.	Species	Plantae
+1874	147324	Poa arctica R. Br.	Species	Plantae
+1849	206411	Poa arctica ssp. lanata (Scribn. & Merr.) Soreng	Subspecies	Plantae
+2509	147330	Poa compressa L.	Species	Plantae
+2368	147332	Poa glauca Vahl	Species	Plantae
+2204	147321	Poa L.	Genus	Plantae
+2439	147334	Poa macrocalyx Trautv. & C.A. Mey.	Species	Plantae
+2205	147336	Poa pratensis L.	Species	Plantae
+2414	206563	Poa pratensis ssp. irrigata (Lindm.) H. Lindb.	Subspecies	Plantae
+2290	292239	Poa pratensis ssp. pratensis L.	Subspecies	Plantae
+1576	148112	Poa stenantha Trin.	Species	Plantae
+1742	148117	Poa trivialis L.	Species	Plantae
+2011	141858	Poaceae	Family	Plantae
+2274	252196	Pogonatum contortum (Brid.) Lesq.	Species	Plantae
+2172	65995	Pogonatum urnigerum (Hedw.) P. Beauv.	Species	Plantae
+2110	67804	Pohlia cruda (Hedw.) Lindb.	Species	Plantae
+1962	66978	Pohlia elongata Hedw.	Species	Plantae
+2466	65348	Pohlia Hedw.	Genus	Plantae
+1898	67793	Pohlia nutans (Hedw.) Lindb.	Species	Plantae
+2275	252234	Pohlia vexans (Limpr.) H. Lindb.	Species	Plantae
+1961	66877	Pohlia wahlenbergii (Web. & Mohr) Andrews	Species	Plantae
+1815	137187	Polemoniaceae	Family	Plantae
+1549	138899	Polemonium boreale Adams	Species	Plantae
+2491	138901	Polemonium boreale ssp. macranthum (Cham.) Hultén	Subspecies	Plantae
+2492	138904	Polemonium caeruleum L.	Species	Plantae
+2347	206582	Polemonium caeruleum ssp. villosum (J.H. Rudolph ex Georgi) Brand	Subspecies	Plantae
+2609	138895	Polemonium L.	Genus	Plantae
+1986	138924	Polemonium pulcherrimum Hook.	Species	Plantae
+2384	115961	Polygonaceae	Family	Plantae
+2053	118747	Polygonum aviculare L.	Species	Plantae
+2160	116016	Polygonum L.	Genus	Plantae
+1902	74598	Polypodiaceae	Family	Plantae
+1654	157870	Polypodiales	Order	Plantae
+2195	74620	Polypodium L.	Genus	Plantae
+1850	81103	Polystichum lonchitis (L.) Roth	Species	Plantae
+1966	64165	Polytrichaceae	Family	Plantae
+2559	43380	Polytrichales	Order	Plantae
+2244	255756	Polytrichastrum alpinum (Hedw.) G.L. Sm.	Species	Plantae
+2071	64857	Polytrichum commune Hedw.	Species	Plantae
+2277	255979	Polytrichum commune var. jensenii (Hag.) Mönk. in Warnst.	Variety	Plantae
+1959	64846	Polytrichum Hedw.	Genus	Plantae
+1690	64891	Polytrichum juniperinum Hedw.	Species	Plantae
+1678	64946	Polytrichum longisetum Brid.	Species	Plantae
+1607	252243	Polytrichum lyallii (Mitt.) Kindb.	Species	Plantae
+1688	64924	Polytrichum piliferum Hedw.	Species	Plantae
+1610	252249	Polytrichum sexangulare Brid.	Species	Plantae
+1771	252253	Polytrichum strictum Brid.	Species	Plantae
+2247	118568	Populus L.	Genus	Plantae
+2054	105864	Populus tremuloides Michx.	Species	Plantae
+1729	105822	Populus trichocarpa Torr. & A. Gray ex Hook.	Species	Plantae
+2048	50374	Porella cordaeana (Huebener) Moore	Species	Plantae
+2363	108744	Portulacaceae	Family	Plantae
+2108	141597	Potamogeton gramineus L.	Species	Plantae
+2190	141567	Potamogeton L.	Genus	Plantae
+2107	141570	Potamogeton natans L.	Species	Plantae
+2499	141607	Potamogeton obtusifolius Mert. & W.D.J. Koch	Species	Plantae
+2484	141608	Potamogeton praelongus Wulfen	Species	Plantae
+2498	141580	Potamogeton pusillus L.	Species	Plantae
+2457	292249	Potamogeton pusillus ssp. tenuissimus (Mert. & W.D.J. Koch) R.R. Haynes & Hellq.	Subspecies	Plantae
+2052	158721	Potamogeton richardsonii (A. Benn.) Rydb.	Species	Plantae
+2098	158723	Potamogeton robbinsii Oakes	Species	Plantae
+2258	141622	Potamogeton zosteriformis Fernald	Species	Plantae
+2189	141566	Potamogetonaceae	Family	Plantae
+2335	191375	Potentilla furcata A.E. Porsild	Species	Plantae
+2050	127012	Potentilla gracilis Douglas ex Hook.	Species	Plantae
+1936	126291	Potentilla L.	Genus	Plantae
+1705	159745	Potentilla nana Willd. ex Schltdl.	Species	Plantae
+1886	127030	Potentilla norvegica L.	Species	Plantae
+2444	127036	Potentilla pensylvanica L.	Species	Plantae
+2413	126304	Potentilla uniflora Ledeb.	Species	Plantae
+2095	127060	Potentilla vahliana Lehm.	Species	Plantae
+2443	126305	Potentilla villosa Pall. ex Pursh	Species	Plantae
+1788	72608	Pottiaceae	Family	Plantae
+1564	72596	Pottiales	Order	Plantae
+1947	121696	Primula cuneifolia Ledeb.	Species	Plantae
+2164	121692	Primula L.	Genus	Plantae
+2073	121061	Primulaceae	Family	Plantae
+2215	252278	Pseudobryum cinclidioides (Hüb.) T. Kop.	Species	Plantae
+1665	252280	Pseudocalliergon turgescens (T. Jens.) Loeske	Species	Plantae
+1854	255750	Pseudoleskea incurvata (Hedw.) Loeske	Species	Plantae
+1856	255991	Pseudoleskea radicosa var. radicosa (Mitt.) Mac. & Kindb.	Variety	Plantae
+1689	64705	Pseudoscleropodium purum (Hedw.) Fleisch. in Broth.	Species	Plantae
+2408	252312	Pseudotaxiphyllum elegans (Brid.) Iwats.	Species	Plantae
+2197	136403	Psilocarphus elatior (A. Gray) A. Gray	Species	Plantae
+1766	157919	Pteridaceae	Family	Plantae
+2619	157921	Ptilidiaceae	Family	Plantae
+2212	50264	Ptilidium ciliare (L.) Hampe	Species	Plantae
+2447	49571	Ptilidium Nees	Genus	Plantae
+1906	50286	Ptilidium pulcherrimum (Weber) Vain.	Species	Plantae
+2102	70096	Ptilium crista-castrensis (Hedw.) De Not.	Species	Plantae
+1998	70084	Ptilium De Not.	Genus	Plantae
+1624	148148	Puccinellia nutkaensis (J. Presl) Fernald & Weath.	Species	Plantae
+2059	148131	Puccinellia Parl.	Genus	Plantae
+1643	72973	Pylaisiella polyantha (Hedw.) Grout	Species	Plantae
+2084	120195	Pyrola asarifolia Michx.	Species	Plantae
+2399	120199	Pyrola chlorantha Sw.	Species	Plantae
+2292	120196	Pyrola grandiflora Radius	Species	Plantae
+2398	120194	Pyrola L.	Genus	Plantae
+2144	120203	Pyrola minor L.	Species	Plantae
+1879	253024	Racomitrium affine (Schleich. ex Web. & Mohr) Lindb.	Species	Plantae
+2348	248801	Racomitrium Brid.	Genus	Plantae
+1727	255063	Racomitrium canescens (Hedw.) Brid.	Species	Plantae
+1960	253037	Racomitrium ericoides (Web. ex Brid.) Brid.	Species	Plantae
+1759	253041	Racomitrium heterostichum (Hedw.) Brid.	Species	Plantae
+2074	253043	Racomitrium lanuginosum (Hedw.) Brid.	Species	Plantae
+1587	253049	Racomitrium microcarpon (Hedw.) Brid.	Species	Plantae
+1588	253064	Racomitrium sudeticum (Funck) Bruch & Schimp. in B.S.G.	Species	Plantae
+1582	88437	Ranunculaceae	Family	Plantae
+1581	88425	Ranunculales	Order	Plantae
+2115	96880	Ranunculus eschscholtzii Schltdl.	Species	Plantae
+1627	93230	Ranunculus hyperboreus Rottb.	Species	Plantae
+1971	92427	Ranunculus L.	Genus	Plantae
+1915	97757	Ranunculus lapponicus L.	Species	Plantae
+1956	98542	Ranunculus nivalis L.	Species	Plantae
+1957	98553	Ranunculus occidentalis Nutt.	Species	Plantae
+2176	133259	Rhinanthus L.	Genus	Plantae
+1949	161895	Rhinanthus minor L.	Species	Plantae
+2472	70950	Rhizomnium (Broth.) T. Kop.	Genus	Plantae
+1760	253089	Rhizomnium magnifolium (Horik.) T. Kop.	Species	Plantae
+2156	253091	Rhizomnium nudum (Britt. & Williams) T. Kop.	Species	Plantae
+1709	193200	Rhodiola integrifolia Raf.	Species	Plantae
+2310	292253	Rhodiola integrifolia ssp. integrifolia Raf.	Subspecies	Plantae
+2288	290319	Rhodiola L.	Genus	Plantae
+2382	193215	Rhododendron groenlandicum (Oeder) Kron & Judd	Species	Plantae
+1648	783962	Rhododendron tomentosum Harmaja	Species	Plantae
+1892	64282	Rhytidiadelphus (Lindb. ex Limpr.) Warnst.	Genus	Plantae
+2035	65655	Rhytidiadelphus loreus (Hedw.) Warnst.	Species	Plantae
+2468	64304	Rhytidiadelphus squarrosus (Hedw.) Warnst.	Species	Plantae
+2467	64293	Rhytidiadelphus triquetrus (Hedw.) Warnst.	Species	Plantae
+2113	65688	Rhytidium rugosum (Hedw.) Kindb.	Species	Plantae
+2137	124450	Ribes bracteosum Douglas ex Hook.	Species	Plantae
+2233	125266	Ribes glandulosum Grauer	Species	Plantae
+1584	125272	Ribes hudsonianum Richardson	Species	Plantae
+2231	124443	Ribes L.	Genus	Plantae
+1682	125277	Ribes lacustre (Pers.) Poir.	Species	Plantae
+1683	125279	Ribes laxiflorum Pursh	Species	Plantae
+1585	125309	Ribes triste Pall.	Species	Plantae
+1669	123341	Rorippa palustris (L.) Besser	Species	Plantae
+1553	127121	Rosa acicularis Lindl.	Species	Plantae
+2096	127115	Rosa L.	Genus	Plantae
+1558	127945	Rosa nutkana C. Presl	Species	Plantae
+2425	125346	Rosaceae	Family	Plantae
+2318	121739	Rosales	Order	Plantae
+2597	137968	Rubiaceae	Family	Plantae
+2022	127960	Rubus arcticus L.	Species	Plantae
+2106	127962	Rubus chamaemorus L.	Species	Plantae
+1640	128870	Rubus idaeus L.	Species	Plantae
+2021	127959	Rubus L.	Genus	Plantae
+2210	128939	Rubus pedatus Sm.	Species	Plantae
+2269	128986	Rubus spectabilis Pursh	Species	Plantae
+2387	115834	Rumex acetosella L.	Species	Plantae
+2216	115845	Rumex arcticus Trautv.	Species	Plantae
+2075	115867	Rumex crispus L.	Species	Plantae
+1720	115823	Rumex L.	Genus	Plantae
+2378	165147	Rumex longifolius DC.	Species	Plantae
+1889	140802	Sagittaria cuneata E. Sheld.	Species	Plantae
+2312	118567	Salicaceae	Family	Plantae
+2319	121796	Salicornia L.	Genus	Plantae
+1704	159389	Salicornia maritima S.L. Wolff & Jefferies	Species	Plantae
+2395	119698	Salix alaxensis (Andersson) Coville	Species	Plantae
+2129	119708	Salix barclayi Andersson	Species	Plantae
+2406	119710	Salix bebbiana Sarg.	Species	Plantae
+1774	119726	Salix commutata Bebb	Species	Plantae
+1602	119742	Salix fuscescens Andersson	Species	Plantae
+2385	119682	Salix glauca L.	Species	Plantae
+2286	119675	Salix L.	Genus	Plantae
+1776	119758	Salix lasiandra Benth.	Species	Plantae
+2410	286623	Salix myrtillifolia Andersson	Species	Plantae
+2383	197242	Salix niphoclada Rydb.	Species	Plantae
+1606	119685	Salix ovalifolia Trautv.	Species	Plantae
+2393	119688	Salix pulchra Cham.	Species	Plantae
+2394	119689	Salix reticulata L.	Species	Plantae
+2339	159450	Salix scouleriana Barratt ex Hook.	Species	Plantae
+1969	120463	Salix sitchensis Sanson ex Bong.	Species	Plantae
+2404	120466	Salix stolonifera Coville	Species	Plantae
+2456	131704	Sambucus L.	Genus	Plantae
+1991	131716	Sambucus racemosa L.	Species	Plantae
+2415	218049	Sambucus racemosa var. racemosa L.	Variety	Plantae
+2317	120361	Sanguisorba canadensis L.	Species	Plantae
+1778	120357	Sanguisorba L.	Genus	Plantae
+2635	248813	Sanionia Loeske	Genus	Plantae
+1569	255034	Sanionia uncinata (Hedw.) Loeske	Species	Plantae
+1604	256004	Sanionia uncinata var. uncinata (Hedw.) Loeske	Variety	Plantae
+1828	131275	Santalaceae	Family	Plantae
+2585	131261	Santalales	Order	Plantae
+1761	253110	Sarmenthypnum sarmentosum (Wahlenb.) Tuom. & T. Kop.	Species	Plantae
+1979	123386	Saxifraga bronchialis L.	Species	Plantae
+2419	123389	Saxifraga bronchialis ssp. funstonii (Small) Hultén	Subspecies	Plantae
+2424	123447	Saxifraga flagellaris ssp. platysepala (Trautv.) A.E. Porsild	Subspecies	Plantae
+2162	122583	Saxifraga L.	Genus	Plantae
+2145	123403	Saxifraga oppositifolia L.	Species	Plantae
+2146	123420	Saxifraga tricuspidata Rottb.	Species	Plantae
+1668	122553	Saxifragaceae	Family	Plantae
+2551	56062	Scapania hyperborea Jørg.	Species	Plantae
+2527	58825	Scapania scandica (Arnell & H. Buch) Macvicar	Species	Plantae
+2058	141542	Scheuchzeria palustris L.	Species	Plantae
+1944	253117	Schistidium apocarpum (Hedw.) Bruch & Schimp. in B.S.G.	Species	Plantae
+2069	167014	Schoenoplectus tabernaemontani (C.C. Gmel.) Palla	Species	Plantae
+2006	140927	Scirpus microcarpus J. Presl & C. Presl	Species	Plantae
+1779	71751	Scorpidium scorpioides (Hedw.) Limpr.	Species	Plantae
+2576	129764	Scrophulariaceae	Family	Plantae
+2434	146013	Secale cereale L.	Species	Plantae
+2217	122461	Sedum L.	Genus	Plantae
+1908	138491	Senecio integerrimus Nutt.	Species	Plantae
+2416	218092	Senecio integerrimus var. exaltatus (Nutt.) Cronquist	Variety	Plantae
+2150	137488	Senecio L.	Genus	Plantae
+1931	138496	Senecio lugens Richardson	Species	Plantae
+1985	137495	Senecio triangularis Hook.	Species	Plantae
+1932	138542	Senecio vulgaris L.	Species	Plantae
+1912	130527	Shepherdia canadensis (L.) Nutt.	Species	Plantae
+1911	130525	Shepherdia Nutt.	Genus	Plantae
+1866	120367	Sibbaldia L.	Genus	Plantae
+1867	120368	Sibbaldia procumbens L.	Species	Plantae
+1863	116539	Silene acaulis (L.) Jacq.	Species	Plantae
+1955	117140	Silene armeria L.	Species	Plantae
+1862	116528	Silene L.	Genus	Plantae
+1777	287253	Silene latifolia Poir.	Species	Plantae
+1598	106388	Silene noctiflora L.	Species	Plantae
+2403	125948	Sinapis arvensis L.	Species	Plantae
+2422	125945	Sinapis L.	Genus	Plantae
+2251	157875	Solanales	Order	Plantae
+2267	139377	Solidago canadensis L.	Species	Plantae
+2266	139376	Solidago L.	Genus	Plantae
+1696	139437	Solidago multiradiata Aiton	Species	Plantae
+1987	137727	Sonchus arvensis L.	Species	Plantae
+1974	120371	Sorbaria sorbifolia (L.) A. Braun	Species	Plantae
+1712	120379	Sorbus L.	Genus	Plantae
+1713	120388	Sorbus scopulina Greene	Species	Plantae
+2159	120389	Sorbus sitchensis M. Roem.	Species	Plantae
+2206	147651	Sparganium angustifolium Michx.	Species	Plantae
+1586	147647	Sparganium hyperboreum Beurl. ex Laest.	Species	Plantae
+2440	147645	Sparganium L.	Genus	Plantae
+2175	168345	Sparganium natans L.	Species	Plantae
+2342	164019	Spergula arvensis L.	Species	Plantae
+1617	111610	Spergularia rubra (L.) J. Presl & C. Presl	Species	Plantae
+1837	58511	Sphagnaceae	Family	Plantae
+2045	58500	Sphagnales	Order	Plantae
+1566	254966	Sphagnum angustifolium (C. Jens. ex Russ.) C. Jens. in Tolf	Species	Plantae
+1611	254972	Sphagnum balticum (Russ.) C. Jens.	Species	Plantae
+2009	62514	Sphagnum capillifolium (Ehrh.) Hedw.	Species	Plantae
+2587	59869	Sphagnum compactum DC. in Lam. & DC.	Species	Plantae
+2008	62503	Sphagnum fuscum (Schimp.) Klinggr.	Species	Plantae
+1591	63452	Sphagnum girgensohnii Russ.	Species	Plantae
+1838	58522	Sphagnum L.	Genus	Plantae
+1562	59791	Sphagnum magellanicum Brid.	Species	Plantae
+1567	254996	Sphagnum nitidum Warnst.	Species	Plantae
+2590	59769	Sphagnum papillosum Lindb.	Species	Plantae
+1821	61454	Sphagnum riparium Ångstr.	Species	Plantae
+2470	58533	Sphagnum russowii Warnst.	Species	Plantae
+1650	60561	Sphagnum squarrosum Crome	Species	Plantae
+1568	255015	Sphagnum steerei Andrus	Species	Plantae
+1924	62437	Sphagnum subsecundum Nees in Sturm	Species	Plantae
+1820	60572	Sphagnum teres (Schimp.) Ångstr. in Hartm.	Species	Plantae
+2151	63441	Sphagnum warnstorfii Russ.	Species	Plantae
+1885	120397	Spiraea douglasii Hook.	Species	Plantae
+1675	120390	Spiraea L.	Genus	Plantae
+2327	164778	Spiraea stevenii (C.K. Schneid.) Rydb.	Species	Plantae
+2149	147031	Spiranthes Rich.	Genus	Plantae
+2549	147064	Spiranthes romanzoffiana Cham.	Species	Plantae
+1925	64562	Splachnum Hedw.	Genus	Plantae
+2168	65813	Splachnum sphaericum Hedw.	Species	Plantae
+2072	112524	Stellaria calycantha (Ledeb.) Bong.	Species	Plantae
+1775	113215	Stellaria crispa Cham. & Schltdl.	Species	Plantae
+1861	112424	Stellaria humifusa Rottb.	Species	Plantae
+2083	111721	Stellaria L.	Genus	Plantae
+2309	112446	Stellaria longipes Goldie	Species	Plantae
+1782	112457	Stellaria media (L.) Vill.	Species	Plantae
+2488	142758	Streptopus amplexifolius (L.) DC.	Species	Plantae
+2487	142757	Streptopus Michx.	Genus	Plantae
+2040	290345	Stuckenia Börner	Genus	Plantae
+2531	287314	Stuckenia filiformis (Pers.) Börner	Species	Plantae
+2291	292291	Stuckenia filiformis ssp. filiformis (Pers.) Börner	Subspecies	Plantae
+2366	111936	Suaeda Forssk. ex J.F. Gmel.	Genus	Plantae
+2423	123360	Subularia aquatica L.	Species	Plantae
+1989	129110	Swertia L.	Genus	Plantae
+2534	129122	Swertia perennis L.	Species	Plantae
+2099	132830	Symphytum officinale L.	Species	Plantae
+2496	139492	Tanacetum vulgare L.	Species	Plantae
+2030	138550	Taraxacum ceratophorum (Ledeb.) DC.	Species	Plantae
+2333	200053	Taraxacum erythrospermum Andrz. ex Besser	Species	Plantae
+2599	138547	Taraxacum F.H. Wigg.	Genus	Plantae
+1545	138564	Taraxacum officinale F.H. Wigg.	Species	Plantae
+2630	203867	Taraxacum officinale ssp. officinale F.H. Wigg.	Subspecies	Plantae
+1546	138566	Taraxacum phymatocarpum J. Vahl	Species	Plantae
+1839	59274	Tetraphis pellucida Hedw.	Species	Plantae
+2462	64540	Tetraplodon mnioides (Hedw.) Bruch & Schimp. in B.S.G.	Species	Plantae
+2081	90507	Thalictrum L.	Genus	Plantae
+2569	91530	Thalictrum sparsiflorum Turcz. ex Fisch. & C.A. Mey.	Species	Plantae
+2620	157932	Thelypteridaceae	Family	Plantae
+2556	127139	Thlaspi arvense L.	Species	Plantae
+2208	127135	Thlaspi L.	Genus	Plantae
+1896	66118	Thuidium Schimp. in B.S.G.	Genus	Plantae
+2237	125336	Tiarella L.	Genus	Plantae
+2234	125339	Tiarella trifoliata L.	Species	Plantae
+1798	72803	Timmia austriaca Hedw.	Species	Plantae
+2179	142763	Tofieldia coccinea Richardson	Species	Plantae
+1700	142762	Tofieldia Huds.	Genus	Plantae
+2037	67294	Tomenthypnum nitens (Hedw.) Loeske	Species	Plantae
+1842	66693	Tortella tortuosa (Hedw.) Limpr.	Species	Plantae
+1975	73423	Tortula Hedw.	Genus	Plantae
+1786	74092	Tortula norvegica (Web.) Wahlenb. ex Lindb.	Species	Plantae
+1976	73545	Tortula ruralis (Hedw.) Gaertn. et al.	Species	Plantae
+2332	199608	Triantha glutinosa (Michx.) Baker	Species	Plantae
+2603	171425	Trichophorum cespitosum (L.) Hartm.	Species	Plantae
+2371	152824	Trichophorum Pers.	Genus	Plantae
+2294	121736	Trientalis europaea L.	Species	Plantae
+2135	121733	Trientalis L.	Genus	Plantae
+2565	127303	Trifolium hybridum L.	Species	Plantae
+2561	126574	Trifolium L.	Genus	Plantae
+2566	127361	Trifolium pratense L.	Species	Plantae
+1676	126576	Trifolium repens L.	Species	Plantae
+2187	141546	Triglochin L.	Genus	Plantae
+2188	141547	Triglochin maritima L.	Species	Plantae
+2065	204121	Tripleurospermum inodorum (L.) Sch. Bip.	Species	Plantae
+2495	139311	Trisetum Pers.	Genus	Plantae
+1692	139313	Trisetum spicatum (L.) K. Richt.	Species	Plantae
+2169	55699	Tritomaria quinquedentata (Huds.) H. Buch	Species	Plantae
+2614	93951	Tsuga Carrière	Genus	Plantae
+2323	93959	Tsuga mertensiana (Bong.) Carrière	Species	Plantae
+1737	205101	Turritis glabra L.	Species	Plantae
+2207	147660	Typha latifolia L.	Species	Plantae
+1708	99873	Urtica dioica L.	Species	Plantae
+1950	99895	Urtica dioica ssp. gracilis (Aiton) Selander	Subspecies	Plantae
+1707	99862	Urtica L.	Genus	Plantae
+1741	97122	Urticaceae	Family	Plantae
+1590	135336	Utricularia intermedia Hayne	Species	Plantae
+2090	135324	Utricularia L.	Genus	Plantae
+2452	135326	Utricularia vulgaris L.	Species	Plantae
+1946	207636	Utricularia vulgaris ssp. macrorhiza (Leconte) R.T. Clausen	Subspecies	Plantae
+2018	127702	Vaccinium L.	Genus	Plantae
+2530	127751	Vaccinium ovalifolium Sm.	Species	Plantae
+2376	163570	Vaccinium oxycoccos L.	Species	Plantae
+2200	127705	Vaccinium uliginosum L.	Species	Plantae
+2328	163574	Vaccinium vitis-idaea L.	Species	Plantae
+2511	146744	Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm.	Species	Plantae
+2510	146743	Vahlodea Fr.	Genus	Plantae
+1570	131744	Valeriana capitata Pall. ex Link	Species	Plantae
+2538	131743	Valeriana L.	Genus	Plantae
+1992	131762	Valeriana sitchensis Bong.	Species	Plantae
+2537	131741	Valerianaceae	Family	Plantae
+2369	150376	Veratrum L.	Genus	Plantae
+1694	139897	Veratrum viride Aiton	Species	Plantae
+2593	136668	Veronica americana Schwein. ex Benth.	Species	Plantae
+2261	136665	Veronica L.	Genus	Plantae
+2480	136699	Veronica wormskjoldii Roem. & Schult.	Species	Plantae
+2584	130845	Viburnum edule (Michx.) Raf.	Species	Plantae
+1637	130831	Viburnum L.	Genus	Plantae
+2578	130855	Viburnum opulus L.	Species	Plantae
+2567	127385	Vicia cracca L.	Species	Plantae
+2402	125915	Viola adunca Sm.	Species	Plantae
+1735	164562	Viola epipsila Ledeb.	Species	Plantae
+2085	204572	Viola epipsila ssp. repens W. Becker	Subspecies	Plantae
+1903	126906	Viola glabella Nutt.	Species	Plantae
+1721	116105	Viola renifolia A. Gray	Species	Plantae
+2329	164581	Viola selkirkii Pursh ex Goldie	Species	Plantae
+2401	125905	Violaceae	Family	Plantae
+1978	257404	Warnstorfia exannulata var. exannulata (Schimp. in B.S.G.) Loeske	Variety	Plantae
+1660	84658	Woodsia ilvensis (L.) R. Br.	Species	Plantae
+1873	84602	Woodsia R. Br.	Genus	Plantae
+1579	144244	Zigadenus Michx.	Genus	Plantae
+2070	168078	Zizania palustris L.	Species	Plantae
+2638	152345	Arcella arenaria Greeff	Species	Protozoa
+2637	152350	Centropyxis aculeata	Species	Protozoa
+2639	109661	Euglypha ciliata	Species	Protozoa
