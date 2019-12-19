@@ -1,6 +1,7 @@
 ## Work toward generating Darwin Core Archives from FWSpecies checklists.
 ## Load functions.
 source("functions.R")
+library("zip")
 
 ## First load data.
 data1 <- assemble_csvs(directory="../data/FWSpecies")
@@ -35,3 +36,11 @@ write.table(
  sep = "\t",
  row.names=FALSE
  )
+ 
+zipr(
+ zipfile="../data/DwC-A/KenaiNWRspecies_DwC-A.zip",
+ files=c(
+  "../data/DwC-A/meta.xml", 
+  "../data/DwC-A/taxon.txt"
+  )
+ ) 
