@@ -26,10 +26,12 @@ data2 <- merge(
 
 ## Trying to make a minimal DwC taxon.txt file.
 data2 <- data2[order(data2$kingdom, data2$scientificName),]
-dwc1 <- data2[,c("taxonID", "scientificName", "taxonRank", "kingdom")]
+data2$ID <- data2$taxonID
+dwc1 <- data2[,c("ID", "taxonID", "scientificName", "taxonRank", "kingdom")]
 write.table(
  dwc1,
  file="../data/DwC-A/taxon.txt",
  quote=FALSE,
- sep = "\t"
+ sep = "\t",
+ row.names=FALSE
  )
