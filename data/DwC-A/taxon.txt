@@ -1539,6 +1539,9 @@ ID	taxonID	scientificName	taxonRank	kingdom
 101736	101736	Xanthoria elegans (Link) Th. Fr.	Species	Fungi
 101745	101745	Xanthoria polycarpa (Hoffm.) Rieber	Species	Fungi
 97518	97518	Xylographa vitiligo (Ach.) J.R. Laundon	Species	Fungi
+152345	152345	Arcella arenaria Greeff	Species	Protozoa
+152350	152350	Centropyxis aculeata	Species	Protozoa
+109661	109661	Euglypha ciliata	Species	Protozoa
 133555	133555	Achillea L.	Genus	Plantae
 133556	133556	Achillea millefolium L.	Species	Plantae
 133562	133562	Achillea ptarmica L.	Species	Plantae
@@ -2635,6 +2638,3 @@ ID	taxonID	scientificName	taxonRank	kingdom
 84602	84602	Woodsia R. Br.	Genus	Plantae
 144244	144244	Zigadenus Michx.	Genus	Plantae
 168078	168078	Zizania palustris L.	Species	Plantae
-152345	152345	Arcella arenaria Greeff	Species	Protozoa
-152350	152350	Centropyxis aculeata	Species	Protozoa
-109661	109661	Euglypha ciliata	Species	Protozoa

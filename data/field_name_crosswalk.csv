@@ -2,3 +2,4 @@ DwC_field,FWSpecies_field,notes
 taxonID,TaxonCode,
 scientificName,SciWAuthority,
 taxonRank,TaxonRank,
+kingdom,TaxonKingdom,
