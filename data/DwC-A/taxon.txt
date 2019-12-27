@@ -39,7 +39,6 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 824327	824327	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Grammonota vittata Barrows, 1919	species
 824686	824686	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Helophora reducta (Keyserling, 1886)	species
 822022	822022	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Hypselistes florens (O. P.-Cambridge, 1875)	species
-822418	822418	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Kaestneria pullata (O. P.-Cambridge, 1863)	species
 822419	822419	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Kaestneria rufula (Hackman, 1954)	species
 822829	822829	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Lepthyphantes alpinus (Emerton, 1882)	species
 801388	801388	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	Megalepthyphantes nebulosus (Sundevall, 1830)	species
@@ -723,7 +722,6 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 90767	90767	Animalia	Chordata	Mammalia	Rodentia	Cricetidae	Microtus oeconomus (Pallas, 1776)	species
 91709	91709	Animalia	Chordata	Mammalia	Rodentia	Cricetidae	Ondatra zibethicus (Linnaeus, 1766)	species
 91715	91715	Animalia	Chordata	Mammalia	Rodentia	Cricetidae	Synaptomys borealis (Richardson, 1828)	species
-89666	89666	Animalia	Chordata	Mammalia	Rodentia	Sciuridae	Marmota broweri Hall and Gilmore, 1934	species
 89667	89667	Animalia	Chordata	Mammalia	Rodentia	Sciuridae	Marmota caligata (Eschscholtz, 1829)	species
 89697	89697	Animalia	Chordata	Mammalia	Rodentia	Sciuridae	Tamiasciurus hudsonicus (Erxleben, 1777)	species
 88122	88122	Animalia	Chordata	Mammalia	Soricomorpha	Soricidae	Sorex cinereus Kerr, 1792	species

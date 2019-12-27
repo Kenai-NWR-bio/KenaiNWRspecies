@@ -16,6 +16,7 @@ library("zip")
 ## First load data.
 data1 <- assemble_csvs(directory="../data/FWSpecies")
 fields_crosswalk <- read.csv("../data/field_name_crosswalk.csv", colClasses="character")
+establishmentMeans_crosswalk <- read.csv("../data/establishmentMeans_crosswalk.csv", colClasses="character")
 
 ## Renaming fields.
 for (this_field in 1:nrow(fields_crosswalk))
@@ -35,6 +36,8 @@ data1 <- data1[order(
  data1$scientificName
  ),]
 data1 <- data1[data1$taxonRank == "species",] ## Limiting the list to species only for now.
+data1$occurrenceStatus <- tolower(data1$occurrenceStatus)
+data1 <- data1[data1$occurrenceStatus == "present",] ## Limiting the list to only species that are present.
 data1$ID <- data1$taxonID
 dwc1 <- data1[,c(
  "ID",
@@ -54,6 +57,33 @@ write.table(
  sep = "\t",
  row.names=FALSE
  )
+ 
+## Now generate a distribution file.
+dist1 <- data1[,c(
+ "ID",
+ "locality",
+ "occurrenceStatus",
+ "Origin",
+ "source"
+ )]
+dist1 <- merge(x=dist1, y=establishmentMeans_crosswalk, by="Origin", all.x=TRUE)
+dist1 <- dist1[,c(
+ "ID",
+ "locality",
+ "occurrenceStatus",
+ "establishmentMeans",
+ "source"
+ )]
+dist1$countryCode <- "US"
+
+write.table(
+ dist1,
+ file="../data/DwC-A/distribution.txt",
+ quote=FALSE,
+ sep = "\t",
+ row.names=FALSE
+ )
+
 
 ## Now generate a meta.xml file. 
 ## Header...
