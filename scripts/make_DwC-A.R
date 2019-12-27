@@ -3,6 +3,7 @@
 ## Guidance:
 ## https://github.com/gbif/ipt/wiki/DwCAHowToGuide
 ## https://github.com/gbif/ipt/wiki/checklistData
+## https://tools.gbif.org/dwca-validator/extension.do?id=gbif:Distribution
 
 ## Tools:
 ## http://tools.gbif.org/dwca-assistant/
@@ -12,6 +13,7 @@
 ## Load functions and libraries.
 source("functions.R")
 library("zip")
+library("reshape2")
 
 ## First load data.
 data1 <- assemble_csvs(directory="../data/FWSpecies")
@@ -49,7 +51,7 @@ dwc1 <- data1[,c(
  "family",
  "scientificName",
  "taxonRank"
- )]
+ )] 
 write.table(
  dwc1,
  file="../data/DwC-A/taxon.txt",
@@ -58,7 +60,7 @@ write.table(
  row.names=FALSE
  )
  
-## Now generate a distribution file.
+## Generate a distribution file.
 dist1 <- data1[,c(
  "ID",
  "locality",
@@ -74,16 +76,32 @@ dist1 <- dist1[,c(
  "establishmentMeans",
  "source"
  )]
-dist1$countryCode <- "US"
-
+sources <- strsplit(dist1$source, ", ")
+sources <- melt(sources)
+names(sources) <- c("source", "ID")
+sources$ID <- dist1$ID[sources$ID]
+dist1 <- dist1[,c(
+  "ID",
+  "locality",
+  "occurrenceStatus",
+  "establishmentMeans"
+  )]
+dist2 <- merge(
+ x=dist1,
+ y=sources,
+ by="ID",
+ all.y=TRUE
+ )
+## Add country and area code.
+dist2$countryCode <- "US"
+dist2$locationID <- "GADM:Kenai Peninsula" ## Kenai National Wildlife Refuge is not available in any of the listed coding schemes  at http://rs.gbif.org/areas/
 write.table(
- dist1,
+ dist2,
  file="../data/DwC-A/distribution.txt",
  quote=FALSE,
  sep = "\t",
  row.names=FALSE
  )
-
 
 ## Now generate a meta.xml file. 
 ## Header...
@@ -100,12 +118,30 @@ for (this_col in 2:ncol(dwc1))
  write(paste0('\t\t<field index="', this_col-1, '" term="http://rs.tdwg.org/dwc/terms/', names(dwc1)[this_col], '"/>'), xml_file, append=TRUE)
  }
 write('\t</core>
+\t<extension encoding="UTF-8" linesTerminatedBy="\\r\\n" fieldsTerminatedBy="\\t" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Distribution">
+\t\t<files>
+\t\t\t<location>distribution.txt</location>
+\t\t</files>
+\t\t<coreid index="0"/>', xml_file, append=TRUE)
+for (this_col in 2:ncol(dist2))
+ {
+ if (names(dist2)[this_col] == "source")
+  {
+  write(paste0('\t\t<field index="', this_col-1, '" term="http://purl.org/dc/terms/', names(dist2)[this_col], '"/>'), xml_file, append=TRUE)
+  }
+ else
+  {
+  write(paste0('\t\t<field index="', this_col-1, '" term="http://rs.tdwg.org/dwc/terms/', names(dist2)[this_col], '"/>'), xml_file, append=TRUE)
+  }
+ }
+write('\t</extension>
 </archive>', xml_file, append=TRUE) 
  
 zipr(
- zipfile="../data/DwC-A/KenaiNWRspecies_DwC-A.zip",
+ zipfile="../data/DwC-A/dwca-kenainationalwildliferefuge.zip",
  files=c(
   "../data/DwC-A/meta.xml", 
-  "../data/DwC-A/taxon.txt"
+  "../data/DwC-A/taxon.txt",
+  "../data/DwC-A/distribution.txt"
   )
  ) 

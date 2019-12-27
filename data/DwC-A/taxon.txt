@@ -534,23 +534,6 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 725505	725505	Animalia	Arthropoda	Maxillopoda	Cyclopoida	Cyclopidae	Cyclops strenuus Fischer, 1851	species
 724301	724301	Animalia	Arthropoda	Maxillopoda	Poecilostomatoida	Ergasilidae	Thersitina gasterostei (Pagenstecher, 1861)	species
 730218	730218	Animalia	Arthropoda	Maxillopoda	Siphonostomatoida	Lernaeopodidae	Salmincola californiensis (Dana, 1853)	species
-171663	171663	Animalia	Cnidaria	Hydrozoa	Anthoathecatae	Hydridae	Hydra hymanae Hadley and Forrest, 1949	species
-715272	715272	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Anodonta beringiana Middendorff, 1851	species
-293627	293627	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma balthica (Linnaeus, 1758)	species
-705280	705280	Animalia	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Lymnaea atkaensis Dall, 1884	species
-708220	708220	Animalia	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Radix auricularia (Linnaeus, 1758)	species
-709219	709219	Animalia	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Stagnicola elodes (Say, 1821)	species
-705804	705804	Animalia	Mollusca	Gastropoda	Basommatophora	Planorbidae	Gyraulus deflectus (Say, 1824)	species
-708339	708339	Animalia	Mollusca	Gastropoda	Basommatophora	Planorbidae	Menetus opercularis (Gould, 1847)	species
-711163	711163	Animalia	Mollusca	Gastropoda	Basommatophora	Planorbidae	Planorbella trivolvis (Say, 1817)	species
-582321	582321	Animalia	Mollusca	Gastropoda	Heterostropha	Valvatidae	Valvata sincera Say, 1824	species
-292864	292864	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Littorinidae	Littorina subrotundata (Carpenter, 1864)	species
-294714	294714	Animalia	Mollusca	Gastropoda	Stylommatophora	Discidae	Discus whitneyi (Newcomb, 1864)	species
-716982	716982	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	Deroceras laeve (Muller, 1774)	species
-292655	292655	Animalia	Mollusca	Gastropoda	Stylommatophora	Pupillidae	Columella columella (von Martens, 1830)	species
-708038	708038	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Zoogenetes harpa (Say, 1824)	species
-430360	430360	Animalia	Nematoda	Dorylaimea	Mermithida	Mermithidae	Mermis nigrescens	species
-247878	247878	Animalia	Platyhelminthes	Trepaxonemata	Neoophora	Planariidae	Polycelis coronata (Girard, 1891)	species
 763343	763343	Animalia	Chordata	Amphibia	Anura	Ranidae	Lithobates sylvaticus (LeConte, 1825)	species
 79508	79508	Animalia	Chordata	Aves	Accipitriformes	Accipitridae	Accipiter gentilis (Linnaeus, 1758)	species
 79512	79512	Animalia	Chordata	Aves	Accipitriformes	Accipitridae	Accipiter striatus Vieillot, 1808	species
@@ -745,6 +728,23 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 72619	72619	Animalia	Chordata	Teleostei	Salmoniformes	Salmonidae	Thymallus arcticus (Pallas, 1776)	species
 70721	70721	Animalia	Chordata	Teleostei	Scorpaeniformes	Cottidae	Cottus aleuticus Gilbert, 1896	species
 70723	70723	Animalia	Chordata	Teleostei	Scorpaeniformes	Cottidae	Cottus cognatus Richardson, 1836	species
+171663	171663	Animalia	Cnidaria	Hydrozoa	Anthoathecatae	Hydridae	Hydra hymanae Hadley and Forrest, 1949	species
+715272	715272	Animalia	Mollusca	Bivalvia	Unionoida	Unionidae	Anodonta beringiana Middendorff, 1851	species
+293627	293627	Animalia	Mollusca	Bivalvia	Veneroida	Tellinidae	Macoma balthica (Linnaeus, 1758)	species
+705280	705280	Animalia	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Lymnaea atkaensis Dall, 1884	species
+708220	708220	Animalia	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Radix auricularia (Linnaeus, 1758)	species
+709219	709219	Animalia	Mollusca	Gastropoda	Basommatophora	Lymnaeidae	Stagnicola elodes (Say, 1821)	species
+705804	705804	Animalia	Mollusca	Gastropoda	Basommatophora	Planorbidae	Gyraulus deflectus (Say, 1824)	species
+708339	708339	Animalia	Mollusca	Gastropoda	Basommatophora	Planorbidae	Menetus opercularis (Gould, 1847)	species
+711163	711163	Animalia	Mollusca	Gastropoda	Basommatophora	Planorbidae	Planorbella trivolvis (Say, 1817)	species
+582321	582321	Animalia	Mollusca	Gastropoda	Heterostropha	Valvatidae	Valvata sincera Say, 1824	species
+292864	292864	Animalia	Mollusca	Gastropoda	Neotaenioglossa	Littorinidae	Littorina subrotundata (Carpenter, 1864)	species
+294714	294714	Animalia	Mollusca	Gastropoda	Stylommatophora	Discidae	Discus whitneyi (Newcomb, 1864)	species
+716982	716982	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	Deroceras laeve (Muller, 1774)	species
+292655	292655	Animalia	Mollusca	Gastropoda	Stylommatophora	Pupillidae	Columella columella (von Martens, 1830)	species
+708038	708038	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	Zoogenetes harpa (Say, 1824)	species
+430360	430360	Animalia	Nematoda	Dorylaimea	Mermithida	Mermithidae	Mermis nigrescens	species
+247878	247878	Animalia	Platyhelminthes	Trepaxonemata	Neoophora	Planariidae	Polycelis coronata (Girard, 1891)	species
 15767	15767	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nostocaceae	Nostoc pruniforme C. Agardh	species
 11476	11476	Chromista	Phaeophyta	Phaeophyceae	Fucales	Fucaceae	Fucus distichus Linnaeus, 1767	species
 96671	96671	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora smaragdula (Wahlenb.) A. Massal.	species
@@ -956,9 +956,6 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 101745	101745	Fungi	Ascomycota	Lecanoromycetes	Teloschistales	Teloschistaceae	Xanthoria polycarpa (Hoffm.) Rieber	species
 103254	103254	Fungi	Ascomycota	Lecanoromycetes	Umbilicariales	Umbilicariaceae	Umbillicaria hyperborea (Ach.) Hoffm.	species
 87538	87538	Fungi	Myxomycota	Myxomycetes	Physarales	Didymiaceae	Mucilago crustacea F.H. Wigg.	species
-109661	109661	Protozoa	Protozoa	Filosia	Aconchulinida	Euglyphidae	Euglypha ciliata	species
-152345	152345	Protozoa	Protozoa	Lobosa	Arcellinida	Arcellidae	Arcella arenaria Greeff	species
-152350	152350	Protozoa	Protozoa	Lobosa	Arcellinida	Centropyxidae	Centropyxis aculeata	species
 62814	62814	Plantae	Bryophyta	Bryopsida	Bartramiales	Bartramiaceae	Bartramia pomiformis Hedw.	species
 63952	63952	Plantae	Bryophyta	Bryopsida	Bartramiales	Bartramiaceae	Conostomum tetragonum (Hedw.) Lindb.	species
 65159	65159	Plantae	Bryophyta	Bryopsida	Bryales	Bryaceae	Bryum caespiticium Hedw.	species
@@ -1639,3 +1636,6 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 84468	84468	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Woodsiaceae	Cystopteris fragilis (L.) Bernh.	species
 83130	83130	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Woodsiaceae	Gymnocarpium dryopteris (L.) Newman	species
 84658	84658	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Woodsiaceae	Woodsia ilvensis (L.) R. Br.	species
+109661	109661	Protozoa	Protozoa	Filosia	Aconchulinida	Euglyphidae	Euglypha ciliata	species
+152345	152345	Protozoa	Protozoa	Lobosa	Arcellinida	Arcellidae	Arcella arenaria Greeff	species
+152350	152350	Protozoa	Protozoa	Lobosa	Arcellinida	Centropyxidae	Centropyxis aculeata	species
