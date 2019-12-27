@@ -1,4 +1,10 @@
 ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
+1210516	1210516	Animalia			Coleoptera	Cantharidae	Dichelotarsus laevicollis (Kirby, 1837)	species
+1210517	1210517	Animalia			Coleoptera	Cantharidae	Dichelotarsus tetragonoderus (Fall, 1926)	species
+1210520	1210520	Animalia			Coleoptera	Staphylinidae	Quedionuchus plagiatus (Mannerheim, 1843)	species
+1210515	1210515	Animalia			Collembola	Onychiuridae	Hymenaphorura nearctica Pomorski, 2001	species
+1210513	1210513	Animalia			Diptera	Pipunculidae	Tomosvaryella kuthyi Aczel, 1944	species
+1210518	1210518	Animalia			Trombidiformes	Erythraeidae	Erythraeus tonsus (L. Koch, 1879)	species
 985968	985968	Animalia	Annelida	Clitellata		Enchytraeidae	Mesenchytraeus solifugus (Emery, 1898)	species
 559542	559542	Animalia	Annelida	Clitellata	Hirudinida	Erpobdellidae	Erpobdella punctata (Leidy, 1870)	species
 561715	561715	Animalia	Annelida	Clitellata	Hirudinida	Glossiphoniidae	Glossiphonia complanata (Linnaeus, 1758)	species
@@ -8,6 +14,7 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 959625	959625	Animalia	Annelida	Clitellata	Opisthopora	Lumbricidae	Dendrodrilus rubidus (Savigny, 1826)	species
 962730	962730	Animalia	Annelida	Clitellata	Opisthopora	Lumbricidae	Lumbricus rubellus Hoffmeister, 1843	species
 981882	981882	Animalia	Annelida	Clitellata	Opisthopora	Lumbricidae	Lumbricus terrestris Linnaeus, 1758	species
+745873	745873	Animalia	Arthropoda	Arachnida				species
 809986	809986	Animalia	Arthropoda	Arachnida	Araneae	Agelenidae	Agelenopsis utahana (Chamberlin & Ivie, 1933)	species
 817549	817549	Animalia	Arthropoda	Arachnida	Araneae	Araneidae	Araneus corticarius (Emerton, 1884)	species
 817731	817731	Animalia	Arthropoda	Arachnida	Araneae	Araneidae	Araneus marmoreus Clerck, 1757	species
@@ -74,6 +81,7 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 112104	112104	Animalia	Arthropoda	Arachnida	Pseudoscorpiones	Neobisiidae	Microbisium brunneum (Hagen, 1868)	species
 657641	657641	Animalia	Arthropoda	Arachnida	Sarcoptiformes	Eremaeidae	Eremaeus translamellatus Hammer, 1952	species
 653523	653523	Animalia	Arthropoda	Arachnida	Sarcoptiformes	Nothridae	Nothrus borussicus Sellnick, 1928	species
+1127770	1127770	Animalia	Arthropoda	Arachnida	Trombidiformes	Demodecidae		species
 716763	716763	Animalia	Arthropoda	Branchiopoda	Diplostraca	Bosminidae	Bosmina longirostris (O. F. Müller, 1776)	species
 718121	718121	Animalia	Arthropoda	Branchiopoda	Diplostraca	Chydoridae	Eurycercus longirostris Hann, 1982	species
 716706	716706	Animalia	Arthropoda	Branchiopoda	Diplostraca	Daphniidae	Daphnia longiremis G. O. Sars, 1861	species
@@ -101,6 +109,8 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 2749	2749	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus brevicornis (Kirby, 1837)	species
 2746	2746	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Pterostichus riparius (Dejean, 1828)	species
 10759	10759	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Scaphinotus marginatus (Fischer von Waldheim, 1820)	species
+1052	1052	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Sericoda bembidioides Kirby, 1837	species
+918164	918164	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Sericoda bogemannii (Gyllenhal, 1813)	species
 9251	9251	Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	Trechus chalybeus Dejean, 1831	species
 580617	580617	Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	Judolia montivagans (Couper, 1864)	species
 582607	582607	Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	Monochamus scutellatus (Say, 1824)	species
@@ -109,6 +119,7 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 581229	581229	Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	Xylotrechus undulatus (Say, 1824)	species
 618534	618534	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Bromius obscurus (Linnaeus, 1758)	species
 22294	22294	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Galerucella nymphaeae (Linnaeus, 1758)	species
+614568	614568	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Phratora hudsonia Brown, 1951	species
 22322	22322	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Plateumaris flavipes (Kirby, 1837)	species
 22326	22326	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	Plateumaris germari (Mannerheim, 1843)	species
 562295	562295	Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	Anisosticta borealis Timberlake, 1943	species
@@ -124,8 +135,11 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 400650	400650	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Dorytomus leucophyllus (Motschulsky, 1845)	species
 400652	400652	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Dorytomus luridus (Mannerheim, 1853)	species
 400654	400654	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Dorytomus mannerheimi (Gemminger, 1871)	species
+1179310	1179310	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Dryocoetes affaber (Mannerheim, 1852)	species
+1179422	1179422	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Dryocoetes autographus (Ratzeburg, 1837)	species
 408577	408577	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Dryocoetes caryi Hopkins, 1915	species
 408606	408606	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Ips borealis Swaine, 1911	species
+1179302	1179302	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Ips perturbatus (Eichhoff, 1869)	species
 404227	404227	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Lepyrus gemellus Kirby, 1837	species
 404819	404819	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Otiorhynchus ovatus (Linnaeus, 1758)	species
 405364	405364	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Phloeotribus piceae Swaine, 1911	species
@@ -261,6 +275,7 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 37929	37929	Animalia	Arthropoda	Insecta	Diptera	Empididae	Rhamphomyia anthracodes Coquillett, 1900	species
 37934	37934	Animalia	Arthropoda	Insecta	Diptera	Empididae	Rhamphomyia atrata Coquillett, 1900	species
 37936	37936	Animalia	Arthropoda	Insecta	Diptera	Empididae	Rhamphomyia barypoda Coquillett, 1900	species
+992094	992094	Animalia	Arthropoda	Insecta	Diptera	Ephydridae		species
 49611	49611	Animalia	Arthropoda	Insecta	Diptera	Ephydridae	Coenia curvicauda (Meigen, 1830)	species
 52290	52290	Animalia	Arthropoda	Insecta	Diptera	Ephydridae	Discocerina obscurella (Fallen, 1813)	species
 52310	52310	Animalia	Arthropoda	Insecta	Diptera	Ephydridae	Ditrichophora occidentalis Cresson, 1942	species
@@ -398,11 +413,13 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 383698	383698	Animalia	Arthropoda	Insecta	Hymenoptera	Megaspilidae	Dendrocerus laevis (Ratzeburg, 1852)	species
 641471	641471	Animalia	Arthropoda	Insecta	Hymenoptera	Platygastridae	Platygaster obscuripennis Ashmead, 1893	species
 58382	58382	Animalia	Arthropoda	Insecta	Hymenoptera	Tenthredinidae	Cladius difformis (Panzer)	species
+317673	317673	Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae		species
 60011	60011	Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	Dolichovespula arenaria (Fabricius)	species
 929240	929240	Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	Hypena californica Behr, 1870	species
 928680	928680	Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	Hypenodes palustris Ferguson, 1954	species
 99142	99142	Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	Platarctia parthenos (Harris, 1850)	species
 101781	101781	Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	Scoliopteryx libatrix (Linnaeus, 1758)	species
+572945	572945	Animalia	Arthropoda	Insecta	Lepidoptera	Geometridae		species
 101892	101892	Animalia	Arthropoda	Insecta	Lepidoptera	Geometridae	Archiearis infans (Möschler, 1862)	species
 942973	942973	Animalia	Arthropoda	Insecta	Lepidoptera	Geometridae	Cabera exanthemata (Scopoli, 1763)	species
 102868	102868	Animalia	Arthropoda	Insecta	Lepidoptera	Geometridae	Campaea perlata (Guenée in Boisduval and Guenée, 1858)	species
