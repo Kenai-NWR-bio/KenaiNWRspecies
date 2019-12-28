@@ -143,10 +143,13 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 404819	404819	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Otiorhynchus ovatus (Linnaeus, 1758)	species
 405364	405364	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Phloeotribus piceae Swaine, 1911	species
 408688	408688	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Pityophthorus nitidulus (Mannerheim, 1843)	species
+1179265	1179265	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Polygraphus rufipennis (Kirby, 1837)	species
 408290	408290	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Scierus pubescens Swaine, 1924	species
 401243	401243	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Sthereus quadrituberculatus Motschulsky, 1845	species
 401327	401327	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Trichalophus alternatus (Say, 1831)	species
 12334	12334	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Trypodendron lineatum (Olivier, 1795)	species
+1179318	1179318	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Trypodendron retusum (LeConte, 1868)	species
+1179319	1179319	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Trypodendron rufitarsis (Kirby, 1837)	species
 408364	408364	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	Xylechinus montanus Blackman, 1940	species
 12359	12359	Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	Dermestes lardarius Linnaeus, 1758	species
 634220	634220	Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	Megatoma cylindrica (Kirby, 1837)	species
@@ -185,6 +188,7 @@ ID	taxonID	kingdom	phylum	class	order	family	scientificName	taxonRank
 636940	636940	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae	Liodessus obscurellus (LeConte, 1852)	species
 858922	858922	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae	Oreodytes dauricus (Motschulsky, 1860)	species
 633468	633468	Animalia	Arthropoda	Insecta	Coleoptera	Dytiscidae	Oreodytes laevis (Kirby, 1837)	species
+549721	549721	Animalia	Arthropoda	Insecta	Coleoptera	Elateridae		species
 15226	15226	Animalia	Arthropoda	Insecta	Coleoptera	Gyrinidae	Gyrinus maculiventris LeConte, 1868	species
 15242	15242	Animalia	Arthropoda	Insecta	Coleoptera	Gyrinidae	Gyrinus minutus Fabricius, 1798	species
 15241	15241	Animalia	Arthropoda	Insecta	Coleoptera	Gyrinidae	Gyrinus opacus Sahlberg, 1817	species
