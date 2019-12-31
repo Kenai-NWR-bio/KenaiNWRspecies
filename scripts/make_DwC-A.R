@@ -27,6 +27,9 @@ for (this_field in 1:nrow(fields_crosswalk))
  names(data1)[sl] <- fields_crosswalk$DwC_field[this_field]
  }
  
+## Filling in some missing values.
+data1$scientificName[data1$scientificName == ""] <- data1$SciName[data1$scientificName == ""]
+ 
 ## Trying to make a minimal DwC taxon.txt file.
 data1$taxonRank <- tolower(data1$taxonRank)
 data1 <- data1[order(
@@ -49,6 +52,7 @@ dwc1 <- data1[,c(
  "class",
  "order",
  "family",
+ "genus",
  "scientificName",
  "taxonRank"
  )] 
@@ -145,3 +149,8 @@ zipr(
   "../data/DwC-A/distribution.txt"
   )
  ) 
+ 
+## Clean up.
+unlink("../data/DwC-A/meta.xml") 
+unlink("../data/DwC-A/taxon.txt")
+unlink("../data/DwC-A/distribution.txt")
