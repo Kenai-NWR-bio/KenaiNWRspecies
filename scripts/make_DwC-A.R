@@ -69,39 +69,39 @@ dist1 <- data1[,c(
  "ID",
  "locality",
  "occurrenceStatus",
- "Origin",
- "source"
+ "Origin"
  )]
 dist1 <- merge(x=dist1, y=establishmentMeans_crosswalk, by="Origin", all.x=TRUE)
-dist1 <- dist1[,c(
+dist2 <- dist1[,c(
  "ID",
  "locality",
  "occurrenceStatus",
- "establishmentMeans",
- "source"
+ "establishmentMeans"
  )]
-sources <- strsplit(dist1$source, ", ")
-sources <- melt(sources)
-names(sources) <- c("source", "ID")
-sources$ID <- dist1$ID[sources$ID]
-dist1 <- dist1[,c(
-  "ID",
-  "locality",
-  "occurrenceStatus",
-  "establishmentMeans"
-  )]
-dist2 <- merge(
- x=dist1,
- y=sources,
- by="ID",
- all.y=TRUE
- )
 ## Add country and area code.
 dist2$countryCode <- "US"
 dist2$locationID <- "GADM:Kenai Peninsula" ## Kenai National Wildlife Refuge is not available in any of the listed coding schemes  at http://rs.gbif.org/areas/
 write.table(
  dist2,
  file="../data/DwC-A/distribution.txt",
+ quote=FALSE,
+ sep = "\t",
+ row.names=FALSE
+ )
+
+## Generate a literature references file.
+ref1 <- data1[,c(
+ "ID",
+ "source"
+ )]
+sources <- strsplit(ref1$source, ", ")
+sources <- melt(sources)
+names(sources) <- c("source", "ID")
+sources$ID <- ref1$ID[sources$ID]
+ref2 <- sources[,c("ID", "source")]
+write.table(
+ ref2,
+ file="../data/DwC-A/reference.txt",
  quote=FALSE,
  sep = "\t",
  row.names=FALSE
@@ -129,16 +129,26 @@ write('\t</core>
 \t\t<coreid index="0"/>', xml_file, append=TRUE)
 for (this_col in 2:ncol(dist2))
  {
- if (names(dist2)[this_col] == "source")
+ write(paste0('\t\t<field index="', this_col-1, '" term="http://rs.tdwg.org/dwc/terms/', names(dist2)[this_col], '"/>'), xml_file, append=TRUE)
+ }
+write('\t</extension>
+\t<extension encoding="UTF-8" linesTerminatedBy="\\r\\n" fieldsTerminatedBy="\\t" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Reference">
+\t\t<files>
+\t\t\t<location>reference.txt</location>
+\t\t</files>
+\t\t<coreid index="0"/>', xml_file, append=TRUE)
+for (this_col in 2:ncol(ref2))
+ {
+ if (names(ref2)[this_col] == "source")
   {
-  write(paste0('\t\t<field index="', this_col-1, '" term="http://purl.org/dc/terms/', names(dist2)[this_col], '"/>'), xml_file, append=TRUE)
+  write(paste0('\t\t<field index="', this_col-1, '" term="http://purl.org/dc/terms/', names(ref2)[this_col], '"/>'), xml_file, append=TRUE)
   }
  else
   {
-  write(paste0('\t\t<field index="', this_col-1, '" term="http://rs.tdwg.org/dwc/terms/', names(dist2)[this_col], '"/>'), xml_file, append=TRUE)
+  write(paste0('\t\t<field index="', this_col-1, '" term="http://rs.tdwg.org/dwc/terms/', names(ref2)[this_col], '"/>'), xml_file, append=TRUE)
   }
  }
-write('\t</extension>
+write('\t</extension> 
 </archive>', xml_file, append=TRUE) 
  
 zipr(
@@ -146,7 +156,8 @@ zipr(
  files=c(
   "../data/DwC-A/meta.xml", 
   "../data/DwC-A/taxon.txt",
-  "../data/DwC-A/distribution.txt"
+  "../data/DwC-A/distribution.txt",
+  "../data/DwC-A/reference.txt"
   )
  ) 
  
@@ -154,3 +165,4 @@ zipr(
 unlink("../data/DwC-A/meta.xml") 
 unlink("../data/DwC-A/taxon.txt")
 unlink("../data/DwC-A/distribution.txt")
+unlink("../data/DwC-A/reference.txt")
