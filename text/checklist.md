@@ -914,7 +914,11 @@ Species Melieria cana (Loew, 1858)
 
 Family Pipunculidae 
 
+Species Pipunculus hertzogi Rapp 
+
 Species Tomosvaryella kuthyi Aczel, 1944 
+
+Species Tomosvaryella sylvatica (Meigen, 1824) 
 
 Family Sciomyzidae 
 
