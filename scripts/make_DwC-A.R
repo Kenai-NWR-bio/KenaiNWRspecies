@@ -19,6 +19,10 @@ library("reshape2")
 data1 <- assemble_csvs(directory="../data/FWSpecies")
 fields_crosswalk <- read.csv("../data/field_name_crosswalk.csv", colClasses="character")
 establishmentMeans_crosswalk <- read.csv("../data/establishmentMeans_crosswalk.csv", colClasses="character")
+fillin <- read.csv("../data/taxonomy_fill-in.csv", colClasses="character")
+
+## Now we need to fill in some missing values that for some reason are not exported by FWSpecies' Download Current Data report.
+
 
 ## Renaming fields.
 for (this_field in 1:nrow(fields_crosswalk))
