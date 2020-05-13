@@ -64,6 +64,8 @@ for (this_name in 1:length(new_names))
 
 ## Now load the file of records to add to FWSpecies so that we can append these new ones.
 additions1 <- read.csv("../data/non_FWSpecies_records.csv")
+dim(additions1)
+[1] 560  34
 
 ## Modify column names.
 names(additions1) <- gsub("\\.", "_", names(additions1))
@@ -89,13 +91,14 @@ slikok_selected$evidence_URL <- paste0("http://arctos.database.museum/guid/", sl
 
 ## appending.
 additions_new <- additions1[rep(1,nrow(slikok_selected)),]
-additions_new[,] <- NA
+additions_new[,] <- ""
 additions_new$Scientific_Name <- slikok_selected$SCIENTIFIC_NAME
 additions_new$evidence_URL <- slikok_selected$evidence_URL
 additions_new$Valid_in_Gbif_refuge_YY_NN_ <- "?Y"
 additions1$evidence_URL <- NA
 additions2 <- rbind(additions1, additions_new)
 dim(additions2)
+[1] 1515   34
 
 ## Now dropping records that have already been transferred to FWSpecies.
 levels(as.factor(additions2$transferred_to_FWSpecies_date))
