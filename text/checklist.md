@@ -10,9 +10,29 @@ Order taxon name missing
 
 Family taxon name missing 
 
+Species Corticarina minuta (Fabricius, 1792) 
+
 Species Glocianus punctigerá(C.R.Sahlberg, 1835) 
 
+Family Lecanoraceae 
+
+Species Pycnora sorophora 
+
+Family Momphidae 
+
+Species Mompha sexstrigella 
+
+Order Lycoperdales 
+
+Family Lycoperdaceae 
+
+Species Calvatia booniana 
+
 Class Arachnida 
+
+Order taxon name missing 
+
+Family taxon name missing 
 
 Species Ixodes angustus 
 
@@ -37,6 +57,10 @@ Species Isochnus flagellum (Erichson, 1902)
 Family Elateridae 
 
 Species Pseudanostirus ochreipennis (LeConte, 1863) 
+
+Family Latridiidae 
+
+Species Stephostethus armatulus (Fall, 1899) 
 
 Phylum Annelida 
 
@@ -316,6 +340,12 @@ Species Erythraeus tonsus (L. Koch, 1879)
 
 Class Insecta 
 
+Order taxon name missing 
+
+Family taxon name missing 
+
+Species Metalimnobia cinctipes 
+
 Order Archaeognatha 
 
 Family Machilidae 
@@ -556,6 +586,10 @@ Species Hypnoidus bicolor
 
 Species Sericus incongruus 
 
+Family Eucnemidae 
+
+Species Epiphanis cornutus 
+
 Family Gyrinidae 
 
 Species Gyrinus maculiventris LeConte, 1868 
@@ -630,6 +664,10 @@ Family Scirtidae
 
 Species Cyphon variabilis (Thunberg, 1785) 
 
+Family Scraptiidae 
+
+Species Anaspis rufa Say, 1826 
+
 Family Silphidae 
 
 Species Nicrophorus investigator Zetterstedt, 1824 
@@ -642,11 +680,23 @@ Species Dendrophagus cygnaei Mannerheim, 1846
 
 Family Staphylinidae 
 
+Species Acidota quadratum 
+
+Species Eucnecosum brachypterum 
+
+Species Olisthaerus megacephalus 
+
 Species Quedionuchus plagiatus (Mannerheim, 1843) 
+
+Species Tachinus quebecensis 
 
 Family Stenotrachelidae 
 
 Species Stenotrachelus aeneus (Fabricius, 1787) 
+
+Family Tenebrionidae 
+
+Species Upis ceramboides 
 
 Family Trachypachidae 
 
@@ -688,6 +738,8 @@ Family Anthomyzidae
 
 Species Anthomyza tenuis (Loew, 1863) 
 
+Species Arganthomyza duplex Roháček and Barber 
+
 Family Asteiidae 
 
 Species Leiomyza curvinervis (Zetterstedt, 1838) 
@@ -695,6 +747,8 @@ Species Leiomyza curvinervis (Zetterstedt, 1838)
 Family Bibionidae 
 
 Species Bibio longipes Loew, 1864 
+
+Species Hesperinus brevifrons 
 
 Family Calliphoridae 
 
@@ -757,6 +811,8 @@ Species Aedes abserratus (Felt and Young, 1904)
 Species Aedes diantaeus Howard, Dyar and Knab, 1913 
 
 Species Culiseta impatiens (Walker, 1848) 
+
+Species Ochlerotatus communis 
 
 Family Dolichopodidae 
 
@@ -824,6 +880,10 @@ Species Ditrichophora occidentalis Cresson, 1942
 
 Species Ephydra riparia Fallen, 1813 
 
+Species Gymnoclasiopa parilis 
+
+Species Gymnoclasiopa tacoma 
+
 Species Hyadina binotata (Cresson, 1926) 
 
 Species Hydrellia morrisoni Cresson, 1924 
@@ -838,7 +898,11 @@ Species Lytogaster obscura Clausen, 1982
 
 Species Notiphila loewi Cresson, 1917 
 
+Species Notiphila uliginosa 
+
 Species Parydra aquila (Fallen, 1813) 
+
+Species Parydra fossarum 
 
 Species Parydra quadriloba Clausen and Cook, 1971 
 
@@ -851,6 +915,8 @@ Species Psilopa girschneri Von Roeder, 1889
 Species Scatella laxa Cresson, 1933 
 
 Species Scatella obsoleta Loew, 1861 
+
+Species Scatella tenuicosta 
 
 Species Scatophila cribrata (Stenhammar, 1844) 
 
@@ -885,6 +951,10 @@ Species Platypalpus xanthopodus Melander, 1927
 Family Lonchopteridae 
 
 Species Lonchoptera uniseta Curran, 1934 
+
+Family Micropezidae 
+
+Species Cnodacophora nasoni 
 
 Family Muscidae 
 
@@ -925,6 +995,8 @@ Family Sciomyzidae
 Species Dictya umbroides Curran, 1932 
 
 Species Pherbellia albocostata (Fallen, 1820) 
+
+Species Pherbellia schoenherri 
 
 Species Pherbellia tenuipes (Loew, 1872) 
 
@@ -1024,6 +1096,8 @@ Species Prionocera unimicra (Alexander, 1915)
 
 Species Tipula entomophthorae Alexander, 1918 
 
+Species Tipula macrolabis 
+
 Family Xylophagidae 
 
 Species Xylophagus decorus Williston, 1885 
@@ -1062,13 +1136,43 @@ Family Acanthosomatidae
 
 Species Elasmostethus interstinctus (Linnaeus, 1758) 
 
+Family Adelgidae 
+
+Species Adelges cooleyi 
+
 Family Anthocoridae 
 
 Species Anthocoris musculus (Say, 1832) 
 
 Family Aphididae 
 
+Species Amphorophora agathonica 
+
+Species Aphis varians 
+
+Species Boernerina occidentalis 
+
+Species Cavariella digitata 
+
+Species Cavariella salicis 
+
+Species Chaitophorus populifolii 
+
+Species Cinara fornacula 
+
+Species Cinara nimbata 
+
 Species Macrosiphum euphorbiae (Thomas, 1878) 
+
+Species Macrosiphum stanleyi 
+
+Species Pachypappa rosettei (Maxson) 
+
+Species Tamalia coweni 
+
+Species Thecabius affinis 
+
+Species Thecabius populimonilis 
 
 Family Aphrophoridae 
 
@@ -1077,6 +1181,22 @@ Species Philaenus spumarius (Linnaeus, 1758)
 Family Aradidae 
 
 Species Aneurus simplex Uhler, 1871 
+
+Family Cicadellidae 
+
+Species Balclutha manitou 
+
+Species Balclutha punctata 
+
+Species Draeculacephala angulifera 
+
+Species Evacanthus grandipes 
+
+Species Thamnotettix confinis 
+
+Family Cixiidae 
+
+Species Cixius meridionalis 
 
 Family Delphacidae 
 
@@ -1132,9 +1252,25 @@ Species Lygus striatus Knight, 1917
 
 Species Plagiognathus alboradialis Knight, 1923 
 
+Species Stenodema trispinosum 
+
+Family Ortheziidae 
+
+Species Arctorthezia cataphracta 
+
 Family Pentatomidae 
 
 Species Neottiglossa undata (Say, 1832) 
+
+Family Psyllidae 
+
+Species Aphalara nubifera 
+
+Species Cacopsylla rara 
+
+Species Craspedolepta nebulosa 
+
+Species Craspedolepta subpunctata 
 
 Family Rhyparochromidae 
 
@@ -1164,13 +1300,49 @@ Species Bombus occidentalis Greene, 1858
 
 Species Bombus sylvicola Kirby, 1837 
 
+Family Braconidae 
+
+Species Aphidius ervi 
+
+Species Chelonus gracilis 
+
+Species Ephedrus incompletus 
+
+Species Ephedrus lacertosus 
+
+Species Zele niveitarsis 
+
+Family Chrysididae 
+
+Species Omalus aeneus 
+
 Family Cimbicidae 
 
 Species Cimbex americana Leach 
 
+Species Trichiosoma triangulum 
+
 Family Colletidae 
 
 Species Hylaeus annulatus (Linnaeus, 1758) 
+
+Family Crabronidae 
+
+Species Crabro latipes F. Smith, 1856 
+
+Family Cynipidae 
+
+Species Diplolepis polita 
+
+Family Diapriidae 
+
+Species Spilomicrus stigmaticalis 
+
+Family Dryinidae 
+
+Species Aphelopus albopictus 
+
+Species Gonatopus ashmeadi 
 
 Family Formicidae 
 
@@ -1190,6 +1362,22 @@ Family Halictidae
 
 Species Lasioglossum behri (Cockerell, 1910) 
 
+Family Ichneumonidae 
+
+Species Crypteffigies confusus 
+
+Species Hadrodactylus seldoviae 
+
+Species Mesochorus prolatus 
+
+Species Opheltes glaucopterus 
+
+Species Ophion bilineatus 
+
+Species Oxyrrhexis carbonator 
+
+Species Polyaulon canadensis 
+
 Family Megaspilidae 
 
 Species Dendrocerus laevis (Ratzeburg, 1852) 
@@ -1198,23 +1386,69 @@ Family Platygastridae
 
 Species Platygaster obscuripennis Ashmead, 1893 
 
+Family Pteromalidae 
+
+Species Dinotiscus eupterus 
+
+Species Mesopolobus verditer 
+
 Family Tenthredinidae 
+
+Species Allantus albolabris 
 
 Species Cladius difformis (Panzer) 
 
+Species Dolerus elderi 
+
+Species Dolerus gilvipes 
+
+Species Dolerus yukonensis 
+
+Species Empria maculata 
+
+Species Eriocampa ovata 
+
+Species Pristiphora cincta 
+
+Species Pristiphora lativentris 
+
+Species Pristiphora mollis 
+
+Species Pristiphora staudingeri 
+
+Species Rhogogaster viridis 
+
+Family Torymidae 
+
+Species Megastigmus atedius 
+
+Species Torymus cecidomyiae 
+
 Family Vespidae 
+
+Species Dolichovespula albida 
+
+Species Dolichovespula arctica 
 
 Species Dolichovespula arenaria (Fabricius) 
 
 Species Symmorphus cristatus 
 
+Species Vespula alascensis 
+
 Order Lepidoptera 
+
+Family Coleophoridae 
+
+Species Coleophora canadensisella 
 
 Family Erebidae 
 
 Species Hypena californica Behr, 1870 
 
 Species Hypenodes palustris Ferguson, 1954 
+
+Species Orgyia antiqua (Linnaeus, 1758) 
 
 Species Platarctia parthenos (Harris, 1850) 
 
@@ -1230,6 +1464,8 @@ Species Campaea perlata (Guenée in Boisduval and Guenée, 1858)
 
 Species Cladara limitaria (Walker, 1860) 
 
+Species Ecliptopera silaceata ([Denis and Schiffermüller], 1775) 
+
 Species Epirrita undulata (Harrison, 1942) 
 
 Species Eulithis propulsata (Walker, 1862) 
@@ -1239,6 +1475,8 @@ Species Eupithecia sharronata Bolte, 1990
 Species Lycia rachelae (Hulst, 1896) 
 
 Species Lycia ursaria (Walker in D'Urban, 1860) 
+
+Species Mesothea incertata (Walker, 1863) 
 
 Species Operophtera bruceata (Hulst, 1886) 
 
@@ -1262,6 +1500,10 @@ Species Xanthorhoe ferrugata (Clerck, 1759)
 
 Species Xanthorhoe fossaria Taylor, 1906 
 
+Family Gracillariidae 
+
+Species Caloptilia alnivorella 
+
 Family Hesperiidae 
 
 Species Carterocephalus palaemon (Pallas, 1771) 
@@ -1280,6 +1522,8 @@ Species Lycaena dorcas W. Kirby, 1837
 
 Species Plebejus idas (Linnaeus, 1761) 
 
+Species Plebejus optilete (Knoch, 1781) 
+
 Family Noctuidae 
 
 Species Alypia langtoni Couper, 1865 
@@ -1290,11 +1534,15 @@ Species Diarsia esurialis (Grote, 1881)
 
 Species Diarsia rosaria (Grote, 1878) 
 
+Species Lacanobia nevadae (Grote, 1876) 
+
 Species Litholomia napaea (Morrison, 1874) 
 
 Species Lithomoia germana (Morrison, 1875) 
 
 Species Noctua pronuba (Linnaeus, 1758) 
+
+Species Spaelotis clandestina (Harris, 1841) 
 
 Species Sunira bicolorago (Guenée, 1852) 
 
@@ -1358,9 +1606,59 @@ Species Colias philodice Godart, 1819
 
 Species Euchloe ausonides (Lucas, 1852) 
 
+Species Pieris marginalis Scudder, 1861 
+
+Family Plutellidae 
+
+Species Rhigognostis interrupta 
+
+Family Pterophoridae 
+
+Species Amblyptilia pica 
+
+Species Gillmeria pallidactyla (Haw) 
+
+Family Pyralidae 
+
+Species Gesneria centuriella 
+
+Species Udea washingtonalis 
+
+Family Sesiidae 
+
+Species Albuna pyramidalis 
+
 Family Sphingidae 
 
 Species Hyles gallii (Rottemburg, 1775) 
+
+Family Tortricidae 
+
+Species Acleris arcticana 
+
+Species Ancylis tineana 
+
+Species Argyrotaenia occultana 
+
+Species Clepsis moeschleriana 
+
+Species Clepsis persicana 
+
+Species Cydia inopiosa 
+
+Species Cydia piperana 
+
+Species Endothenia hebesana 
+
+Species Epinotia solandriana 
+
+Species Eulia ministrana 
+
+Species Hystrichophora asphodelana 
+
+Family Yponomeutidae 
+
+Species Swammerdamia caesiella 
 
 Order Neuroptera 
 
@@ -1468,9 +1766,19 @@ Family Liposcelididae
 
 Species Liposcelis corrodens (Heymons, 1909) 
 
+Family Philopteridae 
+
+Species Ornithobius waterstoni 
+
 Family Psyllipsocidae 
 
 Species Dorypteryx domestica (Smithers, 1958) 
+
+Order Siphonaptera 
+
+Family Ceratophyllidae 
+
+Species Ceratophyllus niger 
 
 Order Thysanoptera 
 
@@ -1958,6 +2266,14 @@ Family Phalacrocoracidae
 
 Species Phalacrocorax auritus (Lesson, 1831) 
 
+Class Cephalaspidomorphi 
+
+Order Petromyzontiformes 
+
+Family Petromyzontidae 
+
+Species Lethenteron camtschaticum (Tilesius, 1811) 
+
 Class Mammalia 
 
 Order Artiodactyla 
@@ -2052,9 +2368,17 @@ Species Microtus miurus Osgood, 1901
 
 Species Microtus oeconomus (Pallas, 1776) 
 
+Species Microtus pennsylvanicus (Ord, 1815) 
+
+Species Myodes rutilus (Pallas, 1779) 
+
 Species Ondatra zibethicus (Linnaeus, 1766) 
 
 Species Synaptomys borealis (Richardson, 1828) 
+
+Family Erethizontidae 
+
+Species Erethizon dorsatus (Linnaeus, 1758) 
 
 Family Sciuridae 
 
@@ -2202,6 +2526,8 @@ Family Limacidae
 
 Species Deroceras laeve (Muller, 1774) 
 
+Species Deroceras reticulatum (Muller, 1774) 
+
 Family Pupillidae 
 
 Species Columella columella (von Martens, 1830) 
@@ -2244,6 +2570,50 @@ Species Nostoc pruniforme C. Agardh
 
 Kingdom Chromista 
 
+Phylum Ochrophyta 
+
+Class Bacillariophyceae 
+
+Order Aulacoseirales 
+
+Family Aulacoseiraceae 
+
+Species Aulacoseira subarctica (O. Müll.) E. Y. Haw. 
+
+Order Eunotiales 
+
+Family Eunotiaceae 
+
+Species Eunotia glacialis F. Meister 
+
+Order Fragilariales 
+
+Family Fragilariaceae 
+
+Species Staurosira construens Ehrenb. 
+
+Order Naviculales 
+
+Family Neidiaceae 
+
+Species Neidium hitchcockii (Ehrenb.) Cleve 
+
+Species Neidium iridis (Ehrenb.) Cleve 
+
+Order Rhopalodiales 
+
+Family Rhopalodiaceae 
+
+Species Epithemia adnata (Kütz.) Bréb. 
+
+Species Epithemia turgida (Ehrenb.) Kütz. 
+
+Order Thalassiosirales 
+
+Family Stephanodiscaceae 
+
+Species Stephanodiscus niagarae Ehrenb. 
+
 Phylum Phaeophyta 
 
 Class Phaeophyceae 
@@ -2256,7 +2626,55 @@ Species Fucus distichus Linnaeus, 1767
 
 Kingdom Fungi 
 
+Phylum taxon name missing 
+
+Class taxon name missing 
+
+Order Agaricales 
+
+Family Cortinariaceae 
+
+Species Cortinarius lucorum (Fr.) Berger, 1846 
+
+Order Dacrymycetales 
+
+Family Dacrymycetaceae 
+
+Species Dacrymyces chrysospermus 
+
+Order Hymenochaetales 
+
+Family Hymenochaetaceae 
+
+Species Inonotus obliquus (Ach. ex Pers.) Pilát 
+
+Species Phellinus igniarius 
+
+Order Russulales 
+
+Family Hericiaceae 
+
+Species Hericium coralloides 
+
+Family Russulaceae 
+
+Species Russula xerampelina 
+
+Order Thelephorales 
+
+Family Bankeraceae 
+
+Species Hydnellum peckii 
+
 Phylum Ascomycota 
+
+Class Arthoniomycetes 
+
+Order Arthoniales 
+
+Family Chrysothricaceae 
+
+Species Chrysothrix candelaris 
 
 Class Lecanoromycetes 
 
@@ -2273,6 +2691,14 @@ Family Agyriaceae
 Species Trapeliopsis granulosa (Hoffm.) Lumbsch 
 
 Species Xylographa vitiligo (Ach.) J.R. Laundon 
+
+Order Baeomycetales 
+
+Family Baeomycetaceae 
+
+Species Baeomyces rufus 
+
+Species Icmadophila ericetorum 
 
 Order Candelariales 
 
@@ -2292,7 +2718,17 @@ Species Lepraria neglecta Vain.
 
 Family Cladoniaceae 
 
+Species Cladina mitis 
+
+Species Cladina rangiferina 
+
+Species Cladina stellaris 
+
+Species Cladina stygia 
+
 Species Cladonia acuminata (Ach.) Norrl. 
+
+Species Cladonia albonigra 
 
 Species Cladonia amaurocraea 
 
@@ -2386,6 +2822,8 @@ Species Aspicilia myrinii (Fr.) Stein
 
 Family Lecanoraceae 
 
+Species <em>Ramboldia</em> <em>cinnabarina</em> (Sommerf.) Kalb, Lumbsch & Elix 
+
 Species Lecanora boligera (Th. Fr.) Hedl. 
 
 Species Lecanora chlarotera Nyl. 
@@ -2428,7 +2866,13 @@ Species Mycoblastus sanguinarius (L.) Norman
 
 Family Parmeliaceae 
 
+Species Alectoria nigricans 
+
+Species Alectoria sarmentosa 
+
 Species Allantoparmelia alpicola (Th. Fr.) Essl. 
+
+Species Arctoparmelia centrifuga 
 
 Species Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb. 
 
@@ -2445,6 +2889,8 @@ Species Bryoria carlottae Brodo & D. Hawksw.
 Species Bryoria fremontii (Tuck.) Brodo & D. Hawksw. 
 
 Species Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw. 
+
+Species Bryoria glabra (Motyka) Brodo & D. Hawksw. 
 
 Species Bryoria lanestris (Ach.) Brodo & D. Hawksw. 
 
@@ -2474,6 +2920,8 @@ Species Cetraria nigricascens
 
 Species Cetraria nivalis (L.) Ach. 
 
+Species Cetrariella delisei 
+
 Species Coelocaulon aculeatum (Schreb.) Link 
 
 Species Dactylina arctica (Hook. f.) Nyl. 
@@ -2495,6 +2943,14 @@ Species Hypogymnia physodes (L.) Nyl.
 Species Hypogymnia rugosa 
 
 Species Imshaugia aleurites (Ach.) S.L.F. Mey. 
+
+Species Melanelia olivacea 
+
+Species Melanelia panniformis 
+
+Species Melanelia stygia 
+
+Species Melanelia subaurifera 
 
 Species Parmelia hygrophila Goward & Ahti 
 
@@ -2532,9 +2988,13 @@ Species Usnea subfloridana Stirt.
 
 Species Usnea substerilis Motyka 
 
+Species Vulpicida pinastri 
+
 Family Ramalinaceae 
 
 Species Bacidia rosella 
+
+Species Biatora pallens 
 
 Species Biatora vernalis (L.) Fr. 
 
@@ -2560,13 +3020,41 @@ Species Ramalina obtusata
 
 Species Ramalina roesleri 
 
+Family Sphaerophoraceae 
+
+Species Sphaerophorus fragilis 
+
+Species Sphaerophorus globosus 
+
+Family Stereocaulaceae 
+
+Species Stereocaulon alpinum 
+
+Species Stereocaulon arenarium 
+
+Species Stereocaulon botryosum 
+
+Species Stereocaulon intermedium 
+
+Species Stereocaulon paschale 
+
+Species Stereocaulon rivulorum 
+
 Order Lecideales 
+
+Family Lecideaceae 
+
+Species Lecidea leprarioides 
+
+Species Lecidea nylanderi 
 
 Family Porpidiaceae 
 
 Species Bellemerea alpina (Sommerf.) Clauzade & Cl. Roux 
 
 Species Bellemerea subsorediza (Lynge) R. Sant. 
+
+Species Mycobilimbia epixanthoides 
 
 Order Ostropales 
 
@@ -2595,6 +3083,8 @@ Species Lobaria hallii (Tuck.) Zahlbr.
 Species Lobaria linita 
 
 Species Lobaria pulmonaria (L.) Hoffm. 
+
+Species Lobaria scrobiculata 
 
 Species Pseudocyphellaria crocata (L.) Vain. 
 
@@ -2644,6 +3134,8 @@ Species Peltigera neckeri Hepp
 
 Species Peltigera neopolydactyla (Gyeln.) Gyeln. 
 
+Species Peltigera polydactylon 
+
 Species Peltigera ponojensis Gyeln. 
 
 Species Peltigera praetextata (Flörke ex Sommerf.) Zopf 
@@ -2692,6 +3184,10 @@ Species Pertusaria suboculata Brodo & Dibben
 
 Order Teloschistales 
 
+Family Caliciaceae 
+
+Species Calicium viride 
+
 Family Physciaceae 
 
 Species Buellia disciformis (Fr.) Mudd 
@@ -2713,6 +3209,8 @@ Species Physcia caesia (Hoffm.) Fürnr.
 Species Physcia dubia (Hoffm.) Lettau 
 
 Species Physcia stellaris (L.) Nyl. 
+
+Species Rinodina degeliana 
 
 Species Rinodina efflorescens Malme 
 
@@ -2740,7 +3238,25 @@ Order Umbilicariales
 
 Family Umbilicariaceae 
 
+Species Umbilicaria caroliniana 
+
+Species Umbilicaria deusta 
+
+Species Umbilicaria hyperborea 
+
+Species Umbilicaria proboscidea 
+
+Species Umbilicaria torrefacta 
+
 Species Umbillicaria hyperborea (Ach.) Hoffm. 
+
+Class Leotiomycetes 
+
+Order Rhytismatales 
+
+Family Cudoniaceae 
+
+Species Cudonia circinans 
 
 Class Pezizomycetes 
 
@@ -2754,7 +3270,27 @@ Phylum Basidiomycota
 
 Class Agaricomycetes 
 
+Order Agaricales 
+
+Family Amanitaceae 
+
+Species Amanita muscaria 
+
+Family Cortinariaceae 
+
+Species Cortinarius caperatus 
+
+Family Tricholomataceae 
+
+Species <em>Leucopaxillus</em> <em>gentianeus</em> (Quélet) Kotlaba 
+
 Order Boletales 
+
+Family Boletaceae 
+
+Species Chalciporus piperatus 
+
+Species Leccinum holopus 
 
 Family Hygrophoropsidaceae 
 
@@ -2765,6 +3301,20 @@ Order Cantharellales
 Family Cantharellaceae 
 
 Species Craterellus lutescens (Fr.) Fr. 
+
+Order Hymenochaetales 
+
+Family Hymenochaetaceae 
+
+Species Onnia tomentosa (Fr.) P. Karst. 
+
+Class Pucciniomycetes 
+
+Order Pucciniales 
+
+Family Coleosporiaceae 
+
+Species Chrysomyxa arctostaphyli 
 
 Phylum Myxomycota 
 
@@ -3182,6 +3732,8 @@ Species Lophozia bicrenata (Schmidel ex Hoffm.) Dumort.
 
 Species Lophozia sudetica (Nees ex Huebener) Grolle 
 
+Species Tetralophozia setiformis (Ehrh.) Schljakov 
+
 Family Blepharostomataceae 
 
 Species Blepharostoma trichophyllum (L.) Dumort. 
@@ -3318,6 +3870,8 @@ Family Juncaginaceae
 
 Species Triglochin maritima L. 
 
+Species Triglochin palustris L. 
+
 Family Potamogetonaceae 
 
 Species Potamogeton gramineus L. 
@@ -3392,6 +3946,8 @@ Species Goodyera repens (L.) R. Br.
 
 Species Malaxis paludosa (L.) Sw. 
 
+Species Neottia cordata (L.) Rich. 
+
 Species Platanthera dilatata (Pursh) Lindl. ex L.C. Beck 
 
 Species Platanthera obtusata (Banks ex Pursh) Lindl. 
@@ -3415,6 +3971,8 @@ Species Arnica chamissonis Less.
 Species Arnica latifolia Bong. 
 
 Species Arnica lessingii Greene 
+
+Species Artemisia tilesii Ledeb. 
 
 Species Centaurea cyanus L. 
 
@@ -3630,6 +4188,8 @@ Species Claytonia sarmentosa C.A. Mey.
 
 Family Polygonaceae 
 
+Species Bistorta vivipara (L.) Gray 
+
 Species Fallopia convolvulus (L.) Á. Löve 
 
 Species Oxyria digyna (L.) Hill 
@@ -3647,6 +4207,8 @@ Species Rumex arcticus Trautv.
 Species Rumex crispus L. 
 
 Species Rumex longifolius DC. 
+
+Species Rumex occidentalis S. Watson 
 
 Order Celastrales 
 
@@ -3700,6 +4262,8 @@ Species Andromeda polifolia L.
 
 Species Arctostaphylos uva-ursi (L.) Spreng. 
 
+Species Arctous alpina (L.) Nied. 
+
 Species Arctous rubra (Rehder & Wilson) Nakai 
 
 Species Cassiope lycopodioides (Pall.) D. Don 
@@ -3733,6 +4297,8 @@ Species Pyrola minor L.
 Species Rhododendron groenlandicum (Oeder) Kron & Judd 
 
 Species Rhododendron tomentosum Harmaja 
+
+Species Vaccinium cespitosum Michx. 
 
 Species Vaccinium ovalifolium Sm. 
 
@@ -3776,6 +4342,8 @@ Species Lathyrus japonicus Willd.
 
 Species Lathyrus palustris L. 
 
+Species Lotus corniculatus L. 
+
 Species Lupinus arcticus S. Watson 
 
 Species Lupinus nootkatensis Donn ex Sims 
@@ -3783,6 +4351,8 @@ Species Lupinus nootkatensis Donn ex Sims
 Species Lupinus polyphyllus Lindl. 
 
 Species Medicago lupulina L. 
+
+Species Melilotus alba Medik. 
 
 Species Melilotus officinalis (L.) Lam. 
 
@@ -3938,6 +4508,8 @@ Species Populus trichocarpa Torr. & A. Gray ex Hook.
 
 Species Salix alaxensis (Andersson) Coville 
 
+Species Salix arctica Liebm. 
+
 Species Salix barclayi Andersson 
 
 Species Salix bebbiana Sarg. 
@@ -3973,6 +4545,8 @@ Species Viola adunca Sm.
 Species Viola epipsila Ledeb. 
 
 Species Viola glabella Nutt. 
+
+Species Viola langsdorffii Fisch. ex Ging. 
 
 Species Viola renifolia A. Gray 
 
@@ -4102,6 +4676,8 @@ Species Eriophorum vaginatum L.
 
 Species Eriophorum viridicarinatum (Engelm.) Fernald 
 
+Species Schoenoplectus acutus (Muhl. ex Bigelow) Á. Löve & D. Löve 
+
 Species Schoenoplectus tabernaemontani (C.C. Gmel.) Palla 
 
 Species Scirpus microcarpus J. Presl & C. Presl 
@@ -4148,6 +4724,8 @@ Species Alopecurus pratensis L.
 
 Species Anthoxanthum monticola (Bigelow) Veldkamp 
 
+Species Arctagrostis arundinacea (Trin.) Beal 
+
 Species Arctagrostis latifolia (R. Br.) Griseb. 
 
 Species Arctophila fulva (Trin.) Andersson 
@@ -4167,6 +4745,8 @@ Species Calamagrostis stricta (Timm) Koeler
 Species Dactylis glomerata L. 
 
 Species Danthonia intermedia Vasey 
+
+Species Deschampsia caespitosa (L.) P. Beauv. 
 
 Species Elymus alaskanus (Scribn. & Merr.) Á. Löve 
 
@@ -4325,6 +4905,8 @@ Species Geum macrophyllum Willd.
 Species Geum rossii (R. Br.) Ser. 
 
 Species Luetkea pectinata (Pursh) Kuntze 
+
+Species Potentilla anserina L. 
 
 Species Potentilla furcata A.E. Porsild 
 
