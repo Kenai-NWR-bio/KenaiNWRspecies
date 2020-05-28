@@ -19,10 +19,7 @@ library("reshape2")
 data1 <- assemble_csvs(directory="../data/FWSpecies")
 fields_crosswalk <- read.csv("../data/field_name_crosswalk.csv", colClasses="character")
 establishmentMeans_crosswalk <- read.csv("../data/establishmentMeans_crosswalk.csv", colClasses="character")
-fillin <- read.csv("../data/taxonomy_fill-in.csv", colClasses="character")
-
-## Now we need to fill in some missing values that for some reason are not exported by FWSpecies' Download Current Data report.
-
+fillin <- read.csv("../data/taxonomy_fill-ins.csv", colClasses="character")
 
 ## Renaming fields.
 for (this_field in 1:nrow(fields_crosswalk))
@@ -36,14 +33,7 @@ data1$scientificName[data1$scientificName == ""] <- data1$SciName[data1$scientif
  
 ## Trying to make a minimal DwC taxon.txt file.
 data1$taxonRank <- tolower(data1$taxonRank)
-data1 <- data1[order(
- data1$kingdom,
- data1$phylum,
- data1$class,
- data1$order,
- data1$family,
- data1$scientificName
- ),]
+
 data1 <- data1[data1$taxonRank == "species",] ## Limiting the list to species only for now.
 data1$occurrenceStatus <- tolower(data1$occurrenceStatus)
 data1 <- data1[data1$occurrenceStatus == "present",] ## Limiting the list to only species that are present.
@@ -60,6 +50,19 @@ dwc1 <- data1[,c(
  "scientificName",
  "taxonRank"
  )] 
+
+## Now replacing problematic records.
+dwc1 <- dwc1[!(dwc1$ID %in% fillin$ID),] 
+dwc1 <- rbind(dwc1, fillin)
+dwc1 <- dwc1[order(
+ dwc1$kingdom,
+ dwc1$phylum,
+ dwc1$class,
+ dwc1$order,
+ dwc1$family,
+ dwc1$scientificName
+ ),]
+ 
 write.table(
  dwc1,
  file="../data/DwC-A/taxon.txt",

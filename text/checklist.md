@@ -1,72 +1,12 @@
 Kenai National Wildlife Refuge Species List
 
-Kingdom taxon name missing 
-
-Phylum taxon name missing 
-
-Class taxon name missing 
-
-Order taxon name missing 
-
-Family taxon name missing 
-
-Species Corticarina minuta (Fabricius, 1792) 
-
-Species Glocianus punctigerá(C.R.Sahlberg, 1835) 
-
-Family Lecanoraceae 
-
-Species Pycnora sorophora 
-
-Family Momphidae 
-
-Species Mompha sexstrigella 
-
-Order Lycoperdales 
-
-Family Lycoperdaceae 
-
-Species Calvatia booniana 
-
-Class Arachnida 
-
-Order taxon name missing 
-
-Family taxon name missing 
-
-Species Ixodes angustus 
-
 Kingdom Animalia 
-
-Class taxon name missing 
-
-Order Coleoptera 
-
-Family Chrysomelidae 
-
-Species Chrysomela lapponica Linnaeus, 1758 
-
-Family Cryptophagidae 
-
-Species Atomaria fimetarius (Fabricius, 1792) 
-
-Family Curculionidae 
-
-Species Isochnus flagellum (Erichson, 1902) 
-
-Family Elateridae 
-
-Species Pseudanostirus ochreipennis (LeConte, 1863) 
-
-Family Latridiidae 
-
-Species Stephostethus armatulus (Fall, 1899) 
 
 Phylum Annelida 
 
 Class Clitellata 
 
-Order taxon name missing 
+Order Enchytraeida 
 
 Family Enchytraeidae 
 
@@ -101,6 +41,14 @@ Species Lumbricus rubellus Hoffmeister, 1843
 Species Lumbricus terrestris Linnaeus, 1758 
 
 Phylum Arthropoda 
+
+Class Arachnida 
+
+Order Ixodida 
+
+Family Ixodidae 
+
+Species Ixodes angustus 
 
 Class Branchiopoda 
 
@@ -340,12 +288,6 @@ Species Erythraeus tonsus (L. Koch, 1879)
 
 Class Insecta 
 
-Order taxon name missing 
-
-Family taxon name missing 
-
-Species Metalimnobia cinctipes 
-
 Order Archaeognatha 
 
 Family Machilidae 
@@ -420,6 +362,8 @@ Family Chrysomelidae
 
 Species Bromius obscurus (Linnaeus, 1758) 
 
+Species Chrysomela lapponica Linnaeus, 1758 
+
 Species Galerucella nymphaeae (Linnaeus, 1758) 
 
 Species Phratora hudsonia Brown, 1951 
@@ -444,6 +388,10 @@ Species Hippodamia falcigera Crotch, 1873
 
 Species Hippodamia tredecimpunctata (Linnaeus, 1758) 
 
+Family Cryptophagidae 
+
+Species Atomaria fimetarius (Fabricius, 1792) 
+
 Family Cucujidae 
 
 Species Cucujus clavipes Fabricius, 1781 
@@ -466,9 +414,13 @@ Species Dryocoetes autographus (Ratzeburg, 1837)
 
 Species Dryocoetes caryi Hopkins, 1915 
 
+Species Glocianus punctiger (C.R.Sahlberg, 1835) 
+
 Species Ips borealis Swaine, 1911 
 
 Species Ips perturbatus (Eichhoff, 1869) 
+
+Species Isochnus flagellum (Erichson, 1902) 
 
 Species Lepyrus gemellus Kirby, 1837 
 
@@ -584,6 +536,8 @@ Species Ctenicera watsoni
 
 Species Hypnoidus bicolor 
 
+Species Pseudanostirus ochreipennis (LeConte, 1863) 
+
 Species Sericus incongruus 
 
 Family Eucnemidae 
@@ -604,7 +558,11 @@ Family Latridiidae
 
 Species Corticaria ferruginea 
 
+Species Corticarina minuta (Fabricius, 1792) 
+
 Species Enicmus mimus 
+
+Species Stephostethus armatulus (Fall, 1899) 
 
 Family Leiodidae 
 
@@ -947,6 +905,10 @@ Species Ocydromia glabricula (Fallen, 1816)
 Species Platypalpus lateralis Loew, 1864 
 
 Species Platypalpus xanthopodus Melander, 1927 
+
+Family Limoniidae 
+
+Species Metalimnobia cinctipes 
 
 Family Lonchopteridae 
 
@@ -1523,6 +1485,10 @@ Species Lycaena dorcas W. Kirby, 1837
 Species Plebejus idas (Linnaeus, 1761) 
 
 Species Plebejus optilete (Knoch, 1781) 
+
+Family Momphidae 
+
+Species Mompha sexstrigella 
 
 Family Noctuidae 
 
@@ -2626,46 +2592,6 @@ Species Fucus distichus Linnaeus, 1767
 
 Kingdom Fungi 
 
-Phylum taxon name missing 
-
-Class taxon name missing 
-
-Order Agaricales 
-
-Family Cortinariaceae 
-
-Species Cortinarius lucorum (Fr.) Berger, 1846 
-
-Order Dacrymycetales 
-
-Family Dacrymycetaceae 
-
-Species Dacrymyces chrysospermus 
-
-Order Hymenochaetales 
-
-Family Hymenochaetaceae 
-
-Species Inonotus obliquus (Ach. ex Pers.) Pilát 
-
-Species Phellinus igniarius 
-
-Order Russulales 
-
-Family Hericiaceae 
-
-Species Hericium coralloides 
-
-Family Russulaceae 
-
-Species Russula xerampelina 
-
-Order Thelephorales 
-
-Family Bankeraceae 
-
-Species Hydnellum peckii 
-
 Phylum Ascomycota 
 
 Class Arthoniomycetes 
@@ -2709,12 +2635,6 @@ Species Candelariella terrigena
 Species Candelariella xanthostigma (Ach.) Lettau 
 
 Order Lecanorales 
-
-Family taxon name missing 
-
-Species Lepraria incana (L.) Ach. 
-
-Species Lepraria neglecta Vain. 
 
 Family Cladoniaceae 
 
@@ -2855,6 +2775,8 @@ Species Lecidella elaeochroma (Ach.) M. Choisy
 Species Lecidella euphorea (Flörke) Hertel 
 
 Species Lecidella wulfenii (Hepp) Körb. 
+
+Species Pycnora sorophora 
 
 Family Mycoblastaceae 
 
@@ -3027,6 +2949,10 @@ Species Sphaerophorus fragilis
 Species Sphaerophorus globosus 
 
 Family Stereocaulaceae 
+
+Species Lepraria incana (L.) Ach. 
+
+Species Lepraria neglecta Vain. 
 
 Species Stereocaulon alpinum 
 
@@ -3272,6 +3198,10 @@ Class Agaricomycetes
 
 Order Agaricales 
 
+Family Agaricaceae 
+
+Species Calvatia booniana 
+
 Family Amanitaceae 
 
 Species Amanita muscaria 
@@ -3279,6 +3209,8 @@ Species Amanita muscaria
 Family Cortinariaceae 
 
 Species Cortinarius caperatus 
+
+Species Cortinarius lucorum (Fr.) Berger, 1846 
 
 Family Tricholomataceae 
 
@@ -3306,7 +3238,35 @@ Order Hymenochaetales
 
 Family Hymenochaetaceae 
 
+Species Inonotus obliquus (Ach. ex Pers.) Pilát 
+
 Species Onnia tomentosa (Fr.) P. Karst. 
+
+Species Phellinus igniarius 
+
+Order Russulales 
+
+Family Hericiaceae 
+
+Species Hericium coralloides 
+
+Family Russulaceae 
+
+Species Russula xerampelina 
+
+Order Thelephorales 
+
+Family Bankeraceae 
+
+Species Hydnellum peckii 
+
+Class Dacrymycetes 
+
+Order Dacrymycetales 
+
+Family Dacrymycetaceae 
+
+Species Dacrymyces chrysospermus 
 
 Class Pucciniomycetes 
 
