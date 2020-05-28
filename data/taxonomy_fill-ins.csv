@@ -1,0 +1,23 @@
+ID,taxonID,kingdom,phylum,class,order,family,genus,scientificName,taxonRank
+985968,985968,Animalia,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Mesenchytraeus,"Mesenchytraeus solifugus (Emery, 1898)",species
+745873,745873,Animalia,Arthropoda,Arachnida,Ixodida,Ixodidae,Ixodes,Ixodes angustus,species
+1215796,1215796,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chrysomela,"Chrysomela lapponica Linnaeus, 1758",species
+1215797,1215797,Animalia,Arthropoda,Insecta,Coleoptera,Cryptophagidae,Atomaria,"Atomaria fimetarius (Fabricius, 1792)",species
+1215798,1215798,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,Glocianus,"Glocianus punctiger (C.R.Sahlberg, 1835)",species
+1215800,1215800,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,Isochnus,"Isochnus flagellum (Erichson, 1902)",species
+1215801,1215801,Animalia,Arthropoda,Insecta,Coleoptera,Elateridae,Pseudanostirus,"Pseudanostirus ochreipennis (LeConte, 1863)",species
+1215807,1215807,Animalia,Arthropoda,Insecta,Coleoptera,Latridiidae,Corticarina,"Corticarina minuta (Fabricius, 1792)",species
+1215808,1215808,Animalia,Arthropoda,Insecta,Coleoptera,Latridiidae,Stephostethus,"Stephostethus armatulus (Fall, 1899)",species
+746351,746351,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,Metalimnobia,Metalimnobia cinctipes,species
+581546,581546,Animalia,Arthropoda,Insecta,Lepidoptera,Momphidae,Mompha,Mompha sexstrigella,species
+174901,174901,Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Lecanoraceae,Pycnora ,Pycnora sorophora,species
+104262,104262,Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Stereocaulaceae,Lepraria,Lepraria incana (L.) Ach.,species
+104266,104266,Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Stereocaulaceae,Lepraria,Lepraria neglecta Vain.,species
+773940,773940,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Agaricaceae,Calvatia,Calvatia booniana,species
+1215806,1215806,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Cortinariaceae,Cortinarius,"Cortinarius lucorum (Fr.) Berger, 1846",species
+1126110,1126110,Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,Inonotus,Inonotus obliquus (Ach. ex Pers.) Pilát,species
+163435,163435,Fungi,Basidiomycota,Agaricomycetes,Hymenochaetales,Hymenochaetaceae,Phellinus,Phellinus igniarius,species
+666896,666896,Fungi,Basidiomycota,Agaricomycetes,Russulales,Hericiaceae,Hericium,Hericium coralloides,species
+164366,164366,Fungi,Basidiomycota,Agaricomycetes,Russulales,Russulaceae,Russula,Russula xerampelina,species
+667752,667752,Fungi,Basidiomycota,Agaricomycetes,Thelephorales,Bankeraceae,Hydnellum,Hydnellum peckii,species
+668652,668652,Fungi,Basidiomycota,Dacrymycetes,Dacrymycetales,Dacrymycetaceae,Dacrymyces,Dacrymyces chrysospermus,species
