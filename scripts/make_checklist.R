@@ -25,7 +25,7 @@ print_taxon <- function(outfile, name="", rank="")
   name <- "taxon name missing"
   }
  rank <- simpleCap(rank)
- write(paste(rank, name, "\n"), file=outfile, append=TRUE)
+ write(paste(rank, name, ""), file=outfile, append=TRUE)
  }
 
 kdm <- "NA"
