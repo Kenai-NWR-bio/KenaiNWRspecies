@@ -20,8 +20,9 @@ print_taxon <- function(outfile, name="", rank="")
 
 ## First load data.
 unzip("../data/DwC-A/dwca-kenainationalwildliferefuge.zip", exdir = "../data/DwC-A")
-
 cl1 <- read.delim("../data/DwC-A/taxon.txt")
+rf1 <- read.delim("../data/DwC-A/reference.txt")
+
 ## Sorting.
 cl1 <- cl1[order(cl1$kingdom, cl1$phylum, cl1$class, cl1$order, cl1$family, cl1$scientificName),]
 
@@ -37,7 +38,7 @@ odr <- "NA"
 fml <- "NA"
 gns <- "NA" 
  
-for (this_record in 1:nrow(cl1))
+for (this_record in 1:nrow(cl1)) #nrow(cl1)
  {
  
  if (!(kdm == cl1$kingdom[this_record]))
@@ -77,8 +78,37 @@ for (this_record in 1:nrow(cl1))
   }
  
  print_taxon(outfile=outfile, name=cl1$scientificName[this_record], rank="Species")
+ 
+ ## If there are any references, print them.
+ rfs <- rf1[rf1$ID==cl1$ID[this_record],]
+ if (nrow(rfs) == 0)
+  {
+  }
+ if (nrow(rfs) > 0)
+  {
+  if (nrow(rfs) == 1)
+   {
+   write("Reference: ", outfile, append=TRUE)
+   }
+  if (nrow(rfs) > 1)
+   {
+   write("References: ", outfile, append=TRUE)
+   }
+  for (this_reference in 1:nrow(rfs))
+   {
+   if (this_reference < nrow(rfs))
+    {
+    wline <- paste0("<", rfs$source[this_reference], ">, ")
+    }
+   if (this_reference == nrow(rfs))
+    {
+    wline <- paste0("<", rfs$source[this_reference], ">.\n")
+    }
+   write(wline, outfile, append=TRUE)
+   }  
+  }
  }
-
+ 
 ## Clean up.
 unlink("../data/DwC-A/meta.xml") 
 unlink("../data/DwC-A/taxon.txt")

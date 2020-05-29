@@ -48,6 +48,37 @@
 
 ### Species Dendrobaena octaedra (Savigny, 1826) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6764>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7045>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7046>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7047>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7049>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7050>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7052>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7053>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7054>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7055>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7056>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7057>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7058>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7059>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7065>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7066>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7067>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7068>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7069>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7070>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7071>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7072>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7074>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7076>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7077>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7078>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7079>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7080>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7081>.
+
 ### Genus Dendrodrilus 
 
 ### Species Dendrodrilus rubidus (Savigny, 1826) 
@@ -56,7 +87,14 @@
 
 ### Species Lumbricus rubellus Hoffmeister, 1843 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6755>.
+
 ### Species Lumbricus terrestris Linnaeus, 1758 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7060>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7063>.
 
 ### Phylum Arthropoda 
 
@@ -70,6 +108,9 @@
 
 ### Species Ixodes angustus 
 
+Reference: 
+<http://arctos.database.museum/guid/MSB:Para:28090>.
+
 ### Class Branchiopoda 
 
 ### Order Diplostraca 
@@ -79,6 +120,9 @@
 ### Genus Bosmina 
 
 ### Species Bosmina longirostris (O. F. Müller, 1776) 
+
+Reference: 
+<https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
 
 ### Family Chydoridae 
 
@@ -92,9 +136,16 @@
 
 ### Species Daphnia longiremis G. O. Sars, 1861 
 
+Reference: 
+<https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
+
 ### Genus Simocephalus 
 
 ### Species Simocephalus serrulatus (Koch, 1841) 
+
+References: 
+<https://www.ebi.ac.uk/ena/data/view/MG936115>, 
+<https://www.ebi.ac.uk/ena/data/view/MG936598>.
 
 ### Class Chilopoda 
 
@@ -106,6 +157,9 @@
 
 ### Species Strigamia chionophila Wood, 1862 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7331>.
+
 ### Order Lithobiomorpha 
 
 ### Family Lithobiidae 
@@ -113,6 +167,9 @@
 ### Genus Lithobius 
 
 ### Species Lithobius stejnegeri (Bollman, 1893) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6373>.
 
 ### Class Collembola 
 
@@ -123,6 +180,9 @@
 ### Genus Entomobrya 
 
 ### Species Entomobrya nivalis (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7625>.
 
 ### Family Isotomidae 
 
@@ -142,6 +202,9 @@
 
 ### Species Hymenaphorura nearctica Pomorski, 2001 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7411>.
+
 ### Class Euchelicerata 
 
 ### Order Araneae 
@@ -152,27 +215,58 @@
 
 ### Species Agelenopsis utahana (Chamberlin & Ivie, 1933) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6663>.
+
 ### Family Araneidae 
 
 ### Genus Araneus 
 
 ### Species Araneus corticarius (Emerton, 1884) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10328>.
+
 ### Species Araneus marmoreus Clerck, 1757 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6524>.
+
 ### Species Araneus nordmanni (Thorell, 1870) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7032>.
 
 ### Genus Araniella 
 
 ### Species Araniella displicata (Hentz, 1847) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4753>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6431>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6545>, 
+<http://www.inaturalist.org/observations/1454197>.
+
 ### Genus Cyclosa 
 
 ### Species Cyclosa conica (Pallas, 1772) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6413>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6420>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6497>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6523>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6553>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6565>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6643>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6650>.
+
 ### Genus Hypsosinga 
 
 ### Species Hypsosinga pygmaea (Sundevall, 1831) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6648>.
 
 ### Family Dictynidae 
 
@@ -180,17 +274,86 @@
 
 ### Species Dictyna alaskae Chamberlin & Ivie, 1947 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5091>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6448>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6471>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6483>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6521>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6536>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6540>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6546>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6549>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6560>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6573>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6590>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6596>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6612>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6837>, 
+<http://arctos.database.museum/guid/UAM:Ento:171025>, 
+<http://arctos.database.museum/guid/UAM:Ento:171029>, 
+<http://arctos.database.museum/guid/UAM:Ento:296256>, 
+<http://arctos.database.museum/guid/UAM:Ento:296257>, 
+<http://arctos.database.museum/guid/UAM:Ento:296258>, 
+<http://arctos.database.museum/guid/UAM:Ento:296260>, 
+<http://arctos.database.museum/guid/UAM:Ento:296261>, 
+<http://arctos.database.museum/guid/UAM:Ento:296262>, 
+<http://arctos.database.museum/guid/UAM:Ento:296265>, 
+<http://arctos.database.museum/guid/UAM:Ento:296266>, 
+<http://arctos.database.museum/guid/UAM:Ento:296267>, 
+<http://arctos.database.museum/guid/UAM:Ento:301763>, 
+<http://arctos.database.museum/guid/UAM:Ento:309403>.
+
 ### Species Dictyna arundinacea (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6454>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6578>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6609>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6838>, 
+<http://arctos.database.museum/guid/UAM:Ento:296259>, 
+<http://arctos.database.museum/guid/UAM:Ento:296263>, 
+<http://arctos.database.museum/guid/UAM:Ento:296264>, 
+<http://arctos.database.museum/guid/UAM:Ento:296268>.
+
 ### Species Dictyna major Menge, 1869 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6453>.
 
 ### Genus Emblyna 
 
 ### Species Emblyna annulipes (Blackwall, 1846) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6468>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6472>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6582>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6601>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6638>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6641>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6644>, 
+<http://arctos.database.museum/guid/UAM:Ento:301757>, 
+<http://arctos.database.museum/guid/UAM:Ento:301762>, 
+<http://arctos.database.museum/guid/UAM:Ento:313703>, 
+<http://arctos.database.museum/guid/UAM:Ento:313704>, 
+<http://arctos.database.museum/guid/UAM:Ento:313705>, 
+<http://arctos.database.museum/guid/UAM:Ento:313706>, 
+<http://arctos.database.museum/guid/UAM:Ento:313716>.
+
 ### Species Emblyna chitina (Chamberlin & Gertsch, 1958) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6627>, 
+<http://arctos.database.museum/guid/UAM:Ento:313707>.
+
 ### Species Emblyna manitoba (Ivie, 1947) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2090>, 
+<http://arctos.database.museum/guid/UAM:Ento:313708>, 
+<http://arctos.database.museum/guid/UAM:Ento:313714>, 
+<http://arctos.database.museum/guid/UAM:Ento:313715>.
 
 ### Family Linyphiidae 
 
@@ -198,33 +361,150 @@
 
 ### Species Baryphyma trifrons (O. P.-Cambridge, 1863) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2032>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4559>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6505>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6514>, 
+<http://arctos.database.museum/guid/UAM:Ento:301758>, 
+<http://arctos.database.museum/guid/UAM:Ento:301764>.
+
 ### Genus Ceraticelus 
 
 ### Species Ceraticelus atriceps (O. P.-Cambridge, 1874) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2319>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2510>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4163>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6425>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6451>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6469>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6481>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6503>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6519>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6526>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6552>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6558>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6569>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6572>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6586>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6605>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6616>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6640>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6645>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6658>.
+
 ### Species Ceraticelus silus Dondale, 1958 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4182>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4535>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5645>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6452>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6465>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6489>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6570>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6577>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6589>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6597>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6621>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6634>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6655>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6659>.
 
 ### Genus Ceratinella 
 
 ### Species Ceratinella ornatula (Crosby & Bishop, 1925) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6473>, 
+<http://arctos.database.museum/guid/UAM:Ento:309419>.
+
 ### Genus Dismodicus 
 
 ### Species Dismodicus alticeps Chamberlin & Ivie, 1947 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6482>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6671>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6672>.
+
 ### Species Dismodicus modicus Chamberlin & Ivie, 1947 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6433>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6537>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6559>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6594>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6604>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6620>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6765>, 
+<http://arctos.database.museum/guid/UAM:Ento:301761>, 
+<http://arctos.database.museum/guid/UAM:Ento:301765>, 
+<http://arctos.database.museum/guid/UAM:Ento:301766>.
 
 ### Genus Erigone 
 
 ### Species Erigone tirolensis L. Koch, 1872 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6743>, 
+<http://arctos.database.museum/guid/UAM:Ento:301756>.
+
 ### Genus Estrandia 
 
 ### Species Estrandia grandaeva (Keyserling, 1886) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2164>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3804>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4716>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6417>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6419>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6426>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6428>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6432>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6438>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6439>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6442>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6443>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6446>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6462>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6476>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6479>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6484>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6486>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6491>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6492>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6494>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6502>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6507>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6508>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6515>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6518>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6525>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6529>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6532>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6543>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6547>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6556>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6562>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6574>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6592>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6593>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6595>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6611>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6625>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6639>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6653>.
+
 ### Genus Grammonota 
 
 ### Species Grammonota vittata Barrows, 1919 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6584>.
 
 ### Genus Helophora 
 
@@ -234,13 +514,30 @@
 
 ### Species Hypselistes florens (O. P.-Cambridge, 1875) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4696>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4789>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6488>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6496>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6541>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6568>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6613>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6619>.
+
 ### Genus Kaestneria 
 
 ### Species Kaestneria rufula (Hackman, 1954) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:240442>.
+
 ### Genus Lepthyphantes 
 
 ### Species Lepthyphantes alpinus (Emerton, 1882) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6564>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6661>.
 
 ### Genus Megalepthyphantes 
 
@@ -250,21 +547,48 @@
 
 ### Species Micrargus longitarsus (Emerton, 1882) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6464>.
+
 ### Genus Mughiphantes 
 
 ### Species Mughiphantes marusiki (Tanasevitch, 1988) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6455>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6531>.
 
 ### Genus Neriene 
 
 ### Species Neriene radiata (Walckenaer, 1841) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6440>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6441>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6463>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6467>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6495>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6509>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6630>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6632>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6652>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6656>.
+
 ### Genus Pityohyphantes 
 
 ### Species Pityohyphantes subarcticus Chamberlin & Ivie, 1943 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6458>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6511>.
+
 ### Genus Pocadicnemis 
 
 ### Species Pocadicnemis pumila (Blackwall, 1841) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6506>, 
+<http://arctos.database.museum/guid/UAM:Ento:301759>.
 
 ### Genus Tiso 
 
@@ -274,29 +598,51 @@
 
 ### Species Walckenaeria directa (O. P.-Cambridge, 1874) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6811>.
+
 ### Family Lycosidae 
 
 ### Genus Alopecosa 
 
 ### Species Alopecosa aculeata (Clerck, 1757) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10342>.
+
 ### Genus Arctosa 
 
 ### Species Arctosa alpigena (Doleschall, 1852) 
+
+Reference: 
+<https://mczbase.mcz.harvard.edu/guid/MCZ:IZ:76590>.
 
 ### Genus Pardosa 
 
 ### Species Pardosa albomaculata Emerton, 1885 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6742>, 
+<http://arctos.database.museum/guid/UAM:Ento:94514>.
+
 ### Species Pardosa diuturna Fox, 1937 
 
 ### Species Pardosa groenlandica (Thorell, 1872) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10479>.
+
 ### Species Pardosa xerampelina (Keyserling, 1877) 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1226-16>.
 
 ### Genus Trochosa 
 
 ### Species Trochosa terricola Thorell, 1856 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7001>.
 
 ### Family Philodromidae 
 
@@ -307,6 +653,9 @@
 ### Genus Tibellus 
 
 ### Species Tibellus maritimus (Menge, 1875) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3386>.
 
 ### Family Pisauridae 
 
@@ -326,13 +675,26 @@
 
 ### Species Tetragnatha extensa (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3329>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6487>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6579>.
+
 ### Species Tetragnatha laboriosa Hentz, 1850 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3382>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6456>, 
+<http://arctos.database.museum/guid/UAM:Ento:95516>.
 
 ### Family Theridiidae 
 
 ### Genus Canalidion 
 
 ### Species Canalidion montanum (Emerton, 1882) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:239642>.
 
 ### Genus Enoplognatha 
 
@@ -342,21 +704,58 @@
 
 ### Species Ohlertidion ohlerti (Thorell, 1870) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3943>.
+
 ### Genus Robertus 
 
 ### Species Robertus crosbyi (Kaston, 1946) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6583>.
 
 ### Genus Rugathodes 
 
 ### Species Rugathodes aurantius (Emerton, 1915) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3491>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6423>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6424>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6435>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6480>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6490>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6516>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6551>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6557>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6599>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6603>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6606>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6614>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6617>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6623>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6626>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6642>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6660>.
+
 ### Genus Steatoda 
 
 ### Species Steatoda borealis (Hentz, 1850) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7131>.
+
 ### Genus Theridion 
 
 ### Species Theridion pictum (Walckenaer, 1802) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6466>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6485>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6528>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6566>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6581>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6628>.
 
 ### Family Thomisidae 
 
@@ -364,9 +763,15 @@
 
 ### Species Bassaniana utahensis (Gertsch, 1932) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1723>.
+
 ### Genus Misumena 
 
 ### Species Misumena vatia (Clerck, 1757) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3364>.
 
 ### Order Opiliones 
 
@@ -376,13 +781,22 @@
 
 ### Species Leptobunus borealis Banks, 1899 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10851>.
+
 ### Genus Mitopus 
 
 ### Species Mitopus morio (Fabricus, 1779) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:94515>.
+
 ### Genus Phalangium 
 
 ### Species Phalangium opilio Linnaeus, 1758 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10788>.
 
 ### Family Sabaconidae 
 
@@ -390,11 +804,17 @@
 
 ### Species Sabacon occidentalis (Banks, 1894) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11292>.
+
 ### Family Sclerosomatidae 
 
 ### Genus Nelima 
 
 ### Species Nelima paessleri (Roewer, 1910) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:6675>.
 
 ### Order Pseudoscorpiones 
 
@@ -404,9 +824,16 @@
 
 ### Species Halobisium occidentale Beier, 1931 
 
+References: 
+<http://www.inaturalist.org/observations/6565787>, 
+<http://www.inaturalist.org/observations/6612878>.
+
 ### Genus Microbisium 
 
 ### Species Microbisium brunneum (Hagen, 1868) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10324>.
 
 ### Order Sarcoptiformes 
 
@@ -430,11 +857,18 @@
 
 ### Species Demodex folliculorum 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11243>.
+
 ### Family Erythraeidae 
 
 ### Genus Erythraeus 
 
 ### Species Erythraeus tonsus (L. Koch, 1879) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6407>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6414>.
 
 ### Class Insecta 
 
@@ -445,6 +879,9 @@
 ### Genus Petridiobius 
 
 ### Species Petridiobius arcticus (Folsom, 1902) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11215>.
 
 ### Order Coleoptera 
 
@@ -460,7 +897,13 @@
 
 ### Species Dichelotarsus laevicollis (Kirby, 1837) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11271>.
+
 ### Species Dichelotarsus tetragonoderus (Fall, 1926) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:282616>.
 
 ### Family Carabidae 
 
@@ -468,69 +911,314 @@
 
 ### Species Amara alpina (Paykull, 1790) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:111995>.
+
 ### Species Amara brunnea (Gyllenhal, 1810) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:241044>.
+
 ### Species Amara obesa (Say, 1823) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:111998>.
 
 ### Genus Blethisa 
 
 ### Species Blethisa quadricollis Haldeman, 1847 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:144696>.
+
 ### Genus Calathus 
 
 ### Species Calathus advena (LeConte, 1846) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1427>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1428>, 
+<http://arctos.database.museum/guid/UAM:Ento:111499>, 
+<http://arctos.database.museum/guid/UAM:Ento:111888>, 
+<http://arctos.database.museum/guid/UAM:Ento:111889>, 
+<http://arctos.database.museum/guid/UAM:Ento:111890>, 
+<http://arctos.database.museum/guid/UAM:Ento:111891>, 
+<http://arctos.database.museum/guid/UAM:Ento:111892>, 
+<http://arctos.database.museum/guid/UAM:Ento:111893>, 
+<http://arctos.database.museum/guid/UAM:Ento:111894>, 
+<http://arctos.database.museum/guid/UAM:Ento:111895>, 
+<http://arctos.database.museum/guid/UAM:Ento:111896>, 
+<http://arctos.database.museum/guid/UAM:Ento:111897>, 
+<http://arctos.database.museum/guid/UAM:Ento:111898>, 
+<http://arctos.database.museum/guid/UAM:Ento:111899>, 
+<http://arctos.database.museum/guid/UAM:Ento:111900>, 
+<http://arctos.database.museum/guid/UAM:Ento:111901>, 
+<http://arctos.database.museum/guid/UAM:Ento:111902>, 
+<http://arctos.database.museum/guid/UAM:Ento:111903>, 
+<http://arctos.database.museum/guid/UAM:Ento:111904>, 
+<http://arctos.database.museum/guid/UAM:Ento:111905>, 
+<http://arctos.database.museum/guid/UAM:Ento:111906>, 
+<http://arctos.database.museum/guid/UAM:Ento:111907>, 
+<http://arctos.database.museum/guid/UAM:Ento:111908>, 
+<http://arctos.database.museum/guid/UAM:Ento:111909>, 
+<http://arctos.database.museum/guid/UAM:Ento:111910>, 
+<http://arctos.database.museum/guid/UAM:Ento:111911>, 
+<http://arctos.database.museum/guid/UAM:Ento:111912>, 
+<http://arctos.database.museum/guid/UAM:Ento:111913>, 
+<http://arctos.database.museum/guid/UAM:Ento:111914>, 
+<http://arctos.database.museum/guid/UAM:Ento:111915>, 
+<http://arctos.database.museum/guid/UAM:Ento:111916>, 
+<http://arctos.database.museum/guid/UAM:Ento:111917>, 
+<http://arctos.database.museum/guid/UAM:Ento:111918>, 
+<http://arctos.database.museum/guid/UAM:Ento:111919>, 
+<http://arctos.database.museum/guid/UAM:Ento:111920>, 
+<http://arctos.database.museum/guid/UAM:Ento:111921>, 
+<http://arctos.database.museum/guid/UAM:Ento:111922>, 
+<http://arctos.database.museum/guid/UAM:Ento:111923>, 
+<http://arctos.database.museum/guid/UAM:Ento:111924>, 
+<http://arctos.database.museum/guid/UAM:Ento:111925>, 
+<http://arctos.database.museum/guid/UAM:Ento:111926>, 
+<http://arctos.database.museum/guid/UAM:Ento:111927>, 
+<http://arctos.database.museum/guid/UAM:Ento:111928>, 
+<http://arctos.database.museum/guid/UAM:Ento:111929>, 
+<http://arctos.database.museum/guid/UAM:Ento:111930>, 
+<http://arctos.database.museum/guid/UAM:Ento:111979>.
+
 ### Species Calathus ingratus Dejean, 1828 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6802>, 
+<http://arctos.database.museum/guid/UAM:Ento:111500>, 
+<http://arctos.database.museum/guid/UAM:Ento:111643>, 
+<http://arctos.database.museum/guid/UAM:Ento:111977>, 
+<http://arctos.database.museum/guid/UAM:Ento:111978>, 
+<http://arctos.database.museum/guid/UAM:Ento:113325>, 
+<http://arctos.database.museum/guid/UAM:Ento:256936>, 
+<http://www.archive.org/details/beitragzurkaefer00mannerh>.
 
 ### Genus Carabus 
 
 ### Species Carabus chamissonis Fischer von Waldheim, 1820 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:111884>.
+
 ### Species Carabus taedatus Fabricius, 1787 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1425>.
 
 ### Genus Nebria 
 
 ### Species Nebria piperi Van Dyke, 1925 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:31822>.
+
 ### Genus Notiophilus 
 
 ### Species Notiophilus aquaticus (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:254813>.
 
 ### Genus Patrobus 
 
 ### Species Patrobus foveocollis (Eschscholtz, 1823) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6800>.
+
 ### Genus Platynus 
 
 ### Species Platynus decentis (Say, 1823) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6801>.
 
 ### Genus Pterostichus 
 
 ### Species Pterostichus adstrictus Eschscholtz, 1823 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1426>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6803>, 
+<http://arctos.database.museum/guid/UAM:Ento:112033>, 
+<http://arctos.database.museum/guid/UAM:Ento:113355>.
+
 ### Species Pterostichus brevicornis (Kirby, 1837) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1231>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1232>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1406>.
+
 ### Species Pterostichus riparius (Dejean, 1828) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1405>.
 
 ### Genus Scaphinotus 
 
 ### Species Scaphinotus marginatus (Fischer von Waldheim, 1820) 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:111644>, 
+<http://arctos.database.museum/guid/UAM:Ento:111749>, 
+<http://arctos.database.museum/guid/UAM:Ento:111750>, 
+<http://arctos.database.museum/guid/UAM:Ento:111751>, 
+<http://arctos.database.museum/guid/UAM:Ento:111752>, 
+<http://arctos.database.museum/guid/UAM:Ento:111753>, 
+<http://arctos.database.museum/guid/UAM:Ento:111754>, 
+<http://arctos.database.museum/guid/UAM:Ento:111755>, 
+<http://arctos.database.museum/guid/UAM:Ento:111756>, 
+<http://arctos.database.museum/guid/UAM:Ento:111757>, 
+<http://arctos.database.museum/guid/UAM:Ento:111758>, 
+<http://arctos.database.museum/guid/UAM:Ento:111760>, 
+<http://arctos.database.museum/guid/UAM:Ento:111761>, 
+<http://arctos.database.museum/guid/UAM:Ento:111762>, 
+<http://arctos.database.museum/guid/UAM:Ento:111763>, 
+<http://arctos.database.museum/guid/UAM:Ento:111764>, 
+<http://arctos.database.museum/guid/UAM:Ento:111765>, 
+<http://arctos.database.museum/guid/UAM:Ento:111766>, 
+<http://arctos.database.museum/guid/UAM:Ento:111767>, 
+<http://arctos.database.museum/guid/UAM:Ento:111768>, 
+<http://arctos.database.museum/guid/UAM:Ento:111769>, 
+<http://arctos.database.museum/guid/UAM:Ento:111770>, 
+<http://arctos.database.museum/guid/UAM:Ento:111771>, 
+<http://arctos.database.museum/guid/UAM:Ento:111772>, 
+<http://arctos.database.museum/guid/UAM:Ento:111774>, 
+<http://arctos.database.museum/guid/UAM:Ento:111775>, 
+<http://arctos.database.museum/guid/UAM:Ento:111776>, 
+<http://arctos.database.museum/guid/UAM:Ento:111777>, 
+<http://arctos.database.museum/guid/UAM:Ento:111778>, 
+<http://arctos.database.museum/guid/UAM:Ento:111779>, 
+<http://arctos.database.museum/guid/UAM:Ento:111781>, 
+<http://arctos.database.museum/guid/UAM:Ento:111782>, 
+<http://arctos.database.museum/guid/UAM:Ento:111783>, 
+<http://arctos.database.museum/guid/UAM:Ento:111785>, 
+<http://arctos.database.museum/guid/UAM:Ento:111786>, 
+<http://arctos.database.museum/guid/UAM:Ento:111787>, 
+<http://arctos.database.museum/guid/UAM:Ento:111788>, 
+<http://arctos.database.museum/guid/UAM:Ento:111789>, 
+<http://arctos.database.museum/guid/UAM:Ento:111790>, 
+<http://arctos.database.museum/guid/UAM:Ento:111791>, 
+<http://arctos.database.museum/guid/UAM:Ento:111793>, 
+<http://arctos.database.museum/guid/UAM:Ento:111794>, 
+<http://arctos.database.museum/guid/UAM:Ento:111795>, 
+<http://arctos.database.museum/guid/UAM:Ento:111796>, 
+<http://arctos.database.museum/guid/UAM:Ento:111797>, 
+<http://arctos.database.museum/guid/UAM:Ento:111798>, 
+<http://arctos.database.museum/guid/UAM:Ento:111799>, 
+<http://arctos.database.museum/guid/UAM:Ento:111801>, 
+<http://arctos.database.museum/guid/UAM:Ento:111802>, 
+<http://arctos.database.museum/guid/UAM:Ento:111803>, 
+<http://arctos.database.museum/guid/UAM:Ento:111804>, 
+<http://arctos.database.museum/guid/UAM:Ento:111805>, 
+<http://arctos.database.museum/guid/UAM:Ento:111806>, 
+<http://arctos.database.museum/guid/UAM:Ento:111807>, 
+<http://arctos.database.museum/guid/UAM:Ento:111808>, 
+<http://arctos.database.museum/guid/UAM:Ento:111809>, 
+<http://arctos.database.museum/guid/UAM:Ento:111810>, 
+<http://arctos.database.museum/guid/UAM:Ento:111811>, 
+<http://arctos.database.museum/guid/UAM:Ento:111812>, 
+<http://arctos.database.museum/guid/UAM:Ento:111813>, 
+<http://arctos.database.museum/guid/UAM:Ento:111814>, 
+<http://arctos.database.museum/guid/UAM:Ento:111815>, 
+<http://arctos.database.museum/guid/UAM:Ento:111816>, 
+<http://arctos.database.museum/guid/UAM:Ento:111817>, 
+<http://arctos.database.museum/guid/UAM:Ento:111818>, 
+<http://arctos.database.museum/guid/UAM:Ento:111819>, 
+<http://arctos.database.museum/guid/UAM:Ento:111820>, 
+<http://arctos.database.museum/guid/UAM:Ento:111821>, 
+<http://arctos.database.museum/guid/UAM:Ento:111822>, 
+<http://arctos.database.museum/guid/UAM:Ento:111823>, 
+<http://arctos.database.museum/guid/UAM:Ento:111824>, 
+<http://arctos.database.museum/guid/UAM:Ento:111825>, 
+<http://arctos.database.museum/guid/UAM:Ento:111826>, 
+<http://arctos.database.museum/guid/UAM:Ento:111827>, 
+<http://arctos.database.museum/guid/UAM:Ento:111828>, 
+<http://arctos.database.museum/guid/UAM:Ento:111829>, 
+<http://arctos.database.museum/guid/UAM:Ento:111830>, 
+<http://arctos.database.museum/guid/UAM:Ento:111832>, 
+<http://arctos.database.museum/guid/UAM:Ento:111833>, 
+<http://arctos.database.museum/guid/UAM:Ento:111835>, 
+<http://arctos.database.museum/guid/UAM:Ento:111836>, 
+<http://arctos.database.museum/guid/UAM:Ento:111837>, 
+<http://arctos.database.museum/guid/UAM:Ento:111838>, 
+<http://arctos.database.museum/guid/UAM:Ento:111839>, 
+<http://arctos.database.museum/guid/UAM:Ento:111840>, 
+<http://arctos.database.museum/guid/UAM:Ento:111841>, 
+<http://arctos.database.museum/guid/UAM:Ento:111842>, 
+<http://arctos.database.museum/guid/UAM:Ento:111843>, 
+<http://arctos.database.museum/guid/UAM:Ento:111844>, 
+<http://arctos.database.museum/guid/UAM:Ento:111845>, 
+<http://arctos.database.museum/guid/UAM:Ento:111846>, 
+<http://arctos.database.museum/guid/UAM:Ento:111847>, 
+<http://arctos.database.museum/guid/UAM:Ento:111848>, 
+<http://arctos.database.museum/guid/UAM:Ento:111849>, 
+<http://arctos.database.museum/guid/UAM:Ento:111850>, 
+<http://arctos.database.museum/guid/UAM:Ento:111851>, 
+<http://arctos.database.museum/guid/UAM:Ento:111852>, 
+<http://arctos.database.museum/guid/UAM:Ento:111853>, 
+<http://arctos.database.museum/guid/UAM:Ento:111854>, 
+<http://arctos.database.museum/guid/UAM:Ento:111855>, 
+<http://arctos.database.museum/guid/UAM:Ento:111856>, 
+<http://arctos.database.museum/guid/UAM:Ento:111857>, 
+<http://arctos.database.museum/guid/UAM:Ento:111858>, 
+<http://arctos.database.museum/guid/UAM:Ento:111859>, 
+<http://arctos.database.museum/guid/UAM:Ento:111860>, 
+<http://arctos.database.museum/guid/UAM:Ento:111861>, 
+<http://arctos.database.museum/guid/UAM:Ento:111862>, 
+<http://arctos.database.museum/guid/UAM:Ento:111863>, 
+<http://arctos.database.museum/guid/UAM:Ento:111864>, 
+<http://arctos.database.museum/guid/UAM:Ento:111865>, 
+<http://arctos.database.museum/guid/UAM:Ento:111866>, 
+<http://arctos.database.museum/guid/UAM:Ento:111867>, 
+<http://arctos.database.museum/guid/UAM:Ento:111868>, 
+<http://arctos.database.museum/guid/UAM:Ento:111869>, 
+<http://arctos.database.museum/guid/UAM:Ento:111870>, 
+<http://arctos.database.museum/guid/UAM:Ento:111871>, 
+<http://arctos.database.museum/guid/UAM:Ento:111872>, 
+<http://arctos.database.museum/guid/UAM:Ento:111873>, 
+<http://arctos.database.museum/guid/UAM:Ento:111874>, 
+<http://arctos.database.museum/guid/UAM:Ento:111875>, 
+<http://arctos.database.museum/guid/UAM:Ento:111877>, 
+<http://arctos.database.museum/guid/UAM:Ento:111878>, 
+<http://arctos.database.museum/guid/UAM:Ento:111879>, 
+<http://arctos.database.museum/guid/UAM:Ento:111880>, 
+<http://arctos.database.museum/guid/UAM:Ento:111881>.
+
 ### Genus Sericoda 
 
 ### Species Sericoda bembidioides Kirby, 1837 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:241042>.
+
 ### Species Sericoda bogemannii (Gyllenhal, 1813) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:241043>.
 
 ### Genus Trechus 
 
 ### Species Trechus chalybeus Dejean, 1831 
+
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:256935>, 
+<http://arctos.database.museum/guid/UAM:Ento:256937>.
 
 ### Family Cerambycidae 
 
 ### Genus Judolia 
 
 ### Species Judolia montivagans (Couper, 1864) 
+
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:112187>, 
+<http://arctos.database.museum/guid/UAM:Ento:112188>, 
+<http://arctos.database.museum/guid/UAM:Ento:112194>.
 
 ### Genus Monochamus 
 
@@ -554,21 +1242,46 @@
 
 ### Species Bromius obscurus (Linnaeus, 1758) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6798>.
+
 ### Genus Chrysomela 
 
 ### Species Chrysomela lapponica Linnaeus, 1758 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5366-17>.
 
 ### Genus Galerucella 
 
 ### Species Galerucella nymphaeae (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1421>, 
+<http://arctos.database.museum/guid/UAM:Ento:110848>, 
+<http://arctos.database.museum/guid/UAM:Ento:110849>, 
+<http://arctos.database.museum/guid/UAM:Ento:110850>, 
+<http://arctos.database.museum/guid/UAM:Ento:110851>, 
+<http://arctos.database.museum/guid/UAM:Ento:292297>, 
+<http://arctos.database.museum/guid/UAM:Ento:292298>, 
+<http://arctos.database.museum/guid/UAM:Ento:292299>, 
+<http://arctos.database.museum/guid/UAM:Ento:292300>, 
+<http://arctos.database.museum/guid/UAM:Ento:292301>, 
+<http://arctos.database.museum/guid/UAM:Ento:292302>.
+
 ### Genus Phratora 
 
 ### Species Phratora hudsonia Brown, 1951 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:111403>.
+
 ### Genus Plateumaris 
 
 ### Species Plateumaris flavipes (Kirby, 1837) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5342>.
 
 ### Species Plateumaris germari (Mannerheim, 1843) 
 
@@ -578,31 +1291,59 @@
 
 ### Species Anisosticta borealis Timberlake, 1943 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:13937>.
+
 ### Genus Calvia 
 
 ### Species Calvia quatuordecimguttata (Linnaeus, 1758) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4919>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8348>, 
+<http://arctos.database.museum/guid/UAM:Ento:110847>.
 
 ### Genus Ceratomegilla 
 
 ### Species Ceratomegilla ulkei Crotch, 1873 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:79268>.
+
 ### Genus Coccinella 
 
 ### Species Coccinella transversoguttata Faldermann, 1835 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:111537>.
+
 ### Species Coccinella trifasciata Linnaeus, 1758 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4452>, 
+<http://arctos.database.museum/guid/UAM:Ento:113558>.
 
 ### Genus Hippodamia 
 
 ### Species Hippodamia falcigera Crotch, 1873 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:112199>, 
+<http://arctos.database.museum/guid/UAM:Ento:112200>.
+
 ### Species Hippodamia tredecimpunctata (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:111510>.
 
 ### Family Cryptophagidae 
 
 ### Genus Atomaria 
 
 ### Species Atomaria fimetarius (Fabricius, 1792) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4964>.
 
 ### Family Cucujidae 
 
@@ -620,19 +1361,36 @@
 
 ### Species Dendroctonus rufipennis (Kirby, 1837) 
 
+Reference: 
+<http://www.inaturalist.org/observations/3761945>.
+
 ### Genus Dorytomus 
 
 ### Species Dorytomus leucophyllus (Motschulsky, 1845) 
 
 ### Species Dorytomus luridus (Mannerheim, 1853) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4523>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4524>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4525>.
+
 ### Species Dorytomus mannerheimi (Gemminger, 1871) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4630>.
 
 ### Genus Dryocoetes 
 
 ### Species Dryocoetes affaber (Mannerheim, 1852) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32814>.
+
 ### Species Dryocoetes autographus (Ratzeburg, 1837) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32856>.
 
 ### Species Dryocoetes caryi Hopkins, 1915 
 
@@ -640,23 +1398,38 @@
 
 ### Species Glocianus punctiger (C.R.Sahlberg, 1835) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10806>.
+
 ### Genus Ips 
 
 ### Species Ips borealis Swaine, 1911 
 
 ### Species Ips perturbatus (Eichhoff, 1869) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32988>.
+
 ### Genus Isochnus 
 
 ### Species Isochnus flagellum (Erichson, 1902) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5526>.
 
 ### Genus Lepyrus 
 
 ### Species Lepyrus gemellus Kirby, 1837 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1430>.
+
 ### Genus Otiorhynchus 
 
 ### Species Otiorhynchus ovatus (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10797>.
 
 ### Genus Phloeotribus 
 
@@ -670,6 +1443,9 @@
 
 ### Species Polygraphus rufipennis (Kirby, 1837) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:33222>.
+
 ### Genus Scierus 
 
 ### Species Scierus pubescens Swaine, 1924 
@@ -678,9 +1454,17 @@
 
 ### Species Sthereus quadrituberculatus Motschulsky, 1845 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5886>.
+
 ### Genus Trichalophus 
 
 ### Species Trichalophus alternatus (Say, 1831) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10396>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1429>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7952>.
 
 ### Genus Trypodendron 
 
@@ -688,7 +1472,13 @@
 
 ### Species Trypodendron retusum (LeConte, 1868) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:33333>.
+
 ### Species Trypodendron rufitarsis (Kirby, 1837) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:33337>.
 
 ### Genus Xylechinus 
 
@@ -705,6 +1495,9 @@
 ### Species Megatoma cylindrica (Kirby, 1837) 
 
 ### Species Megatoma perversa (Fall, 1926) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:311321>.
 
 ### Family Dytiscidae 
 
@@ -798,31 +1591,56 @@
 
 ### Species Athous rufiventris 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3963>.
+
 ### Genus Ctenicera 
 
 ### Species Ctenicera kendalli 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:112038>.
+
 ### Species Ctenicera resplendens 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3962>, 
+<https://www.inaturalist.org/observations/3541144>.
+
 ### Species Ctenicera watsoni 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32498>.
 
 ### Genus Hypnoidus 
 
 ### Species Hypnoidus bicolor 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11363>.
+
 ### Genus Pseudanostirus 
 
 ### Species Pseudanostirus ochreipennis (LeConte, 1863) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6167>.
+
 ### Genus Sericus 
 
 ### Species Sericus incongruus 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3767>.
 
 ### Family Eucnemidae 
 
 ### Genus Epiphanis 
 
 ### Species Epiphanis cornutus 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32521>.
 
 ### Family Gyrinidae 
 
@@ -842,17 +1660,30 @@
 
 ### Species Corticaria ferruginea 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4568>.
+
 ### Genus Corticarina 
 
 ### Species Corticarina minuta (Fabricius, 1792) 
+
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:111586>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:239737>.
 
 ### Genus Enicmus 
 
 ### Species Enicmus mimus 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:282612>.
+
 ### Genus Stephostethus 
 
 ### Species Stephostethus armatulus (Fall, 1899) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4829>.
 
 ### Family Leiodidae 
 
@@ -874,11 +1705,19 @@
 
 ### Species Leptinillus validus (Horn, 1872) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10672>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10673>, 
+<http://arctos.database.museum/guid/UAM:Ento:311320>.
+
 ### Family Lycidae 
 
 ### Genus Dictyoptera 
 
 ### Species Dictyoptera aurora (Herbst, 1784) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3465>.
 
 ### Family Melandryidae 
 
@@ -886,11 +1725,17 @@
 
 ### Species Xylita laevigata 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32562>.
+
 ### Family Monotomidae 
 
 ### Genus Rhizophagus 
 
 ### Species Rhizophagus dimidiatus Mannerheim, 1843 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:32601>.
 
 ### Family Nitidulidae 
 
@@ -898,11 +1743,18 @@
 
 ### Species Glischrochilus vittatus (Say, 1835) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7807>, 
+<http://arctos.database.museum/guid/UAM:Ento:282615>.
+
 ### Family Ptinidae 
 
 ### Genus Ptinus 
 
 ### Species Ptinus raptor Sturm, 1837 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10792>.
 
 ### Family Pyrochroidae 
 
@@ -910,11 +1762,18 @@
 
 ### Species Dendroides ephemeroides 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6804>.
+
 ### Family Pythidae 
 
 ### Genus Priognathus 
 
 ### Species Priognathus monilicornis (Randall, 1838) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1708>, 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1241-16>.
 
 ### Family Salpingidae 
 
@@ -922,17 +1781,30 @@
 
 ### Species Aegialites debilis Mannerheim, 1853 
 
+Reference: 
+<http://www.inaturalist.org/observations/6612922>.
+
 ### Family Scarabaeidae 
 
 ### Genus Agoliinus 
 
 ### Species Agoliinus congregatus (Mannerheim, 1853) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:404008>.
+
 ### Species Agoliinus piceatus (Robinson, 1946) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1750>, 
+<http://arctos.database.museum/guid/UAM:Ento:94512>.
 
 ### Genus Caelius 
 
 ### Species Caelius montana (Brown, 1931) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:94513>.
 
 ### Family Scirtidae 
 
@@ -940,11 +1812,17 @@
 
 ### Species Cyphon variabilis (Thunberg, 1785) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:282600>.
+
 ### Family Scraptiidae 
 
 ### Genus Anaspis 
 
 ### Species Anaspis rufa Say, 1826 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6797>.
 
 ### Family Silphidae 
 
@@ -952,7 +1830,28 @@
 
 ### Species Nicrophorus investigator Zetterstedt, 1824 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1436>.
+
 ### Species Nicrophorus vespilloides Herbst, 1783 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10092>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10093>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10094>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10095>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10096>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10097>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10098>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10099>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10100>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10101>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10102>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10103>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10104>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10105>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10106>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10107>.
 
 ### Family Silvanidae 
 
@@ -960,27 +1859,47 @@
 
 ### Species Dendrophagus cygnaei Mannerheim, 1846 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:110488>, 
+<http://arctos.database.museum/guid/UAM:Ento:110489>, 
+<http://arctos.database.museum/guid/UAM:Ento:113185>.
+
 ### Family Staphylinidae 
 
 ### Genus Acidota 
 
 ### Species Acidota quadratum 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:256831>.
+
 ### Genus Eucnecosum 
 
 ### Species Eucnecosum brachypterum 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:253710>.
 
 ### Genus Olisthaerus 
 
 ### Species Olisthaerus megacephalus 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:33374>.
+
 ### Genus Quedionuchus 
 
 ### Species Quedionuchus plagiatus (Mannerheim, 1843) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:33380>.
+
 ### Genus Tachinus 
 
 ### Species Tachinus quebecensis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11095>.
 
 ### Family Stenotrachelidae 
 
@@ -988,11 +1907,17 @@
 
 ### Species Stenotrachelus aeneus (Fabricius, 1787) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7709>.
+
 ### Family Tenebrionidae 
 
 ### Genus Upis 
 
 ### Species Upis ceramboides 
+
+Reference: 
+<https://www.inaturalist.org/observations/11436134>.
 
 ### Family Trachypachidae 
 
@@ -1008,23 +1933,67 @@
 
 ### Species Sylvicola fuscatus (Fabricius, 1775) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2045>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4167>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5055>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5511>.
+
 ### Family Anthomyiidae 
 
 ### Genus Botanophila 
 
 ### Species Botanophila rubrigena (Schnabl, 1915) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2264>.
+
 ### Genus Delia 
 
 ### Species Delia alaba (Walker, 1849) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7645>.
+
 ### Species Delia bucculenta (Coquillett, 1904) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6062>.
 
 ### Species Delia echinata (Seguy, 1923) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3633>.
+
 ### Species Delia extensa (Huckett, 1951) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10031>.
+
 ### Species Delia lineariventris (Zetterstedt, 1845) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2265>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3840>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3848>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3955>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4423>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4426>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4428>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4442>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4447>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4448>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4450>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4641>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4756>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4998>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4999>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5770>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5771>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7384>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7397>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7398>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7404>.
 
 ### Species Delia prostriata (Huckett, 1965) 
 
@@ -1032,15 +2001,27 @@
 
 ### Species Lasiomma atricaudum (Zetterstedt, 1845) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7285>.
+
 ### Genus Pegomya 
 
 ### Species Pegomya flavoscutellata (Zetterstedt, 1838) 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1415-16>.
 
 ### Genus Zaphne 
 
 ### Species Zaphne borealis (Malloch, 1920) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7272>.
+
 ### Species Zaphne lineatocollis (Zetterstedt, 1838) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7240>.
 
 ### Species Zaphne zetterstedtii (Ringdahl, 1918) 
 
@@ -1050,9 +2031,18 @@
 
 ### Species Anthomyza tenuis (Loew, 1863) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1816>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1818>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4976>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5638>.
+
 ### Genus Arganthomyza 
 
 ### Species Arganthomyza duplex Roháček and Barber 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:238682>.
 
 ### Family Asteiidae 
 
@@ -1060,21 +2050,45 @@
 
 ### Species Leiomyza curvinervis (Zetterstedt, 1838) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5232>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5234>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5449>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5452>, 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=DKNWR071-11>, 
+<http://www.ncbi.nlm.nih.gov/nuccore/JN582217>.
+
 ### Family Bibionidae 
 
 ### Genus Bibio 
 
 ### Species Bibio longipes Loew, 1864 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1727>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1728>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1729>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1730>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1731>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1732>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1733>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1734>.
+
 ### Genus Hesperinus 
 
 ### Species Hesperinus brevifrons 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:110156>.
 
 ### Family Calliphoridae 
 
 ### Genus Calliphora 
 
 ### Species Calliphora vomitoria (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8776>.
 
 ### Genus Cynomya 
 
@@ -1084,9 +2098,60 @@
 
 ### Species Pollenia vagabunda (Meigen, 1826) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10689>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10691>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10692>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10693>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10694>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10695>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10696>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10697>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10698>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10699>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10700>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10703>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10704>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10705>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10706>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10707>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10708>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10709>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10710>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10711>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10712>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10713>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10714>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10715>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10716>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10717>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10718>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10719>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10720>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10721>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10722>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10727>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10732>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10734>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10736>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10737>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10746>, 
+<http://arctos.database.museum/guid/UAM:Ento:310989>, 
+<http://arctos.database.museum/guid/UAM:Ento:310990>, 
+<http://arctos.database.museum/guid/UAM:Ento:310991>, 
+<http://arctos.database.museum/guid/UAM:Ento:310992>, 
+<http://arctos.database.museum/guid/UAM:Ento:310994>, 
+<http://arctos.database.museum/guid/UAM:Ento:311313>, 
+<http://arctos.database.museum/guid/UAM:Ento:311314>, 
+<http://arctos.database.museum/guid/UAM:Ento:311315>.
+
 ### Genus Protophormia 
 
 ### Species Protophormia terraenovae (Robineau-desvoidy, 1830) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:8863>, 
+<http://arctos.database.museum/guid/UAM:Ento:256830>.
 
 ### Family Cecidomyiidae 
 
@@ -1094,13 +2159,24 @@
 
 ### Species Dasineura serrulatae (Osten Sacken, 1862) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11164>.
+
 ### Genus Iteomyia 
 
 ### Species Iteomyia salicisverruca (Osten Sacken, 1878) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11105>.
+
 ### Genus Rabdophaga 
 
 ### Species Rabdophaga rigidae (Osten Sacken, 1862) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:11127>, 
+<http://arctos.database.museum/guid/KNWR:Ento:11144>, 
+<http://arctos.database.museum/guid/KNWR:Ento:11175>.
 
 ### Family Chironomidae 
 
@@ -1154,9 +2230,25 @@
 
 ### Species Chlorops sahlbergii Loew, 1863 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1825>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2143>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4243>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4444>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5801>, 
+<http://arctos.database.museum/guid/UAM:Ento:282608>.
+
 ### Genus Thaumatomyia 
 
 ### Species Thaumatomyia trifasciata (Zetterstedt, 1848) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2909>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2910>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2912>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2913>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2915>, 
+<http://arctos.database.museum/guid/UAM:Ento:282609>.
 
 ### Family Culicidae 
 
@@ -1164,15 +2256,24 @@
 
 ### Species Aedes abserratus (Felt and Young, 1904) 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1404-16>.
+
 ### Species Aedes diantaeus Howard, Dyar and Knab, 1913 
 
 ### Genus Culiseta 
 
 ### Species Culiseta impatiens (Walker, 1848) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10415>.
+
 ### Genus Ochlerotatus 
 
 ### Species Ochlerotatus communis 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:239006>.
 
 ### Family Dolichopodidae 
 
@@ -1180,21 +2281,58 @@
 
 ### Species Argyra currani Van Duzee, 1925 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2935>.
+
 ### Genus Campsicnemus 
 
 ### Species Campsicnemus alaskensis (Harmston and Miller, 1966) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3081>.
+
 ### Species Campsicnemus claudicans Loew, 1864 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7855>.
 
 ### Genus Dolichopus 
 
 ### Species Dolichopus detersus Loew, 1866 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7851>.
+
 ### Species Dolichopus plumipes (Scopoli, 1763) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2934>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2936>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2941>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2948>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2949>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2958>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2966>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6056>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6057>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6058>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6060>.
 
 ### Species Dolichopus remipes Wahlberg, 1839 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6783>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7849>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7850>.
+
 ### Species Dolichopus stenhammari Zetterdtedt, 1843 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5471>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6785>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7852>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7853>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7854>.
 
 ### Genus Hydrophorus 
 
@@ -1206,9 +2344,16 @@
 
 ### Species Medetera vockerothi Bickel, 1985 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7846>.
+
 ### Genus Neurigona 
 
 ### Species Neurigona ciliata Van Duzee, 1913 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6787>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7856>.
 
 ### Genus Rhaphium 
 
@@ -1216,13 +2361,60 @@
 
 ### Species Rhaphium elegantulum (Meigen, 1824) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6786>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7847>.
+
 ### Species Rhaphium femoratum (Van Duzee, 1922) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2937>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2939>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2942>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2944>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2945>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2950>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2951>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2952>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2953>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2954>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2959>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2962>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2964>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2965>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2967>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2968>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2969>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2970>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2972>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2973>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2974>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2975>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2977>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2979>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2980>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2982>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2983>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2985>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2986>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2989>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2990>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2991>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2992>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2993>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2994>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2995>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3053>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7848>.
 
 ### Family Dryomyzidae 
 
 ### Genus Dryomyza 
 
 ### Species Dryomyza setosa (Bigot, 1886) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3356>.
 
 ### Genus Helcomyza 
 
@@ -1238,19 +2430,56 @@
 
 ### Species Iteaphila macquarti Zetterstedt, 1838 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2515>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4700>.
+
 ### Species Iteaphila orchestris Melander, 1902 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3485>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4093>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4623>.
 
 ### Species Iteaphila testacea Melander, 1946 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3279>.
+
 ### Species Iteaphila triangula (Coquillett, 1900) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2887>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3558>.
 
 ### Genus Rhamphomyia 
 
 ### Species Rhamphomyia anthracodes Coquillett, 1900 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7859>.
+
 ### Species Rhamphomyia atrata Coquillett, 1900 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4025>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4026>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4823>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4865>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4996>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4997>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5179>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5180>.
+
 ### Species Rhamphomyia barypoda Coquillett, 1900 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3466>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3467>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3604>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4036>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4383>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5265>.
 
 ### Family Ephydridae 
 
@@ -1258,91 +2487,227 @@
 
 ### Species Coenia curvicauda (Meigen, 1830) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10573>.
+
 ### Genus Dichaeta 
 
 ### Species Dichaeta caudata 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10514>.
 
 ### Genus Discocerina 
 
 ### Species Discocerina obscurella (Fallen, 1813) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10603>.
+
 ### Genus Ditrichophora 
 
 ### Species Ditrichophora occidentalis Cresson, 1942 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10596>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10597>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10600>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10601>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10602>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10614>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10615>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10624>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10628>.
 
 ### Genus Ephydra 
 
 ### Species Ephydra riparia Fallen, 1813 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3001>.
+
 ### Genus Gymnoclasiopa 
 
 ### Species Gymnoclasiopa parilis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10593>.
+
 ### Species Gymnoclasiopa tacoma 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10593>.
 
 ### Genus Hyadina 
 
 ### Species Hyadina binotata (Cresson, 1926) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10013>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10591>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10599>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10604>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10605>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10609>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10611>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10616>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10621>.
+
 ### Genus Hydrellia 
 
 ### Species Hydrellia morrisoni Cresson, 1924 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2998>.
+
 ### Species Hydrellia tibialis Cresson, 1917 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10519>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10530>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10554>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10557>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10577>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10579>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10582>.
 
 ### Genus Ilythea 
 
 ### Species Ilythea spilota (Curtis, 1832) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10012>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10598>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10627>.
+
 ### Genus Lamproscatella 
 
 ### Species Lamproscatella occidentalis Mathis, 1979 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10508>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10512>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10522>.
 
 ### Genus Lytogaster 
 
 ### Species Lytogaster obscura Clausen, 1982 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3008>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3028>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3030>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3059>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3069>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3073>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3083>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3122>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3126>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3133>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3142>, 
+<http://arctos.database.museum/guid/UAM:Ento:282614>.
+
 ### Genus Notiphila 
 
 ### Species Notiphila loewi Cresson, 1917 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10560>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10561>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10569>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10572>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10576>.
+
 ### Species Notiphila uliginosa 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10588>.
 
 ### Genus Parydra 
 
 ### Species Parydra aquila (Fallen, 1813) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10532>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10547>.
+
 ### Species Parydra fossarum 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:11711>.
+
 ### Species Parydra quadriloba Clausen and Cook, 1971 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4078>.
 
 ### Genus Pelina 
 
 ### Species Pelina canadensis Cresson, 1934 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3024>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3056>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3060>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3101>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3196>.
+
 ### Genus Philygria 
 
 ### Species Philygria debilis Loew, 1861 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7831>.
 
 ### Genus Psilopa 
 
 ### Species Psilopa girschneri Von Roeder, 1889 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3042>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3076>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3077>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3078>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3079>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3103>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3117>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3168>, 
+<http://arctos.database.museum/guid/UAM:Ento:282606>.
+
 ### Genus Scatella 
 
 ### Species Scatella laxa Cresson, 1933 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3036>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3066>.
+
 ### Species Scatella obsoleta Loew, 1861 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10549>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10558>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10585>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10612>.
+
 ### Species Scatella tenuicosta 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10505>.
 
 ### Genus Scatophila 
 
 ### Species Scatophila cribrata (Stenhammar, 1844) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4550>.
+
 ### Genus Setacera 
 
 ### Species Setacera micans (Haliday, 1833) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10537>.
 
 ### Family Fanniidae 
 
@@ -1350,11 +2715,390 @@
 
 ### Species Fannia postica (Stein, 1895) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2005>.
+
 ### Species Fannia serena (Fallen, 1825) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2004>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2144>.
 
 ### Species Fannia spathiophora Malloch, 1918 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1192>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1497>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1502>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1535>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1536>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1538>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1539>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1688>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1689>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1690>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1692>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1693>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1696>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1699>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1712>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1713>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1714>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1716>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1717>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1814>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1817>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1827>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1864>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1865>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1866>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1867>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1868>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1869>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1870>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1871>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1872>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1873>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1874>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1875>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1876>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1877>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1878>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1879>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1880>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1881>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1882>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1884>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1885>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1886>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1887>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1888>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1889>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1890>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1891>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1892>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1893>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1894>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1896>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1897>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1898>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1899>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1900>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1901>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1902>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1903>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1904>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1905>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1906>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1907>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1908>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1909>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1910>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1911>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1912>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1913>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1914>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1915>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1916>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1917>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1918>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1919>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1921>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1922>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1923>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1924>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1925>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1926>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1927>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1928>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1929>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1931>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1932>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1933>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1934>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1935>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1936>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1937>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1938>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1939>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1940>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1941>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1942>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1944>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1945>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1946>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1947>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1948>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1949>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1950>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2003>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2071>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2141>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2145>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2146>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2148>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2218>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2219>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2220>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2221>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2222>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2224>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2225>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2228>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2229>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2230>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2233>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2235>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2236>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2237>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2238>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2239>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2241>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2246>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2247>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2301>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2303>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2304>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2307>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2320>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2321>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2322>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2323>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2324>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2325>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2326>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2327>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2328>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2329>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2330>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2331>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2332>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2335>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2336>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2337>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2338>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2339>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2340>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2342>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2344>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2345>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2346>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2347>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2348>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2349>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2350>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2351>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2352>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2353>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2354>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2355>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2356>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2357>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2358>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2359>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2360>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2361>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2362>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2363>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2364>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2365>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2367>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2368>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2369>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2371>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2372>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2373>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2377>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2378>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2379>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2380>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2381>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2382>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2383>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2384>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2385>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2386>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2387>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2388>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2389>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2390>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2391>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2392>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2394>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2396>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2397>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2398>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2399>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2400>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2401>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2559>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2563>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2589>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2593>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2595>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3305>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3358>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3438>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3440>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3445>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3448>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3529>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3831>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3832>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3988>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4186>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4191>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4364>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4492>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4605>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5202>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5581>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5583>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5585>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5586>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5588>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5589>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5590>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5591>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5592>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5639>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5640>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5711>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5713>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5714>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5720>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5721>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5722>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5723>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5724>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5779>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5780>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5781>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5782>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5785>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5790>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5802>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5803>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5804>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5807>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5808>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5809>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5811>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5812>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5814>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5815>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5816>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5817>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5893>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5941>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5943>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5945>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5946>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5949>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5950>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5951>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5956>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6101>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6105>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6122>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6124>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6127>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6128>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6129>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6130>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6131>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6132>, 
+<http://arctos.database.museum/guid/UAM:Ento:282692>, 
+<http://arctos.database.museum/guid/UAM:Ento:307707>, 
+<http://arctos.database.museum/guid/UAM:Ento:307708>, 
+<http://arctos.database.museum/guid/UAM:Ento:307709>, 
+<http://arctos.database.museum/guid/UAM:Ento:307710>, 
+<http://arctos.database.museum/guid/UAM:Ento:307711>, 
+<http://arctos.database.museum/guid/UAM:Ento:307712>, 
+<http://arctos.database.museum/guid/UAM:Ento:307713>, 
+<http://arctos.database.museum/guid/UAM:Ento:307714>, 
+<http://arctos.database.museum/guid/UAM:Ento:307715>, 
+<http://arctos.database.museum/guid/UAM:Ento:310996>, 
+<http://arctos.database.museum/guid/UAM:Ento:310997>, 
+<http://arctos.database.museum/guid/UAM:Ento:310998>, 
+<http://arctos.database.museum/guid/UAM:Ento:310999>, 
+<http://arctos.database.museum/guid/UAM:Ento:311000>, 
+<http://arctos.database.museum/guid/UAM:Ento:311001>, 
+<http://arctos.database.museum/guid/UAM:Ento:311002>, 
+<http://arctos.database.museum/guid/UAM:Ento:311003>, 
+<http://arctos.database.museum/guid/UAM:Ento:311004>, 
+<http://arctos.database.museum/guid/UAM:Ento:311005>, 
+<http://arctos.database.museum/guid/UAM:Ento:311006>, 
+<http://arctos.database.museum/guid/UAM:Ento:311007>, 
+<http://arctos.database.museum/guid/UAM:Ento:311008>, 
+<http://arctos.database.museum/guid/UAM:Ento:311009>, 
+<http://arctos.database.museum/guid/UAM:Ento:311010>, 
+<http://arctos.database.museum/guid/UAM:Ento:311011>, 
+<http://arctos.database.museum/guid/UAM:Ento:311012>, 
+<http://arctos.database.museum/guid/UAM:Ento:311013>, 
+<http://arctos.database.museum/guid/UAM:Ento:311014>, 
+<http://arctos.database.museum/guid/UAM:Ento:311015>, 
+<http://arctos.database.museum/guid/UAM:Ento:311767>, 
+<http://arctos.database.museum/guid/UAM:Ento:311768>, 
+<http://arctos.database.museum/guid/UAM:Ento:311769>, 
+<http://arctos.database.museum/guid/UAM:Ento:311770>, 
+<http://arctos.database.museum/guid/UAM:Ento:311771>, 
+<http://arctos.database.museum/guid/UAM:Ento:311772>, 
+<http://arctos.database.museum/guid/UAM:Ento:311773>, 
+<http://arctos.database.museum/guid/UAM:Ento:311774>, 
+<http://arctos.database.museum/guid/UAM:Ento:311775>, 
+<http://arctos.database.museum/guid/UAM:Ento:311776>, 
+<http://arctos.database.museum/guid/UAM:Ento:311777>, 
+<http://arctos.database.museum/guid/UAM:Ento:311778>, 
+<http://arctos.database.museum/guid/UAM:Ento:311779>, 
+<http://arctos.database.museum/guid/UAM:Ento:311780>, 
+<http://arctos.database.museum/guid/UAM:Ento:311781>, 
+<http://arctos.database.museum/guid/UAM:Ento:311782>, 
+<http://arctos.database.museum/guid/UAM:Ento:311783>, 
+<http://arctos.database.museum/guid/UAM:Ento:311791>, 
+<http://arctos.database.museum/guid/UAM:Ento:311792>, 
+<http://arctos.database.museum/guid/UAM:Ento:311793>, 
+<http://arctos.database.museum/guid/UAM:Ento:311794>, 
+<http://arctos.database.museum/guid/UAM:Ento:311795>, 
+<http://arctos.database.museum/guid/UAM:Ento:311796>, 
+<http://arctos.database.museum/guid/UAM:Ento:311797>, 
+<http://arctos.database.museum/guid/UAM:Ento:311798>, 
+<http://arctos.database.museum/guid/UAM:Ento:311799>.
+
 ### Species Fannia subpellucens (Zetterstedt, 1845) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1534>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2002>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2142>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2749>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2816>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2818>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2819>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2822>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2826>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2828>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2831>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2833>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2834>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2835>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2836>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2837>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2838>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2841>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2842>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2844>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2845>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2846>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3808>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4145>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4187>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4251>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4365>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4374>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4909>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5079>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7367>.
 
 ### Family Heleomyzidae 
 
@@ -1366,7 +3110,25 @@
 
 ### Species Suillia apicalis (Loew, 1862) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2117>.
+
 ### Species Suillia convergens (Walker, 1849) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1189>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1191>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1541>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1790>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3280>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3281>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3282>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3283>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3284>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4489>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4872>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5748>, 
+<http://arctos.database.museum/guid/UAM:Ento:282605>.
 
 ### Family Hybotidae 
 
@@ -1374,17 +3136,71 @@
 
 ### Species Ocydromia glabricula (Fallen, 1816) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5138>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5961>.
+
 ### Genus Platypalpus 
 
 ### Species Platypalpus lateralis Loew, 1864 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1499>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1500>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1504>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1575>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1735>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1795>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1796>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1797>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1798>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1799>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1800>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1831>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1953>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2034>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3278>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3512>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3513>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3514>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3515>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3645>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4386>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4387>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4701>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4986>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5143>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7858>.
+
 ### Species Platypalpus xanthopodus Melander, 1927 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2035>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2539>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2540>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2541>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2542>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2543>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2544>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2545>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2546>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2547>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3304>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3454>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4530>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5351>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5551>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5911>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5963>.
 
 ### Family Limoniidae 
 
 ### Genus Metalimnobia 
 
 ### Species Metalimnobia cinctipes 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5734-17>.
 
 ### Family Lonchopteridae 
 
@@ -1398,37 +3214,71 @@
 
 ### Species Cnodacophora nasoni 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3098>.
+
 ### Family Muscidae 
 
 ### Genus Coenosia 
 
 ### Species Coenosia cilicauda Malloch, 1920 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7270>.
+
 ### Genus Haematobosca 
 
 ### Species Haematobosca alcis (Snow, 1891) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2302>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4735>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5233>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5772>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5776>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5778>.
 
 ### Genus Limnospila 
 
 ### Species Limnospila albifrons (Zetterstedt, 1849) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6044>.
+
 ### Genus Mesembrina 
 
 ### Species Mesembrina latreillii Robineau-Desvoidy, 1830 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1707>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5940>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5944>.
 
 ### Genus Morellia 
 
 ### Species Morellia podagrica (Loew, 1857) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7221>.
+
 ### Genus Muscina 
 
 ### Species Muscina levida (Harris, 1788) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7220>.
 
 ### Genus Thricops 
 
 ### Species Thricops coquilletti (Malloch, 1920) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11066>.
+
 ### Species Thricops diaphanus (Wiedemann, 1817) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10286>.
 
 ### Family Mycetophilidae 
 
@@ -1436,11 +3286,31 @@
 
 ### Species Tarnania tarnanii (Dziedzicki, 1910) 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1588-16>.
+
 ### Family Otitidae 
 
 ### Genus Melieria 
 
 ### Species Melieria cana (Loew, 1858) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3037>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6066>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6067>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6068>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6069>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6070>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6071>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6072>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6073>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6074>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6075>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6076>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6077>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6078>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6081>.
 
 ### Family Pipunculidae 
 
@@ -1448,11 +3318,20 @@
 
 ### Species Pipunculus hertzogi Rapp 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6768>.
+
 ### Genus Tomosvaryella 
 
 ### Species Tomosvaryella kuthyi Aczel, 1944 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5264>.
+
 ### Species Tomosvaryella sylvatica (Meigen, 1824) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5264>.
 
 ### Family Sciomyzidae 
 
@@ -1460,13 +3339,28 @@
 
 ### Species Dictya umbroides Curran, 1932 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:138868>.
+
 ### Genus Pherbellia 
 
 ### Species Pherbellia albocostata (Fallen, 1820) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1771>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1791>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5952>.
+
 ### Species Pherbellia schoenherri 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2036>.
+
 ### Species Pherbellia tenuipes (Loew, 1872) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3682>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3823>.
 
 ### Genus Renocera 
 
@@ -1476,17 +3370,37 @@
 
 ### Species Sepedon borealis Steyskal, 1951 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5354>.
+
 ### Genus Tetanocera 
 
 ### Species Tetanocera fuscinervis (Zetterstedt, 1838) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5353>.
+
 ### Species Tetanocera montana Day, 1881 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1589>.
 
 ### Species Tetanocera phyllophora Melander, 1920 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3936>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6133>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6149>.
+
 ### Species Tetanocera plebeja Loew, 1862 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6772>.
+
 ### Species Tetanocera silvatica Meigen, 1830 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6771>.
 
 ### Family Sepsidae 
 
@@ -1500,9 +3414,34 @@
 
 ### Species Prosimulium travisi Stone, 1952 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2140>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2296>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2297>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2452>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2453>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2514>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2548>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2736>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2809>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2877>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2878>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3506>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3725>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3726>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3742>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3743>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3744>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3949>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5128>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5129>.
+
 ### Genus Simulium 
 
 ### Species Simulium vittatum (Zetterstedt, 1838) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2881>.
 
 ### Family Sphaeroceridae 
 
@@ -1510,21 +3449,33 @@
 
 ### Species Aptilotus parvipennis (Spuler, 1924) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8349>.
+
 ### Family Stratiomyidae 
 
 ### Genus Beris 
 
 ### Species Beris fuscipes Meigen, 1820 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1244-16>.
+
 ### Genus Nemotelus 
 
 ### Species Nemotelus canadensis Loew, 1863 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3109>.
 
 ### Family Synneuridae 
 
 ### Genus Synneuron 
 
 ### Species Synneuron decipiens Hutson, 1977 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6788>.
 
 ### Family Syrphidae 
 
@@ -1540,6 +3491,9 @@
 
 ### Species Chalcosyrphus vecors (Osten Sacken, 1875) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10818>.
+
 ### Genus Cheilosia 
 
 ### Species Cheilosia lasiophthalmus Williston, 1882 
@@ -1548,21 +3502,38 @@
 
 ### Species Doros aequalis Loew, 1863 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7130>.
+
 ### Genus Lejops 
 
 ### Species Lejops perfidiosus (Hunter, 1897) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6082>.
 
 ### Genus Melanostoma 
 
 ### Species Melanostoma mellinum (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2015>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2288>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4325>.
+
 ### Genus Neoascia 
 
 ### Species Neoascia metallica (Williston, 1882) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6085>.
+
 ### Genus Parasyrphus 
 
 ### Species Parasyrphus tarsatus (Zetterstedt, 1838) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3891>.
 
 ### Genus Platycheirus 
 
@@ -1572,19 +3543,33 @@
 
 ### Species Platycheirus peltatoides Curran, 1923 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2808>.
+
 ### Species Platycheirus rosarum (Fabricius, 1787) 
 
 ### Genus Sericomyia 
 
 ### Species Sericomyia militaris Walker, 1849 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1564>.
+
 ### Genus Sphaerophoria 
 
 ### Species Sphaerophoria philanthus Meigen 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3393>, 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=DKNWR053-11>, 
+<http://www.ncbi.nlm.nih.gov/nuccore/JN582251>.
+
 ### Genus Syrphus 
 
 ### Species Syrphus vitripennis Meigen, 1822 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1566>.
 
 ### Family Tabanidae 
 
@@ -1596,15 +3581,28 @@
 
 ### Species Hybomitra zonalis (Kirby, 1837) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2293>.
+
 ### Family Tachinidae 
 
 ### Genus Siphona 
 
 ### Species Siphona maculata Staeger, 1849 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3634>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3635>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3796>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4240>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4744>.
+
 ### Genus Tachina 
 
 ### Species Tachina marklini Zetterstedt, 1838 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10668>.
 
 ### Family Tephritidae 
 
@@ -1612,9 +3610,16 @@
 
 ### Species Campiglossa farinata (Novak, 1974) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2637>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2640>.
+
 ### Genus Rhagoletis 
 
 ### Species Rhagoletis basiola (Osten Sacken, 1877) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11093>.
 
 ### Family Tipulidae 
 
@@ -1622,17 +3627,29 @@
 
 ### Species Prionocera unimicra (Alexander, 1915) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11234>.
+
 ### Genus Tipula 
 
 ### Species Tipula entomophthorae Alexander, 1918 
 
+Reference: 
+<http://www.inaturalist.org/observations/2853091>.
+
 ### Species Tipula macrolabis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11157>.
 
 ### Family Xylophagidae 
 
 ### Genus Xylophagus 
 
 ### Species Xylophagus decorus Williston, 1885 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6767>.
 
 ### Order Ephemeroptera 
 
@@ -1642,15 +3659,24 @@
 
 ### Species Ameletus celer McDunnough, 1934 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11230>.
+
 ### Family Baetidae 
 
 ### Genus Baetis 
 
 ### Species Baetis bicaudatus Dodds, 1923 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11231>.
+
 ### Genus Procloeon 
 
 ### Species Procloeon pennulatum (Eaton, 1870) 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1429-16>.
 
 ### Family Caenidae 
 
@@ -1658,11 +3684,17 @@
 
 ### Species Caenis youngi Roemhild, 1984 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:241280>.
+
 ### Family Ephemerellidae 
 
 ### Genus Ephemerella 
 
 ### Species Ephemerella aurivillii (Bengtsson, 1908) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11270>.
 
 ### Family Heptageniidae 
 
@@ -1670,11 +3702,17 @@
 
 ### Species Epeorus grandis (McDunnough, 1924) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11228>.
+
 ### Family Leptophlebiidae 
 
 ### Genus Paraleptophlebia 
 
 ### Species Paraleptophlebia debilis (Walker, 1853) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10676>.
 
 ### Order Hemiptera 
 
@@ -1684,11 +3722,21 @@
 
 ### Species Elasmostethus interstinctus (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1578>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3347>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3657>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6153>, 
+<http://www.inaturalist.org/observations/1336308>.
+
 ### Family Adelgidae 
 
 ### Genus Adelges 
 
 ### Species Adelges cooleyi 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11232>.
 
 ### Family Anthocoridae 
 
@@ -1696,35 +3744,63 @@
 
 ### Species Anthocoris musculus (Say, 1832) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:4010>, 
+<http://arctos.database.museum/guid/UAM:Ento:150444>.
+
 ### Family Aphididae 
 
 ### Genus Amphorophora 
 
 ### Species Amphorophora agathonica 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883804>.
+
 ### Genus Aphis 
 
 ### Species Aphis varians 
+
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883609>.
 
 ### Genus Boernerina 
 
 ### Species Boernerina occidentalis 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883805>.
+
 ### Genus Cavariella 
 
 ### Species Cavariella digitata 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883634>.
+
 ### Species Cavariella salicis 
+
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883546>.
 
 ### Genus Chaitophorus 
 
 ### Species Chaitophorus populifolii 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/KR034024>.
+
 ### Genus Cinara 
 
 ### Species Cinara fornacula 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11128>.
+
 ### Species Cinara nimbata 
+
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883561>.
 
 ### Genus Macrosiphum 
 
@@ -1732,19 +3808,34 @@
 
 ### Species Macrosiphum stanleyi 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883610>.
+
 ### Genus Pachypappa 
 
 ### Species Pachypappa rosettei (Maxson) 
+
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883532>.
 
 ### Genus Tamalia 
 
 ### Species Tamalia coweni 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/data/view/JF883540>.
+
 ### Genus Thecabius 
 
 ### Species Thecabius affinis 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:229851>.
+
 ### Species Thecabius populimonilis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6350>.
 
 ### Family Aphrophoridae 
 
@@ -1752,11 +3843,17 @@
 
 ### Species Philaenus spumarius (Linnaeus, 1758) 
 
+Reference: 
+<http://www.inaturalist.org/observations/6901415>.
+
 ### Family Aradidae 
 
 ### Genus Aneurus 
 
 ### Species Aneurus simplex Uhler, 1871 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10748>.
 
 ### Family Cicadellidae 
 
@@ -1764,19 +3861,34 @@
 
 ### Species Balclutha manitou 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6766>.
+
 ### Species Balclutha punctata 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2574>.
 
 ### Genus Draeculacephala 
 
 ### Species Draeculacephala angulifera 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:176315>.
+
 ### Genus Evacanthus 
 
 ### Species Evacanthus grandipes 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10036>.
+
 ### Genus Thamnotettix 
 
 ### Species Thamnotettix confinis 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:176125>.
 
 ### Family Cixiidae 
 
@@ -1784,43 +3896,170 @@
 
 ### Species Cixius meridionalis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8998>.
+
 ### Family Delphacidae 
 
 ### Genus Achorotile 
 
 ### Species Achorotile subarctica Scudder, 1963 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10183>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10724>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3296>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4771>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5092>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5263>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5425>, 
+<http://arctos.database.museum/guid/UAM:Ento:282639>, 
+<http://arctos.database.museum/guid/UAM:Ento:96675>.
+
 ### Genus Criomorphus 
 
 ### Species Criomorphus inconspicuus (Uhler, 1877) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10189>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4229>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4592>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4804>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4956>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5923>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6172>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6176>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8043>, 
+<http://arctos.database.museum/guid/UAM:Ento:282636>.
 
 ### Genus Delphacodes 
 
 ### Species Delphacodes serrata Beamer, 1948 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6175>.
+
 ### Genus Javesella 
 
 ### Species Javesella atrata (Osborn, 1938) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10184>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4356>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4512>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4556>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4710>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5320>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5833>, 
+<http://arctos.database.museum/guid/UAM:Ento:282638>.
+
 ### Species Javesella pellucida (Fabricius, 1794) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10185>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10186>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1582>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1615>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1618>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1664>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1684>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1811>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1983>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2019>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2027>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2082>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2257>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2419>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2420>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2576>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2876>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3220>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3258>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3289>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3338>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3747>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3782>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3802>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3870>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3871>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3998>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4092>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4573>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4780>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5762>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5993>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6173>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8018>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8019>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8020>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8022>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8023>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8024>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8025>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8026>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8027>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8028>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8029>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8030>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8031>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8032>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8034>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8035>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8036>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8038>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8039>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8040>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8041>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8042>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8044>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8045>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8046>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8048>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8049>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8050>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8051>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8052>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8053>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8054>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8055>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8056>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8058>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8059>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8060>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8061>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8062>.
 
 ### Genus Kosswigianella 
 
 ### Species Kosswigianella analis (Crawford, 1914) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10179>.
+
 ### Genus Kusnezoviella 
 
 ### Species Kusnezoviella macleani Wilson, 1988 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5273>.
+
 ### Genus Paraliburnia 
 
 ### Species Paraliburnia kilmani (Van Duzee, 1897) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5199>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6177>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7365>.
 
 ### Family Geocoridae 
 
 ### Genus Geocoris 
 
 ### Species Geocoris bullatus (Say, 1832) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7686>.
 
 ### Family Gerridae 
 
@@ -1832,11 +4071,27 @@
 
 ### Species Limnoporus rufoscutellatus (Latreille, 1807) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:94509>.
+
 ### Family Lygaeidae 
 
 ### Genus Kleidocerys 
 
 ### Species Kleidocerys resedae (Panzer, 1797) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5050>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5051>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5142>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5176>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5177>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5510>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5664>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5839>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5882>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6206>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6207>.
 
 ### Family Miridae 
 
@@ -1844,13 +4099,28 @@
 
 ### Species Calocoris fulvomaculatus (De Geer, 1773) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3497>.
+
 ### Genus Irbisia 
 
 ### Species Irbisia sericans (Stål, 1858) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1835>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1836>, 
+<http://arctos.database.museum/guid/KNWR:Ento:1837>, 
+<http://www.jstor.org/stable/25009432>.
+
 ### Genus Lygocoris 
 
 ### Species Lygocoris pabulinus (Linnaeus, 1761) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:8518>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8519>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8520>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8521>.
 
 ### Genus Lygus 
 
@@ -1870,9 +4140,16 @@
 
 ### Species Plagiognathus alboradialis Knight, 1923 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3498>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3923>.
+
 ### Genus Stenodema 
 
 ### Species Stenodema trispinosum 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5769>.
 
 ### Family Ortheziidae 
 
@@ -1880,11 +4157,17 @@
 
 ### Species Arctorthezia cataphracta 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8892>.
+
 ### Family Pentatomidae 
 
 ### Genus Neottiglossa 
 
 ### Species Neottiglossa undata (Say, 1832) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:150609>.
 
 ### Family Psyllidae 
 
@@ -1892,15 +4175,27 @@
 
 ### Species Aphalara nubifera 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10632>.
+
 ### Genus Cacopsylla 
 
 ### Species Cacopsylla rara 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7025>.
 
 ### Genus Craspedolepta 
 
 ### Species Craspedolepta nebulosa 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1842>.
+
 ### Species Craspedolepta subpunctata 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1419>.
 
 ### Family Rhyparochromidae 
 
@@ -1912,13 +4207,22 @@
 
 ### Species Ligyrocoris sylvestris (Linnaeus, 1758) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10283>.
+
 ### Genus Peritrechus 
 
 ### Species Peritrechus convivus (Stål, 1851) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10356>.
+
 ### Genus Scolopostethus 
 
 ### Species Scolopostethus thomsoni Reuter, 1874 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11205>.
 
 ### Family Scutelleridae 
 
@@ -1934,17 +4238,32 @@
 
 ### Species Andrena clarkella (Kirby, 1802) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8381>.
+
 ### Family Apidae 
 
 ### Genus Apis 
 
 ### Species Apis mellifera Linnaeus, 1758 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10639>.
+
 ### Genus Bombus 
 
 ### Species Bombus occidentalis Greene, 1858 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2800>.
+
 ### Species Bombus sylvicola Kirby, 1837 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1962>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2497>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2598>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2770>.
 
 ### Family Braconidae 
 
@@ -1952,25 +4271,43 @@
 
 ### Species Aphidius ervi 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1529>.
+
 ### Genus Chelonus 
 
 ### Species Chelonus gracilis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7573>.
 
 ### Genus Ephedrus 
 
 ### Species Ephedrus incompletus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1608>.
+
 ### Species Ephedrus lacertosus 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1993>.
 
 ### Genus Zele 
 
 ### Species Zele niveitarsis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6277>.
 
 ### Family Chrysididae 
 
 ### Genus Omalus 
 
 ### Species Omalus aeneus 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8382>.
 
 ### Family Cimbicidae 
 
@@ -1982,11 +4319,17 @@
 
 ### Species Trichiosoma triangulum 
 
+Reference: 
+<https://www.inaturalist.org/observations/16032929>.
+
 ### Family Colletidae 
 
 ### Genus Hylaeus 
 
 ### Species Hylaeus annulatus (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8380>.
 
 ### Family Crabronidae 
 
@@ -1994,11 +4337,17 @@
 
 ### Species Crabro latipes F. Smith, 1856 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8386>.
+
 ### Family Cynipidae 
 
 ### Genus Diplolepis 
 
 ### Species Diplolepis polita 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5247-17>.
 
 ### Family Diapriidae 
 
@@ -2006,15 +4355,24 @@
 
 ### Species Spilomicrus stigmaticalis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2805>.
+
 ### Family Dryinidae 
 
 ### Genus Aphelopus 
 
 ### Species Aphelopus albopictus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2804>.
+
 ### Genus Gonatopus 
 
 ### Species Gonatopus ashmeadi 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:96674>.
 
 ### Family Formicidae 
 
@@ -2022,21 +4380,108 @@
 
 ### Species Camponotus herculeanus (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1710>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4502>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6791>, 
+<http://arctos.database.museum/guid/UAM:Ento:125245>, 
+<http://arctos.database.museum/guid/UAM:Ento:125246>, 
+<http://arctos.database.museum/guid/UAM:Ento:125247>.
+
 ### Genus Formica 
 
 ### Species Formica aserva Forel, 1901 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10268>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10269>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3378>.
+
 ### Species Formica gagatoides Ruzsky, 1904 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2456>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2457>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2706>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2707>.
+
 ### Species Formica neorufibarbis Emery, 1893 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10266>, 
+<http://arctos.database.museum/guid/KNWR:Ento:2474>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4470>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4540>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4542>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4543>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4547>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4548>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4886>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4887>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4888>, 
+<http://arctos.database.museum/guid/UAM:Ento:125214>, 
+<http://arctos.database.museum/guid/UAM:Ento:236684>, 
+<http://arctos.database.museum/guid/UAM:Ento:236685>, 
+<http://arctos.database.museum/guid/UAM:Ento:236686>, 
+<http://arctos.database.museum/guid/UAM:Ento:236687>, 
+<http://arctos.database.museum/guid/UAM:Ento:236688>, 
+<http://arctos.database.museum/guid/UAM:Ento:236689>, 
+<http://arctos.database.museum/guid/UAM:Ento:236690>, 
+<http://arctos.database.museum/guid/UAM:Ento:236691>, 
+<http://arctos.database.museum/guid/UAM:Ento:236692>, 
+<http://arctos.database.museum/guid/UAM:Ento:236693>, 
+<http://arctos.database.museum/guid/UAM:Ento:236697>, 
+<http://arctos.database.museum/guid/UAM:Ento:236698>, 
+<http://arctos.database.museum/guid/UAM:Ento:236699>, 
+<http://arctos.database.museum/guid/UAM:Ento:236700>, 
+<http://arctos.database.museum/guid/UAM:Ento:236701>, 
+<http://arctos.database.museum/guid/UAM:Ento:236702>, 
+<http://arctos.database.museum/guid/UAM:Ento:236703>, 
+<http://arctos.database.museum/guid/UAM:Ento:236704>, 
+<http://arctos.database.museum/guid/UAM:Ento:236705>, 
+<http://arctos.database.museum/guid/UAM:Ento:236706>, 
+<http://arctos.database.museum/guid/UAM:Ento:236707>, 
+<http://arctos.database.museum/guid/UAM:Ento:236708>, 
+<http://arctos.database.museum/guid/UAM:Ento:236709>, 
+<http://arctos.database.museum/guid/UAM:Ento:236710>, 
+<http://arctos.database.museum/guid/UAM:Ento:236711>, 
+<http://arctos.database.museum/guid/UAM:Ento:236712>, 
+<http://arctos.database.museum/guid/UAM:Ento:236713>, 
+<http://arctos.database.museum/guid/UAM:Ento:236714>, 
+<http://arctos.database.museum/guid/UAM:Ento:236715>, 
+<http://arctos.database.museum/guid/UAM:Ento:236716>, 
+<http://arctos.database.museum/guid/UAM:Ento:309088>.
 
 ### Genus Leptothorax 
 
 ### Species Leptothorax muscorum (Nylander, 1846) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:1855>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3720>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3721>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3722>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3723>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3724>, 
+<http://arctos.database.museum/guid/UAM:Ento:236694>, 
+<http://arctos.database.museum/guid/UAM:Ento:236695>, 
+<http://arctos.database.museum/guid/UAM:Ento:236696>.
+
 ### Genus Myrmica 
 
 ### Species Myrmica alaskensis Wheeler, 1917 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10261>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3631>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3766>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4546>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4779>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5920>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5986>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6790>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8895>, 
+<http://arctos.database.museum/guid/UAM:Ento:125320>.
 
 ### Family Halictidae 
 
@@ -2050,35 +4495,59 @@
 
 ### Species Crypteffigies confusus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7791>.
+
 ### Genus Hadrodactylus 
 
 ### Species Hadrodactylus seldoviae 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7611>.
 
 ### Genus Mesochorus 
 
 ### Species Mesochorus prolatus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7747>.
+
 ### Genus Opheltes 
 
 ### Species Opheltes glaucopterus 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7448>.
 
 ### Genus Ophion 
 
 ### Species Ophion bilineatus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4458>.
+
 ### Genus Oxyrrhexis 
 
 ### Species Oxyrrhexis carbonator 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11273>.
+
 ### Genus Polyaulon 
 
 ### Species Polyaulon canadensis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7330>.
 
 ### Family Megaspilidae 
 
 ### Genus Dendrocerus 
 
 ### Species Dendrocerus laevis (Ratzeburg, 1852) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:124752>.
 
 ### Family Platygastridae 
 
@@ -2092,9 +4561,15 @@
 
 ### Species Dinotiscus eupterus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6154>.
+
 ### Genus Mesopolobus 
 
 ### Species Mesopolobus verditer 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5268>.
 
 ### Family Tenthredinidae 
 
@@ -2102,39 +4577,75 @@
 
 ### Species Allantus albolabris 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4230>.
+
 ### Genus Cladius 
 
 ### Species Cladius difformis (Panzer) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:144697>.
 
 ### Genus Dolerus 
 
 ### Species Dolerus elderi 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4391>.
+
 ### Species Dolerus gilvipes 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4506>.
+
 ### Species Dolerus yukonensis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3892>.
 
 ### Genus Empria 
 
 ### Species Empria maculata 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4061>.
+
 ### Genus Eriocampa 
 
 ### Species Eriocampa ovata 
+
+Reference: 
+<https://www.inaturalist.org/observations/7524742>.
 
 ### Genus Pristiphora 
 
 ### Species Pristiphora cincta 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3510>.
+
 ### Species Pristiphora lativentris 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8362>.
 
 ### Species Pristiphora mollis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2715>.
+
 ### Species Pristiphora staudingeri 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1980>.
 
 ### Genus Rhogogaster 
 
 ### Species Rhogogaster viridis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1437>.
 
 ### Family Torymidae 
 
@@ -2142,9 +4653,15 @@
 
 ### Species Megastigmus atedius 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4941>.
+
 ### Genus Torymus 
 
 ### Species Torymus cecidomyiae 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8379>.
 
 ### Family Vespidae 
 
@@ -2152,17 +4669,32 @@
 
 ### Species Dolichovespula albida 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8145>.
+
 ### Species Dolichovespula arctica 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:124963>.
+
 ### Species Dolichovespula arenaria (Fabricius) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7961>.
 
 ### Genus Symmorphus 
 
 ### Species Symmorphus cristatus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11330>.
+
 ### Genus Vespula 
 
 ### Species Vespula alascensis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8888>.
 
 ### Order Lepidoptera 
 
@@ -2172,27 +4704,45 @@
 
 ### Species Coleophora canadensisella 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:238764>.
+
 ### Family Erebidae 
 
 ### Genus Hypena 
 
 ### Species Hypena californica Behr, 1870 
 
+Reference: 
+<http://www.inaturalist.org/observations/6221736>.
+
 ### Genus Hypenodes 
 
 ### Species Hypenodes palustris Ferguson, 1954 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3864>.
 
 ### Genus Orgyia 
 
 ### Species Orgyia antiqua (Linnaeus, 1758) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:11732>.
+
 ### Genus Platarctia 
 
 ### Species Platarctia parthenos (Harris, 1850) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10496>.
+
 ### Genus Scoliopteryx 
 
 ### Species Scoliopteryx libatrix (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11249>.
 
 ### Family Geometridae 
 
@@ -2204,53 +4754,100 @@
 
 ### Species Cabera exanthemata (Scopoli, 1763) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:3800>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4079>.
+
 ### Genus Campaea 
 
 ### Species Campaea perlata (Guenée in Boisduval and Guenée, 1858) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7163>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7314>.
 
 ### Genus Cladara 
 
 ### Species Cladara limitaria (Walker, 1860) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11054>.
+
 ### Genus Ecliptopera 
 
 ### Species Ecliptopera silaceata ([Denis and Schiffermüller], 1775) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:11719>.
 
 ### Genus Epirrita 
 
 ### Species Epirrita undulata (Harrison, 1942) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7423>.
+
 ### Genus Eulithis 
 
 ### Species Eulithis propulsata (Walker, 1862) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7337>, 
+<http://arctos.database.museum/guid/UAM:Ento:132392>.
 
 ### Genus Eupithecia 
 
 ### Species Eupithecia sharronata Bolte, 1990 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2771>.
+
 ### Genus Lycia 
 
 ### Species Lycia rachelae (Hulst, 1896) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10862>.
+
 ### Species Lycia ursaria (Walker in D'Urban, 1860) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10946>.
 
 ### Genus Mesothea 
 
 ### Species Mesothea incertata (Walker, 1863) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:429088>.
+
 ### Genus Operophtera 
 
 ### Species Operophtera bruceata (Hulst, 1886) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7353>.
+
 ### Species Operophtera occidentalis 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:11341>, 
+<https://www.inaturalist.org/observations/34808119>.
 
 ### Genus Plemyria 
 
 ### Species Plemyria georgii Hulst, 1896 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7415>.
+
 ### Genus Rheumaptera 
 
 ### Species Rheumaptera hastata (Linnaeus, 1758) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6816>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6817>.
 
 ### Species Rheumaptera subhastata (Nolcken, 1870) 
 
@@ -2258,9 +4855,15 @@
 
 ### Species Scopula frigidaria (Möschler, 1860) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6819>.
+
 ### Genus Spargania 
 
 ### Species Spargania luctuata ([Denis and Schiffermüller], 1775) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6818>.
 
 ### Genus Trichodezia 
 
@@ -2274,11 +4877,19 @@
 
 ### Species Xanthorhoe fossaria Taylor, 1906 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6821>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6822>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6823>.
+
 ### Family Gracillariidae 
 
 ### Genus Caloptilia 
 
 ### Species Caloptilia alnivorella 
+
+Reference: 
+<https://www.inaturalist.org/observations/9091617>.
 
 ### Family Hesperiidae 
 
@@ -2286,11 +4897,19 @@
 
 ### Species Carterocephalus palaemon (Pallas, 1771) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6829>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7701>, 
+<http://arctos.database.museum/guid/KWP:Ento:52570>.
+
 ### Family Lasiocampidae 
 
 ### Genus Phyllodesma 
 
 ### Species Phyllodesma americana (Harris) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4584>.
 
 ### Family Lycaenidae 
 
@@ -2298,13 +4917,29 @@
 
 ### Species Celastrina lucia (W. Kirby, 1837) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7017>, 
+<http://arctos.database.museum/guid/KWP:Ento:42050>, 
+<http://arctos.database.museum/guid/KWP:Ento:42051>, 
+<http://arctos.database.museum/guid/KWP:Ento:42052>, 
+<http://arctos.database.museum/guid/KWP:Ento:42053>, 
+<http://arctos.database.museum/guid/KWP:Ento:42054>.
+
 ### Genus Glaucopsyche 
 
 ### Species Glaucopsyche lygdamus (E. Doubleday, 1841) 
 
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:56842>, 
+<http://www.inaturalist.org/observations/1636102>.
+
 ### Genus Lycaena 
 
 ### Species Lycaena dorcas W. Kirby, 1837 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10630>, 
+<http://arctos.database.museum/guid/KWP:Ento:56780>.
 
 ### Genus Plebejus 
 
@@ -2312,11 +4947,17 @@
 
 ### Species Plebejus optilete (Knoch, 1781) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:364445>.
+
 ### Family Momphidae 
 
 ### Genus Mompha 
 
 ### Species Mompha sexstrigella 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4037>.
 
 ### Family Noctuidae 
 
@@ -2324,19 +4965,36 @@
 
 ### Species Alypia langtoni Couper, 1865 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10635>.
+
 ### Genus Apamea 
 
 ### Species Apamea cogitata (Smith, 1891) 
+
+Reference: 
+<https://www.inaturalist.org/observations/30050164>.
 
 ### Genus Diarsia 
 
 ### Species Diarsia esurialis (Grote, 1881) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6812>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6813>.
+
 ### Species Diarsia rosaria (Grote, 1878) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6814>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6815>.
 
 ### Genus Lacanobia 
 
 ### Species Lacanobia nevadae (Grote, 1876) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:11738>.
 
 ### Genus Litholomia 
 
@@ -2346,37 +5004,73 @@
 
 ### Species Lithomoia germana (Morrison, 1875) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7354>.
+
 ### Genus Noctua 
 
 ### Species Noctua pronuba (Linnaeus, 1758) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7355>.
 
 ### Genus Spaelotis 
 
 ### Species Spaelotis clandestina (Harris, 1841) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11090>.
+
 ### Genus Sunira 
 
 ### Species Sunira bicolorago (Guenée, 1852) 
 
+Reference: 
+<https://www.inaturalist.org/observations/15768287>.
+
 ### Species Sunira verberata (Smith, 1904) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7424>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7425>.
 
 ### Genus Syngrapha 
 
 ### Species Syngrapha alticola (Walker, 1858) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11227>.
+
 ### Species Syngrapha viridisigma (Grote, 1874) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:11226>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7445>.
 
 ### Genus Xestia 
 
 ### Species Xestia c-nigrum (Linnaeus, 1758) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7336>.
+
 ### Species Xestia homogena (McDunnough, 1921) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7335>, 
+<http://arctos.database.museum/guid/KNWR:Ento:7447>.
+
 ### Species Xestia tecta (Hübner, 1808) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7446>.
 
 ### Genus Xylena 
 
 ### Species Xylena thoracica (Putnam-Cramer, 1886) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8499>.
 
 ### Family Notodontidae 
 
@@ -2388,45 +5082,143 @@
 
 ### Species Pheosia rimosa Packard, 1864 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7193>, 
+<http://arctos.database.museum/guid/UAM:Ento:228334>.
+
 ### Family Nymphalidae 
 
 ### Genus Aglais 
 
 ### Species Aglais milberti (Godart, 1819) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10683>, 
+<http://arctos.database.museum/guid/KNWR:Ento:10684>, 
+<http://arctos.database.museum/guid/KWP:Ento:56792>, 
+<http://arctos.database.museum/guid/KWP:Ento:56793>, 
+<http://arctos.database.museum/guid/KWP:Ento:56794>, 
+<http://arctos.database.museum/guid/KWP:Ento:56795>, 
+<http://arctos.database.museum/guid/KWP:Ento:56796>, 
+<http://arctos.database.museum/guid/KWP:Ento:56818>, 
+<http://arctos.database.museum/guid/KWP:Ento:56836>, 
+<http://arctos.database.museum/guid/KWP:Ento:56848>, 
+<http://arctos.database.museum/guid/KWP:Ento:56868>, 
+<http://arctos.database.museum/guid/KWP:Ento:57066>, 
+<http://www.inaturalist.org/observations/1157608>.
+
 ### Genus Boloria 
 
 ### Species Boloria chariclea (Schneider, 1794) 
 
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:48307>, 
+<http://arctos.database.museum/guid/KWP:Ento:56961>, 
+<http://arctos.database.museum/guid/KWP:Ento:56962>, 
+<http://arctos.database.museum/guid/KWP:Ento:56963>, 
+<http://arctos.database.museum/guid/KWP:Ento:56987>, 
+<http://arctos.database.museum/guid/KWP:Ento:56988>, 
+<http://arctos.database.museum/guid/KWP:Ento:57369>, 
+<http://arctos.database.museum/guid/KWP:Ento:57393>.
+
 ### Species Boloria freija (Thunberg, 1791) 
 
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:42234>, 
+<http://arctos.database.museum/guid/KWP:Ento:57367>, 
+<http://arctos.database.museum/guid/KWP:Ento:57368>, 
+<http://arctos.database.museum/guid/KWP:Ento:57392>.
+
 ### Species Boloria selene ([Schiffermüller], 1775) 
+
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:52202>, 
+<http://arctos.database.museum/guid/KWP:Ento:52203>, 
+<http://arctos.database.museum/guid/KWP:Ento:52204>.
 
 ### Genus Coenonympha 
 
 ### Species Coenonympha tullia (Müller, 1764) 
 
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:52205>, 
+<http://arctos.database.museum/guid/KWP:Ento:57010>, 
+<http://arctos.database.museum/guid/KWP:Ento:57370>.
+
 ### Genus Erebia 
 
 ### Species Erebia discoidalis (W. Kirby, 1837) 
+
+References: 
+<http://www.inaturalist.org/observations/6238143>, 
+<http://www.inaturalist.org/observations/6652720>.
 
 ### Genus Nymphalis 
 
 ### Species Nymphalis antiopa (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10675>, 
+<http://arctos.database.museum/guid/KWP:Ento:56799>, 
+<http://arctos.database.museum/guid/KWP:Ento:56800>, 
+<http://arctos.database.museum/guid/KWP:Ento:56801>, 
+<http://arctos.database.museum/guid/KWP:Ento:56802>, 
+<http://arctos.database.museum/guid/KWP:Ento:56813>, 
+<http://arctos.database.museum/guid/KWP:Ento:56814>, 
+<http://arctos.database.museum/guid/KWP:Ento:56866>, 
+<http://arctos.database.museum/guid/KWP:Ento:56867>.
+
 ### Genus Oeneis 
 
 ### Species Oeneis bore (Esper, 1789) 
 
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:56314>, 
+<http://arctos.database.museum/guid/KWP:Ento:56315>, 
+<http://arctos.database.museum/guid/KWP:Ento:56316>, 
+<http://arctos.database.museum/guid/KWP:Ento:56317>.
+
 ### Species Oeneis polixenes (Fabricius, 1775) 
+
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:57371>, 
+<http://arctos.database.museum/guid/KWP:Ento:57372>, 
+<http://arctos.database.museum/guid/KWP:Ento:57391>.
 
 ### Genus Polygonia 
 
 ### Species Polygonia faunus (W. H. Edwards, 1862) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10664>, 
+<http://arctos.database.museum/guid/KWP:Ento:56798>, 
+<http://arctos.database.museum/guid/KWP:Ento:56819>, 
+<http://arctos.database.museum/guid/KWP:Ento:56820>, 
+<http://arctos.database.museum/guid/KWP:Ento:56821>, 
+<http://arctos.database.museum/guid/KWP:Ento:56822>, 
+<http://arctos.database.museum/guid/KWP:Ento:56823>, 
+<http://arctos.database.museum/guid/KWP:Ento:56824>, 
+<http://arctos.database.museum/guid/KWP:Ento:56825>, 
+<http://arctos.database.museum/guid/KWP:Ento:56838>, 
+<http://arctos.database.museum/guid/KWP:Ento:56839>, 
+<http://arctos.database.museum/guid/KWP:Ento:56843>, 
+<http://arctos.database.museum/guid/KWP:Ento:56844>, 
+<http://arctos.database.museum/guid/KWP:Ento:56845>, 
+<http://arctos.database.museum/guid/KWP:Ento:56846>, 
+<http://arctos.database.museum/guid/KWP:Ento:56847>, 
+<http://arctos.database.museum/guid/KWP:Ento:56849>, 
+<http://arctos.database.museum/guid/KWP:Ento:56933>, 
+<http://arctos.database.museum/guid/KWP:Ento:57065>, 
+<http://www.inaturalist.org/observations/1362605>.
+
 ### Genus Speyeria 
 
 ### Species Speyeria mormonia (Boisduval, 1869) 
+
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:48308>, 
+<http://arctos.database.museum/guid/KWP:Ento:56960>, 
+<http://arctos.database.museum/guid/KWP:Ento:56990>.
 
 ### Family Papilionidae 
 
@@ -2434,11 +5226,26 @@
 
 ### Species Papilio canadensis Rothschild and Jordan, 1906 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10495>, 
+<http://arctos.database.museum/guid/KWP:Ento:56816>, 
+<http://arctos.database.museum/guid/KWP:Ento:56840>, 
+<http://arctos.database.museum/guid/KWP:Ento:56841>, 
+<http://arctos.database.museum/guid/KWP:Ento:56860>, 
+<http://arctos.database.museum/guid/KWP:Ento:56861>.
+
 ### Species Papilio machaon Linnaeus, 1758 
+
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:52200>, 
+<http://arctos.database.museum/guid/KWP:Ento:57348>.
 
 ### Genus Parnassius 
 
 ### Species Parnassius phoebus (Fabricius, 1793) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10636>.
 
 ### Family Pieridae 
 
@@ -2446,15 +5253,48 @@
 
 ### Species Colias nastes Boisduval, 1832 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10662>, 
+<http://arctos.database.museum/guid/KWP:Ento:56984>, 
+<http://arctos.database.museum/guid/KWP:Ento:56989>.
+
 ### Species Colias philodice Godart, 1819 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10670>, 
+<http://arctos.database.museum/guid/KWP:Ento:56775>, 
+<http://arctos.database.museum/guid/KWP:Ento:56776>, 
+<http://arctos.database.museum/guid/KWP:Ento:56777>, 
+<http://arctos.database.museum/guid/KWP:Ento:56778>, 
+<http://arctos.database.museum/guid/KWP:Ento:56779>, 
+<http://arctos.database.museum/guid/KWP:Ento:56797>, 
+<http://arctos.database.museum/guid/KWP:Ento:57038>, 
+<http://arctos.database.museum/guid/KWP:Ento:57039>, 
+<http://arctos.database.museum/guid/KWP:Ento:57056>, 
+<http://arctos.database.museum/guid/KWP:Ento:57057>, 
+<http://arctos.database.museum/guid/KWP:Ento:57058>, 
+<http://arctos.database.museum/guid/KWP:Ento:57059>, 
+<http://arctos.database.museum/guid/KWP:Ento:57060>, 
+<http://arctos.database.museum/guid/KWP:Ento:57061>, 
+<http://arctos.database.museum/guid/KWP:Ento:57080>, 
+<http://arctos.database.museum/guid/KWP:Ento:57081>, 
+<http://arctos.database.museum/guid/KWP:Ento:57082>.
 
 ### Genus Euchloe 
 
 ### Species Euchloe ausonides (Lucas, 1852) 
 
+References: 
+<http://arctos.database.museum/guid/KWP:Ento:56817>, 
+<http://arctos.database.museum/guid/KWP:Ento:56913>, 
+<http://arctos.database.museum/guid/KWP:Ento:56914>.
+
 ### Genus Pieris 
 
 ### Species Pieris marginalis Scudder, 1861 
+
+Reference: 
+<http://arctos.database.museum/guid/KWP:Ento:56862>.
 
 ### Family Plutellidae 
 
@@ -2462,15 +5302,24 @@
 
 ### Species Rhigognostis interrupta 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6832>.
+
 ### Family Pterophoridae 
 
 ### Genus Amblyptilia 
 
 ### Species Amblyptilia pica 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10643>.
+
 ### Genus Gillmeria 
 
 ### Species Gillmeria pallidactyla (Haw) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6826>.
 
 ### Family Pyralidae 
 
@@ -2478,15 +5327,24 @@
 
 ### Species Gesneria centuriella 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8477>.
+
 ### Genus Udea 
 
 ### Species Udea washingtonalis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6825>.
 
 ### Family Sesiidae 
 
 ### Genus Albuna 
 
 ### Species Albuna pyramidalis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6831>.
 
 ### Family Sphingidae 
 
@@ -2500,47 +5358,83 @@
 
 ### Species Acleris arcticana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7433>.
+
 ### Genus Ancylis 
 
 ### Species Ancylis tineana 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3395>.
 
 ### Genus Argyrotaenia 
 
 ### Species Argyrotaenia occultana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:4687>.
+
 ### Genus Clepsis 
 
 ### Species Clepsis moeschleriana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2616>.
+
 ### Species Clepsis persicana 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10489>.
 
 ### Genus Cydia 
 
 ### Species Cydia inopiosa 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1600-16>.
+
 ### Species Cydia piperana 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:95347>.
 
 ### Genus Endothenia 
 
 ### Species Endothenia hebesana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10861>.
+
 ### Genus Epinotia 
 
 ### Species Epinotia solandriana 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7429>.
 
 ### Genus Eulia 
 
 ### Species Eulia ministrana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6824>.
+
 ### Genus Hystrichophora 
 
 ### Species Hystrichophora asphodelana 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:2617>.
 
 ### Family Yponomeutidae 
 
 ### Genus Swammerdamia 
 
 ### Species Swammerdamia caesiella 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:3299>.
 
 ### Order Neuroptera 
 
@@ -2556,11 +5450,19 @@
 
 ### Species Coniopteryx tineiformis Curtis, 1834 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:2086>, 
+<http://arctos.database.museum/guid/KNWR:Ento:3598>, 
+<http://arctos.database.museum/guid/KNWR:Ento:4409>.
+
 ### Family Hemerobiidae 
 
 ### Genus Wesmaelius 
 
 ### Species Wesmaelius nervosus (Fabricius, 1793) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11233>.
 
 ### Order Odonata 
 
@@ -2570,17 +5472,35 @@
 
 ### Species Aeshna eremita Scudder, 1866 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8948>.
+
 ### Species Aeshna interrupta Walker, 1908 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8608>.
 
 ### Species Aeshna juncea (Linnaeus, 1758) 
 
 ### Species Aeshna palmata Hagen, 1856 
 
+Reference: 
+<http://www.inaturalist.org/observations/117214>.
+
 ### Species Aeshna septentrionalis Burmeister, 1839 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1563>.
 
 ### Species Aeshna sitchensis Hagen, 1861 
 
+Reference: 
+<http://www.inaturalist.org/observations/115153>.
+
 ### Species Aeshna subarctica Walker, 1908 
+
+Reference: 
+<http://www.inaturalist.org/observations/115152>.
 
 ### Family Coenagrionidae 
 
@@ -2588,9 +5508,17 @@
 
 ### Species Coenagrion resolutum (Hagen in Selys, 1876) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:1709>.
+
 ### Genus Enallagma 
 
 ### Species Enallagma annexum (Hagen, 1861) 
+
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:238864>, 
+<http://arctos.database.museum/guid/UAM:Ento:238871>, 
+<http://arctos.database.museum/guid/UAM:Ento:238872>.
 
 ### Species Enallagma boreale Selys, 1875 
 
@@ -2600,9 +5528,18 @@
 
 ### Species Cordulia shurtleffii Scudder, 1866 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7007>, 
+<http://arctos.database.museum/guid/UAM:Ento:238874>, 
+<http://www.inaturalist.org/observations/1558320>.
+
 ### Genus Somatochlora 
 
 ### Species Somatochlora albicincta (Burmeister, 1839) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10795>, 
+<http://arctos.database.museum/guid/UAM:Ento:238867>.
 
 ### Family Lestidae 
 
@@ -2610,23 +5547,46 @@
 
 ### Species Lestes disjunctus Selys, 1862 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10637>.
+
 ### Family Libellulidae 
 
 ### Genus Leucorrhinia 
 
 ### Species Leucorrhinia hudsonica (Selys, 1850) 
 
+Reference: 
+<http://www.inaturalist.org/observations/799852>.
+
 ### Species Leucorrhinia patricia Walker, 1940 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7005>.
+
 ### Species Leucorrhinia proxima Calvert, 1890 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Ento:238865>.
 
 ### Genus Libellula 
 
 ### Species Libellula quadrimaculata Linnaeus, 1758 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Ento:238866>, 
+<http://arctos.database.museum/guid/UAM:Ento:238868>.
+
 ### Genus Sympetrum 
 
 ### Species Sympetrum danae (Sulzer, 1776) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:10674>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8512>, 
+<http://www.inaturalist.org/observations/117205>, 
+<http://www.inaturalist.org/observations/117221>, 
+<http://www.inaturalist.org/observations/117222>.
 
 ### Order Orthoptera 
 
@@ -2636,9 +5596,16 @@
 
 ### Species Chorthippus curtipennis (Harris, 1835) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:8513>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8514>.
+
 ### Genus Melanoplus 
 
 ### Species Melanoplus fasciatus (F. Walker, 1870) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8515>.
 
 ### Order Plecoptera 
 
@@ -2648,13 +5615,27 @@
 
 ### Species Capnia confusa Claassen, 1936 
 
+References: 
+<http://arctos.database.museum/guid/UAMObs:Ento:100682>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:100685>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:100686>.
+
 ### Genus Eucapnopsis 
 
 ### Species Eucapnopsis brevicauda (Claassen, 1924) 
 
+References: 
+<http://arctos.database.museum/guid/UAMObs:Ento:100735>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:100736>.
+
 ### Genus Utacapnia 
 
 ### Species Utacapnia columbiana (Claassen, 1924) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7002>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:100827>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:100828>.
 
 ### Family Chloroperlidae 
 
@@ -2662,9 +5643,16 @@
 
 ### Species Alloperla severa (Hagen, 1861) 
 
+Reference: 
+<http://www.inaturalist.org/observations/7727469>.
+
 ### Genus Plumiperla 
 
 ### Species Plumiperla diversa (Frison, 1935) 
+
+References: 
+<http://arctos.database.museum/guid/UAMObs:Ento:101348>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:101349>.
 
 ### Genus Suwallia 
 
@@ -2676,11 +5664,20 @@
 
 ### Species Isoperla petersoni Needham and Christenson, 1927 
 
+References: 
+<http://arctos.database.museum/guid/UAMObs:Ento:101626>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:101629>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:102056>.
+
 ### Family Pteronarcyidae 
 
 ### Genus Pteronarcella 
 
 ### Species Pteronarcella badia (Hagen, 1874) 
+
+References: 
+<http://arctos.database.museum/guid/UAMObs:Ento:101774>, 
+<http://arctos.database.museum/guid/UAMObs:Ento:101775>.
 
 ### Order Psocodea 
 
@@ -2689,6 +5686,10 @@
 ### Genus Valenzuela 
 
 ### Species Valenzuela flavidus (Stephens, 1836) 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6397>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6760>.
 
 ### Family Liposcelididae 
 
@@ -2702,11 +5703,17 @@
 
 ### Species Ornithobius waterstoni 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6805>.
+
 ### Family Psyllipsocidae 
 
 ### Genus Dorypteryx 
 
 ### Species Dorypteryx domestica (Smithers, 1958) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11081>.
 
 ### Order Siphonaptera 
 
@@ -2716,6 +5723,9 @@
 
 ### Species Ceratophyllus niger 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7309>.
+
 ### Order Thysanoptera 
 
 ### Family Thripidae 
@@ -2723,6 +5733,9 @@
 ### Genus Taeniothrips 
 
 ### Species Taeniothrips orionis Treherne, 1924 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=RFTHY133-10>.
 
 ### Order Trichoptera 
 
@@ -2732,9 +5745,15 @@
 
 ### Species Mystacides alafimbriatus Hill-Griffin, 1912 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8731>.
+
 ### Genus Oecetis 
 
 ### Species Oecetis inconspicua (Walker, 1852) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7435>.
 
 ### Family Limnephilidae 
 
@@ -2742,31 +5761,57 @@
 
 ### Species Ecclisomyia conspersa Banks, 1907 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11229>.
+
 ### Genus Glyphopsyche 
 
 ### Species Glyphopsyche irrorata (Fabricius, 1781) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:242195>.
 
 ### Genus Limnephilus 
 
 ### Species Limnephilus dispar McLachlan, 1875 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:5346>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5347>, 
+<http://arctos.database.museum/guid/KNWR:Ento:5348>.
+
 ### Species Limnephilus externus Hagen, 1861 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8732>.
+
 ### Species Limnephilus sericeus (Say, 1824) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10796>.
 
 ### Genus Nemotaulius 
 
 ### Species Nemotaulius hostilis (Hagen, 1873) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7947>.
+
 ### Genus Philarctus 
 
 ### Species Philarctus quaeris (Milne, 1935) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10726>.
 
 ### Family Phryganeidae 
 
 ### Genus Agrypnia 
 
 ### Species Agrypnia glacialis Hagen, 1873 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10794>.
 
 ### Genus Banksiola 
 
@@ -2775,6 +5820,23 @@
 ### Genus Phryganea 
 
 ### Species Phryganea cinerea Walker, 1852 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7946>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8527>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8528>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8529>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8530>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8531>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8532>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8533>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8534>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8535>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8536>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8538>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8539>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8540>, 
+<http://arctos.database.museum/guid/KNWR:Ento:8541>.
 
 ### Class Malacostraca 
 
@@ -2786,17 +5848,26 @@
 
 ### Species Gammarus lacustris G. O. Sars, 1863 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=NJCGS1177-11>.
+
 ### Family Hyalellidae 
 
 ### Genus Hyalella 
 
 ### Species Hyalella azteca Saussure, 1858 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5370-17>.
+
 ### Family Talitridae 
 
 ### Genus Traskorchestia 
 
 ### Species Traskorchestia georgiana (Bousfield, 1958) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Inv:24>.
 
 ### Class Maxillopoda 
 
@@ -2808,11 +5879,17 @@
 
 ### Species Diaptomus pribilofensis Juday and Muttkowski 
 
+Reference: 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
+
 ### Family Temoridae 
 
 ### Genus Epischura 
 
 ### Species Epischura nevadensis Lilljeborg in Guerne and Richard, 1889 
+
+Reference: 
+<https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
 
 ### Order Cyclopoida 
 
@@ -2822,7 +5899,15 @@
 
 ### Species Cyclops columbianus Lindberg, 1956 
 
+References: 
+<http://www.ciaanet.org/Projects/TUSTUMENA%20RPT%202013.pdf>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>, 
+<https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
+
 ### Species Cyclops strenuus Fischer, 1851 
+
+Reference: 
+<http://n2t.net/ark:/65665/3ca80a4dd-9f67-4632-a767-4239c619e05d>.
 
 ### Order Poecilostomatoida 
 
@@ -2832,6 +5917,9 @@
 
 ### Species Thersitina gasterostei (Pagenstecher, 1861) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10787>.
+
 ### Order Siphonostomatoida 
 
 ### Family Lernaeopodidae 
@@ -2839,6 +5927,9 @@
 ### Genus Salmincola 
 
 ### Species Salmincola californiensis (Dana, 1853) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10786>.
 
 ### Phylum Chordata 
 
@@ -2852,6 +5943,12 @@
 
 ### Species Lithobates sylvaticus (LeConte, 1825) 
 
+References: 
+<http://www.inaturalist.org/observations/115158>, 
+<http://www.inaturalist.org/observations/115166>, 
+<http://www.inaturalist.org/observations/117220>, 
+<http://www.inaturalist.org/observations/1816454>.
+
 ### Class Aves 
 
 ### Order Accipitriformes 
@@ -2862,31 +5959,561 @@
 
 ### Species Accipiter gentilis (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S3491054>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5878395>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6709117>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7372812>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8749697>, 
+<http://www.inaturalist.org/observations/114273>.
+
 ### Species Accipiter striatus Vieillot, 1808 
+
+Reference: 
+<http://ebird.org/ebird/view/checklist/S25492838>.
 
 ### Genus Aquila 
 
 ### Species Aquila chrysaetos (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S2627102>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S6526683>, 
+<http://ebird.org/ebird/view/checklist/S8519986>, 
+<http://ebird.org/ebird/view/checklist/S8542506>.
+
 ### Genus Buteo 
 
 ### Species Buteo jamaicensis (Gmelin, 1788) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10822383>, 
+<http://ebird.org/ebird/view/checklist/S23154996>, 
+<http://ebird.org/ebird/view/checklist/S23155015>, 
+<http://ebird.org/ebird/view/checklist/S2620561>, 
+<http://ebird.org/ebird/view/checklist/S4878668>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6312021>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S8191831>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542654>, 
+<http://ebird.org/ebird/view/checklist/S8565098>.
+
 ### Species Buteo lagopus (Pontoppidan, 1763) 
+
+Reference: 
+<http://ebird.org/ebird/view/checklist/S24660738>.
 
 ### Genus Circus 
 
 ### Species Circus cyaneus (Linnaeus, 1766) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S5882060>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S8081987>.
+
 ### Genus Haliaeetus 
 
 ### Species Haliaeetus leucocephalus (Linnaeus, 1766) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10822383>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S1928210>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S26096151>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S26851017>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S2847747>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5139656>, 
+<http://ebird.org/ebird/view/checklist/S5174279>, 
+<http://ebird.org/ebird/view/checklist/S5187530>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5571321>, 
+<http://ebird.org/ebird/view/checklist/S5571351>, 
+<http://ebird.org/ebird/view/checklist/S5583361>, 
+<http://ebird.org/ebird/view/checklist/S5803994>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866255>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870967>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S6041398>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550997>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6634824>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6803816>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980228>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980319>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S7010320>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7378243>, 
+<http://ebird.org/ebird/view/checklist/S7420489>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7587890>, 
+<http://ebird.org/ebird/view/checklist/S8081987>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8400507>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482634>, 
+<http://ebird.org/ebird/view/checklist/S8482637>, 
+<http://ebird.org/ebird/view/checklist/S8482644>, 
+<http://ebird.org/ebird/view/checklist/S8482649>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482657>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://ebird.org/ebird/view/checklist/S8557753>, 
+<http://ebird.org/ebird/view/checklist/S8749697>, 
+<http://ebird.org/ebird/view/checklist/S933765>, 
+<http://www.inaturalist.org/observations/2318743>, 
+<http://www.inaturalist.org/observations/353902>.
 
 ### Family Pandionidae 
 
 ### Genus Pandion 
 
 ### Species Pandion haliaetus (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S4154766>, 
+<http://ebird.org/ebird/view/checklist/S4164491>, 
+<http://ebird.org/ebird/view/checklist/S5139558>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5345320>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S8297608>, 
+<http://ebird.org/ebird/view/checklist/S8353732>, 
+<http://ebird.org/ebird/view/checklist/S8360135>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://www.inaturalist.org/observations/17348>.
 
 ### Order Anseriformes 
 
@@ -2896,21 +6523,1023 @@
 
 ### Species Anas acuta Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24877515>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S8081987>.
+
 ### Species Anas americana Gmelin, 1789 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S19988512>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5648044>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://www.inaturalist.org/observations/38971>.
 
 ### Species Anas clypeata Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5648044>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>.
+
 ### Species Anas crecca Linnaeus, 1758 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S18976084>, 
+<http://ebird.org/ebird/view/checklist/S20654973>, 
+<http://ebird.org/ebird/view/checklist/S2847763>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4157602>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5245312>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866292>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870976>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Species Anas discors Linnaeus, 1766 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S7273837>.
+
 ### Species Anas platyrhynchos Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S2847763>, 
+<http://ebird.org/ebird/view/checklist/S2847769>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6256031>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8081987>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
+
 ### Species Anas strepera Linnaeus, 1758 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5648044>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S8379153>.
 
 ### Genus Anser 
 
 ### Species Anser albifrons (Scopoli, 1769) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S8081987>.
 
 ### Species Anser cygnoides (Linnaeus, 1758) 
 
@@ -2920,35 +7549,461 @@
 
 ### Species Aythya collaris (Donovan, 1809) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6980247>.
+
 ### Species Aythya marila (Linnaeus, 1761) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11791056>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2847769>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5648044>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S7186373>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7333987>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
+
 ### Species Aythya valisineria (A. Wilson, 1814) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980330>.
 
 ### Genus Branta 
 
 ### Species Branta canadensis (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S2847747>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550997>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980319>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S8081987>.
+
 ### Species Branta hutchinsii (Richardson, 1832) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980344>.
 
 ### Genus Bucephala 
 
 ### Species Bucephala albeola (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S2847763>, 
+<http://ebird.org/ebird/view/checklist/S2847769>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7333987>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://www.inaturalist.org/observations/2097731>.
+
 ### Species Bucephala clangula (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S25523986>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4157608>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5200092>, 
+<http://ebird.org/ebird/view/checklist/S5204952>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5245313>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5648044>, 
+<http://ebird.org/ebird/view/checklist/S5819176>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S8458346>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://www.inaturalist.org/observations/14378>.
+
 ### Species Bucephala islandica (Gmelin, 1789) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S1928210>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S26851017>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S4754819>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Genus Chen 
 
 ### Species Chen caerulescens (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>.
+
 ### Genus Clangula 
 
 ### Species Clangula hyemalis (Linnaeus, 1758) 
 
+Reference: 
+<http://ebird.org/ebird/view/checklist/S2847769>.
+
 ### Genus Cygnus 
 
 ### Species Cygnus buccinator Richardson, 1831 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S14847553>, 
+<http://ebird.org/ebird/view/checklist/S22519987>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2847747>, 
+<http://ebird.org/ebird/view/checklist/S2847763>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S4153439>, 
+<http://ebird.org/ebird/view/checklist/S4157474>, 
+<http://ebird.org/ebird/view/checklist/S4754819>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5190687>, 
+<http://ebird.org/ebird/view/checklist/S5190833>, 
+<http://ebird.org/ebird/view/checklist/S5200099>, 
+<http://ebird.org/ebird/view/checklist/S5245307>, 
+<http://ebird.org/ebird/view/checklist/S5247380>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6048330>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6464103>, 
+<http://ebird.org/ebird/view/checklist/S6479212>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8458346>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://www.inaturalist.org/observations/14908>, 
+<http://www.jstor.org/stable/3830542>.
 
 ### Species Cygnus columbianus (Ord, 1815) 
 
@@ -2956,19 +8011,162 @@
 
 ### Species Histrionicus histrionicus (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S12402945>, 
+<http://ebird.org/ebird/view/checklist/S19988512>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S2847718>, 
+<http://ebird.org/ebird/view/checklist/S2960137>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S7010320>.
+
 ### Genus Melanitta 
 
 ### Species Melanitta fusca (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866287>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980302>.
 
 ### Species Melanitta nigra (Linnaeus, 1758) 
 
 ### Species Melanitta perspicillata (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S24942960>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S27415995>, 
+<http://ebird.org/ebird/view/checklist/S27418096>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542654>, 
+<http://ebird.org/ebird/view/checklist/S9106487>.
+
 ### Genus Mergus 
 
 ### Species Mergus merganser Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S12402951>, 
+<http://ebird.org/ebird/view/checklist/S18837827>, 
+<http://ebird.org/ebird/view/checklist/S1928210>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S24877515>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523972>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S26096151>, 
+<http://ebird.org/ebird/view/checklist/S2960137>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4153439>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4754819>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5176285>, 
+<http://ebird.org/ebird/view/checklist/S5190687>, 
+<http://ebird.org/ebird/view/checklist/S5190833>, 
+<http://ebird.org/ebird/view/checklist/S5247380>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6597573>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8496985>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>.
+
 ### Species Mergus serrator Linnaeus, 1758 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24942960>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S4147088>, 
+<http://ebird.org/ebird/view/checklist/S5015169>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5187103>, 
+<http://ebird.org/ebird/view/checklist/S5188713>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5247368>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6463962>, 
+<http://ebird.org/ebird/view/checklist/S6479205>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6803816>, 
+<http://ebird.org/ebird/view/checklist/S7333987>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://www.inaturalist.org/observations/1741201>.
 
 ### Order Apodiformes 
 
@@ -2977,6 +8175,9 @@
 ### Genus Selasphorus 
 
 ### Species Selasphorus rufus (Gmelin, 1788) 
+
+Reference: 
+<http://ebird.org/ebird/view/checklist/S2616911>.
 
 ### Order Charadriiformes 
 
@@ -2992,13 +8193,137 @@
 
 ### Species Charadrius semipalmatus Bonaparte, 1825 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980359>.
+
 ### Genus Pluvialis 
 
 ### Species Pluvialis dominica (Statius Muller, 1776) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6980346>.
+
 ### Species Pluvialis fulva (Gmelin, 1789) 
 
 ### Species Pluvialis squatarola (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>.
 
 ### Family Laridae 
 
@@ -3006,17 +8331,826 @@
 
 ### Species Larus argentatus Pontoppidan, 1763 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10829120>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S4147055>, 
+<http://ebird.org/ebird/view/checklist/S4153439>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5139656>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5174279>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5187105>, 
+<http://ebird.org/ebird/view/checklist/S5188715>, 
+<http://ebird.org/ebird/view/checklist/S5190687>, 
+<http://ebird.org/ebird/view/checklist/S5190833>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5247366>, 
+<http://ebird.org/ebird/view/checklist/S5247380>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5571321>, 
+<http://ebird.org/ebird/view/checklist/S5571351>, 
+<http://ebird.org/ebird/view/checklist/S5583361>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866255>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866287>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870967>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550997>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6597573>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980319>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S7333987>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://ebird.org/ebird/view/checklist/S8557471>.
+
 ### Species Larus canus Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24069976>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2847763>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5104446>, 
+<http://ebird.org/ebird/view/checklist/S5104459>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176281>, 
+<http://ebird.org/ebird/view/checklist/S5176285>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5571321>, 
+<http://ebird.org/ebird/view/checklist/S5571351>, 
+<http://ebird.org/ebird/view/checklist/S5581396>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550997>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6593802>, 
+<http://ebird.org/ebird/view/checklist/S6597526>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980319>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7604387>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482657>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://ebird.org/ebird/view/checklist/S8542654>, 
+<http://www.inaturalist.org/observations/568363>.
+
 ### Species Larus glaucescens J. F. Naumann, 1840 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S3046963>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5139656>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5174279>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5571321>, 
+<http://ebird.org/ebird/view/checklist/S5571351>, 
+<http://ebird.org/ebird/view/checklist/S5583361>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S9106487>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
 
 ### Genus Rissa 
 
 ### Species Rissa tridactyla (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S3046963>, 
+<http://ebird.org/ebird/view/checklist/S5581396>, 
+<http://ebird.org/ebird/view/checklist/S6731933>.
+
 ### Genus Sterna 
 
 ### Species Sterna paradisaea Pontoppidan, 1763 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10822383>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S18837827>, 
+<http://ebird.org/ebird/view/checklist/S18838090>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24069976>, 
+<http://ebird.org/ebird/view/checklist/S24877515>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S27356900>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S4157583>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5104446>, 
+<http://ebird.org/ebird/view/checklist/S5104459>, 
+<http://ebird.org/ebird/view/checklist/S5139558>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176285>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5200096>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5245309>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866255>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870967>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6593802>, 
+<http://ebird.org/ebird/view/checklist/S6597526>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6597573>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6615174>, 
+<http://ebird.org/ebird/view/checklist/S6634824>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S7186373>, 
+<http://ebird.org/ebird/view/checklist/S7604387>, 
+<http://ebird.org/ebird/view/checklist/S8081987>, 
+<http://ebird.org/ebird/view/checklist/S8122967>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8482657>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8557753>, 
+<http://ebird.org/ebird/view/checklist/S9106487>.
 
 ### Family Scolopacidae 
 
@@ -3024,11 +9158,54 @@
 
 ### Species Actitis macularius (Linnaeus, 1766) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S19988512>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4157608>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5200092>, 
+<http://ebird.org/ebird/view/checklist/S5204952>, 
+<http://ebird.org/ebird/view/checklist/S5245313>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6582321>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://ebird.org/ebird/view/checklist/S8542590>, 
+<http://www.inaturalist.org/observations/799862>.
+
 ### Genus Arenaria 
 
 ### Species Arenaria interpres (Linnaeus, 1758) 
 
+Reference: 
+<http://ebird.org/ebird/view/checklist/S5866267>.
+
 ### Species Arenaria melanocephala (Vigors, 1829) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980304>.
 
 ### Genus Bartramia 
 
@@ -3038,43 +9215,1599 @@
 
 ### Species Calidris bairdii (Coues, 1861) 
 
+Reference: 
+<http://ebird.org/ebird/view/checklist/S8542506>.
+
 ### Species Calidris mauri (Cabanis, 1857) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980353>.
 
 ### Species Calidris melanotos (Vieillot, 1819) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>.
+
 ### Species Calidris minutilla (Vieillot, 1819) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866287>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866292>, 
+<http://ebird.org/ebird/view/checklist/S5866293>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870976>, 
+<http://ebird.org/ebird/view/checklist/S5870977>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8542567>.
+
 ### Species Calidris pusilla (Linnaeus, 1766) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>.
 
 ### Genus Gallinago 
 
 ### Species Gallinago delicata (Ord, 1825) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2614277>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542506>, 
+<http://ebird.org/ebird/view/checklist/S8542590>.
+
 ### Genus Limnodromus 
 
 ### Species Limnodromus griseus (Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866293>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870977>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>.
+
 ### Species Limnodromus scolopaceus (Say, 1822) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5882060>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>.
 
 ### Genus Limosa 
 
 ### Species Limosa haemastica (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>.
+
 ### Genus Numenius 
 
 ### Species Numenius phaeopus (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>.
 
 ### Genus Phalaropus 
 
 ### Species Phalaropus lobatus (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866293>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870977>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>.
+
 ### Genus Tringa 
 
 ### Species Tringa flavipes (Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S14646791>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866287>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866292>, 
+<http://ebird.org/ebird/view/checklist/S5866293>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870976>, 
+<http://ebird.org/ebird/view/checklist/S5870977>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S5882061>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980228>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://www.inaturalist.org/observations/14388>.
+
 ### Species Tringa melanoleuca (Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S2614658>, 
+<http://ebird.org/ebird/view/checklist/S2960137>, 
+<http://ebird.org/ebird/view/checklist/S4149067>, 
+<http://ebird.org/ebird/view/checklist/S4157474>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5190691>, 
+<http://ebird.org/ebird/view/checklist/S5190837>, 
+<http://ebird.org/ebird/view/checklist/S5200099>, 
+<http://ebird.org/ebird/view/checklist/S5245307>, 
+<http://ebird.org/ebird/view/checklist/S5247376>, 
+<http://ebird.org/ebird/view/checklist/S5651798>, 
+<http://ebird.org/ebird/view/checklist/S5655277>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866292>, 
+<http://ebird.org/ebird/view/checklist/S5866293>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866298>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870976>, 
+<http://ebird.org/ebird/view/checklist/S5870977>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870982>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S5882060>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6828335>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980234>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S8081987>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542654>, 
+<http://www.inaturalist.org/observations/1620784>.
+
 ### Species Tringa solitaria A. Wilson, 1813 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S18976084>, 
+<http://ebird.org/ebird/view/checklist/S4160414>, 
+<http://ebird.org/ebird/view/checklist/S5204934>, 
+<http://ebird.org/ebird/view/checklist/S5204947>, 
+<http://ebird.org/ebird/view/checklist/S5245325>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://www.inaturalist.org/observations/117202>.
 
 ### Order Coraciiformes 
 
@@ -3084,6 +10817,31 @@
 
 ### Species Megaceryle alcyon (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S2847769>, 
+<http://ebird.org/ebird/view/checklist/S4157589>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5200094>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5245311>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6803816>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S8426739>, 
+<http://ebird.org/ebird/view/checklist/S8426744>, 
+<http://www.inaturalist.org/observations/14377>.
+
 ### Order Falconiformes 
 
 ### Family Falconidae 
@@ -3092,7 +10850,189 @@
 
 ### Species Falco columbarius Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S2960137>, 
+<http://ebird.org/ebird/view/checklist/S4147088>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5187103>, 
+<http://ebird.org/ebird/view/checklist/S5188713>, 
+<http://ebird.org/ebird/view/checklist/S5247368>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980228>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980359>.
+
 ### Species Falco peregrinus Tunstall, 1771 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S6281027>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S8519986>.
 
 ### Species Falco rusticolus Linnaeus, 1758 
 
@@ -3106,17 +11046,119 @@
 
 ### Species Bonasa umbellus (Linnaeus, 1766) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11290356>, 
+<http://ebird.org/ebird/view/checklist/S2616871>, 
+<http://ebird.org/ebird/view/checklist/S5428740>.
+
 ### Genus Falcipennis 
 
 ### Species Falcipennis canadensis (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10829120>, 
+<http://ebird.org/ebird/view/checklist/S10934379>, 
+<http://ebird.org/ebird/view/checklist/S11791056>, 
+<http://ebird.org/ebird/view/checklist/S12818368>, 
+<http://ebird.org/ebird/view/checklist/S13456344>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S24859927>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S26096151>, 
+<http://ebird.org/ebird/view/checklist/S27124079>, 
+<http://ebird.org/ebird/view/checklist/S27287591>, 
+<http://ebird.org/ebird/view/checklist/S27459471>, 
+<http://ebird.org/ebird/view/checklist/S27466932>, 
+<http://ebird.org/ebird/view/checklist/S2820630>, 
+<http://ebird.org/ebird/view/checklist/S2960137>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4157602>, 
+<http://ebird.org/ebird/view/checklist/S4157608>, 
+<http://ebird.org/ebird/view/checklist/S4162257>, 
+<http://ebird.org/ebird/view/checklist/S4164351>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5200092>, 
+<http://ebird.org/ebird/view/checklist/S5204952>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5245312>, 
+<http://ebird.org/ebird/view/checklist/S5245313>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5281298>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5804077>, 
+<http://ebird.org/ebird/view/checklist/S6048330>, 
+<http://ebird.org/ebird/view/checklist/S6597576>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6971685>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S7849998>, 
+<http://ebird.org/ebird/view/checklist/S8177321>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S9123885>, 
+<http://ebird.org/ebird/view/checklist/S9487485>, 
+<http://www.inaturalist.org/observations/114271>, 
+<http://www.inaturalist.org/observations/117201>, 
+<http://www.inaturalist.org/observations/2318744>, 
+<http://www.inaturalist.org/observations/2318748>, 
+<http://www.inaturalist.org/observations/799838>.
 
 ### Genus Lagopus 
 
 ### Species Lagopus lagopus (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S27123938>, 
+<http://ebird.org/ebird/view/checklist/S4157250>, 
+<http://ebird.org/ebird/view/checklist/S6495919>.
+
 ### Species Lagopus leucura (Richardson, 1831) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S6495919>, 
+<http://ebird.org/ebird/view/checklist/S8482633>, 
+<http://ebird.org/ebird/view/checklist/S8482637>, 
+<http://ebird.org/ebird/view/checklist/S8482638>, 
+<http://ebird.org/ebird/view/checklist/S8482639>, 
+<http://ebird.org/ebird/view/checklist/S8482641>, 
+<http://ebird.org/ebird/view/checklist/S8482643>, 
+<http://ebird.org/ebird/view/checklist/S8482646>, 
+<http://ebird.org/ebird/view/checklist/S8482649>, 
+<http://ebird.org/ebird/view/checklist/S8519986>, 
+<http://ebird.org/ebird/view/checklist/S8698512>.
+
 ### Species Lagopus muta (Montin, 1781) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S4157250>, 
+<http://ebird.org/ebird/view/checklist/S6495919>, 
+<http://ebird.org/ebird/view/checklist/S6512066>, 
+<http://ebird.org/ebird/view/checklist/S6526683>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482634>, 
+<http://ebird.org/ebird/view/checklist/S8482641>, 
+<http://ebird.org/ebird/view/checklist/S8482646>.
 
 ### Genus Meleagris 
 
@@ -3134,9 +11176,240 @@
 
 ### Species Gavia immer (Brunnich, 1764) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S18838056>, 
+<http://ebird.org/ebird/view/checklist/S19989982>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23973040>, 
+<http://ebird.org/ebird/view/checklist/S24069976>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S25124482>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S25523972>, 
+<http://ebird.org/ebird/view/checklist/S25523997>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S26096151>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4147088>, 
+<http://ebird.org/ebird/view/checklist/S4149067>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4739791>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5139558>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5187103>, 
+<http://ebird.org/ebird/view/checklist/S5187530>, 
+<http://ebird.org/ebird/view/checklist/S5188713>, 
+<http://ebird.org/ebird/view/checklist/S5190691>, 
+<http://ebird.org/ebird/view/checklist/S5190837>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5247368>, 
+<http://ebird.org/ebird/view/checklist/S5247376>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6593802>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6597573>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6615174>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6803816>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828335>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6971685>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980234>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S7186373>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8490246>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8542654>, 
+<http://ebird.org/ebird/view/checklist/S9106487>, 
+<http://www.inaturalist.org/observations/117215>.
+
 ### Species Gavia pacifica (Lawrence, 1858) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10829130>, 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S12854346>, 
+<http://ebird.org/ebird/view/checklist/S18838090>, 
+<http://ebird.org/ebird/view/checklist/S19989982>, 
+<http://ebird.org/ebird/view/checklist/S26623370>, 
+<http://ebird.org/ebird/view/checklist/S27385433>, 
+<http://ebird.org/ebird/view/checklist/S27390380>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4011182>, 
+<http://ebird.org/ebird/view/checklist/S4146424>, 
+<http://ebird.org/ebird/view/checklist/S4153441>, 
+<http://ebird.org/ebird/view/checklist/S4157585>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4164348>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5184211>, 
+<http://ebird.org/ebird/view/checklist/S5184577>, 
+<http://ebird.org/ebird/view/checklist/S5190686>, 
+<http://ebird.org/ebird/view/checklist/S5190832>, 
+<http://ebird.org/ebird/view/checklist/S5200095>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5245310>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247364>, 
+<http://ebird.org/ebird/view/checklist/S5247381>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5851982>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6464094>, 
+<http://ebird.org/ebird/view/checklist/S6479209>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6542727>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6597539>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7849999>, 
+<http://ebird.org/ebird/view/checklist/S8458346>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://ebird.org/ebird/view/checklist/S9106487>.
+
 ### Species Gavia stellata (Pontoppidan, 1763) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S13346745>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Order Gruiformes 
 
@@ -3146,6 +11419,280 @@
 
 ### Species Grus canadensis (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S18976084>, 
+<http://ebird.org/ebird/view/checklist/S19989982>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866255>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866292>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870967>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870976>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6803816>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980228>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980234>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980266>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8490259>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://www.inaturalist.org/observations/125358>, 
+<http://www.inaturalist.org/observations/568346>.
+
 ### Order Passeriformes 
 
 ### Family Alaudidae 
@@ -3154,11 +11701,29 @@
 
 ### Species Eremophila alpestris (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S8482634>, 
+<http://ebird.org/ebird/view/checklist/S8542506>.
+
 ### Family Bombycillidae 
 
 ### Genus Bombycilla 
 
 ### Species Bombycilla garrulus (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S12402951>, 
+<http://ebird.org/ebird/view/checklist/S25523986>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S3208067>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4546405>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
 
 ### Family Calcariidae 
 
@@ -3166,9 +11731,46 @@
 
 ### Species Calcarius lapponicus (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>.
+
 ### Genus Plectrophenax 
 
 ### Species Plectrophenax nivalis (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S6495919>, 
+<http://www.inaturalist.org/observations/134313>.
 
 ### Family Certhiidae 
 
@@ -3176,11 +11778,42 @@
 
 ### Species Certhia americana Bonaparte, 1838 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10196071>, 
+<http://ebird.org/ebird/view/checklist/S12402951>, 
+<http://ebird.org/ebird/view/checklist/S14192493>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S25124482>, 
+<http://ebird.org/ebird/view/checklist/S25523986>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S26394849>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S6147966>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://www.inaturalist.org/observations/2318731>.
+
 ### Family Cinclidae 
 
 ### Genus Cinclus 
 
 ### Species Cinclus mexicanus Swainson, 1827 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S2847755>, 
+<http://ebird.org/ebird/view/checklist/S2847769>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S8542590>, 
+<http://www.inaturalist.org/observations/2460496>.
 
 ### Family Corvidae 
 
@@ -3188,15 +11821,465 @@
 
 ### Species Corvus caurinus S. F. Baird, 1858 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5139656>, 
+<http://ebird.org/ebird/view/checklist/S5174279>, 
+<http://ebird.org/ebird/view/checklist/S5571321>, 
+<http://ebird.org/ebird/view/checklist/S5571351>, 
+<http://ebird.org/ebird/view/checklist/S5583361>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6529816>.
+
 ### Species Corvus corax Linnaeus, 1758 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S1928210>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24942960>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S26096151>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S26851017>, 
+<http://ebird.org/ebird/view/checklist/S27356900>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4754819>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5139656>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5174279>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5571321>, 
+<http://ebird.org/ebird/view/checklist/S5571351>, 
+<http://ebird.org/ebird/view/checklist/S5581396>, 
+<http://ebird.org/ebird/view/checklist/S5583361>, 
+<http://ebird.org/ebird/view/checklist/S5651798>, 
+<http://ebird.org/ebird/view/checklist/S5655277>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866258>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870969>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6256031>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6464166>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6479218>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6550999>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551003>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6597576>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6638829>, 
+<http://ebird.org/ebird/view/checklist/S6638858>, 
+<http://ebird.org/ebird/view/checklist/S6662938>, 
+<http://ebird.org/ebird/view/checklist/S6674011>, 
+<http://ebird.org/ebird/view/checklist/S6678088>, 
+<http://ebird.org/ebird/view/checklist/S6709117>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6803816>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980228>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980234>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980321>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980325>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7010320>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S7420489>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7587890>, 
+<http://ebird.org/ebird/view/checklist/S7849998>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8400507>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
 
 ### Genus Cyanocitta 
 
 ### Species Cyanocitta stelleri (Gmelin, 1788) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S4147088>, 
+<http://ebird.org/ebird/view/checklist/S4164351>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5187103>, 
+<http://ebird.org/ebird/view/checklist/S5188713>, 
+<http://ebird.org/ebird/view/checklist/S5247368>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6751007>, 
+<http://ebird.org/ebird/view/checklist/S7265021>.
+
 ### Genus Perisoreus 
 
 ### Species Perisoreus canadensis (Linnaeus, 1766) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S11857752>, 
+<http://ebird.org/ebird/view/checklist/S14192493>, 
+<http://ebird.org/ebird/view/checklist/S16719309>, 
+<http://ebird.org/ebird/view/checklist/S18837827>, 
+<http://ebird.org/ebird/view/checklist/S22593797>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24069976>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S25523972>, 
+<http://ebird.org/ebird/view/checklist/S25523997>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2614268>, 
+<http://ebird.org/ebird/view/checklist/S26394849>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S26851017>, 
+<http://ebird.org/ebird/view/checklist/S27287401>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4147088>, 
+<http://ebird.org/ebird/view/checklist/S4149067>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4162257>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5104446>, 
+<http://ebird.org/ebird/view/checklist/S5104459>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176281>, 
+<http://ebird.org/ebird/view/checklist/S5187103>, 
+<http://ebird.org/ebird/view/checklist/S5188713>, 
+<http://ebird.org/ebird/view/checklist/S5190691>, 
+<http://ebird.org/ebird/view/checklist/S5190837>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247368>, 
+<http://ebird.org/ebird/view/checklist/S5247376>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5296008>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5842359>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S5986829>, 
+<http://ebird.org/ebird/view/checklist/S6048330>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6464153>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6479215>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6662938>, 
+<http://ebird.org/ebird/view/checklist/S6674011>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S7333492>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7587890>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8353732>, 
+<http://ebird.org/ebird/view/checklist/S8360135>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S8542590>, 
+<http://ebird.org/ebird/view/checklist/S8542654>, 
+<http://ebird.org/ebird/view/checklist/S9106487>, 
+<http://www.inaturalist.org/observations/115165>, 
+<http://www.inaturalist.org/observations/117211>, 
+<http://www.inaturalist.org/observations/2097733>, 
+<http://www.inaturalist.org/observations/2318733>, 
+<http://www.inaturalist.org/observations/568384>, 
+<http://www.inaturalist.org/observations/799843>.
 
 ### Genus Pica 
 
@@ -3208,25 +12291,584 @@
 
 ### Species Junco hyemalis (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10829120>, 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S12402951>, 
+<http://ebird.org/ebird/view/checklist/S14192493>, 
+<http://ebird.org/ebird/view/checklist/S18838056>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S22593797>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S2614268>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4147109>, 
+<http://ebird.org/ebird/view/checklist/S4153449>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5133609>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5172691>, 
+<http://ebird.org/ebird/view/checklist/S5173348>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5187101>, 
+<http://ebird.org/ebird/view/checklist/S5188712>, 
+<http://ebird.org/ebird/view/checklist/S5190685>, 
+<http://ebird.org/ebird/view/checklist/S5190831>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5210083>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247369>, 
+<http://ebird.org/ebird/view/checklist/S5247382>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5851982>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866251>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5870963>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S6305589>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6463943>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6479204>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6638829>, 
+<http://ebird.org/ebird/view/checklist/S6638858>, 
+<http://ebird.org/ebird/view/checklist/S6662938>, 
+<http://ebird.org/ebird/view/checklist/S6674011>, 
+<http://ebird.org/ebird/view/checklist/S6678088>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S7316942>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8297608>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8353732>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8360135>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482657>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://ebird.org/ebird/view/checklist/S8749697>, 
+<http://ebird.org/ebird/view/checklist/S9106487>, 
+<http://ebird.org/ebird/view/checklist/S933765>, 
+<http://www.inaturalist.org/observations/114272>, 
+<http://www.inaturalist.org/observations/115160>, 
+<http://www.inaturalist.org/observations/799836>, 
+<http://www.inaturalist.org/observations/800017>.
+
 ### Genus Melospiza 
 
 ### Species Melospiza lincolnii (Audubon, 1834) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S14192493>, 
+<http://ebird.org/ebird/view/checklist/S2614273>, 
+<http://ebird.org/ebird/view/checklist/S2614658>, 
+<http://ebird.org/ebird/view/checklist/S4147055>, 
+<http://ebird.org/ebird/view/checklist/S4147109>, 
+<http://ebird.org/ebird/view/checklist/S4157585>, 
+<http://ebird.org/ebird/view/checklist/S4157608>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5133609>, 
+<http://ebird.org/ebird/view/checklist/S5172691>, 
+<http://ebird.org/ebird/view/checklist/S5173348>, 
+<http://ebird.org/ebird/view/checklist/S5187101>, 
+<http://ebird.org/ebird/view/checklist/S5187105>, 
+<http://ebird.org/ebird/view/checklist/S5188712>, 
+<http://ebird.org/ebird/view/checklist/S5188715>, 
+<http://ebird.org/ebird/view/checklist/S5200092>, 
+<http://ebird.org/ebird/view/checklist/S5200095>, 
+<http://ebird.org/ebird/view/checklist/S5204952>, 
+<http://ebird.org/ebird/view/checklist/S5210083>, 
+<http://ebird.org/ebird/view/checklist/S5245310>, 
+<http://ebird.org/ebird/view/checklist/S5245313>, 
+<http://ebird.org/ebird/view/checklist/S5247366>, 
+<http://ebird.org/ebird/view/checklist/S5247369>, 
+<http://ebird.org/ebird/view/checklist/S5882061>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S7918037>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
+
 ### Species Melospiza melodia (A. Wilson, 1810) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Genus Passerculus 
 
 ### Species Passerculus sandwichensis (J. F. Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S2614273>, 
+<http://ebird.org/ebird/view/checklist/S4157608>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5133609>, 
+<http://ebird.org/ebird/view/checklist/S5172691>, 
+<http://ebird.org/ebird/view/checklist/S5173348>, 
+<http://ebird.org/ebird/view/checklist/S5200092>, 
+<http://ebird.org/ebird/view/checklist/S5204952>, 
+<http://ebird.org/ebird/view/checklist/S5210083>, 
+<http://ebird.org/ebird/view/checklist/S5245313>, 
+<http://ebird.org/ebird/view/checklist/S5651798>, 
+<http://ebird.org/ebird/view/checklist/S5655277>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866254>, 
+<http://ebird.org/ebird/view/checklist/S5866255>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866287>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866305>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870966>, 
+<http://ebird.org/ebird/view/checklist/S5870967>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870989>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5888470>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980228>, 
+<http://ebird.org/ebird/view/checklist/S6980230>, 
+<http://ebird.org/ebird/view/checklist/S6980231>, 
+<http://ebird.org/ebird/view/checklist/S6980232>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980234>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980242>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980255>, 
+<http://ebird.org/ebird/view/checklist/S6980256>, 
+<http://ebird.org/ebird/view/checklist/S6980257>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980267>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S6980270>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980275>, 
+<http://ebird.org/ebird/view/checklist/S6980276>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980278>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980287>, 
+<http://ebird.org/ebird/view/checklist/S6980288>, 
+<http://ebird.org/ebird/view/checklist/S6980289>, 
+<http://ebird.org/ebird/view/checklist/S6980290>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980298>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980300>, 
+<http://ebird.org/ebird/view/checklist/S6980301>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980303>, 
+<http://ebird.org/ebird/view/checklist/S6980304>, 
+<http://ebird.org/ebird/view/checklist/S6980305>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980311>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://ebird.org/ebird/view/checklist/S8540538>, 
+<http://ebird.org/ebird/view/checklist/S8542506>, 
+<http://ebird.org/ebird/view/checklist/S8542528>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://www.inaturalist.org/observations/799854>.
+
 ### Genus Passerella 
 
 ### Species Passerella iliaca (Merrem, 1786) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5296004>, 
+<http://ebird.org/ebird/view/checklist/S5296032>, 
+<http://ebird.org/ebird/view/checklist/S5663715>, 
+<http://ebird.org/ebird/view/checklist/S6360741>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S8270083>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://ebird.org/ebird/view/checklist/S8540538>, 
+<http://ebird.org/ebird/view/checklist/S8542506>, 
+<http://ebird.org/ebird/view/checklist/S8542528>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
 
 ### Genus Zonotrichia 
 
 ### Species Zonotrichia atricapilla (J. F. Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S6495919>, 
+<http://ebird.org/ebird/view/checklist/S6582321>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482657>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://ebird.org/ebird/view/checklist/S8540538>, 
+<http://ebird.org/ebird/view/checklist/S8542506>, 
+<http://ebird.org/ebird/view/checklist/S8542528>, 
+<http://ebird.org/ebird/view/checklist/S8557753>, 
+<http://ebird.org/ebird/view/checklist/S933765>, 
+<http://www.inaturalist.org/observations/799858>.
+
 ### Species Zonotrichia leucophrys (J. R. Forster, 1772) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S23973040>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2614273>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4147109>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5187101>, 
+<http://ebird.org/ebird/view/checklist/S5188712>, 
+<http://ebird.org/ebird/view/checklist/S5247369>, 
+<http://ebird.org/ebird/view/checklist/S5882061>, 
+<http://ebird.org/ebird/view/checklist/S6370852>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6597539>, 
+<http://ebird.org/ebird/view/checklist/S6617129>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482623>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482657>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8749697>, 
+<http://ebird.org/ebird/view/checklist/S933765>, 
+<http://www.inaturalist.org/observations/115149>, 
+<http://www.inaturalist.org/observations/799848>.
 
 ### Family Fringillidae 
 
@@ -3234,15 +12876,101 @@
 
 ### Species Leucosticte tephrocotis (Swainson, 1832) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S6512066>, 
+<http://ebird.org/ebird/view/checklist/S8482643>, 
+<http://ebird.org/ebird/view/checklist/S8482644>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8540538>.
+
 ### Genus Loxia 
 
 ### Species Loxia curvirostra Linnaeus, 1758 
 
+Reference: 
+<http://ebird.org/ebird/view/checklist/S5012464>.
+
 ### Species Loxia leucoptera J. F. Gmelin, 1789 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S11898823>, 
+<http://ebird.org/ebird/view/checklist/S22593797>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S25523997>, 
+<http://ebird.org/ebird/view/checklist/S2614277>, 
+<http://ebird.org/ebird/view/checklist/S27287401>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S4153449>, 
+<http://ebird.org/ebird/view/checklist/S4157583>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5200096>, 
+<http://ebird.org/ebird/view/checklist/S5245309>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S6495919>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7587890>.
 
 ### Genus Pinicola 
 
 ### Species Pinicola enucleator (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11791056>, 
+<http://ebird.org/ebird/view/checklist/S12818368>, 
+<http://ebird.org/ebird/view/checklist/S14192503>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24859927>, 
+<http://ebird.org/ebird/view/checklist/S25523972>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S26623370>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4244604>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5190685>, 
+<http://ebird.org/ebird/view/checklist/S5190831>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5247382>, 
+<http://ebird.org/ebird/view/checklist/S6464103>, 
+<http://ebird.org/ebird/view/checklist/S6479212>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6597539>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S7316942>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7551994>, 
+<http://ebird.org/ebird/view/checklist/S7849999>, 
+<http://ebird.org/ebird/view/checklist/S8270083>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://www.inaturalist.org/observations/568354>, 
+<http://www.inaturalist.org/observations/800011>.
 
 ### Family Hirundinidae 
 
@@ -3250,15 +12978,225 @@
 
 ### Species Petrochelidon pyrrhonota (Vieillot, 1817) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2616880>, 
+<http://ebird.org/ebird/view/checklist/S7918037>, 
+<http://ebird.org/ebird/view/checklist/S8542567>.
+
 ### Genus Riparia 
 
 ### Species Riparia riparia (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S8349644>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Genus Tachycineta 
 
 ### Species Tachycineta bicolor (Vieillot, 1808) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S4157583>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5200096>, 
+<http://ebird.org/ebird/view/checklist/S5245309>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866257>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866295>, 
+<http://ebird.org/ebird/view/checklist/S5866296>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866299>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866301>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866303>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870979>, 
+<http://ebird.org/ebird/view/checklist/S5870980>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870983>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870985>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870987>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
+
 ### Species Tachycineta thalassina (Swainson, 1827) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4157602>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5245312>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S6435397>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980268>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7186373>, 
+<http://ebird.org/ebird/view/checklist/S7918037>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8400507>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542567>.
 
 ### Family Icteridae 
 
@@ -3266,17 +13204,147 @@
 
 ### Species Euphagus carolinus (Statius Muller, 1776) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10825412>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S11857752>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866294>, 
+<http://ebird.org/ebird/view/checklist/S5866297>, 
+<http://ebird.org/ebird/view/checklist/S5866300>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870978>, 
+<http://ebird.org/ebird/view/checklist/S5870981>, 
+<http://ebird.org/ebird/view/checklist/S5870984>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6495902>, 
+<http://ebird.org/ebird/view/checklist/S6499107>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6597526>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980227>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980308>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S7604387>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8490249>.
+
 ### Family Laniidae 
 
 ### Genus Lanius 
 
 ### Species Lanius excubitor Linnaeus, 1758 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S4244604>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5651798>, 
+<http://ebird.org/ebird/view/checklist/S5655277>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6980269>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S8297608>, 
+<http://ebird.org/ebird/view/checklist/S8353732>, 
+<http://ebird.org/ebird/view/checklist/S8360135>.
+
 ### Family Motacillidae 
 
 ### Genus Anthus 
 
 ### Species Anthus rubescens (Tunstall, 1771) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11107340>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6512066>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482634>, 
+<http://ebird.org/ebird/view/checklist/S8482637>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8540538>, 
+<http://ebird.org/ebird/view/checklist/S8542506>.
 
 ### Family Muscicapidae 
 
@@ -3290,7 +13358,229 @@
 
 ### Species Poecile atricapillus (Linnaeus, 1766) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S18838056>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S24942960>, 
+<http://ebird.org/ebird/view/checklist/S25069362>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523966>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S26394849>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S27356849>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S2872640>, 
+<http://ebird.org/ebird/view/checklist/S4147055>, 
+<http://ebird.org/ebird/view/checklist/S4147109>, 
+<http://ebird.org/ebird/view/checklist/S4153449>, 
+<http://ebird.org/ebird/view/checklist/S4157602>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176285>, 
+<http://ebird.org/ebird/view/checklist/S5187101>, 
+<http://ebird.org/ebird/view/checklist/S5187105>, 
+<http://ebird.org/ebird/view/checklist/S5187530>, 
+<http://ebird.org/ebird/view/checklist/S5188712>, 
+<http://ebird.org/ebird/view/checklist/S5188715>, 
+<http://ebird.org/ebird/view/checklist/S5190685>, 
+<http://ebird.org/ebird/view/checklist/S5190831>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5245312>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247366>, 
+<http://ebird.org/ebird/view/checklist/S5247369>, 
+<http://ebird.org/ebird/view/checklist/S5247382>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S6041398>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6617129>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6662938>, 
+<http://ebird.org/ebird/view/checklist/S6674011>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7420489>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7587890>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S8528140>, 
+<http://ebird.org/ebird/view/checklist/S8542528>, 
+<http://ebird.org/ebird/view/checklist/S8749697>, 
+<http://www.inaturalist.org/observations/2318746>.
+
 ### Species Poecile hudsonicus (J. R. Forster, 1772) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10196071>, 
+<http://ebird.org/ebird/view/checklist/S10934379>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S11857752>, 
+<http://ebird.org/ebird/view/checklist/S1928210>, 
+<http://ebird.org/ebird/view/checklist/S19988512>, 
+<http://ebird.org/ebird/view/checklist/S22593797>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24069976>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S24859887>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S25124482>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523986>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S25820636>, 
+<http://ebird.org/ebird/view/checklist/S2614273>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S26851017>, 
+<http://ebird.org/ebird/view/checklist/S27287433>, 
+<http://ebird.org/ebird/view/checklist/S27287591>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4147109>, 
+<http://ebird.org/ebird/view/checklist/S4153449>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5187101>, 
+<http://ebird.org/ebird/view/checklist/S5188712>, 
+<http://ebird.org/ebird/view/checklist/S5190685>, 
+<http://ebird.org/ebird/view/checklist/S5190831>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247369>, 
+<http://ebird.org/ebird/view/checklist/S5247382>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866309>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870993>, 
+<http://ebird.org/ebird/view/checklist/S5882060>, 
+<http://ebird.org/ebird/view/checklist/S6009443>, 
+<http://ebird.org/ebird/view/checklist/S6041398>, 
+<http://ebird.org/ebird/view/checklist/S6048330>, 
+<http://ebird.org/ebird/view/checklist/S6362868>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6768345>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6828039>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6980220>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980229>, 
+<http://ebird.org/ebird/view/checklist/S6980233>, 
+<http://ebird.org/ebird/view/checklist/S6980234>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980277>, 
+<http://ebird.org/ebird/view/checklist/S6980279>, 
+<http://ebird.org/ebird/view/checklist/S6980281>, 
+<http://ebird.org/ebird/view/checklist/S6980282>, 
+<http://ebird.org/ebird/view/checklist/S6980283>, 
+<http://ebird.org/ebird/view/checklist/S6980284>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980292>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980302>, 
+<http://ebird.org/ebird/view/checklist/S6980306>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980310>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S7120196>, 
+<http://ebird.org/ebird/view/checklist/S7265021>, 
+<http://ebird.org/ebird/view/checklist/S7420489>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7587890>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8542590>, 
+<http://ebird.org/ebird/view/checklist/S9123885>, 
+<http://www.inaturalist.org/observations/114310>, 
+<http://www.inaturalist.org/observations/115162>, 
+<http://www.inaturalist.org/observations/117213>, 
+<http://www.inaturalist.org/observations/2318745>, 
+<http://www.inaturalist.org/observations/568382>, 
+<http://www.inaturalist.org/observations/800016>.
 
 ### Family Regulidae 
 
@@ -3298,7 +13588,156 @@
 
 ### Species Regulus calendula (Linnaeus, 1766) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10829120>, 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S11857752>, 
+<http://ebird.org/ebird/view/checklist/S12818368>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S2614268>, 
+<http://ebird.org/ebird/view/checklist/S27287591>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4147055>, 
+<http://ebird.org/ebird/view/checklist/S4149067>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S4889411>, 
+<http://ebird.org/ebird/view/checklist/S5007918>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5176285>, 
+<http://ebird.org/ebird/view/checklist/S5187105>, 
+<http://ebird.org/ebird/view/checklist/S5188715>, 
+<http://ebird.org/ebird/view/checklist/S5190691>, 
+<http://ebird.org/ebird/view/checklist/S5190837>, 
+<http://ebird.org/ebird/view/checklist/S5247366>, 
+<http://ebird.org/ebird/view/checklist/S5247376>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S6295419>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8400507>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://www.inaturalist.org/observations/114311>, 
+<http://www.inaturalist.org/observations/799835>.
+
 ### Species Regulus satrapa Lichtenstein, 1823 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S24859887>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S4153436>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5190688>, 
+<http://ebird.org/ebird/view/checklist/S5190834>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247379>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S6240533>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6833740>, 
+<http://ebird.org/ebird/view/checklist/S6841865>, 
+<http://ebird.org/ebird/view/checklist/S7120196>, 
+<http://ebird.org/ebird/view/checklist/S7420489>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Family Sittidae 
 
@@ -3306,11 +13745,42 @@
 
 ### Species Sitta canadensis Linnaeus, 1766 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10196071>, 
+<http://ebird.org/ebird/view/checklist/S19989982>, 
+<http://ebird.org/ebird/view/checklist/S22593797>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S3891837>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S4157602>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5245312>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5472495>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S7265021>.
+
 ### Family Troglodytidae 
 
 ### Genus Troglodytes 
 
 ### Species Troglodytes pacificus S. F. Baird, 1864 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://www.inaturalist.org/observations/2318732>.
 
 ### Family Turdidae 
 
@@ -3318,21 +13788,627 @@
 
 ### Species Catharus guttatus (Pallas, 1811) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S14646791>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S2614277>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6582321>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980259>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S8270083>, 
+<http://ebird.org/ebird/view/checklist/S8309514>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://ebird.org/ebird/view/checklist/S8540538>, 
+<http://ebird.org/ebird/view/checklist/S8542506>, 
+<http://ebird.org/ebird/view/checklist/S8542528>, 
+<http://ebird.org/ebird/view/checklist/S8557471>, 
+<http://ebird.org/ebird/view/checklist/S9106487>, 
+<http://ebird.org/ebird/view/checklist/S933765>, 
+<http://ebird.org/ebird/view/checklist/S9487485>, 
+<http://www.inaturalist.org/observations/114309>.
+
 ### Species Catharus minimus (Lafresnaye, 1848) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S12402951>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2614268>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5296004>, 
+<http://ebird.org/ebird/view/checklist/S5296032>, 
+<http://ebird.org/ebird/view/checklist/S6582321>.
+
 ### Species Catharus ustulatus (Nuttall, 1840) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S14192493>, 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S2614268>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S4153433>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5176285>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5187530>, 
+<http://ebird.org/ebird/view/checklist/S5190689>, 
+<http://ebird.org/ebird/view/checklist/S5190835>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5247378>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6459646>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6567931>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6638829>, 
+<http://ebird.org/ebird/view/checklist/S6638858>, 
+<http://ebird.org/ebird/view/checklist/S6678088>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S8528140>.
 
 ### Genus Ixoreus 
 
 ### Species Ixoreus naevius (Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S10829120>, 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S11791490>, 
+<http://ebird.org/ebird/view/checklist/S11898823>, 
+<http://ebird.org/ebird/view/checklist/S18838090>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S22593797>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4153433>, 
+<http://ebird.org/ebird/view/checklist/S4164348>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5190689>, 
+<http://ebird.org/ebird/view/checklist/S5190835>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5247378>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866279>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S6360741>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6463935>, 
+<http://ebird.org/ebird/view/checklist/S6463943>, 
+<http://ebird.org/ebird/view/checklist/S6464166>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6479203>, 
+<http://ebird.org/ebird/view/checklist/S6479204>, 
+<http://ebird.org/ebird/view/checklist/S6479218>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6542727>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6662938>, 
+<http://ebird.org/ebird/view/checklist/S6674011>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980262>, 
+<http://ebird.org/ebird/view/checklist/S6980264>, 
+<http://ebird.org/ebird/view/checklist/S6980265>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7316942>, 
+<http://ebird.org/ebird/view/checklist/S8075040>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8353732>, 
+<http://ebird.org/ebird/view/checklist/S8360135>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8540528>, 
+<http://ebird.org/ebird/view/checklist/S8542590>, 
+<http://ebird.org/ebird/view/checklist/S8749697>.
+
 ### Genus Myadestes 
 
 ### Species Myadestes townsendi (Audubon, 1838) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11898823>, 
+<http://ebird.org/ebird/view/checklist/S7273811>, 
+<http://ebird.org/ebird/view/checklist/S8482631>.
+
 ### Genus Turdus 
 
 ### Species Turdus migratorius Linnaeus, 1766 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S10829130>, 
+<http://ebird.org/ebird/view/checklist/S10830630>, 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S11857752>, 
+<http://ebird.org/ebird/view/checklist/S14192493>, 
+<http://ebird.org/ebird/view/checklist/S14192503>, 
+<http://ebird.org/ebird/view/checklist/S18838090>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S23973040>, 
+<http://ebird.org/ebird/view/checklist/S24859906>, 
+<http://ebird.org/ebird/view/checklist/S24877517>, 
+<http://ebird.org/ebird/view/checklist/S25124482>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S2614268>, 
+<http://ebird.org/ebird/view/checklist/S26623370>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S27356850>, 
+<http://ebird.org/ebird/view/checklist/S27356854>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3891842>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4153433>, 
+<http://ebird.org/ebird/view/checklist/S4157583>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4836111>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5133609>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5172691>, 
+<http://ebird.org/ebird/view/checklist/S5173348>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5190689>, 
+<http://ebird.org/ebird/view/checklist/S5190835>, 
+<http://ebird.org/ebird/view/checklist/S5200096>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5210083>, 
+<http://ebird.org/ebird/view/checklist/S5245309>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247378>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866238>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866240>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866243>, 
+<http://ebird.org/ebird/view/checklist/S5866244>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866252>, 
+<http://ebird.org/ebird/view/checklist/S5866253>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866265>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S5866271>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866273>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866280>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866286>, 
+<http://ebird.org/ebird/view/checklist/S5866288>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5870964>, 
+<http://ebird.org/ebird/view/checklist/S5870965>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S6304603>, 
+<http://ebird.org/ebird/view/checklist/S6360741>, 
+<http://ebird.org/ebird/view/checklist/S6401576>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6463943>, 
+<http://ebird.org/ebird/view/checklist/S6464166>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6479204>, 
+<http://ebird.org/ebird/view/checklist/S6479218>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550978>, 
+<http://ebird.org/ebird/view/checklist/S6550979>, 
+<http://ebird.org/ebird/view/checklist/S6550980>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550983>, 
+<http://ebird.org/ebird/view/checklist/S6550984>, 
+<http://ebird.org/ebird/view/checklist/S6550985>, 
+<http://ebird.org/ebird/view/checklist/S6550986>, 
+<http://ebird.org/ebird/view/checklist/S6550987>, 
+<http://ebird.org/ebird/view/checklist/S6550988>, 
+<http://ebird.org/ebird/view/checklist/S6550989>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6550996>, 
+<http://ebird.org/ebird/view/checklist/S6550998>, 
+<http://ebird.org/ebird/view/checklist/S6551000>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551002>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551006>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551008>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551010>, 
+<http://ebird.org/ebird/view/checklist/S6551011>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6551018>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551020>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551024>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551035>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551037>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6597554>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6662938>, 
+<http://ebird.org/ebird/view/checklist/S6674011>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6731933>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980221>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980224>, 
+<http://ebird.org/ebird/view/checklist/S6980225>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980250>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980252>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980254>, 
+<http://ebird.org/ebird/view/checklist/S6980258>, 
+<http://ebird.org/ebird/view/checklist/S6980320>, 
+<http://ebird.org/ebird/view/checklist/S6980322>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980324>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980328>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980330>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980332>, 
+<http://ebird.org/ebird/view/checklist/S6980333>, 
+<http://ebird.org/ebird/view/checklist/S6980334>, 
+<http://ebird.org/ebird/view/checklist/S6980335>, 
+<http://ebird.org/ebird/view/checklist/S6980336>, 
+<http://ebird.org/ebird/view/checklist/S6980337>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980340>, 
+<http://ebird.org/ebird/view/checklist/S6980341>, 
+<http://ebird.org/ebird/view/checklist/S6980342>, 
+<http://ebird.org/ebird/view/checklist/S6980343>, 
+<http://ebird.org/ebird/view/checklist/S6980344>, 
+<http://ebird.org/ebird/view/checklist/S6980345>, 
+<http://ebird.org/ebird/view/checklist/S6980346>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980348>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S6980357>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7316942>, 
+<http://ebird.org/ebird/view/checklist/S7849999>, 
+<http://ebird.org/ebird/view/checklist/S8075040>, 
+<http://ebird.org/ebird/view/checklist/S8191831>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8297608>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8355463>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8365991>, 
+<http://ebird.org/ebird/view/checklist/S8366301>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8388735>, 
+<http://ebird.org/ebird/view/checklist/S8400507>, 
+<http://ebird.org/ebird/view/checklist/S8405256>, 
+<http://ebird.org/ebird/view/checklist/S8414468>, 
+<http://ebird.org/ebird/view/checklist/S8414915>, 
+<http://ebird.org/ebird/view/checklist/S8414917>, 
+<http://ebird.org/ebird/view/checklist/S8416692>, 
+<http://ebird.org/ebird/view/checklist/S8421449>, 
+<http://ebird.org/ebird/view/checklist/S8426751>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482631>, 
+<http://ebird.org/ebird/view/checklist/S8482655>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521223>, 
+<http://ebird.org/ebird/view/checklist/S8521237>, 
+<http://ebird.org/ebird/view/checklist/S8542567>, 
+<http://ebird.org/ebird/view/checklist/S8557753>, 
+<http://ebird.org/ebird/view/checklist/S933765>, 
+<http://www.inaturalist.org/observations/115148>, 
+<http://www.inaturalist.org/observations/799841>.
 
 ### Family Tyrannidae 
 
@@ -3340,13 +14416,205 @@
 
 ### Species Contopus cooperi (Nuttall, 1831) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S2614273>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S2960113>, 
+<http://ebird.org/ebird/view/checklist/S2960122>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4153449>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5104446>, 
+<http://ebird.org/ebird/view/checklist/S5104459>, 
+<http://ebird.org/ebird/view/checklist/S5146751>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5190685>, 
+<http://ebird.org/ebird/view/checklist/S5190831>, 
+<http://ebird.org/ebird/view/checklist/S5206625>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5247382>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866245>, 
+<http://ebird.org/ebird/view/checklist/S5866246>, 
+<http://ebird.org/ebird/view/checklist/S5866247>, 
+<http://ebird.org/ebird/view/checklist/S5866248>, 
+<http://ebird.org/ebird/view/checklist/S5866256>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866277>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866283>, 
+<http://ebird.org/ebird/view/checklist/S5866290>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5870968>, 
+<http://ebird.org/ebird/view/checklist/S5870974>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6495902>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6551026>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6617129>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980226>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980272>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980297>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980359>, 
+<http://ebird.org/ebird/view/checklist/S7316942>, 
+<http://ebird.org/ebird/view/checklist/S8349644>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8528140>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
+
 ### Species Contopus sordidulus P. L. Sclater, 1859 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S2614273>, 
+<http://ebird.org/ebird/view/checklist/S27287401>, 
+<http://ebird.org/ebird/view/checklist/S4153449>, 
+<http://ebird.org/ebird/view/checklist/S4157602>, 
+<http://ebird.org/ebird/view/checklist/S4158809>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5190685>, 
+<http://ebird.org/ebird/view/checklist/S5190831>, 
+<http://ebird.org/ebird/view/checklist/S5245312>, 
+<http://ebird.org/ebird/view/checklist/S5245322>, 
+<http://ebird.org/ebird/view/checklist/S5247382>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6495902>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550993>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6551019>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551031>, 
+<http://ebird.org/ebird/view/checklist/S6551034>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6551038>, 
+<http://ebird.org/ebird/view/checklist/S6617129>, 
+<http://ebird.org/ebird/view/checklist/S6617153>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6980223>, 
+<http://ebird.org/ebird/view/checklist/S6980246>, 
+<http://ebird.org/ebird/view/checklist/S6980249>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980253>, 
+<http://ebird.org/ebird/view/checklist/S6980260>, 
+<http://ebird.org/ebird/view/checklist/S6980261>, 
+<http://ebird.org/ebird/view/checklist/S6980263>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980296>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980350>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S8349644>, 
+<http://ebird.org/ebird/view/checklist/S8379153>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8528140>.
 
 ### Genus Empidonax 
 
 ### Species Empidonax alnorum Brewster, 1895 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11107294>, 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S14192503>, 
+<http://ebird.org/ebird/view/checklist/S18976084>, 
+<http://ebird.org/ebird/view/checklist/S21641543>, 
+<http://ebird.org/ebird/view/checklist/S2524052>, 
+<http://ebird.org/ebird/view/checklist/S2614277>, 
+<http://ebird.org/ebird/view/checklist/S26969647>, 
+<http://ebird.org/ebird/view/checklist/S26996640>, 
+<http://ebird.org/ebird/view/checklist/S27287401>, 
+<http://ebird.org/ebird/view/checklist/S4157583>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S4841810>, 
+<http://ebird.org/ebird/view/checklist/S5012464>, 
+<http://ebird.org/ebird/view/checklist/S5075941>, 
+<http://ebird.org/ebird/view/checklist/S5080215>, 
+<http://ebird.org/ebird/view/checklist/S5104446>, 
+<http://ebird.org/ebird/view/checklist/S5104459>, 
+<http://ebird.org/ebird/view/checklist/S5165657>, 
+<http://ebird.org/ebird/view/checklist/S5200096>, 
+<http://ebird.org/ebird/view/checklist/S5245309>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6495902>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550992>, 
+<http://ebird.org/ebird/view/checklist/S6550995>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6567931>, 
+<http://ebird.org/ebird/view/checklist/S6582321>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980273>, 
+<http://ebird.org/ebird/view/checklist/S6980349>, 
+<http://ebird.org/ebird/view/checklist/S6980352>, 
+<http://ebird.org/ebird/view/checklist/S6980354>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S7316942>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8349644>, 
+<http://ebird.org/ebird/view/checklist/S8365954>, 
+<http://ebird.org/ebird/view/checklist/S8366302>, 
+<http://ebird.org/ebird/view/checklist/S8458336>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S933765>.
+
 ### Species Empidonax hammondii (Xantus de Vesey, 1858) 
+
+Reference: 
+<http://ebird.org/ebird/view/checklist/S2616908>.
 
 ### Order Piciformes 
 
@@ -3356,15 +14624,133 @@
 
 ### Species Colaptes auratus (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S5012554>, 
+<http://ebird.org/ebird/view/checklist/S7120366>.
+
 ### Genus Picoides 
 
 ### Species Picoides arcticus (Swainson, 1832) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5110610>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5205805>.
+
 ### Species Picoides dorsalis S. F. Baird, 1858 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S12818368>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23002993>, 
+<http://ebird.org/ebird/view/checklist/S24660738>, 
+<http://ebird.org/ebird/view/checklist/S25124482>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S2614658>, 
+<http://ebird.org/ebird/view/checklist/S26394849>, 
+<http://ebird.org/ebird/view/checklist/S26510307>, 
+<http://ebird.org/ebird/view/checklist/S26623370>, 
+<http://ebird.org/ebird/view/checklist/S27960101>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4162257>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866270>, 
+<http://ebird.org/ebird/view/checklist/S6041398>, 
+<http://ebird.org/ebird/view/checklist/S6147966>, 
+<http://ebird.org/ebird/view/checklist/S6304603>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6638829>, 
+<http://ebird.org/ebird/view/checklist/S6638858>, 
+<http://ebird.org/ebird/view/checklist/S6678088>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6869452>, 
+<http://ebird.org/ebird/view/checklist/S6870315>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7791841>, 
+<http://ebird.org/ebird/view/checklist/S7849999>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8349644>, 
+<http://ebird.org/ebird/view/checklist/S8490263>.
 
 ### Species Picoides pubescens (Linnaeus, 1766) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S24877516>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S2620546>, 
+<http://ebird.org/ebird/view/checklist/S27287591>, 
+<http://ebird.org/ebird/view/checklist/S4153433>, 
+<http://ebird.org/ebird/view/checklist/S5104459>, 
+<http://ebird.org/ebird/view/checklist/S5190689>, 
+<http://ebird.org/ebird/view/checklist/S5190835>, 
+<http://ebird.org/ebird/view/checklist/S5247378>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6550994>, 
+<http://ebird.org/ebird/view/checklist/S6551005>, 
+<http://ebird.org/ebird/view/checklist/S6551009>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551027>, 
+<http://ebird.org/ebird/view/checklist/S6551028>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6980241>, 
+<http://ebird.org/ebird/view/checklist/S6980243>, 
+<http://ebird.org/ebird/view/checklist/S6980327>, 
+<http://ebird.org/ebird/view/checklist/S6980331>, 
+<http://ebird.org/ebird/view/checklist/S6980351>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S7587890>.
+
 ### Species Picoides villosus (Linnaeus, 1766) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S12818368>, 
+<http://ebird.org/ebird/view/checklist/S2251673>, 
+<http://ebird.org/ebird/view/checklist/S22914694>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S25724908>, 
+<http://ebird.org/ebird/view/checklist/S26394849>, 
+<http://ebird.org/ebird/view/checklist/S5060093>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5842359>, 
+<http://ebird.org/ebird/view/checklist/S5866237>, 
+<http://ebird.org/ebird/view/checklist/S5866239>, 
+<http://ebird.org/ebird/view/checklist/S5866241>, 
+<http://ebird.org/ebird/view/checklist/S5866242>, 
+<http://ebird.org/ebird/view/checklist/S5866249>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866272>, 
+<http://ebird.org/ebird/view/checklist/S5866274>, 
+<http://ebird.org/ebird/view/checklist/S5866275>, 
+<http://ebird.org/ebird/view/checklist/S5866276>, 
+<http://ebird.org/ebird/view/checklist/S5866278>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866310>, 
+<http://ebird.org/ebird/view/checklist/S5870970>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870994>, 
+<http://ebird.org/ebird/view/checklist/S5882067>, 
+<http://ebird.org/ebird/view/checklist/S6076874>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S7449173>, 
+<http://ebird.org/ebird/view/checklist/S7742759>, 
+<http://ebird.org/ebird/view/checklist/S8379153>.
 
 ### Order Podicipediformes 
 
@@ -3374,7 +14760,107 @@
 
 ### Species Podiceps auritus (Linnaeus, 1758) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S25523972>, 
+<http://ebird.org/ebird/view/checklist/S25523997>, 
+<http://ebird.org/ebird/view/checklist/S26074376>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S6976062>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7333987>, 
+<http://ebird.org/ebird/view/checklist/S7519310>.
+
 ### Species Podiceps grisegena (Boddaert, 1783) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S25124482>, 
+<http://ebird.org/ebird/view/checklist/S26623370>, 
+<http://ebird.org/ebird/view/checklist/S27287401>, 
+<http://ebird.org/ebird/view/checklist/S3928853>, 
+<http://ebird.org/ebird/view/checklist/S4157474>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5200099>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S5245307>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S5866281>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866285>, 
+<http://ebird.org/ebird/view/checklist/S5866289>, 
+<http://ebird.org/ebird/view/checklist/S5866291>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5866307>, 
+<http://ebird.org/ebird/view/checklist/S5866308>, 
+<http://ebird.org/ebird/view/checklist/S5870973>, 
+<http://ebird.org/ebird/view/checklist/S5870975>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S5870991>, 
+<http://ebird.org/ebird/view/checklist/S5870992>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6442445>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6457399>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S6529816>, 
+<http://ebird.org/ebird/view/checklist/S6550981>, 
+<http://ebird.org/ebird/view/checklist/S6550982>, 
+<http://ebird.org/ebird/view/checklist/S6550990>, 
+<http://ebird.org/ebird/view/checklist/S6551001>, 
+<http://ebird.org/ebird/view/checklist/S6551022>, 
+<http://ebird.org/ebird/view/checklist/S6551023>, 
+<http://ebird.org/ebird/view/checklist/S6551030>, 
+<http://ebird.org/ebird/view/checklist/S6551032>, 
+<http://ebird.org/ebird/view/checklist/S6551033>, 
+<http://ebird.org/ebird/view/checklist/S6551036>, 
+<http://ebird.org/ebird/view/checklist/S6554428>, 
+<http://ebird.org/ebird/view/checklist/S6607093>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6828335>, 
+<http://ebird.org/ebird/view/checklist/S6828345>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S6980245>, 
+<http://ebird.org/ebird/view/checklist/S6980247>, 
+<http://ebird.org/ebird/view/checklist/S6980248>, 
+<http://ebird.org/ebird/view/checklist/S6980251>, 
+<http://ebird.org/ebird/view/checklist/S6980271>, 
+<http://ebird.org/ebird/view/checklist/S6980274>, 
+<http://ebird.org/ebird/view/checklist/S6980286>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980295>, 
+<http://ebird.org/ebird/view/checklist/S6980299>, 
+<http://ebird.org/ebird/view/checklist/S6980307>, 
+<http://ebird.org/ebird/view/checklist/S6980309>, 
+<http://ebird.org/ebird/view/checklist/S6980323>, 
+<http://ebird.org/ebird/view/checklist/S6980338>, 
+<http://ebird.org/ebird/view/checklist/S6980339>, 
+<http://ebird.org/ebird/view/checklist/S6980347>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980355>, 
+<http://ebird.org/ebird/view/checklist/S6980356>, 
+<http://ebird.org/ebird/view/checklist/S7333547>, 
+<http://ebird.org/ebird/view/checklist/S7333987>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S7849999>, 
+<http://ebird.org/ebird/view/checklist/S8287813>, 
+<http://ebird.org/ebird/view/checklist/S8343529>, 
+<http://ebird.org/ebird/view/checklist/S8343534>, 
+<http://ebird.org/ebird/view/checklist/S8482619>, 
+<http://ebird.org/ebird/view/checklist/S8482662>, 
+<http://ebird.org/ebird/view/checklist/S8521206>, 
+<http://ebird.org/ebird/view/checklist/S8521237>.
 
 ### Order Procellariiformes 
 
@@ -3384,6 +14870,10 @@
 
 ### Species Oceanodroma furcata (Gmelin, 1789) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S2820571>, 
+<http://ebird.org/ebird/view/checklist/S3046963>.
+
 ### Order Strigiformes 
 
 ### Family Strigidae 
@@ -3392,23 +14882,101 @@
 
 ### Species Aegolius acadicus (J. F. Gmelin, 1788) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S23791344>, 
+<http://ebird.org/ebird/view/checklist/S2620567>, 
+<http://ebird.org/ebird/view/checklist/S5866236>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866282>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6980329>.
+
 ### Species Aegolius funereus (Linnaeus, 1758) 
+
+Reference: 
+<http://ebird.org/ebird/view/checklist/S22444136>.
 
 ### Genus Asio 
 
 ### Species Asio flammeus (Pontoppidan, 1763) 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866268>, 
+<http://ebird.org/ebird/view/checklist/S5866269>, 
+<http://ebird.org/ebird/view/checklist/S5866306>, 
+<http://ebird.org/ebird/view/checklist/S5870990>, 
+<http://ebird.org/ebird/view/checklist/S6550991>, 
+<http://ebird.org/ebird/view/checklist/S6551004>, 
+<http://ebird.org/ebird/view/checklist/S6551007>, 
+<http://ebird.org/ebird/view/checklist/S6551017>, 
+<http://ebird.org/ebird/view/checklist/S6980222>, 
+<http://ebird.org/ebird/view/checklist/S6980326>, 
+<http://ebird.org/ebird/view/checklist/S6980329>, 
+<http://ebird.org/ebird/view/checklist/S6980348>.
+
 ### Genus Bubo 
 
 ### Species Bubo virginianus (J. F. Gmelin, 1788) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S22444008>, 
+<http://ebird.org/ebird/view/checklist/S2620563>, 
+<http://ebird.org/ebird/view/checklist/S2960137>, 
+<http://ebird.org/ebird/view/checklist/S4157583>, 
+<http://ebird.org/ebird/view/checklist/S5200096>, 
+<http://ebird.org/ebird/view/checklist/S5245309>, 
+<http://ebird.org/ebird/view/checklist/S5345365>, 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5866263>, 
+<http://ebird.org/ebird/view/checklist/S5866264>, 
+<http://ebird.org/ebird/view/checklist/S5866266>, 
+<http://ebird.org/ebird/view/checklist/S5866267>, 
+<http://ebird.org/ebird/view/checklist/S5866284>, 
+<http://ebird.org/ebird/view/checklist/S5866302>, 
+<http://ebird.org/ebird/view/checklist/S5866304>, 
+<http://ebird.org/ebird/view/checklist/S5870986>, 
+<http://ebird.org/ebird/view/checklist/S5870988>, 
+<http://ebird.org/ebird/view/checklist/S5870995>, 
+<http://ebird.org/ebird/view/checklist/S6431386>, 
+<http://ebird.org/ebird/view/checklist/S6551025>, 
+<http://ebird.org/ebird/view/checklist/S6551029>, 
+<http://ebird.org/ebird/view/checklist/S6763049>, 
+<http://ebird.org/ebird/view/checklist/S6873993>, 
+<http://ebird.org/ebird/view/checklist/S6980244>, 
+<http://ebird.org/ebird/view/checklist/S6980280>, 
+<http://ebird.org/ebird/view/checklist/S6980285>, 
+<http://ebird.org/ebird/view/checklist/S6980291>, 
+<http://ebird.org/ebird/view/checklist/S6980353>, 
+<http://ebird.org/ebird/view/checklist/S6980358>, 
+<http://ebird.org/ebird/view/checklist/S8482662>.
 
 ### Genus Strix 
 
 ### Species Strix nebulosa J. R. Forster, 1772 
 
+References: 
+<http://ebird.org/ebird/view/checklist/S5355396>, 
+<http://ebird.org/ebird/view/checklist/S5461985>.
+
 ### Genus Surnia 
 
 ### Species Surnia ulula (Linnaeus, 1758) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S5146753>, 
+<http://ebird.org/ebird/view/checklist/S5153679>, 
+<http://ebird.org/ebird/view/checklist/S5176447>, 
+<http://ebird.org/ebird/view/checklist/S5177912>, 
+<http://ebird.org/ebird/view/checklist/S5177915>, 
+<http://ebird.org/ebird/view/checklist/S5181197>, 
+<http://ebird.org/ebird/view/checklist/S5205805>, 
+<http://ebird.org/ebird/view/checklist/S5206629>, 
+<http://ebird.org/ebird/view/checklist/S6492243>, 
+<http://ebird.org/ebird/view/checklist/S6493653>, 
+<http://ebird.org/ebird/view/checklist/S7748815>.
 
 ### Order Suliformes 
 
@@ -3417,6 +14985,30 @@
 ### Genus Phalacrocorax 
 
 ### Species Phalacrocorax auritus (Lesson, 1831) 
+
+References: 
+<http://ebird.org/ebird/view/checklist/S11505349>, 
+<http://ebird.org/ebird/view/checklist/S23192260>, 
+<http://ebird.org/ebird/view/checklist/S23237453>, 
+<http://ebird.org/ebird/view/checklist/S25368335>, 
+<http://ebird.org/ebird/view/checklist/S25492838>, 
+<http://ebird.org/ebird/view/checklist/S3185332>, 
+<http://ebird.org/ebird/view/checklist/S4152362>, 
+<http://ebird.org/ebird/view/checklist/S4342574>, 
+<http://ebird.org/ebird/view/checklist/S5015169>, 
+<http://ebird.org/ebird/view/checklist/S5060120>, 
+<http://ebird.org/ebird/view/checklist/S5190690>, 
+<http://ebird.org/ebird/view/checklist/S5190836>, 
+<http://ebird.org/ebird/view/checklist/S5247377>, 
+<http://ebird.org/ebird/view/checklist/S5250829>, 
+<http://ebird.org/ebird/view/checklist/S6446826>, 
+<http://ebird.org/ebird/view/checklist/S6447196>, 
+<http://ebird.org/ebird/view/checklist/S6470158>, 
+<http://ebird.org/ebird/view/checklist/S6723932>, 
+<http://ebird.org/ebird/view/checklist/S6811244>, 
+<http://ebird.org/ebird/view/checklist/S6914424>, 
+<http://ebird.org/ebird/view/checklist/S7519310>, 
+<http://ebird.org/ebird/view/checklist/S8521206>.
 
 ### Class Cephalaspidomorphi 
 
@@ -3428,6 +15020,9 @@
 
 ### Species Lethenteron camtschaticum (Tilesius, 1811) 
 
+Reference: 
+<https://www.inaturalist.org/observations/6903261>.
+
 ### Class Mammalia 
 
 ### Order Artiodactyla 
@@ -3438,15 +15033,25 @@
 
 ### Species Oreamnos americanus (Blainville, 1816) 
 
+Reference: 
+<https://doi.org/10.1002/jwmg.21691>.
+
 ### Genus Ovis 
 
 ### Species Ovis dalli Nelson, 1884 
+
+Reference: 
+<http://www.inaturalist.org/observations/14893>.
 
 ### Family Cervidae 
 
 ### Genus Alces 
 
 ### Species Alces alces (Linnaeus, 1758) 
+
+References: 
+<http://www.inaturalist.org/observations/1843113>, 
+<https://catalog.data.gov/dataset/kenai-national-wildlife-refuge-annual-narrative-report-calendar-year-1985>.
 
 ### Genus Odocoileus 
 
@@ -3463,6 +15068,9 @@
 ### Genus Canis 
 
 ### Species Canis latrans Say, 1823 
+
+Reference: 
+<http://www.inaturalist.org/observations/14877>.
 
 ### Species Canis lupus Linnaeus, 1758 
 
@@ -3494,6 +15102,9 @@
 
 ### Species Martes americana (Turton, 1806) 
 
+Reference: 
+<https://doi.org/10.1093/jmammal/gyx011>.
+
 ### Genus Mustela 
 
 ### Species Mustela erminea Linnaeus, 1758 
@@ -3512,7 +15123,15 @@
 
 ### Species Ursus americanus Pallas, 1780 
 
+Reference: 
+<http://www.inaturalist.org/observations/463969>.
+
 ### Species Ursus arctos Linnaeus, 1758 
+
+References: 
+<http://www.inaturalist.org/observations/113374>, 
+<http://www.inaturalist.org/observations/113420>, 
+<http://www.inaturalist.org/observations/463980>.
 
 ### Order Cetacea 
 
@@ -3538,9 +15157,16 @@
 
 ### Species Lepus americanus Erxleben, 1777 
 
+References: 
+<http://www.inaturalist.org/observations/115174>, 
+<http://www.inaturalist.org/observations/9965>.
+
 ### Genus Oryctolagus 
 
 ### Species Oryctolagus cuniculus (Linnaeus, 1758) 
+
+Reference: 
+<http://www.inaturalist.org/observations/3967164>.
 
 ### Order Primates 
 
@@ -3558,6 +15184,9 @@
 
 ### Species Castor canadensis Kuhl, 1820 
 
+Reference: 
+<http://www.inaturalist.org/observations/2318742>.
+
 ### Family Cricetidae 
 
 ### Genus Microtus 
@@ -3568,9 +15197,15 @@
 
 ### Species Microtus pennsylvanicus (Ord, 1815) 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Mamm:81108>.
+
 ### Genus Myodes 
 
 ### Species Myodes rutilus (Pallas, 1779) 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Mamm:81117>.
 
 ### Genus Ondatra 
 
@@ -3586,15 +15221,29 @@
 
 ### Species Erethizon dorsatus (Linnaeus, 1758) 
 
+Reference: 
+<http://arctos.database.museum/guid/MVZ:Mamm:4756>.
+
 ### Family Sciuridae 
 
 ### Genus Marmota 
 
 ### Species Marmota caligata (Eschscholtz, 1829) 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Mamm:101919>, 
+<http://arctos.database.museum/guid/UAM:Mamm:86414>, 
+<http://arctos.database.museum/guid/UWBM:Mamm:39667>, 
+<http://arctos.database.museum/guid/UWBM:Mamm:82390>.
+
 ### Genus Tamiasciurus 
 
 ### Species Tamiasciurus hudsonicus (Erxleben, 1777) 
+
+References: 
+<http://www.inaturalist.org/observations/117216>, 
+<http://www.inaturalist.org/observations/1306486>, 
+<http://www.inaturalist.org/observations/14907>.
 
 ### Order Soricomorpha 
 
@@ -3617,6 +15266,11 @@
 ### Genus Catostomus 
 
 ### Species Catostomus catostomus (Forster, 1773) 
+
+References: 
+<http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
+<http://www.fws.gov/uploadedFiles/Dean_JL_and_S_Rickabough_2005.pdf>, 
+<http://www.fws.gov/uploadedFiles/Friedersdorff_JW_1986.pdf>.
 
 ### Order Esociformes 
 
@@ -3642,6 +15296,11 @@
 
 ### Species Gasterosteus aculeatus Linnaeus, 1758 
 
+References: 
+<http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
+<http://www.inaturalist.org/observations/2138344>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
+
 ### Genus Pungitius 
 
 ### Species Pungitius pungitius (Linnaeus, 1758) 
@@ -3658,9 +15317,22 @@
 
 ### Species Oncorhynchus kisutch (Walbaum, 1792) 
 
+References: 
+<http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
+<http://www.inaturalist.org/observations/4891214>.
+
 ### Species Oncorhynchus mykiss (Walbaum, 1792) 
 
+References: 
+<http://www.inaturalist.org/observations/1814201>, 
+<http://www.inaturalist.org/observations/811982>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
+
 ### Species Oncorhynchus nerka (Walbaum in Artedi, 1792) 
+
+References: 
+<http://www.inaturalist.org/observations/1021584>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ### Species Oncorhynchus tshawytscha (Walbaum in Artedi, 1792) 
 
@@ -3668,13 +15340,23 @@
 
 ### Species Prosopium cylindraceum (Pennant, 1784) 
 
+Reference: 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
+
 ### Genus Salvelinus 
 
 ### Species Salvelinus alpinus (Linnaeus, 1758) 
 
 ### Species Salvelinus malma (Walbaum in Artedi, 1792) 
 
+References: 
+<http://www.inaturalist.org/observations/811997>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
+
 ### Species Salvelinus namaycush (Walbaum in Artedi, 1792) 
+
+Reference: 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ### Genus Thymallus 
 
@@ -3688,7 +15370,15 @@
 
 ### Species Cottus aleuticus Gilbert, 1896 
 
+References: 
+<http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
+
 ### Species Cottus cognatus Richardson, 1836 
+
+References: 
+<http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
+<http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ### Phylum Cnidaria 
 
@@ -3702,6 +15392,9 @@
 
 ### Species Hydra hymanae Hadley and Forrest, 1949 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1659-16>.
+
 ### Phylum Mollusca 
 
 ### Class Bivalvia 
@@ -3713,6 +15406,11 @@
 ### Genus Anodonta 
 
 ### Species Anodonta beringiana Middendorff, 1851 
+
+References: 
+<http://www.inaturalist.org/observations/3672927>, 
+<http://www.inaturalist.org/observations/3673034>, 
+<http://www.inaturalist.org/observations/6904203>.
 
 ### Order Veneroida 
 
@@ -3736,9 +15434,16 @@
 
 ### Species Radix auricularia (Linnaeus, 1758) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:11102>, 
+<http://arctos.database.museum/guid/KNWR:Ento:11200>.
+
 ### Genus Stagnicola 
 
 ### Species Stagnicola elodes (Say, 1821) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:10865>.
 
 ### Family Planorbidae 
 
@@ -3770,6 +15475,9 @@
 
 ### Species Littorina subrotundata (Carpenter, 1864) 
 
+Reference: 
+<http://www.inaturalist.org/observations/6612398>.
+
 ### Order Stylommatophora 
 
 ### Family Discidae 
@@ -3778,13 +15486,23 @@
 
 ### Species Discus whitneyi (Newcomb, 1864) 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:6114>, 
+<http://arctos.database.museum/guid/KNWR:Ento:6809>.
+
 ### Family Limacidae 
 
 ### Genus Deroceras 
 
 ### Species Deroceras laeve (Muller, 1774) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:11132>.
+
 ### Species Deroceras reticulatum (Muller, 1774) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:8635>.
 
 ### Family Pupillidae 
 
@@ -3792,11 +15510,17 @@
 
 ### Species Columella columella (von Martens, 1830) 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5515>.
+
 ### Family Valloniidae 
 
 ### Genus Zoogenetes 
 
 ### Species Zoogenetes harpa (Say, 1824) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:5629>.
 
 ### Phylum Nematoda 
 
@@ -3810,6 +15534,10 @@
 
 ### Species Mermis nigrescens 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Inv:17>, 
+<http://arctos.database.museum/guid/KNWR:Inv:19>.
+
 ### Phylum Platyhelminthes 
 
 ### Class Trepaxonemata 
@@ -3821,6 +15549,9 @@
 ### Genus Polycelis 
 
 ### Species Polycelis coronata (Girard, 1891) 
+
+Reference: 
+<http://www.inaturalist.org/observations/6565818>.
 
 ### Kingdom Bacteria 
 
@@ -3836,6 +15567,9 @@
 
 ### Species Nostoc pruniforme C. Agardh 
 
+Reference: 
+<https://www.inaturalist.org/observations/33453138>.
+
 ### Kingdom Chromista 
 
 ### Phylum Ochrophyta 
@@ -3850,6 +15584,9 @@
 
 ### Species Aulacoseira subarctica (O. Müll.) E. Y. Haw. 
 
+Reference: 
+<https://www.inaturalist.org/observations/12872794>.
+
 ### Order Eunotiales 
 
 ### Family Eunotiaceae 
@@ -3857,6 +15594,9 @@
 ### Genus Eunotia 
 
 ### Species Eunotia glacialis F. Meister 
+
+Reference: 
+<https://www.inaturalist.org/observations/12830204>.
 
 ### Order Fragilariales 
 
@@ -3866,6 +15606,9 @@
 
 ### Species Staurosira construens Ehrenb. 
 
+Reference: 
+<https://www.inaturalist.org/observations/12891879>.
+
 ### Order Naviculales 
 
 ### Family Neidiaceae 
@@ -3874,7 +15617,13 @@
 
 ### Species Neidium hitchcockii (Ehrenb.) Cleve 
 
+Reference: 
+<https://www.inaturalist.org/observations/12765676>.
+
 ### Species Neidium iridis (Ehrenb.) Cleve 
+
+Reference: 
+<https://www.inaturalist.org/observations/12730287>.
 
 ### Order Rhopalodiales 
 
@@ -3884,7 +15633,13 @@
 
 ### Species Epithemia adnata (Kütz.) Bréb. 
 
+Reference: 
+<https://www.inaturalist.org/observations/12894528>.
+
 ### Species Epithemia turgida (Ehrenb.) Kütz. 
+
+Reference: 
+<https://www.inaturalist.org/observations/12685525>.
 
 ### Order Thalassiosirales 
 
@@ -3893,6 +15648,9 @@
 ### Genus Stephanodiscus 
 
 ### Species Stephanodiscus niagarae Ehrenb. 
+
+Reference: 
+<https://www.inaturalist.org/observations/12689404>.
 
 ### Phylum Phaeophyta 
 
@@ -3905,6 +15663,9 @@
 ### Genus Fucus 
 
 ### Species Fucus distichus Linnaeus, 1767 
+
+Reference: 
+<http://www.inaturalist.org/observations/6612338>.
 
 ### Kingdom Fungi 
 
@@ -3919,6 +15680,9 @@
 ### Genus Chrysothrix 
 
 ### Species Chrysothrix candelaris 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11795>.
 
 ### Class Lecanoromycetes 
 
@@ -3950,9 +15714,15 @@
 
 ### Species Baeomyces rufus 
 
+Reference: 
+<http://arctos.database.museum/guid/UAMb:Herb:21786>.
+
 ### Genus Icmadophila 
 
 ### Species Icmadophila ericetorum 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9022>.
 
 ### Order Candelariales 
 
@@ -3972,11 +15742,23 @@
 
 ### Species Cladina mitis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8861>.
+
 ### Species Cladina rangiferina 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11924>.
 
 ### Species Cladina stellaris 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8859>.
+
 ### Species Cladina stygia 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11691>.
 
 ### Genus Cladonia 
 
@@ -3984,7 +15766,13 @@
 
 ### Species Cladonia albonigra 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11770>.
+
 ### Species Cladonia amaurocraea 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8857>.
 
 ### Species Cladonia bacilliformis (Nyl.) Glück 
 
@@ -4019,6 +15807,9 @@
 ### Species Cladonia furcata (Huds.) Schrad. 
 
 ### Species Cladonia gracilis (L.) Willd. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8858>.
 
 ### Species Cladonia grayi G. Merr. ex Sandst. 
 
@@ -4064,6 +15855,9 @@
 
 ### Species Cladonia uncialis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8856>.
+
 ### Family Ectolechiaceae 
 
 ### Genus Lopadium 
@@ -4083,6 +15877,9 @@
 ### Genus Ramboldia 
 
 ### Species <em>Ramboldia</em> <em>cinnabarina</em> (Sommerf.) Kalb, Lumbsch & Elix 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:12158>.
 
 ### Genus Lecanora 
 
@@ -4124,11 +15921,17 @@
 
 ### Species Pycnora sorophora 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11722>.
+
 ### Family Mycoblastaceae 
 
 ### Genus Mycoblastus 
 
 ### Species Mycoblastus affinis (Schaer.) T. Schauer 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9039>.
 
 ### Species Mycoblastus alpinus (Fr.) Hellb. 
 
@@ -4140,21 +15943,36 @@
 
 ### Species Alectoria nigricans 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9004>.
+
 ### Species Alectoria sarmentosa 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9001>.
 
 ### Genus Allantoparmelia 
 
 ### Species Allantoparmelia alpicola (Th. Fr.) Essl. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9002>.
+
 ### Genus Arctoparmelia 
 
 ### Species Arctoparmelia centrifuga 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9003>.
 
 ### Genus Asahinea 
 
 ### Species Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb. 
 
 ### Species Asahinea scholanderi 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9005>.
 
 ### Genus Brodoa 
 
@@ -4163,6 +15981,10 @@
 ### Genus Bryocaulon 
 
 ### Species Bryocaulon divergens (Ach.) Kärnefelt 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8847>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9006>.
 
 ### Genus Bryoria 
 
@@ -4175,6 +15997,9 @@
 ### Species Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw. 
 
 ### Species Bryoria glabra (Motyka) Brodo & D. Hawksw. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:12110>.
 
 ### Species Bryoria lanestris (Ach.) Brodo & D. Hawksw. 
 
@@ -4190,25 +16015,53 @@
 
 ### Species Cetraria cucullata (Bellardi) Ach. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8846>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9008>.
+
 ### Species Cetraria ericetorum Opiz 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8845>.
 
 ### Species Cetraria hepatizon (Ach.) Vain. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9033>.
+
 ### Species Cetraria islandica (L.) Ach. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8844>.
 
 ### Species Cetraria kamczatica 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9009>.
+
 ### Species Cetraria laevigata 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9010>.
+
 ### Species Cetraria nigricans Nyl. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9011>.
 
 ### Species Cetraria nigricascens 
 
 ### Species Cetraria nivalis (L.) Ach. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8860>.
+
 ### Genus Cetrariella 
 
 ### Species Cetrariella delisei 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9013>.
 
 ### Genus Coelocaulon 
 
@@ -4217,6 +16070,10 @@
 ### Genus Dactylina 
 
 ### Species Dactylina arctica (Hook. f.) Nyl. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8855>, 
+<http://www.inaturalist.org/observations/114281>.
 
 ### Genus Hypogymnia 
 
@@ -4228,13 +16085,26 @@
 
 ### Species Hypogymnia enteromorpha 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9018>.
+
 ### Species Hypogymnia metaphysodes 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9019>.
 
 ### Species Hypogymnia occidentalis L.H. Pike 
 
 ### Species Hypogymnia physodes (L.) Nyl. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:9020>, 
+<http://www.inaturalist.org/observations/115176>.
+
 ### Species Hypogymnia rugosa 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9021>.
 
 ### Genus Imshaugia 
 
@@ -4244,11 +16114,23 @@
 
 ### Species Melanelia olivacea 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9035>.
+
 ### Species Melanelia panniformis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9036>.
 
 ### Species Melanelia stygia 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9037>.
+
 ### Species Melanelia subaurifera 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9038>.
 
 ### Genus Parmelia 
 
@@ -4258,15 +16140,26 @@
 
 ### Species Parmelia saxatilis (L.) Ach. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:9045>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9046>.
+
 ### Species Parmelia skultii Hale 
 
 ### Species Parmelia squarrosa 
 
 ### Species Parmelia sulcata Taylor 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:9047>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9048>.
+
 ### Genus Parmeliopsis 
 
 ### Species Parmeliopsis ambigua (Wulfen) Nyl. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9049>.
 
 ### Species Parmeliopsis hyperopta (Ach.) Arnold 
 
@@ -4278,7 +16171,13 @@
 
 ### Species Pseudephebe minuscula (Arnold) Brodo & D. Hawksw. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9064>.
+
 ### Species Pseudephebe pubescens (L.) M. Choisy 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8852>.
 
 ### Genus Rhizoplaca 
 
@@ -4288,7 +16187,13 @@
 
 ### Species Tuckermannopsis chlorophylla (Willd.) Hale 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9092>.
+
 ### Species Tuckermannopsis sepincola (Ehrh.) Hale 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9012>.
 
 ### Genus Usnea 
 
@@ -4304,6 +16209,9 @@
 
 ### Species Vulpicida pinastri 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:12130>.
+
 ### Family Ramalinaceae 
 
 ### Genus Bacidia 
@@ -4313,6 +16221,9 @@
 ### Genus Biatora 
 
 ### Species Biatora pallens 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11684>.
 
 ### Species Biatora vernalis (L.) Fr. 
 
@@ -4336,6 +16247,9 @@
 
 ### Species Lecania dubitans (Nyl.) A.L. Sm. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9025>.
+
 ### Genus Ramalina 
 
 ### Species Ramalina dilacerata (Hoffm.) Hoffm. 
@@ -4346,6 +16260,9 @@
 
 ### Species Ramalina obtusata 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9066>.
+
 ### Species Ramalina roesleri 
 
 ### Family Sphaerophoraceae 
@@ -4354,7 +16271,13 @@
 
 ### Species Sphaerophorus fragilis 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9068>.
+
 ### Species Sphaerophorus globosus 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8851>.
 
 ### Family Stereocaulaceae 
 
@@ -4368,15 +16291,33 @@
 
 ### Species Stereocaulon alpinum 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8850>.
+
 ### Species Stereocaulon arenarium 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9078>.
 
 ### Species Stereocaulon botryosum 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9080>.
+
 ### Species Stereocaulon intermedium 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9084>.
 
 ### Species Stereocaulon paschale 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9082>.
+
 ### Species Stereocaulon rivulorum 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9085>.
 
 ### Order Lecideales 
 
@@ -4386,7 +16327,13 @@
 
 ### Species Lecidea leprarioides 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11637>.
+
 ### Species Lecidea nylanderi 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11638>.
 
 ### Family Porpidiaceae 
 
@@ -4399,6 +16346,9 @@
 ### Genus Mycobilimbia 
 
 ### Species Mycobilimbia epixanthoides 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11612>.
 
 ### Order Ostropales 
 
@@ -4434,9 +16384,19 @@
 
 ### Species Lobaria linita 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8854>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9026>.
+
 ### Species Lobaria pulmonaria (L.) Hoffm. 
 
+Reference: 
+<http://www.inaturalist.org/observations/115173>.
+
 ### Species Lobaria scrobiculata 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:12000>.
 
 ### Genus Pseudocyphellaria 
 
@@ -4448,11 +16408,18 @@
 
 ### Species Nephroma arcticum (L.) Torss. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:9040>, 
+<http://www.inaturalist.org/observations/114280>.
+
 ### Species Nephroma bellum (Spreng.) Tuck. 
 
 ### Species Nephroma expallidum (Nyl.) Nyl. 
 
 ### Species Nephroma isidiosum 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9041>.
 
 ### Species Nephroma parile (Ach.) Ach. 
 
@@ -4478,11 +16445,20 @@
 
 ### Species Peltigera britannica (Gyeln.) Holt.-Hartw. & Tønsberg 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9051>.
+
 ### Species Peltigera canina 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9052>.
 
 ### Species Peltigera collina (Ach.) Schrad. 
 
 ### Species Peltigera degenii Gyeln. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9053>.
 
 ### Species Peltigera didactyla (Nyl. ex Vain.) Goffinet & Hastings 
 
@@ -4492,6 +16468,9 @@
 
 ### Species Peltigera malacea (Ach.) Funck 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9055>.
+
 ### Species Peltigera membranacea (Ach.) Nyl. 
 
 ### Species Peltigera neckeri Hepp 
@@ -4500,7 +16479,13 @@
 
 ### Species Peltigera polydactylon 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9057>.
+
 ### Species Peltigera ponojensis Gyeln. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9058>.
 
 ### Species Peltigera praetextata (Flörke ex Sommerf.) Zopf 
 
@@ -4510,6 +16495,9 @@
 
 ### Species Peltigera scabrosa Th. Fr. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9059>.
+
 ### Order Pertusariales 
 
 ### Family Icmadophilaceae 
@@ -4517,6 +16505,10 @@
 ### Genus Thamnolia 
 
 ### Species Thamnolia vermicularis (Sw.) Ach. ex Schaer. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8849>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9089>.
 
 ### Family Pertusariaceae 
 
@@ -4560,6 +16552,9 @@
 
 ### Species Calicium viride 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:12016>.
+
 ### Family Physciaceae 
 
 ### Genus Buellia 
@@ -4574,6 +16569,9 @@
 
 ### Species Heterodermia speciosa (Wulfen) Trevis. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9017>.
+
 ### Genus Phaeophyscia 
 
 ### Species Phaeophyscia endococcinodes 
@@ -4582,7 +16580,13 @@
 
 ### Species Physcia adscendens (Th. Fr.) H. Olivier 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9061>.
+
 ### Species Physcia aipolia (Ehrh. ex Humb.) Fürnr. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9072>.
 
 ### Species Physcia caesia (Hoffm.) Fürnr. 
 
@@ -4593,6 +16597,9 @@
 ### Genus Rinodina 
 
 ### Species Rinodina degeliana 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:12299>.
 
 ### Species Rinodina efflorescens Malme 
 
@@ -4608,6 +16615,9 @@
 
 ### Species Caloplaca holocarpa (Hoffm.) A.E. Wade 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9007>.
+
 ### Species Caloplaca nivalis (Körb.) Th. Fr. 
 
 ### Species Caloplaca tetraspora (Nyl.) H. Olivier 
@@ -4616,7 +16626,14 @@
 
 ### Species Xanthoria candelaria 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9102>.
+
 ### Species Xanthoria elegans (Link) Th. Fr. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:9104>, 
+<http://arctos.database.museum/guid/KNWR:Herb:9105>.
 
 ### Species Xanthoria polycarpa (Hoffm.) Rieber 
 
@@ -4628,13 +16645,28 @@
 
 ### Species Umbilicaria caroliniana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9093>.
+
 ### Species Umbilicaria deusta 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9095>.
 
 ### Species Umbilicaria hyperborea 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9096>.
+
 ### Species Umbilicaria proboscidea 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9099>.
+
 ### Species Umbilicaria torrefacta 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:9100>.
 
 ### Species Umbillicaria hyperborea (Ach.) Hoffm. 
 
@@ -4648,6 +16680,9 @@
 
 ### Species Cudonia circinans 
 
+Reference: 
+<https://www.inaturalist.org/observations/9523714>.
+
 ### Class Pezizomycetes 
 
 ### Order Pezizales 
@@ -4657,6 +16692,11 @@
 ### Genus Gyromitra 
 
 ### Species Gyromitra infula 
+
+References: 
+<https://www.inaturalist.org/observations/16948769>, 
+<https://www.inaturalist.org/observations/18726085>, 
+<https://www.inaturalist.org/observations/8215463>.
 
 ### Phylum Basidiomycota 
 
@@ -4670,11 +16710,17 @@
 
 ### Species Calvatia booniana 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:7334>.
+
 ### Family Amanitaceae 
 
 ### Genus Amanita 
 
 ### Species Amanita muscaria 
+
+Reference: 
+<https://www.inaturalist.org/observations/877727>.
 
 ### Family Cortinariaceae 
 
@@ -4682,13 +16728,22 @@
 
 ### Species Cortinarius caperatus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8949>.
+
 ### Species Cortinarius lucorum (Fr.) Berger, 1846 
+
+Reference: 
+<https://www.inaturalist.org/observations/31183152>.
 
 ### Family Tricholomataceae 
 
 ### Genus Leucopaxillus 
 
 ### Species <em>Leucopaxillus</em> <em>gentianeus</em> (Quélet) Kotlaba 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10340>.
 
 ### Order Boletales 
 
@@ -4698,15 +16753,24 @@
 
 ### Species Chalciporus piperatus 
 
+Reference: 
+<https://www.inaturalist.org/observations/868967>.
+
 ### Genus Leccinum 
 
 ### Species Leccinum holopus 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8955>.
 
 ### Family Hygrophoropsidaceae 
 
 ### Genus Hygrophoropsis 
 
 ### Species Hygrophoropsis aurantiaca 
+
+Reference: 
+<https://www.inaturalist.org/observations/33449595>.
 
 ### Order Cantharellales 
 
@@ -4716,6 +16780,9 @@
 
 ### Species Craterellus lutescens (Fr.) Fr. 
 
+Reference: 
+<https://www.inaturalist.org/observations/17942629>.
+
 ### Order Hymenochaetales 
 
 ### Family Hymenochaetaceae 
@@ -4724,13 +16791,22 @@
 
 ### Species Inonotus obliquus (Ach. ex Pers.) Pilát 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8832>.
+
 ### Genus Onnia 
 
 ### Species Onnia tomentosa (Fr.) P. Karst. 
 
+Reference: 
+<https://www.inaturalist.org/observations/30460056>.
+
 ### Genus Phellinus 
 
 ### Species Phellinus igniarius 
+
+Reference: 
+<https://www.inaturalist.org/observations/10454240>.
 
 ### Order Russulales 
 
@@ -4740,11 +16816,17 @@
 
 ### Species Hericium coralloides 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8979>.
+
 ### Family Russulaceae 
 
 ### Genus Russula 
 
 ### Species Russula xerampelina 
+
+Reference: 
+<https://www.inaturalist.org/observations/871319>.
 
 ### Order Thelephorales 
 
@@ -4753,6 +16835,9 @@
 ### Genus Hydnellum 
 
 ### Species Hydnellum peckii 
+
+Reference: 
+<https://www.inaturalist.org/observations/211126>.
 
 ### Class Dacrymycetes 
 
@@ -4764,6 +16849,9 @@
 
 ### Species Dacrymyces chrysospermus 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10336>.
+
 ### Class Pucciniomycetes 
 
 ### Order Pucciniales 
@@ -4773,6 +16861,9 @@
 ### Genus Chrysomyxa 
 
 ### Species Chrysomyxa arctostaphyli 
+
+Reference: 
+<https://www.inaturalist.org/observations/6413791>.
 
 ### Phylum Myxomycota 
 
@@ -4785,6 +16876,9 @@
 ### Genus Mucilago 
 
 ### Species Mucilago crustacea F.H. Wigg. 
+
+Reference: 
+<http://www.inaturalist.org/observations/871014>.
 
 ### Kingdom Plantae 
 
@@ -4837,6 +16931,9 @@
 ### Species Cinclidium stygium Sw. in Schrad. 
 
 ### Species Cinclidium subrotundum Lindb. 
+
+Reference: 
+<http://www.ncbi.nlm.nih.gov/nuccore/JX843230.1>.
 
 ### Genus Mnium 
 
@@ -5178,6 +17275,9 @@
 
 ### Species Meesia longiseta Hedw. 
 
+Reference: 
+<http://www.ncbi.nlm.nih.gov/nuccore/KC333337.1>.
+
 ### Species Meesia uliginosa Hedw. 
 
 ### Genus Paludella 
@@ -5189,6 +17289,9 @@
 ### Genus Splachnum 
 
 ### Species Splachnum sphaericum Hedw. 
+
+Reference: 
+<http://www.inaturalist.org/observations/806448>.
 
 ### Genus Tetraplodon 
 
@@ -5296,6 +17399,9 @@
 
 ### Species Enteromorpha intestinalis (Linnaeus) Link 
 
+Reference: 
+<http://www.inaturalist.org/observations/6612361>.
+
 ### Phylum Marchantiophyta 
 
 ### Class Jungermanniopsida 
@@ -5349,6 +17455,9 @@
 ### Genus Tetralophozia 
 
 ### Species Tetralophozia setiformis (Ehrh.) Schljakov 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=461062>.
 
 ### Family Blepharostomataceae 
 
@@ -5492,7 +17601,15 @@
 
 ### Species Isoetes echinospora Durieu 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:4657>, 
+<http://arctos.database.museum/guid/UAM:Herb:5391>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Isoetes maritima Underw. 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:4655>.
 
 ### Order Lycopodiales 
 
@@ -5502,11 +17619,17 @@
 
 ### Species Lycopodium alpinum L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1459>.
+
 ### Species Lycopodium annotinum L. 
 
 ### Species Lycopodium clavatum L. 
 
 ### Species Lycopodium complanatum L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/1290853>.
 
 ### Species Lycopodium lagopus (Laest. ex Hartm.) G. Zinserl. ex Kuzen. 
 
@@ -5520,17 +17643,34 @@
 
 ### Species Sagittaria cuneata E. Sheld. 
 
+Reference: 
+<https://www.inaturalist.org/observations/33451572>.
+
 ### Family Araceae 
 
 ### Genus Calla 
 
 ### Species Calla palustris L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10420>, 
+<http://arctos.database.museum/guid/UAM:Herb:20778>, 
+<http://arctos.database.museum/guid/UAM:Herb:57373>, 
+<http://www.inaturalist.org/observations/6903326>.
+
 ### Genus Lemna 
 
 ### Species Lemna minor L. 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:20823>, 
+<http://www.inaturalist.org/observations/6903405>.
+
 ### Species Lemna trisulca L. 
+
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:20824>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Family Juncaginaceae 
 
@@ -5540,25 +17680,53 @@
 
 ### Species Triglochin palustris L. 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:25616>.
+
 ### Family Potamogetonaceae 
 
 ### Genus Potamogeton 
 
 ### Species Potamogeton gramineus L. 
 
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Potamogeton natans L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:7021>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Potamogeton obtusifolius Mert. & W.D.J. Koch 
+
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Species Potamogeton praelongus Wulfen 
 
 ### Species Potamogeton pusillus L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:7015>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Potamogeton richardsonii (A. Benn.) Rydb. 
+
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Species Potamogeton robbinsii Oakes 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10395>, 
+<http://arctos.database.museum/guid/KNWR:Herb:7020>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Potamogeton zosteriformis Fernald 
+
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Genus Stuckenia 
 
@@ -5594,19 +17762,31 @@
 
 ### Species Cicuta douglasii (DC.) J.M. Coult. & Rose 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:21623>.
+
 ### Species Cicuta virosa L. 
 
 ### Genus Conioselinum 
 
 ### Species Conioselinum chinense (L.) Britton, Sterns & Poggenb. 
 
+Reference: 
+<http://www.inaturalist.org/observations/6613441>.
+
 ### Genus Heracleum 
 
 ### Species Heracleum sphondylium L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/114270>.
+
 ### Genus Ligusticum 
 
 ### Species Ligusticum scoticum L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/6614061>.
 
 ### Genus Osmorhiza 
 
@@ -5618,6 +17798,9 @@
 
 ### Species Oplopanax horridus (Sm.) Miq. 
 
+Reference: 
+<http://www.inaturalist.org/observations/115156>.
+
 ### Order Asparagales 
 
 ### Family Amaryllidaceae 
@@ -5625,6 +17808,10 @@
 ### Genus Allium 
 
 ### Species Allium schoenoprasum L. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1470>, 
+<http://arctos.database.museum/guid/KNWR:Herb:666>.
 
 ### Family Asparagaceae 
 
@@ -5638,19 +17825,32 @@
 
 ### Species Iris setosa Pall. ex Link 
 
+Reference: 
+<http://www.inaturalist.org/observations/1755002>.
+
 ### Family Orchidaceae 
 
 ### Genus Goodyera 
 
 ### Species Goodyera repens (L.) R. Br. 
 
+Reference: 
+<http://www.inaturalist.org/observations/877795>.
+
 ### Genus Malaxis 
 
 ### Species Malaxis paludosa (L.) Sw. 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:20834>, 
+<http://www.inaturalist.org/observations/849755>.
+
 ### Genus Neottia 
 
 ### Species Neottia cordata (L.) Rich. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWRObs:Herb:105>.
 
 ### Genus Platanthera 
 
@@ -5662,6 +17862,9 @@
 
 ### Species Spiranthes romanzoffiana Cham. 
 
+Reference: 
+<http://www.inaturalist.org/observations/1754992>.
+
 ### Order Asterales 
 
 ### Family Asteraceae 
@@ -5670,13 +17873,23 @@
 
 ### Species Achillea millefolium L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:735>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8937>.
+
 ### Species Achillea ptarmica L. 
 
 ### Genus Antennaria 
 
 ### Species Antennaria alpina (L.) Gaertn. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:734>.
+
 ### Species Antennaria monocephala DC. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:733>.
 
 ### Genus Arnica 
 
@@ -5684,15 +17897,25 @@
 
 ### Species Arnica latifolia Bong. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10379>, 
+<http://www.inaturalist.org/observations/114285>.
+
 ### Species Arnica lessingii Greene 
 
 ### Genus Artemisia 
 
 ### Species Artemisia tilesii Ledeb. 
 
+Reference: 
+<https://www.inaturalist.org/observations/2138363>.
+
 ### Genus Centaurea 
 
 ### Species Centaurea cyanus L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/4051562>.
 
 ### Genus Chrysanthemum 
 
@@ -5706,6 +17929,9 @@
 
 ### Species Cosmos bipinnatus Cav. 
 
+Reference: 
+<http://www.inaturalist.org/observations/4051570>.
+
 ### Genus Crepis 
 
 ### Species Crepis tectorum L. 
@@ -5716,13 +17942,22 @@
 
 ### Species Erigeron compositus Pursh 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10344>.
+
 ### Species Erigeron humilis Graham 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:732>.
 
 ### Species Erigeron peregrinus (Banks ex Pursh) Greene 
 
 ### Genus Eurybia 
 
 ### Species Eurybia sibirica (L.) G.L. Nesom 
+
+Reference: 
+<http://www.inaturalist.org/observations/114298>.
 
 ### Genus Helianthus 
 
@@ -5742,9 +17977,15 @@
 
 ### Species Leontodon autumnalis L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/3893773>.
+
 ### Genus Leucanthemum 
 
 ### Species Leucanthemum maximum (Ramond) DC. 
+
+Reference: 
+<http://www.inaturalist.org/observations/8157380>.
 
 ### Species Leucanthemum vulgare Lam. 
 
@@ -5752,11 +17993,21 @@
 
 ### Species Matricaria discoidea DC. 
 
+References: 
+<http://www.inaturalist.org/observations/1790237>, 
+<http://www.inaturalist.org/observations/1831944>, 
+<http://www.inaturalist.org/observations/1832182>.
+
 ### Genus Packera 
 
 ### Species Packera cymbalaria (Pursh) W.A. Weber & Á. Löve 
 
 ### Species Packera indecora (Greene) Á. Löve & D. Löve 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10532>, 
+<http://arctos.database.museum/guid/UAM:Herb:30724>, 
+<http://arctos.database.museum/guid/UAM:Herb:68187>.
 
 ### Genus Petasites 
 
@@ -5766,6 +18017,9 @@
 
 ### Species Psilocarphus elatior (A. Gray) A. Gray 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10560>.
+
 ### Genus Senecio 
 
 ### Species Senecio integerrimus Nutt. 
@@ -5774,6 +18028,9 @@
 
 ### Species Senecio triangularis Hook. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:736>.
+
 ### Species Senecio vulgaris L. 
 
 ### Genus Solidago 
@@ -5781,6 +18038,13 @@
 ### Species Solidago canadensis L. 
 
 ### Species Solidago multiradiata Aiton 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:731>, 
+<http://www.inaturalist.org/observations/114283>, 
+<http://www.inaturalist.org/observations/114306>, 
+<http://www.inaturalist.org/observations/1788061>, 
+<http://www.inaturalist.org/observations/1790221>.
 
 ### Genus Sonchus 
 
@@ -5794,11 +18058,35 @@
 
 ### Species Taraxacum ceratophorum (Ledeb.) DC. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10448>, 
+<http://arctos.database.museum/guid/KNWR:Herb:10500>, 
+<http://arctos.database.museum/guid/KNWR:Herb:573>, 
+<http://arctos.database.museum/guid/KNWR:Herb:6337>, 
+<http://arctos.database.museum/guid/KNWR:Herb:7169>, 
+<http://www.inaturalist.org/observations/4049494>, 
+<http://www.inaturalist.org/observations/4049913>.
+
 ### Species Taraxacum erythrospermum Andrz. ex Besser 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:6664>.
 
 ### Species Taraxacum officinale F.H. Wigg. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:726>, 
+<http://www.inaturalist.org/observations/1583675>, 
+<http://www.inaturalist.org/observations/1789894>, 
+<http://www.inaturalist.org/observations/1789907>, 
+<http://www.inaturalist.org/observations/1831920>, 
+<http://www.inaturalist.org/observations/1831981>, 
+<http://www.inaturalist.org/observations/1831993>.
+
 ### Species Taraxacum phymatocarpum J. Vahl 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:738>.
 
 ### Genus Tripleurospermum 
 
@@ -5812,11 +18100,18 @@
 
 ### Species Campanula rotundifolia L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10347>, 
+<http://www.inaturalist.org/observations/1334105>.
+
 ### Family Menyanthaceae 
 
 ### Genus Menyanthes 
 
 ### Species Menyanthes trifoliata L. 
+
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Order Boraginales 
 
@@ -5838,6 +18133,11 @@
 
 ### Species Myosotis asiatica (Vestergr.) Schischk. & Serg. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10371>, 
+<http://arctos.database.museum/guid/KNWR:Herb:742>, 
+<http://arctos.database.museum/guid/KNWR:Herb:743>.
+
 ### Genus Symphytum 
 
 ### Species Symphytum officinale L. 
@@ -5848,6 +18148,9 @@
 
 ### Species Nemophila menziesii Hook. & Arn. 
 
+Reference: 
+<http://www.inaturalist.org/observations/4055531>.
+
 ### Order Brassicales 
 
 ### Family Brassicaceae 
@@ -5855,6 +18158,10 @@
 ### Genus Arabis 
 
 ### Species Arabis hirsuta (L.) Scop. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1467>, 
+<http://arctos.database.museum/guid/KNWR:Herb:687>.
 
 ### Genus Barbarea 
 
@@ -5876,23 +18183,39 @@
 
 ### Species Cardamine umbellata Greene 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:681>.
+
 ### Genus Draba 
 
 ### Species Draba borealis DC. 
 
 ### Species Draba incerta Payson 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10366>.
+
 ### Species Draba juvenilis Kom. 
 
 ### Species Draba nivalis Lilj. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10345>, 
+<http://arctos.database.museum/guid/KNWR:Herb:10368>.
+
 ### Species Draba stenoloba Ledeb. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:683>.
 
 ### Genus Erysimum 
 
 ### Species Erysimum cheiranthoides L. 
 
 ### Species Erysimum X marshallii (Henfr.) Bois 
+
+Reference: 
+<http://www.inaturalist.org/observations/4050320>.
 
 ### Genus Lepidium 
 
@@ -5928,6 +18251,10 @@
 
 ### Species Chenopodium album L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8868>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8869>.
+
 ### Species Chenopodium berlandieri Moq. 
 
 ### Genus Salicornia 
@@ -5940,7 +18267,13 @@
 
 ### Species Cerastium arvense L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10346>.
+
 ### Species Cerastium beeringianum Cham. & Schltdl. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10349>.
 
 ### Species Cerastium fischerianum Ser. 
 
@@ -5952,9 +18285,15 @@
 
 ### Species Dianthus repens Willd. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:673>.
+
 ### Genus Gypsophila 
 
 ### Species Gypsophila elegans M. Bieb. 
+
+Reference: 
+<http://www.inaturalist.org/observations/4051613>.
 
 ### Genus Minuartia 
 
@@ -5964,15 +18303,28 @@
 
 ### Species Minuartia rubella (Wahlenb.) Hiern 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:670>.
+
 ### Genus Moehringia 
 
 ### Species Moehringia lateriflora (L.) Fenzl 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:671>.
 
 ### Genus Silene 
 
 ### Species Silene acaulis (L.) Jacq. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10369>, 
+<http://arctos.database.museum/guid/KNWR:Herb:672>.
+
 ### Species Silene armeria L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/4051463>.
 
 ### Species Silene latifolia Poir. 
 
@@ -5992,11 +18344,21 @@
 
 ### Species Stellaria crispa Cham. & Schltdl. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:668>.
+
 ### Species Stellaria humifusa Rottb. 
 
 ### Species Stellaria longipes Goldie 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:669>.
+
 ### Species Stellaria media (L.) Vill. 
+
+References: 
+<http://www.inaturalist.org/observations/1788034>, 
+<http://www.inaturalist.org/observations/1789896>.
 
 ### Family Droseraceae 
 
@@ -6004,7 +18366,13 @@
 
 ### Species Drosera anglica Huds. 
 
+Reference: 
+<http://www.inaturalist.org/observations/115164>.
+
 ### Species Drosera rotundifolia L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:688>.
 
 ### Family Montiaceae 
 
@@ -6012,11 +18380,17 @@
 
 ### Species Claytonia sarmentosa C.A. Mey. 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:57303>.
+
 ### Family Polygonaceae 
 
 ### Genus Bistorta 
 
 ### Species Bistorta vivipara (L.) Gray 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10363>.
 
 ### Genus Fallopia 
 
@@ -6030,7 +18404,15 @@
 
 ### Species Persicaria amphibia (L.) Delarbre 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10404>, 
+<http://arctos.database.museum/guid/UAM:Herb:57364>, 
+<http://www.inaturalist.org/observations/117218>.
+
 ### Species Persicaria maculosa Gray 
+
+Reference: 
+<http://www.inaturalist.org/observations/1639207>.
 
 ### Genus Polygonum 
 
@@ -6044,9 +18426,18 @@
 
 ### Species Rumex crispus L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:6752>.
+
 ### Species Rumex longifolius DC. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:6751>.
+
 ### Species Rumex occidentalis S. Watson 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10491>.
 
 ### Order Celastrales 
 
@@ -6066,6 +18457,9 @@
 
 ### Species Cornus suecica L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:718>.
+
 ### Order Dipsacales 
 
 ### Family Adoxaceae 
@@ -6074,9 +18468,15 @@
 
 ### Species Adoxa moschatellina L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/3467705>.
+
 ### Genus Sambucus 
 
 ### Species Sambucus racemosa L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/114305>.
 
 ### Genus Viburnum 
 
@@ -6090,13 +18490,22 @@
 
 ### Species Linnaea borealis L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/114278>.
+
 ### Family Valerianaceae 
 
 ### Genus Valeriana 
 
 ### Species Valeriana capitata Pall. ex Link 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:730>.
+
 ### Species Valeriana sitchensis Bong. 
+
+Reference: 
+<http://www.inaturalist.org/observations/114297>.
 
 ### Order Ericales 
 
@@ -6105,6 +18514,9 @@
 ### Genus Impatiens 
 
 ### Species Impatiens noli-tangere L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/3893699>.
 
 ### Family Diapensiaceae 
 
@@ -6118,13 +18530,23 @@
 
 ### Species Andromeda polifolia L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:722>, 
+<http://www.inaturalist.org/observations/1790134>.
+
 ### Genus Arctostaphylos 
 
 ### Species Arctostaphylos uva-ursi (L.) Spreng. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:723>.
+
 ### Genus Arctous 
 
 ### Species Arctous alpina (L.) Nied. 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:57313>.
 
 ### Species Arctous rubra (Rehder & Wilson) Nakai 
 
@@ -6142,11 +18564,18 @@
 
 ### Species Empetrum nigrum L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:720>.
+
 ### Genus Harrimanella 
 
 ### Species Harrimanella hypnoides (L.) Coville 
 
 ### Species Harrimanella stelleriana (Pall.) Coville 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10357>, 
+<http://www.inaturalist.org/observations/114293>.
 
 ### Genus Menziesia 
 
@@ -6184,13 +18613,28 @@
 
 ### Species Vaccinium cespitosum Michx. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11451>.
+
 ### Species Vaccinium ovalifolium Sm. 
 
 ### Species Vaccinium oxycoccos L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/1371259>.
+
 ### Species Vaccinium uliginosum L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10359>, 
+<http://arctos.database.museum/guid/KNWR:Herb:724>, 
+<http://arctos.database.museum/guid/KNWR:Herb:725>, 
+<http://www.inaturalist.org/observations/115168>.
+
 ### Species Vaccinium vitis-idaea L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/1341671>.
 
 ### Family Polemoniaceae 
 
@@ -6198,15 +18642,24 @@
 
 ### Species Polemonium boreale Adams 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:740>.
+
 ### Species Polemonium caeruleum L. 
 
 ### Species Polemonium pulcherrimum Hook. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:741>.
 
 ### Family Primulaceae 
 
 ### Genus Androsace 
 
 ### Species Androsace alaskana Coville & Standl. ex Hultén 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10365>.
 
 ### Genus Primula 
 
@@ -6224,9 +18677,18 @@
 
 ### Species Astragalus alpinus L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:708>, 
+<http://arctos.database.museum/guid/UAM:Herb:57283>, 
+<http://arctos.database.museum/guid/UAM:Herb:57396>, 
+<http://arctos.database.museum/guid/UAM:Herb:57399>.
+
 ### Species Astragalus polaris (Seem.) Benth. ex Hook. f. 
 
 ### Species Astragalus umbellatus Bunge 
+
+Reference: 
+<http://www.inaturalist.org/observations/7024765>.
 
 ### Genus Cytisus 
 
@@ -6242,9 +18704,17 @@
 
 ### Species Lathyrus palustris L. 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:57285>, 
+<http://arctos.database.museum/guid/UAM:Herb:57393>, 
+<http://www.inaturalist.org/observations/6903340>.
+
 ### Genus Lotus 
 
 ### Species Lotus corniculatus L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/15434464>.
 
 ### Genus Lupinus 
 
@@ -6258,9 +18728,15 @@
 
 ### Species Medicago lupulina L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/6932716>.
+
 ### Genus Melilotus 
 
 ### Species Melilotus alba Medik. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10744>.
 
 ### Species Melilotus officinalis (L.) Lam. 
 
@@ -6268,7 +18744,15 @@
 
 ### Species Oxytropis campestris (L.) DC. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:709>, 
+<http://arctos.database.museum/guid/KNWR:Herb:710>, 
+<http://arctos.database.museum/guid/KNWR:Herb:711>.
+
 ### Species Oxytropis nigrescens (Pall.) Fisch. ex DC. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10351>.
 
 ### Species Oxytropis splendens Douglas ex Hook. 
 
@@ -6278,7 +18762,13 @@
 
 ### Species Trifolium pratense L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/1819748>.
+
 ### Species Trifolium repens L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/1789891>.
 
 ### Genus Vicia 
 
@@ -6294,9 +18784,21 @@
 
 ### Species Betula kenaica W.H. Evans 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:57444>.
+
 ### Species Betula nana L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:664>, 
+<http://www.inaturalist.org/observations/1787819>.
+
 ### Species Betula neoalaskana Sarg. 
+
+References: 
+<http://www.inaturalist.org/observations/6153789>, 
+<http://www.inaturalist.org/observations/6413787>, 
+<http://www.inaturalist.org/observations/6826733>.
 
 ### Species Betula pendula Roth 
 
@@ -6314,7 +18816,14 @@
 
 ### Species Gentiana douglasiana Bong. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:589>, 
+<http://arctos.database.museum/guid/KNWR:Herb:626>.
+
 ### Species Gentiana glauca Pall. 
+
+Reference: 
+<http://www.inaturalist.org/observations/114290>.
 
 ### Genus Gentianella 
 
@@ -6324,11 +18833,17 @@
 
 ### Species Swertia perennis L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/799853>.
+
 ### Family Rubiaceae 
 
 ### Genus Galium 
 
 ### Species Galium boreale L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:747>.
 
 ### Species Galium trifidum L. 
 
@@ -6341,6 +18856,10 @@
 ### Genus Geranium 
 
 ### Species Geranium erianthum DC. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:712>, 
+<http://www.inaturalist.org/observations/114296>.
 
 ### Order Lamiales 
 
@@ -6358,13 +18877,26 @@
 
 ### Species Pinguicula villosa L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10403>.
+
 ### Species Pinguicula vulgaris L. 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:57312>.
 
 ### Genus Utricularia 
 
 ### Species Utricularia intermedia Hayne 
 
+References: 
+<http://www.inaturalist.org/observations/1620785>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Utricularia vulgaris L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/1616552>.
 
 ### Family Orobanchaceae 
 
@@ -6372,13 +18904,25 @@
 
 ### Species Boschniakia rossica (Cham. & Schltdl.) B. Fedtsch. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10339>, 
+<http://www.inaturalist.org/observations/799867>.
+
 ### Genus Castilleja 
 
 ### Species Castilleja unalaschcensis (Cham. & Schltdl.) Malte 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:744>, 
+<http://www.inaturalist.org/observations/114295>, 
+<http://www.inaturalist.org/observations/114304>.
+
 ### Genus Euphrasia 
 
 ### Species Euphrasia mollis (Ledeb.) Wettst. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:8829>.
 
 ### Genus Pedicularis 
 
@@ -6388,21 +18932,38 @@
 
 ### Species Pedicularis lanata Cham. & Schltdl. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10342>.
+
 ### Species Pedicularis macrodonta Richardson 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:610>, 
+<http://arctos.database.museum/guid/KNWR:Herb:653>.
 
 ### Species Pedicularis parviflora Sm. 
 
 ### Species Pedicularis verticillata L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:745>, 
+<http://www.inaturalist.org/observations/114300>.
+
 ### Genus Rhinanthus 
 
 ### Species Rhinanthus minor L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/114303>.
 
 ### Family Phrymaceae 
 
 ### Genus Mimulus 
 
 ### Species Mimulus guttatus DC. 
+
+Reference: 
+<http://www.inaturalist.org/observations/799839>.
 
 ### Family Plantaginaceae 
 
@@ -6414,7 +18975,14 @@
 
 ### Species Hippuris tetraphylla L. f. 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:25530>, 
+<http://arctos.database.museum/guid/UAM:Herb:58238>.
+
 ### Species Hippuris vulgaris L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/799863>.
 
 ### Genus Linaria 
 
@@ -6424,11 +18992,19 @@
 
 ### Species Plantago major L. 
 
+References: 
+<http://www.inaturalist.org/observations/1790240>, 
+<http://www.inaturalist.org/observations/1832158>.
+
 ### Species Plantago maritima L. 
 
 ### Genus Veronica 
 
 ### Species Veronica americana Schwein. ex Benth. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:613>, 
+<http://arctos.database.museum/guid/KNWR:Herb:650>.
 
 ### Species Veronica wormskjoldii Roem. & Schult. 
 
@@ -6439,6 +19015,10 @@
 ### Genus Fritillaria 
 
 ### Species Fritillaria camschatcensis (L.) Ker Gawl. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1472>, 
+<http://www.inaturalist.org/observations/1780052>.
 
 ### Genus Lloydia 
 
@@ -6458,6 +19038,9 @@
 
 ### Species Veratrum viride Aiton 
 
+Reference: 
+<http://www.inaturalist.org/observations/114302>.
+
 ### Order Malpighiales 
 
 ### Family Linaceae 
@@ -6465,6 +19048,9 @@
 ### Genus Linum 
 
 ### Species Linum grandiflorum Desf. 
+
+Reference: 
+<http://www.inaturalist.org/observations/4050351>.
 
 ### Species Linum perenne L. 
 
@@ -6474,15 +19060,32 @@
 
 ### Species Populus tremuloides Michx. 
 
+Reference: 
+<http://www.inaturalist.org/observations/117206>.
+
 ### Species Populus trichocarpa Torr. & A. Gray ex Hook. 
 
 ### Genus Salix 
 
 ### Species Salix alaxensis (Andersson) Coville 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:630>, 
+<http://arctos.database.museum/guid/KNWR:Herb:649>.
+
 ### Species Salix arctica Liebm. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11213>.
+
 ### Species Salix barclayi Andersson 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:586>, 
+<http://arctos.database.museum/guid/KNWR:Herb:618>, 
+<http://arctos.database.museum/guid/KNWR:Herb:634>, 
+<http://arctos.database.museum/guid/KNWR:Herb:635>, 
+<http://arctos.database.museum/guid/KNWR:Herb:646>.
 
 ### Species Salix bebbiana Sarg. 
 
@@ -6491,6 +19094,13 @@
 ### Species Salix fuscescens Andersson 
 
 ### Species Salix glauca L. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:587>, 
+<http://arctos.database.museum/guid/KNWR:Herb:616>, 
+<http://arctos.database.museum/guid/KNWR:Herb:617>, 
+<http://arctos.database.museum/guid/KNWR:Herb:644>, 
+<http://arctos.database.museum/guid/KNWR:Herb:645>.
 
 ### Species Salix lasiandra Benth. 
 
@@ -6502,11 +19112,29 @@
 
 ### Species Salix pulchra Cham. 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:20860>.
+
 ### Species Salix reticulata L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10343>.
 
 ### Species Salix scouleriana Barratt ex Hook. 
 
 ### Species Salix sitchensis Sanson ex Bong. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:8745>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8751>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8759>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8761>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8784>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8785>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8786>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8787>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8788>, 
+<http://arctos.database.museum/guid/KNWR:Herb:8789>.
 
 ### Species Salix stolonifera Coville 
 
@@ -6520,7 +19148,13 @@
 
 ### Species Viola glabella Nutt. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:713>.
+
 ### Species Viola langsdorffii Fisch. ex Ging. 
+
+Reference: 
+<https://www.inaturalist.org/observations/13564250>.
 
 ### Species Viola renifolia A. Gray 
 
@@ -6534,7 +19168,14 @@
 
 ### Species Chamerion angustifolium (L.) Holub 
 
+Reference: 
+<http://www.inaturalist.org/observations/1790157>.
+
 ### Species Chamerion latifolium (L.) Holub 
+
+References: 
+<http://www.inaturalist.org/observations/1790218>, 
+<http://www.inaturalist.org/observations/799865>.
 
 ### Genus Circaea 
 
@@ -6548,9 +19189,15 @@
 
 ### Species Epilobium hornemannii Rchb. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:717>.
+
 ### Species Epilobium lactiflorum Hausskn. 
 
 ### Species Epilobium palustre L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:716>.
 
 ### Order Nymphaeales 
 
@@ -6560,9 +19207,15 @@
 
 ### Species Nuphar lutea (L.) Sm. 
 
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Genus Nymphaea 
 
 ### Species Nymphaea tetragona Georgi 
+
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Order Poales 
 
@@ -6571,6 +19224,11 @@
 ### Genus Carex 
 
 ### Species Carex aquatilis Wahlenb. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:593>, 
+<http://arctos.database.museum/guid/KNWR:Herb:624>, 
+<http://arctos.database.museum/guid/KNWR:Herb:642>.
 
 ### Species Carex bigelowii Torr. ex Schwein. 
 
@@ -6581,6 +19239,9 @@
 ### Species Carex chordorrhiza Ehrh. ex L. f. 
 
 ### Species Carex deflexa Hornem. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:641>.
 
 ### Species Carex deweyana Schwein. 
 
@@ -6608,21 +19269,48 @@
 
 ### Species Carex macrochaeta C.A. Mey. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:639>, 
+<http://arctos.database.museum/guid/KNWR:Herb:640>.
+
 ### Species Carex magellanica Lam. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:615>.
 
 ### Species Carex membranacea Hook. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:614>.
+
 ### Species Carex mertensii J.D. Prescott ex Bong. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:591>, 
+<http://arctos.database.museum/guid/KNWR:Herb:627>.
+
 ### Species Carex microchaeta T. Holm 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10362>.
 
 ### Species Carex norvegica Retz. 
 
 ### Species Carex pachystachya Cham. ex Steud. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10658>.
+
 ### Species Carex pauciflora Lightf. 
 
+Reference: 
+<http://www.inaturalist.org/observations/1341675>.
+
 ### Species Carex phaeocephala Piper 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1462>, 
+<http://arctos.database.museum/guid/KNWR:Herb:638>.
 
 ### Species Carex pluriflora Hultén 
 
@@ -6636,7 +19324,14 @@
 
 ### Species Carex rotundata Wahlenb. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:595>, 
+<http://arctos.database.museum/guid/KNWR:Herb:621>.
+
 ### Species Carex saxatilis L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:604>.
 
 ### Species Carex scirpoidea Michx. 
 
@@ -6656,6 +19351,10 @@
 
 ### Species Eriophorum angustifolium Honck. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1473>, 
+<http://arctos.database.museum/guid/KNWR:Herb:636>.
+
 ### Species Eriophorum callitrix Cham. ex C.A. Mey. 
 
 ### Species Eriophorum russeolum Fr. 
@@ -6670,11 +19369,17 @@
 
 ### Species Schoenoplectus acutus (Muhl. ex Bigelow) Á. Löve & D. Löve 
 
+Reference: 
+<https://www.inaturalist.org/observations/15021721>.
+
 ### Species Schoenoplectus tabernaemontani (C.C. Gmel.) Palla 
 
 ### Genus Scirpus 
 
 ### Species Scirpus microcarpus J. Presl & C. Presl 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:6665>.
 
 ### Genus Trichophorum 
 
@@ -6688,11 +19393,22 @@
 
 ### Species Juncus bufonius L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:594>, 
+<http://arctos.database.museum/guid/KNWR:Herb:625>.
+
 ### Species Juncus castaneus Sm. 
 
 ### Species Juncus filiformis L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:609>.
+
 ### Species Juncus mertensianus Bong. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:608>, 
+<http://arctos.database.museum/guid/KNWR:Herb:643>.
 
 ### Species Juncus triglumis L. 
 
@@ -6700,9 +19416,18 @@
 
 ### Species Luzula arcuata (Wahlenb.) Sw. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10348>.
+
 ### Species Luzula multiflora (Ehrh.) Lej. 
 
 ### Species Luzula parviflora (Ehrh.) Desv. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1474>, 
+<http://arctos.database.museum/guid/KNWR:Herb:592>, 
+<http://arctos.database.museum/guid/KNWR:Herb:623>, 
+<http://arctos.database.museum/guid/KNWR:Herb:662>.
 
 ### Species Luzula piperi (Coville) M.E. Jones 
 
@@ -6734,6 +19459,9 @@
 
 ### Species Arctagrostis arundinacea (Trin.) Beal 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11384>.
+
 ### Species Arctagrostis latifolia (R. Br.) Griseb. 
 
 ### Genus Arctophila 
@@ -6756,7 +19484,13 @@
 
 ### Species Calamagrostis lapponica (Wahlenb.) Hartm. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:606>.
+
 ### Species Calamagrostis stricta (Timm) Koeler 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10490>.
 
 ### Genus Dactylis 
 
@@ -6769,6 +19503,9 @@
 ### Genus Deschampsia 
 
 ### Species Deschampsia caespitosa (L.) P. Beauv. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1481>.
 
 ### Genus Elymus 
 
@@ -6790,6 +19527,10 @@
 
 ### Species Festuca brevissima Jurtzev 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10356>, 
+<http://arctos.database.museum/guid/KNWR:Herb:10367>.
+
 ### Species Festuca rubra L. 
 
 ### Species Festuca saximontana Rydb. 
@@ -6801,6 +19542,9 @@
 ### Genus Hordeum 
 
 ### Species Hordeum brachyantherum Nevski 
+
+Reference: 
+<http://www.inaturalist.org/observations/1787876>.
 
 ### Species Hordeum jubatum L. 
 
@@ -6814,6 +19558,9 @@
 
 ### Species Lolium multiflorum Lam. 
 
+Reference: 
+<http://www.inaturalist.org/observations/1819804>.
+
 ### Species Lolium perenne L. 
 
 ### Genus Phalaris 
@@ -6824,11 +19571,21 @@
 
 ### Species Phleum alpinum L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1452>.
+
 ### Species Phleum pratense L. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1451>, 
+<http://www.inaturalist.org/observations/1790250>.
 
 ### Genus Poa 
 
 ### Species Poa alpina L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10612>.
 
 ### Species Poa annua L. 
 
@@ -6837,6 +19594,11 @@
 ### Species Poa compressa L. 
 
 ### Species Poa glauca Vahl 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1447>, 
+<http://arctos.database.museum/guid/KNWR:Herb:1448>, 
+<http://arctos.database.museum/guid/KNWR:Herb:628>.
 
 ### Species Poa macrocalyx Trautv. & C.A. Mey. 
 
@@ -6858,6 +19620,9 @@
 
 ### Species Trisetum spicatum (L.) K. Richt. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1449>.
+
 ### Genus Vahlodea 
 
 ### Species Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm. 
@@ -6866,15 +19631,24 @@
 
 ### Species Zizania palustris L. 
 
+Reference: 
+<https://ecos.fws.gov/ServCat/Reference/Profile/1994>.
+
 ### Family Typhaceae 
 
 ### Genus Sparganium 
 
 ### Species Sparganium angustifolium Michx. 
 
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Species Sparganium hyperboreum Beurl. ex Laest. 
 
 ### Species Sparganium natans L. 
+
+Reference: 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Genus Typha 
 
@@ -6888,23 +19662,42 @@
 
 ### Species Corydalis pauciflora (Stephan) Pers. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:6759>.
+
 ### Species Corydalis sempervirens (L.) Pers. 
+
+References: 
+<http://www.inaturalist.org/observations/1596288>, 
+<http://www.inaturalist.org/observations/1790175>.
 
 ### Genus Eschscholzia 
 
 ### Species Eschscholzia californica Cham. 
 
+Reference: 
+<http://www.inaturalist.org/observations/4050237>.
+
 ### Genus Papaver 
 
 ### Species Papaver alboroseum Hultén 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10350>.
+
 ### Species Papaver nudicaule L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/4050288>.
 
 ### Family Ranunculaceae 
 
 ### Genus Aconitum 
 
 ### Species Aconitum delphiniifolium DC. 
+
+Reference: 
+<http://www.inaturalist.org/observations/23857>.
 
 ### Genus Actaea 
 
@@ -6916,13 +19709,26 @@
 
 ### Species Anemone richardsonii Hook. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:676>, 
+<http://arctos.database.museum/guid/KNWR:Herb:677>, 
+<http://arctos.database.museum/guid/KNWR:Herb:679>.
+
 ### Genus Aquilegia 
 
 ### Species Aquilegia formosa Fisch. ex DC. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:675>, 
+<http://www.inaturalist.org/observations/21157>, 
+<http://www.inaturalist.org/observations/799845>.
+
 ### Genus Caltha 
 
 ### Species Caltha leptosepala DC. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:674>.
 
 ### Species Caltha palustris L. 
 
@@ -6933,6 +19739,9 @@
 ### Genus Delphinium 
 
 ### Species Delphinium glaucum S. Watson 
+
+Reference: 
+<http://www.inaturalist.org/observations/114307>.
 
 ### Genus Ranunculus 
 
@@ -6958,19 +19767,32 @@
 
 ### Species Shepherdia canadensis (L.) Nutt. 
 
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:57346>.
+
 ### Family Rosaceae 
 
 ### Genus Amelanchier 
 
 ### Species Amelanchier alnifolia (Nutt.) Nutt. ex M. Roem. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:700>.
+
 ### Genus Aruncus 
 
 ### Species Aruncus dioicus (Walter) Fernald 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:699>, 
+<http://www.inaturalist.org/observations/6721444>.
+
 ### Genus Comarum 
 
 ### Species Comarum palustre L. 
+
+Reference: 
+<http://www.inaturalist.org/observations/503264>.
 
 ### Genus Dasiphora 
 
@@ -6982,7 +19804,13 @@
 
 ### Species Dryas integrifolia Vahl 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:705>.
+
 ### Species Dryas octopetala L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:10376>.
 
 ### Genus Fragaria 
 
@@ -6994,7 +19822,13 @@
 
 ### Species Geum calthifolium Menzies ex Sm. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:704>.
+
 ### Species Geum macrophyllum Willd. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:754>.
 
 ### Species Geum rossii (R. Br.) Ser. 
 
@@ -7002,9 +19836,16 @@
 
 ### Species Luetkea pectinata (Pursh) Kuntze 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:698>, 
+<http://www.inaturalist.org/observations/114294>.
+
 ### Genus Potentilla 
 
 ### Species Potentilla anserina L. 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:28489>.
 
 ### Species Potentilla furcata A.E. Porsild 
 
@@ -7020,11 +19861,24 @@
 
 ### Species Potentilla vahliana Lehm. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:751>.
+
 ### Species Potentilla villosa Pall. ex Pursh 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10355>, 
+<http://arctos.database.museum/guid/KNWR:Herb:748>, 
+<http://arctos.database.museum/guid/KNWR:Herb:749>, 
+<http://arctos.database.museum/guid/KNWR:Herb:750>.
 
 ### Genus Rosa 
 
 ### Species Rosa acicularis Lindl. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:706>, 
+<http://www.inaturalist.org/observations/125340>.
 
 ### Species Rosa nutkana C. Presl 
 
@@ -7032,21 +19886,40 @@
 
 ### Species Rubus arcticus L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:702>.
+
 ### Species Rubus chamaemorus L. 
+
+References: 
+<http://www.inaturalist.org/observations/1754995>, 
+<http://www.inaturalist.org/observations/1790143>.
 
 ### Species Rubus idaeus L. 
 
 ### Species Rubus pedatus Sm. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:701>.
+
 ### Species Rubus spectabilis Pursh 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:703>.
 
 ### Genus Sanguisorba 
 
 ### Species Sanguisorba canadensis L. 
 
+Reference: 
+<http://www.inaturalist.org/observations/114301>.
+
 ### Genus Sibbaldia 
 
 ### Species Sibbaldia procumbens L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:753>.
 
 ### Genus Sorbaria 
 
@@ -7086,6 +19959,12 @@
 
 ### Species Rhodiola integrifolia Raf. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1464>, 
+<http://arctos.database.museum/guid/KNWR:Herb:1466>, 
+<http://arctos.database.museum/guid/KNWR:Herb:689>, 
+<http://www.inaturalist.org/observations/114277>.
+
 ### Family Grossulariaceae 
 
 ### Genus Ribes 
@@ -7100,6 +19979,10 @@
 
 ### Species Ribes laxiflorum Pursh 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:694>, 
+<http://arctos.database.museum/guid/KNWR:Herb:695>.
+
 ### Species Ribes triste Pall. 
 
 ### Family Haloragaceae 
@@ -7112,15 +19995,26 @@
 
 ### Species Myriophyllum verticillatum L. 
 
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:4658>, 
+<https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
+
 ### Family Saxifragaceae 
 
 ### Genus Chrysosplenium 
 
 ### Species Chrysosplenium tetrandrum Th. Fr. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:693>, 
+<http://www.inaturalist.org/observations/4050176>.
+
 ### Genus Heuchera 
 
 ### Species Heuchera glabra Willd. ex Roem. & Schult. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:692>.
 
 ### Genus Leptarrhena 
 
@@ -7130,9 +20024,22 @@
 
 ### Species Saxifraga bronchialis L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1468>, 
+<http://arctos.database.museum/guid/KNWR:Herb:690>, 
+<http://www.inaturalist.org/observations/114291>.
+
 ### Species Saxifraga oppositifolia L. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10353>, 
+<http://arctos.database.museum/guid/KNWR:Herb:10373>.
+
 ### Species Saxifraga tricuspidata Rottb. 
+
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:10352>, 
+<http://arctos.database.museum/guid/KNWR:Herb:10372>.
 
 ### Genus Tiarella 
 
@@ -7148,6 +20055,9 @@
 
 ### Species Juniperus communis L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1460>.
+
 ### Family Pinaceae 
 
 ### Genus Picea 
@@ -7162,9 +20072,17 @@
 
 ### Species Pinus contorta Douglas ex Loudon 
 
+Reference: 
+<http://www.inaturalist.org/observations/3672943>.
+
 ### Genus Tsuga 
 
 ### Species Tsuga mertensiana (Bong.) Carrière 
+
+References: 
+<http://www.inaturalist.org/observations/114286>, 
+<http://www.inaturalist.org/observations/800013>, 
+<https://pdfs.semanticscholar.org/12ba/260657901785a37579fc1dbf1e4691c33342.pdf>.
 
 ### Class Polypodiopsida 
 
@@ -7176,7 +20094,13 @@
 
 ### Species Equisetum arvense L. 
 
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1455>.
+
 ### Species Equisetum fluviatile L. 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:1454>.
 
 ### Species Equisetum hyemale L. 
 
@@ -7187,6 +20111,10 @@
 ### Species Equisetum sylvaticum L. 
 
 ### Species Equisetum variegatum Schleich. ex F. Weber & D. Mohr 
+
+References: 
+<http://arctos.database.museum/guid/UAM:Herb:57363>, 
+<http://www.inaturalist.org/observations/4049603>.
 
 ### Order Ophioglossales 
 
@@ -7206,6 +20134,10 @@
 
 ### Species Dryopteris expansa (C. Presl) Fraser-Jenk. & Jermy 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1461>, 
+<http://www.inaturalist.org/observations/125365>.
+
 ### Species Dryopteris fragrans (L.) Schott 
 
 ### Genus Polystichum 
@@ -7218,6 +20150,10 @@
 
 ### Species Matteuccia struthiopteris (L.) Tod. 
 
+References: 
+<http://www.inaturalist.org/observations/7524661>, 
+<http://www.inaturalist.org/observations/7524787>.
+
 ### Family Pteridaceae 
 
 ### Genus Cryptogramma 
@@ -7226,11 +20162,18 @@
 
 ### Species Cryptogramma crispa (L.) R. Br. 
 
+References: 
+<http://arctos.database.museum/guid/KNWR:Herb:1457>, 
+<http://arctos.database.museum/guid/KNWR:Herb:1458>.
+
 ### Family Thelypteridaceae 
 
 ### Genus Phegopteris 
 
 ### Species Phegopteris connectilis (Michx.) Watt 
+
+Reference: 
+<http://www.inaturalist.org/observations/1558344>.
 
 ### Family Woodsiaceae 
 
