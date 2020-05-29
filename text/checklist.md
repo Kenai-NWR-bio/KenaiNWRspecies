@@ -54,8 +54,6 @@ Genus Lumbricus
 
 Species Lumbricus rubellus Hoffmeister, 1843 
 
-Genus Lumbricus 
-
 Species Lumbricus terrestris Linnaeus, 1758 
 
 ### Phylum Arthropoda 
@@ -158,11 +156,7 @@ Genus Araneus
 
 Species Araneus corticarius (Emerton, 1884) 
 
-Genus Araneus 
-
 Species Araneus marmoreus Clerck, 1757 
-
-Genus Araneus 
 
 Species Araneus nordmanni (Thorell, 1870) 
 
@@ -184,11 +178,7 @@ Genus Dictyna
 
 Species Dictyna alaskae Chamberlin & Ivie, 1947 
 
-Genus Dictyna 
-
 Species Dictyna arundinacea (Linnaeus, 1758) 
-
-Genus Dictyna 
 
 Species Dictyna major Menge, 1869 
 
@@ -196,11 +186,7 @@ Genus Emblyna
 
 Species Emblyna annulipes (Blackwall, 1846) 
 
-Genus Emblyna 
-
 Species Emblyna chitina (Chamberlin & Gertsch, 1958) 
-
-Genus Emblyna 
 
 Species Emblyna manitoba (Ivie, 1947) 
 
@@ -214,8 +200,6 @@ Genus Ceraticelus
 
 Species Ceraticelus atriceps (O. P.-Cambridge, 1874) 
 
-Genus Ceraticelus 
-
 Species Ceraticelus silus Dondale, 1958 
 
 Genus Ceratinella 
@@ -225,8 +209,6 @@ Species Ceratinella ornatula (Crosby & Bishop, 1925)
 Genus Dismodicus 
 
 Species Dismodicus alticeps Chamberlin & Ivie, 1947 
-
-Genus Dismodicus 
 
 Species Dismodicus modicus Chamberlin & Ivie, 1947 
 
@@ -304,15 +286,9 @@ Genus Pardosa
 
 Species Pardosa albomaculata Emerton, 1885 
 
-Genus Pardosa 
-
 Species Pardosa diuturna Fox, 1937 
 
-Genus Pardosa 
-
 Species Pardosa groenlandica (Thorell, 1872) 
-
-Genus Pardosa 
 
 Species Pardosa xerampelina (Keyserling, 1877) 
 
@@ -347,8 +323,6 @@ Species Evarcha proszynskii Marusik & Logunov, 1998
 Genus Tetragnatha 
 
 Species Tetragnatha extensa (Linnaeus, 1758) 
-
-Genus Tetragnatha 
 
 Species Tetragnatha laboriosa Hentz, 1850 
 
@@ -484,8 +458,6 @@ Genus Dichelotarsus
 
 Species Dichelotarsus laevicollis (Kirby, 1837) 
 
-Genus Dichelotarsus 
-
 Species Dichelotarsus tetragonoderus (Fall, 1926) 
 
 ###### Family Carabidae 
@@ -494,11 +466,7 @@ Genus Amara
 
 Species Amara alpina (Paykull, 1790) 
 
-Genus Amara 
-
 Species Amara brunnea (Gyllenhal, 1810) 
-
-Genus Amara 
 
 Species Amara obesa (Say, 1823) 
 
@@ -510,15 +478,11 @@ Genus Calathus
 
 Species Calathus advena (LeConte, 1846) 
 
-Genus Calathus 
-
 Species Calathus ingratus Dejean, 1828 
 
 Genus Carabus 
 
 Species Carabus chamissonis Fischer von Waldheim, 1820 
-
-Genus Carabus 
 
 Species Carabus taedatus Fabricius, 1787 
 
@@ -542,11 +506,7 @@ Genus Pterostichus
 
 Species Pterostichus adstrictus Eschscholtz, 1823 
 
-Genus Pterostichus 
-
 Species Pterostichus brevicornis (Kirby, 1837) 
-
-Genus Pterostichus 
 
 Species Pterostichus riparius (Dejean, 1828) 
 
@@ -557,8 +517,6 @@ Species Scaphinotus marginatus (Fischer von Waldheim, 1820)
 Genus Sericoda 
 
 Species Sericoda bembidioides Kirby, 1837 
-
-Genus Sericoda 
 
 Species Sericoda bogemannii (Gyllenhal, 1813) 
 
@@ -610,8 +568,6 @@ Genus Plateumaris
 
 Species Plateumaris flavipes (Kirby, 1837) 
 
-Genus Plateumaris 
-
 Species Plateumaris germari (Mannerheim, 1843) 
 
 ###### Family Coccinellidae 
@@ -632,15 +588,11 @@ Genus Coccinella
 
 Species Coccinella transversoguttata Faldermann, 1835 
 
-Genus Coccinella 
-
 Species Coccinella trifasciata Linnaeus, 1758 
 
 Genus Hippodamia 
 
 Species Hippodamia falcigera Crotch, 1873 
-
-Genus Hippodamia 
 
 Species Hippodamia tredecimpunctata (Linnaeus, 1758) 
 
@@ -670,11 +622,7 @@ Genus Dorytomus
 
 Species Dorytomus leucophyllus (Motschulsky, 1845) 
 
-Genus Dorytomus 
-
 Species Dorytomus luridus (Mannerheim, 1853) 
-
-Genus Dorytomus 
 
 Species Dorytomus mannerheimi (Gemminger, 1871) 
 
@@ -682,11 +630,7 @@ Genus Dryocoetes
 
 Species Dryocoetes affaber (Mannerheim, 1852) 
 
-Genus Dryocoetes 
-
 Species Dryocoetes autographus (Ratzeburg, 1837) 
-
-Genus Dryocoetes 
 
 Species Dryocoetes caryi Hopkins, 1915 
 
@@ -697,8 +641,6 @@ Species Glocianus punctiger (C.R.Sahlberg, 1835)
 Genus Ips 
 
 Species Ips borealis Swaine, 1911 
-
-Genus Ips 
 
 Species Ips perturbatus (Eichhoff, 1869) 
 
@@ -742,11 +684,7 @@ Genus Trypodendron
 
 Species Trypodendron lineatum (Olivier, 1795) 
 
-Genus Trypodendron 
-
 Species Trypodendron retusum (LeConte, 1868) 
-
-Genus Trypodendron 
 
 Species Trypodendron rufitarsis (Kirby, 1837) 
 
@@ -764,8 +702,6 @@ Genus Megatoma
 
 Species Megatoma cylindrica (Kirby, 1837) 
 
-Genus Megatoma 
-
 Species Megatoma perversa (Fall, 1926) 
 
 ###### Family Dytiscidae 
@@ -778,23 +714,13 @@ Genus Agabus
 
 Species Agabus anthracinus Mannerheim, 1852 
 
-Genus Agabus 
-
 Species Agabus bifarius (Kirby, 1837) 
-
-Genus Agabus 
 
 Species Agabus confinis (Gyllenhal, 1808) 
 
-Genus Agabus 
-
 Species Agabus inscriptus (Crotch, 1873) 
 
-Genus Agabus 
-
 Species Agabus semipunctatus (Kirby, 1837) 
-
-Genus Agabus 
 
 Species Agabus tristis Aubé, 1838 
 
@@ -802,11 +728,7 @@ Genus Dytiscus
 
 Species Dytiscus circumcinctus Ahrens, 1811 
 
-Genus Dytiscus 
-
 Species Dytiscus dauricus Gebler, 1832 
-
-Genus Dytiscus 
 
 Species Dytiscus harrisii Kirby, 1837 
 
@@ -814,43 +736,23 @@ Genus Hydroporus
 
 Species Hydroporus badiellus Fall, 1923 
 
-Genus Hydroporus 
-
 Species Hydroporus dentellus Fall, 1917 
-
-Genus Hydroporus 
 
 Species Hydroporus lapponum (Gyllenhal, 1808) 
 
-Genus Hydroporus 
-
 Species Hydroporus morio Aubé, 1838 
-
-Genus Hydroporus 
 
 Species Hydroporus nigellus Mannerheim, 1853 
 
-Genus Hydroporus 
-
 Species Hydroporus notabilis LeConte, 1850 
-
-Genus Hydroporus 
 
 Species Hydroporus obscurus Sturm, 1835 
 
-Genus Hydroporus 
-
 Species Hydroporus puberulus LeConte, 1850 
-
-Genus Hydroporus 
 
 Species Hydroporus rectus Fall, 1923 
 
-Genus Hydroporus 
-
 Species Hydroporus striola (Gyllenhal, 1826) 
-
-Genus Hydroporus 
 
 Species Hydroporus tristis (Paykull, 1798) 
 
@@ -858,19 +760,11 @@ Genus Hygrotus
 
 Species Hygrotus compar (Fall, 1919) 
 
-Genus Hygrotus 
-
 Species Hygrotus impressopunctatus (Schaller, 1783) 
-
-Genus Hygrotus 
 
 Species Hygrotus novemlineatus (Stephens, 1829) 
 
-Genus Hygrotus 
-
 Species Hygrotus picatus (Kirby, 1837) 
-
-Genus Hygrotus 
 
 Species Hygrotus turbidus (LeConte, 1855) 
 
@@ -878,19 +772,11 @@ Genus Ilybius
 
 Species Ilybius angustior (Gyllenhal, 1808) 
 
-Genus Ilybius 
-
 Species Ilybius discedens Sharp, 1882 
-
-Genus Ilybius 
 
 Species Ilybius erichsoni (Gemminger and Harold, 1868) 
 
-Genus Ilybius 
-
 Species Ilybius hypomelas (Mannerheim, 1843) 
-
-Genus Ilybius 
 
 Species Ilybius picipes (Kirby, 1837) 
 
@@ -901,8 +787,6 @@ Species Liodessus obscurellus (LeConte, 1852)
 Genus Oreodytes 
 
 Species Oreodytes dauricus (Motschulsky, 1860) 
-
-Genus Oreodytes 
 
 Species Oreodytes laevis (Kirby, 1837) 
 
@@ -916,11 +800,7 @@ Genus Ctenicera
 
 Species Ctenicera kendalli 
 
-Genus Ctenicera 
-
 Species Ctenicera resplendens 
-
-Genus Ctenicera 
 
 Species Ctenicera watsoni 
 
@@ -948,15 +828,9 @@ Genus Gyrinus
 
 Species Gyrinus maculiventris LeConte, 1868 
 
-Genus Gyrinus 
-
 Species Gyrinus minutus Fabricius, 1798 
 
-Genus Gyrinus 
-
 Species Gyrinus opacus Sahlberg, 1817 
-
-Genus Gyrinus 
 
 Species Gyrinus picipes Aubé, 1838 
 
@@ -988,15 +862,9 @@ Genus Catops
 
 Species Catops alpinus Gyllenhal, 1827 
 
-Genus Catops 
-
 Species Catops basilaris Say, 1823 
 
-Genus Catops 
-
 Species Catops egenus (Horn, 1880) 
-
-Genus Catops 
 
 Species Catops luridipennis Mannerheim, 1853 
 
@@ -1058,8 +926,6 @@ Genus Agoliinus
 
 Species Agoliinus congregatus (Mannerheim, 1853) 
 
-Genus Agoliinus 
-
 Species Agoliinus piceatus (Robinson, 1946) 
 
 Genus Caelius 
@@ -1083,8 +949,6 @@ Species Anaspis rufa Say, 1826
 Genus Nicrophorus 
 
 Species Nicrophorus investigator Zetterstedt, 1824 
-
-Genus Nicrophorus 
 
 Species Nicrophorus vespilloides Herbst, 1783 
 
@@ -1152,23 +1016,13 @@ Genus Delia
 
 Species Delia alaba (Walker, 1849) 
 
-Genus Delia 
-
 Species Delia bucculenta (Coquillett, 1904) 
-
-Genus Delia 
 
 Species Delia echinata (Seguy, 1923) 
 
-Genus Delia 
-
 Species Delia extensa (Huckett, 1951) 
 
-Genus Delia 
-
 Species Delia lineariventris (Zetterstedt, 1845) 
-
-Genus Delia 
 
 Species Delia prostriata (Huckett, 1965) 
 
@@ -1184,11 +1038,7 @@ Genus Zaphne
 
 Species Zaphne borealis (Malloch, 1920) 
 
-Genus Zaphne 
-
 Species Zaphne lineatocollis (Zetterstedt, 1838) 
-
-Genus Zaphne 
 
 Species Zaphne zetterstedtii (Ringdahl, 1918) 
 
@@ -1256,15 +1106,11 @@ Genus Cricotopus
 
 Species Cricotopus annulator Goetghebuer, 1927 
 
-Genus Cricotopus 
-
 Species Cricotopus tremulus (Linnaeus, 1758) 
 
 Genus Eukiefferiella 
 
 Species Eukiefferiella claripennis Lundbeck 
-
-Genus Eukiefferiella 
 
 Species Eukiefferiella coerulescens (Kieffer) 
 
@@ -1280,19 +1126,11 @@ Genus Orthocladius
 
 Species Orthocladius appersoni Soponis, 1977 
 
-Genus Orthocladius 
-
 Species Orthocladius curtiseta Saether, 1973 
-
-Genus Orthocladius 
 
 Species Orthocladius oblidens (Walker, 1856) 
 
-Genus Orthocladius 
-
 Species Orthocladius rivicola Kieffer, 1911 
-
-Genus Orthocladius 
 
 Species Orthocladius rivulorum Kieffer, 1909 
 
@@ -1324,8 +1162,6 @@ Genus Aedes
 
 Species Aedes abserratus (Felt and Young, 1904) 
 
-Genus Aedes 
-
 Species Aedes diantaeus Howard, Dyar and Knab, 1913 
 
 Genus Culiseta 
@@ -1346,31 +1182,21 @@ Genus Campsicnemus
 
 Species Campsicnemus alaskensis (Harmston and Miller, 1966) 
 
-Genus Campsicnemus 
-
 Species Campsicnemus claudicans Loew, 1864 
 
 Genus Dolichopus 
 
 Species Dolichopus detersus Loew, 1866 
 
-Genus Dolichopus 
-
 Species Dolichopus plumipes (Scopoli, 1763) 
 
-Genus Dolichopus 
-
 Species Dolichopus remipes Wahlberg, 1839 
-
-Genus Dolichopus 
 
 Species Dolichopus stenhammari Zetterdtedt, 1843 
 
 Genus Hydrophorus 
 
 Species Hydrophorus algens Wheeler, 1899 
-
-Genus Hydrophorus 
 
 Species Hydrophorus glaber (Walker, 1849) 
 
@@ -1386,11 +1212,7 @@ Genus Rhaphium
 
 Species Rhaphium discolor Zetterstedt, 1838 
 
-Genus Rhaphium 
-
 Species Rhaphium elegantulum (Meigen, 1824) 
-
-Genus Rhaphium 
 
 Species Rhaphium femoratum (Van Duzee, 1922) 
 
@@ -1414,15 +1236,9 @@ Genus Iteaphila
 
 Species Iteaphila macquarti Zetterstedt, 1838 
 
-Genus Iteaphila 
-
 Species Iteaphila orchestris Melander, 1902 
 
-Genus Iteaphila 
-
 Species Iteaphila testacea Melander, 1946 
-
-Genus Iteaphila 
 
 Species Iteaphila triangula (Coquillett, 1900) 
 
@@ -1430,11 +1246,7 @@ Genus Rhamphomyia
 
 Species Rhamphomyia anthracodes Coquillett, 1900 
 
-Genus Rhamphomyia 
-
 Species Rhamphomyia atrata Coquillett, 1900 
-
-Genus Rhamphomyia 
 
 Species Rhamphomyia barypoda Coquillett, 1900 
 
@@ -1464,8 +1276,6 @@ Genus Gymnoclasiopa
 
 Species Gymnoclasiopa parilis 
 
-Genus Gymnoclasiopa 
-
 Species Gymnoclasiopa tacoma 
 
 Genus Hyadina 
@@ -1475,8 +1285,6 @@ Species Hyadina binotata (Cresson, 1926)
 Genus Hydrellia 
 
 Species Hydrellia morrisoni Cresson, 1924 
-
-Genus Hydrellia 
 
 Species Hydrellia tibialis Cresson, 1917 
 
@@ -1496,19 +1304,13 @@ Genus Notiphila
 
 Species Notiphila loewi Cresson, 1917 
 
-Genus Notiphila 
-
 Species Notiphila uliginosa 
 
 Genus Parydra 
 
 Species Parydra aquila (Fallen, 1813) 
 
-Genus Parydra 
-
 Species Parydra fossarum 
-
-Genus Parydra 
 
 Species Parydra quadriloba Clausen and Cook, 1971 
 
@@ -1528,11 +1330,7 @@ Genus Scatella
 
 Species Scatella laxa Cresson, 1933 
 
-Genus Scatella 
-
 Species Scatella obsoleta Loew, 1861 
-
-Genus Scatella 
 
 Species Scatella tenuicosta 
 
@@ -1550,15 +1348,9 @@ Genus Fannia
 
 Species Fannia postica (Stein, 1895) 
 
-Genus Fannia 
-
 Species Fannia serena (Fallen, 1825) 
 
-Genus Fannia 
-
 Species Fannia spathiophora Malloch, 1918 
-
-Genus Fannia 
 
 Species Fannia subpellucens (Zetterstedt, 1845) 
 
@@ -1572,8 +1364,6 @@ Genus Suillia
 
 Species Suillia apicalis (Loew, 1862) 
 
-Genus Suillia 
-
 Species Suillia convergens (Walker, 1849) 
 
 ###### Family Hybotidae 
@@ -1585,8 +1375,6 @@ Species Ocydromia glabricula (Fallen, 1816)
 Genus Platypalpus 
 
 Species Platypalpus lateralis Loew, 1864 
-
-Genus Platypalpus 
 
 Species Platypalpus xanthopodus Melander, 1927 
 
@@ -1638,8 +1426,6 @@ Genus Thricops
 
 Species Thricops coquilletti (Malloch, 1920) 
 
-Genus Thricops 
-
 Species Thricops diaphanus (Wiedemann, 1817) 
 
 ###### Family Mycetophilidae 
@@ -1664,8 +1450,6 @@ Genus Tomosvaryella
 
 Species Tomosvaryella kuthyi Aczel, 1944 
 
-Genus Tomosvaryella 
-
 Species Tomosvaryella sylvatica (Meigen, 1824) 
 
 ###### Family Sciomyzidae 
@@ -1678,11 +1462,7 @@ Genus Pherbellia
 
 Species Pherbellia albocostata (Fallen, 1820) 
 
-Genus Pherbellia 
-
 Species Pherbellia schoenherri 
-
-Genus Pherbellia 
 
 Species Pherbellia tenuipes (Loew, 1872) 
 
@@ -1698,19 +1478,11 @@ Genus Tetanocera
 
 Species Tetanocera fuscinervis (Zetterstedt, 1838) 
 
-Genus Tetanocera 
-
 Species Tetanocera montana Day, 1881 
-
-Genus Tetanocera 
 
 Species Tetanocera phyllophora Melander, 1920 
 
-Genus Tetanocera 
-
 Species Tetanocera plebeja Loew, 1862 
-
-Genus Tetanocera 
 
 Species Tetanocera silvatica Meigen, 1830 
 
@@ -1794,15 +1566,9 @@ Genus Platycheirus
 
 Species Platycheirus angustatus (Zetterstedt, 1843) 
 
-Genus Platycheirus 
-
 Species Platycheirus modestus Ide, 1926 
 
-Genus Platycheirus 
-
 Species Platycheirus peltatoides Curran, 1923 
-
-Genus Platycheirus 
 
 Species Platycheirus rosarum (Fabricius, 1787) 
 
@@ -1857,8 +1623,6 @@ Species Prionocera unimicra (Alexander, 1915)
 Genus Tipula 
 
 Species Tipula entomophthorae Alexander, 1918 
-
-Genus Tipula 
 
 Species Tipula macrolabis 
 
@@ -1948,8 +1712,6 @@ Genus Cavariella
 
 Species Cavariella digitata 
 
-Genus Cavariella 
-
 Species Cavariella salicis 
 
 Genus Chaitophorus 
@@ -1960,15 +1722,11 @@ Genus Cinara
 
 Species Cinara fornacula 
 
-Genus Cinara 
-
 Species Cinara nimbata 
 
 Genus Macrosiphum 
 
 Species Macrosiphum euphorbiae (Thomas, 1878) 
-
-Genus Macrosiphum 
 
 Species Macrosiphum stanleyi 
 
@@ -1983,8 +1741,6 @@ Species Tamalia coweni
 Genus Thecabius 
 
 Species Thecabius affinis 
-
-Genus Thecabius 
 
 Species Thecabius populimonilis 
 
@@ -2005,8 +1761,6 @@ Species Aneurus simplex Uhler, 1871
 Genus Balclutha 
 
 Species Balclutha manitou 
-
-Genus Balclutha 
 
 Species Balclutha punctata 
 
@@ -2045,8 +1799,6 @@ Species Delphacodes serrata Beamer, 1948
 Genus Javesella 
 
 Species Javesella atrata (Osborn, 1938) 
-
-Genus Javesella 
 
 Species Javesella pellucida (Fabricius, 1794) 
 
@@ -2102,23 +1854,13 @@ Genus Lygus
 
 Species Lygus borealis (Kelton, 1955) 
 
-Genus Lygus 
-
 Species Lygus lupini Schwartz in Schwartz and Foottit, 1998 
-
-Genus Lygus 
 
 Species Lygus punctatus (Zetterstedt, 1838) 
 
-Genus Lygus 
-
 Species Lygus rugulipennis Poppius, 1911 
 
-Genus Lygus 
-
 Species Lygus shulli Knight, 1941 
-
-Genus Lygus 
 
 Species Lygus striatus Knight, 1917 
 
@@ -2155,8 +1897,6 @@ Species Cacopsylla rara
 Genus Craspedolepta 
 
 Species Craspedolepta nebulosa 
-
-Genus Craspedolepta 
 
 Species Craspedolepta subpunctata 
 
@@ -2202,8 +1942,6 @@ Genus Bombus
 
 Species Bombus occidentalis Greene, 1858 
 
-Genus Bombus 
-
 Species Bombus sylvicola Kirby, 1837 
 
 ###### Family Braconidae 
@@ -2219,8 +1957,6 @@ Species Chelonus gracilis
 Genus Ephedrus 
 
 Species Ephedrus incompletus 
-
-Genus Ephedrus 
 
 Species Ephedrus lacertosus 
 
@@ -2288,11 +2024,7 @@ Genus Formica
 
 Species Formica aserva Forel, 1901 
 
-Genus Formica 
-
 Species Formica gagatoides Ruzsky, 1904 
-
-Genus Formica 
 
 Species Formica neorufibarbis Emery, 1893 
 
@@ -2376,11 +2108,7 @@ Genus Dolerus
 
 Species Dolerus elderi 
 
-Genus Dolerus 
-
 Species Dolerus gilvipes 
-
-Genus Dolerus 
 
 Species Dolerus yukonensis 
 
@@ -2396,15 +2124,9 @@ Genus Pristiphora
 
 Species Pristiphora cincta 
 
-Genus Pristiphora 
-
 Species Pristiphora lativentris 
 
-Genus Pristiphora 
-
 Species Pristiphora mollis 
-
-Genus Pristiphora 
 
 Species Pristiphora staudingeri 
 
@@ -2428,11 +2150,7 @@ Genus Dolichovespula
 
 Species Dolichovespula albida 
 
-Genus Dolichovespula 
-
 Species Dolichovespula arctica 
-
-Genus Dolichovespula 
 
 Species Dolichovespula arenaria (Fabricius) 
 
@@ -2512,8 +2230,6 @@ Genus Lycia
 
 Species Lycia rachelae (Hulst, 1896) 
 
-Genus Lycia 
-
 Species Lycia ursaria (Walker in D'Urban, 1860) 
 
 Genus Mesothea 
@@ -2524,8 +2240,6 @@ Genus Operophtera
 
 Species Operophtera bruceata (Hulst, 1886) 
 
-Genus Operophtera 
-
 Species Operophtera occidentalis 
 
 Genus Plemyria 
@@ -2535,8 +2249,6 @@ Species Plemyria georgii Hulst, 1896
 Genus Rheumaptera 
 
 Species Rheumaptera hastata (Linnaeus, 1758) 
-
-Genus Rheumaptera 
 
 Species Rheumaptera subhastata (Nolcken, 1870) 
 
@@ -2556,11 +2268,7 @@ Genus Xanthorhoe
 
 Species Xanthorhoe decoloraria (Esper, 1806) 
 
-Genus Xanthorhoe 
-
 Species Xanthorhoe ferrugata (Clerck, 1759) 
-
-Genus Xanthorhoe 
 
 Species Xanthorhoe fossaria Taylor, 1906 
 
@@ -2600,8 +2308,6 @@ Genus Plebejus
 
 Species Plebejus idas (Linnaeus, 1761) 
 
-Genus Plebejus 
-
 Species Plebejus optilete (Knoch, 1781) 
 
 ###### Family Momphidae 
@@ -2623,8 +2329,6 @@ Species Apamea cogitata (Smith, 1891)
 Genus Diarsia 
 
 Species Diarsia esurialis (Grote, 1881) 
-
-Genus Diarsia 
 
 Species Diarsia rosaria (Grote, 1878) 
 
@@ -2652,15 +2356,11 @@ Genus Sunira
 
 Species Sunira bicolorago (Guenée, 1852) 
 
-Genus Sunira 
-
 Species Sunira verberata (Smith, 1904) 
 
 Genus Syngrapha 
 
 Species Syngrapha alticola (Walker, 1858) 
-
-Genus Syngrapha 
 
 Species Syngrapha viridisigma (Grote, 1874) 
 
@@ -2668,11 +2368,7 @@ Genus Xestia
 
 Species Xestia c-nigrum (Linnaeus, 1758) 
 
-Genus Xestia 
-
 Species Xestia homogena (McDunnough, 1921) 
-
-Genus Xestia 
 
 Species Xestia tecta (Hübner, 1808) 
 
@@ -2700,11 +2396,7 @@ Genus Boloria
 
 Species Boloria chariclea (Schneider, 1794) 
 
-Genus Boloria 
-
 Species Boloria freija (Thunberg, 1791) 
-
-Genus Boloria 
 
 Species Boloria selene ([Schiffermüller], 1775) 
 
@@ -2724,8 +2416,6 @@ Genus Oeneis
 
 Species Oeneis bore (Esper, 1789) 
 
-Genus Oeneis 
-
 Species Oeneis polixenes (Fabricius, 1775) 
 
 Genus Polygonia 
@@ -2742,8 +2432,6 @@ Genus Papilio
 
 Species Papilio canadensis Rothschild and Jordan, 1906 
 
-Genus Papilio 
-
 Species Papilio machaon Linnaeus, 1758 
 
 Genus Parnassius 
@@ -2755,8 +2443,6 @@ Species Parnassius phoebus (Fabricius, 1793)
 Genus Colias 
 
 Species Colias nastes Boisduval, 1832 
-
-Genus Colias 
 
 Species Colias philodice Godart, 1819 
 
@@ -2824,15 +2510,11 @@ Genus Clepsis
 
 Species Clepsis moeschleriana 
 
-Genus Clepsis 
-
 Species Clepsis persicana 
 
 Genus Cydia 
 
 Species Cydia inopiosa 
-
-Genus Cydia 
 
 Species Cydia piperana 
 
@@ -2886,27 +2568,15 @@ Genus Aeshna
 
 Species Aeshna eremita Scudder, 1866 
 
-Genus Aeshna 
-
 Species Aeshna interrupta Walker, 1908 
-
-Genus Aeshna 
 
 Species Aeshna juncea (Linnaeus, 1758) 
 
-Genus Aeshna 
-
 Species Aeshna palmata Hagen, 1856 
-
-Genus Aeshna 
 
 Species Aeshna septentrionalis Burmeister, 1839 
 
-Genus Aeshna 
-
 Species Aeshna sitchensis Hagen, 1861 
-
-Genus Aeshna 
 
 Species Aeshna subarctica Walker, 1908 
 
@@ -2919,8 +2589,6 @@ Species Coenagrion resolutum (Hagen in Selys, 1876)
 Genus Enallagma 
 
 Species Enallagma annexum (Hagen, 1861) 
-
-Genus Enallagma 
 
 Species Enallagma boreale Selys, 1875 
 
@@ -2946,11 +2614,7 @@ Genus Leucorrhinia
 
 Species Leucorrhinia hudsonica (Selys, 1850) 
 
-Genus Leucorrhinia 
-
 Species Leucorrhinia patricia Walker, 1940 
-
-Genus Leucorrhinia 
 
 Species Leucorrhinia proxima Calvert, 1890 
 
@@ -3084,11 +2748,7 @@ Genus Limnephilus
 
 Species Limnephilus dispar McLachlan, 1875 
 
-Genus Limnephilus 
-
 Species Limnephilus externus Hagen, 1861 
-
-Genus Limnephilus 
 
 Species Limnephilus sericeus (Say, 1824) 
 
@@ -3160,8 +2820,6 @@ Genus Cyclops
 
 Species Cyclops columbianus Lindberg, 1956 
 
-Genus Cyclops 
-
 Species Cyclops strenuus Fischer, 1851 
 
 ##### Order Poecilostomatoida 
@@ -3202,8 +2860,6 @@ Genus Accipiter
 
 Species Accipiter gentilis (Linnaeus, 1758) 
 
-Genus Accipiter 
-
 Species Accipiter striatus Vieillot, 1808 
 
 Genus Aquila 
@@ -3213,8 +2869,6 @@ Species Aquila chrysaetos (Linnaeus, 1758)
 Genus Buteo 
 
 Species Buteo jamaicensis (Gmelin, 1788) 
-
-Genus Buteo 
 
 Species Buteo lagopus (Pontoppidan, 1763) 
 
@@ -3240,27 +2894,15 @@ Genus Anas
 
 Species Anas acuta Linnaeus, 1758 
 
-Genus Anas 
-
 Species Anas americana Gmelin, 1789 
-
-Genus Anas 
 
 Species Anas clypeata Linnaeus, 1758 
 
-Genus Anas 
-
 Species Anas crecca Linnaeus, 1758 
-
-Genus Anas 
 
 Species Anas discors Linnaeus, 1766 
 
-Genus Anas 
-
 Species Anas platyrhynchos Linnaeus, 1758 
-
-Genus Anas 
 
 Species Anas strepera Linnaeus, 1758 
 
@@ -3268,23 +2910,15 @@ Genus Anser
 
 Species Anser albifrons (Scopoli, 1769) 
 
-Genus Anser 
-
 Species Anser cygnoides (Linnaeus, 1758) 
 
 Genus Aythya 
 
 Species Aythya americana (Eyton, 1838) 
 
-Genus Aythya 
-
 Species Aythya collaris (Donovan, 1809) 
 
-Genus Aythya 
-
 Species Aythya marila (Linnaeus, 1761) 
-
-Genus Aythya 
 
 Species Aythya valisineria (A. Wilson, 1814) 
 
@@ -3292,19 +2926,13 @@ Genus Branta
 
 Species Branta canadensis (Linnaeus, 1758) 
 
-Genus Branta 
-
 Species Branta hutchinsii (Richardson, 1832) 
 
 Genus Bucephala 
 
 Species Bucephala albeola (Linnaeus, 1758) 
 
-Genus Bucephala 
-
 Species Bucephala clangula (Linnaeus, 1758) 
-
-Genus Bucephala 
 
 Species Bucephala islandica (Gmelin, 1789) 
 
@@ -3320,8 +2948,6 @@ Genus Cygnus
 
 Species Cygnus buccinator Richardson, 1831 
 
-Genus Cygnus 
-
 Species Cygnus columbianus (Ord, 1815) 
 
 Genus Histrionicus 
@@ -3332,19 +2958,13 @@ Genus Melanitta
 
 Species Melanitta fusca (Linnaeus, 1758) 
 
-Genus Melanitta 
-
 Species Melanitta nigra (Linnaeus, 1758) 
-
-Genus Melanitta 
 
 Species Melanitta perspicillata (Linnaeus, 1758) 
 
 Genus Mergus 
 
 Species Mergus merganser Linnaeus, 1758 
-
-Genus Mergus 
 
 Species Mergus serrator Linnaeus, 1758 
 
@@ -3374,11 +2994,7 @@ Genus Pluvialis
 
 Species Pluvialis dominica (Statius Muller, 1776) 
 
-Genus Pluvialis 
-
 Species Pluvialis fulva (Gmelin, 1789) 
-
-Genus Pluvialis 
 
 Species Pluvialis squatarola (Linnaeus, 1758) 
 
@@ -3388,11 +3004,7 @@ Genus Larus
 
 Species Larus argentatus Pontoppidan, 1763 
 
-Genus Larus 
-
 Species Larus canus Linnaeus, 1758 
-
-Genus Larus 
 
 Species Larus glaucescens J. F. Naumann, 1840 
 
@@ -3414,8 +3026,6 @@ Genus Arenaria
 
 Species Arenaria interpres (Linnaeus, 1758) 
 
-Genus Arenaria 
-
 Species Arenaria melanocephala (Vigors, 1829) 
 
 Genus Bartramia 
@@ -3426,19 +3036,11 @@ Genus Calidris
 
 Species Calidris bairdii (Coues, 1861) 
 
-Genus Calidris 
-
 Species Calidris mauri (Cabanis, 1857) 
-
-Genus Calidris 
 
 Species Calidris melanotos (Vieillot, 1819) 
 
-Genus Calidris 
-
 Species Calidris minutilla (Vieillot, 1819) 
-
-Genus Calidris 
 
 Species Calidris pusilla (Linnaeus, 1766) 
 
@@ -3449,8 +3051,6 @@ Species Gallinago delicata (Ord, 1825)
 Genus Limnodromus 
 
 Species Limnodromus griseus (Gmelin, 1789) 
-
-Genus Limnodromus 
 
 Species Limnodromus scolopaceus (Say, 1822) 
 
@@ -3470,11 +3070,7 @@ Genus Tringa
 
 Species Tringa flavipes (Gmelin, 1789) 
 
-Genus Tringa 
-
 Species Tringa melanoleuca (Gmelin, 1789) 
-
-Genus Tringa 
 
 Species Tringa solitaria A. Wilson, 1813 
 
@@ -3494,15 +3090,9 @@ Genus Falco
 
 Species Falco columbarius Linnaeus, 1758 
 
-Genus Falco 
-
 Species Falco peregrinus Tunstall, 1771 
 
-Genus Falco 
-
 Species Falco rusticolus Linnaeus, 1758 
-
-Genus Falco 
 
 Species Falco sparverius Linnaeus, 1758 
 
@@ -3522,11 +3112,7 @@ Genus Lagopus
 
 Species Lagopus lagopus (Linnaeus, 1758) 
 
-Genus Lagopus 
-
 Species Lagopus leucura (Richardson, 1831) 
-
-Genus Lagopus 
 
 Species Lagopus muta (Montin, 1781) 
 
@@ -3546,11 +3132,7 @@ Genus Gavia
 
 Species Gavia immer (Brunnich, 1764) 
 
-Genus Gavia 
-
 Species Gavia pacifica (Lawrence, 1858) 
-
-Genus Gavia 
 
 Species Gavia stellata (Pontoppidan, 1763) 
 
@@ -3604,8 +3186,6 @@ Genus Corvus
 
 Species Corvus caurinus S. F. Baird, 1858 
 
-Genus Corvus 
-
 Species Corvus corax Linnaeus, 1758 
 
 Genus Cyanocitta 
@@ -3630,8 +3210,6 @@ Genus Melospiza
 
 Species Melospiza lincolnii (Audubon, 1834) 
 
-Genus Melospiza 
-
 Species Melospiza melodia (A. Wilson, 1810) 
 
 Genus Passerculus 
@@ -3646,8 +3224,6 @@ Genus Zonotrichia
 
 Species Zonotrichia atricapilla (J. F. Gmelin, 1789) 
 
-Genus Zonotrichia 
-
 Species Zonotrichia leucophrys (J. R. Forster, 1772) 
 
 ###### Family Fringillidae 
@@ -3659,8 +3235,6 @@ Species Leucosticte tephrocotis (Swainson, 1832)
 Genus Loxia 
 
 Species Loxia curvirostra Linnaeus, 1758 
-
-Genus Loxia 
 
 Species Loxia leucoptera J. F. Gmelin, 1789 
 
@@ -3681,8 +3255,6 @@ Species Riparia riparia (Linnaeus, 1758)
 Genus Tachycineta 
 
 Species Tachycineta bicolor (Vieillot, 1808) 
-
-Genus Tachycineta 
 
 Species Tachycineta thalassina (Swainson, 1827) 
 
@@ -3716,8 +3288,6 @@ Genus Poecile
 
 Species Poecile atricapillus (Linnaeus, 1766) 
 
-Genus Poecile 
-
 Species Poecile hudsonicus (J. R. Forster, 1772) 
 
 ###### Family Regulidae 
@@ -3725,8 +3295,6 @@ Species Poecile hudsonicus (J. R. Forster, 1772)
 Genus Regulus 
 
 Species Regulus calendula (Linnaeus, 1766) 
-
-Genus Regulus 
 
 Species Regulus satrapa Lichtenstein, 1823 
 
@@ -3748,11 +3316,7 @@ Genus Catharus
 
 Species Catharus guttatus (Pallas, 1811) 
 
-Genus Catharus 
-
 Species Catharus minimus (Lafresnaye, 1848) 
-
-Genus Catharus 
 
 Species Catharus ustulatus (Nuttall, 1840) 
 
@@ -3774,15 +3338,11 @@ Genus Contopus
 
 Species Contopus cooperi (Nuttall, 1831) 
 
-Genus Contopus 
-
 Species Contopus sordidulus P. L. Sclater, 1859 
 
 Genus Empidonax 
 
 Species Empidonax alnorum Brewster, 1895 
-
-Genus Empidonax 
 
 Species Empidonax hammondii (Xantus de Vesey, 1858) 
 
@@ -3798,15 +3358,9 @@ Genus Picoides
 
 Species Picoides arcticus (Swainson, 1832) 
 
-Genus Picoides 
-
 Species Picoides dorsalis S. F. Baird, 1858 
 
-Genus Picoides 
-
 Species Picoides pubescens (Linnaeus, 1766) 
-
-Genus Picoides 
 
 Species Picoides villosus (Linnaeus, 1766) 
 
@@ -3817,8 +3371,6 @@ Species Picoides villosus (Linnaeus, 1766)
 Genus Podiceps 
 
 Species Podiceps auritus (Linnaeus, 1758) 
-
-Genus Podiceps 
 
 Species Podiceps grisegena (Boddaert, 1783) 
 
@@ -3837,8 +3389,6 @@ Species Oceanodroma furcata (Gmelin, 1789)
 Genus Aegolius 
 
 Species Aegolius acadicus (J. F. Gmelin, 1788) 
-
-Genus Aegolius 
 
 Species Aegolius funereus (Linnaeus, 1758) 
 
@@ -3912,8 +3462,6 @@ Genus Canis
 
 Species Canis latrans Say, 1823 
 
-Genus Canis 
-
 Species Canis lupus Linnaeus, 1758 
 
 Genus Vulpes 
@@ -3948,8 +3496,6 @@ Genus Mustela
 
 Species Mustela erminea Linnaeus, 1758 
 
-Genus Mustela 
-
 Species Neovison vison (Schreber, 1777) 
 
 ###### Family Phocidae 
@@ -3963,8 +3509,6 @@ Species Phoca vitulina Linnaeus, 1758
 Genus Ursus 
 
 Species Ursus americanus Pallas, 1780 
-
-Genus Ursus 
 
 Species Ursus arctos Linnaeus, 1758 
 
@@ -4018,11 +3562,7 @@ Genus Microtus
 
 Species Microtus miurus Osgood, 1901 
 
-Genus Microtus 
-
 Species Microtus oeconomus (Pallas, 1776) 
-
-Genus Microtus 
 
 Species Microtus pennsylvanicus (Ord, 1815) 
 
@@ -4062,11 +3602,7 @@ Genus Sorex
 
 Species Sorex cinereus Kerr, 1792 
 
-Genus Sorex 
-
 Species Sorex hoyi Baird, 1857 
-
-Genus Sorex 
 
 Species Sorex monticolus Merriam, 1890 
 
@@ -4116,23 +3652,13 @@ Genus Oncorhynchus
 
 Species Oncorhynchus gorbuscha (Walbaum, 1792) 
 
-Genus Oncorhynchus 
-
 Species Oncorhynchus keta (Walbaum in Artedi, 1792) 
-
-Genus Oncorhynchus 
 
 Species Oncorhynchus kisutch (Walbaum, 1792) 
 
-Genus Oncorhynchus 
-
 Species Oncorhynchus mykiss (Walbaum, 1792) 
 
-Genus Oncorhynchus 
-
 Species Oncorhynchus nerka (Walbaum in Artedi, 1792) 
-
-Genus Oncorhynchus 
 
 Species Oncorhynchus tshawytscha (Walbaum in Artedi, 1792) 
 
@@ -4144,11 +3670,7 @@ Genus Salvelinus
 
 Species Salvelinus alpinus (Linnaeus, 1758) 
 
-Genus Salvelinus 
-
 Species Salvelinus malma (Walbaum in Artedi, 1792) 
-
-Genus Salvelinus 
 
 Species Salvelinus namaycush (Walbaum in Artedi, 1792) 
 
@@ -4163,8 +3685,6 @@ Species Thymallus arcticus (Pallas, 1776)
 Genus Cottus 
 
 Species Cottus aleuticus Gilbert, 1896 
-
-Genus Cottus 
 
 Species Cottus cognatus Richardson, 1836 
 
@@ -4262,8 +3782,6 @@ Genus Deroceras
 
 Species Deroceras laeve (Muller, 1774) 
 
-Genus Deroceras 
-
 Species Deroceras reticulatum (Muller, 1774) 
 
 ###### Family Pupillidae 
@@ -4354,8 +3872,6 @@ Genus Neidium
 
 Species Neidium hitchcockii (Ehrenb.) Cleve 
 
-Genus Neidium 
-
 Species Neidium iridis (Ehrenb.) Cleve 
 
 ##### Order Rhopalodiales 
@@ -4365,8 +3881,6 @@ Species Neidium iridis (Ehrenb.) Cleve
 Genus Epithemia 
 
 Species Epithemia adnata (Kütz.) Bréb. 
-
-Genus Epithemia 
 
 Species Epithemia turgida (Ehrenb.) Kütz. 
 
@@ -4446,8 +3960,6 @@ Genus Candelariella
 
 Species Candelariella terrigena 
 
-Genus Candelariella 
-
 Species Candelariella xanthostigma (Ach.) Lettau 
 
 ##### Order Lecanorales 
@@ -4458,15 +3970,9 @@ Genus Cladina
 
 Species Cladina mitis 
 
-Genus Cladina 
-
 Species Cladina rangiferina 
 
-Genus Cladina 
-
 Species Cladina stellaris 
-
-Genus Cladina 
 
 Species Cladina stygia 
 
@@ -4474,167 +3980,85 @@ Genus Cladonia
 
 Species Cladonia acuminata (Ach.) Norrl. 
 
-Genus Cladonia 
-
 Species Cladonia albonigra 
-
-Genus Cladonia 
 
 Species Cladonia amaurocraea 
 
-Genus Cladonia 
-
 Species Cladonia bacilliformis (Nyl.) Glück 
-
-Genus Cladonia 
 
 Species Cladonia bellidiflora (Ach.) Schaer. 
 
-Genus Cladonia 
-
 Species Cladonia borealis S. Stenroos 
-
-Genus Cladonia 
 
 Species Cladonia cariosa (Ach.) Spreng. 
 
-Genus Cladonia 
-
 Species Cladonia carneola (Fr.) Fr. 
-
-Genus Cladonia 
 
 Species Cladonia cenotea (Ach.) Schaer. 
 
-Genus Cladonia 
-
 Species Cladonia chlorophaea (Flörke ex Sommerf.) Spreng. 
-
-Genus Cladonia 
 
 Species Cladonia coccifera (L.) Willd. 
 
-Genus Cladonia 
-
 Species Cladonia coniocraea (Flörke) Spreng. 
-
-Genus Cladonia 
 
 Species Cladonia cornuta (L.) Hoffm. 
 
-Genus Cladonia 
-
 Species Cladonia crispata 
-
-Genus Cladonia 
 
 Species Cladonia deformis 
 
-Genus Cladonia 
-
 Species Cladonia digitata (L.) Hoffm. 
-
-Genus Cladonia 
 
 Species Cladonia ecmocyna 
 
-Genus Cladonia 
-
 Species Cladonia fimbriata (L.) Fr. 
-
-Genus Cladonia 
 
 Species Cladonia furcata (Huds.) Schrad. 
 
-Genus Cladonia 
-
 Species Cladonia gracilis (L.) Willd. 
-
-Genus Cladonia 
 
 Species Cladonia grayi G. Merr. ex Sandst. 
 
-Genus Cladonia 
-
 Species Cladonia hookeri 
-
-Genus Cladonia 
 
 Species Cladonia kanewskii 
 
-Genus Cladonia 
-
 Species Cladonia macilenta Hoffm. 
-
-Genus Cladonia 
 
 Species Cladonia macroceras (Delise) Ahti 
 
-Genus Cladonia 
-
 Species Cladonia macrophyllodes 
-
-Genus Cladonia 
 
 Species Cladonia maxima (Asahina) Ahti 
 
-Genus Cladonia 
-
 Species Cladonia metacorallifera Asahina 
-
-Genus Cladonia 
 
 Species Cladonia multiformis 
 
-Genus Cladonia 
-
 Species Cladonia ochrochlora Flörke 
-
-Genus Cladonia 
 
 Species Cladonia pleurota (Flörke) Schaer. 
 
-Genus Cladonia 
-
 Species Cladonia pyxidata (L.) Hoffm. 
-
-Genus Cladonia 
 
 Species Cladonia rei Schaer. 
 
-Genus Cladonia 
-
 Species Cladonia scabriuscula (Delise) Leight. 
-
-Genus Cladonia 
 
 Species Cladonia squamosa (Scop.) Hoffm. 
 
-Genus Cladonia 
-
 Species Cladonia stricta 
-
-Genus Cladonia 
 
 Species Cladonia subfurcata (Nyl.) Arnold 
 
-Genus Cladonia 
-
 Species Cladonia subulata (L.) F.H. Wigg. 
-
-Genus Cladonia 
 
 Species Cladonia sulphurina (Michx.) Fr. 
 
-Genus Cladonia 
-
 Species Cladonia symphycarpa (Ach.) Fr. 
 
-Genus Cladonia 
-
 Species Cladonia umbricola Tønsberg & Ahti 
-
-Genus Cladonia 
 
 Species Cladonia uncialis 
 
@@ -4643,8 +4067,6 @@ Species Cladonia uncialis
 Genus Lopadium 
 
 Species Lopadium coralloideum (Nyl.) Lynge 
-
-Genus Lopadium 
 
 Species Lopadium pezizoideum 
 
@@ -4664,51 +4086,27 @@ Genus Lecanora
 
 Species Lecanora boligera (Th. Fr.) Hedl. 
 
-Genus Lecanora 
-
 Species Lecanora chlarotera Nyl. 
-
-Genus Lecanora 
 
 Species Lecanora circumborealis Brodo & Vitik. 
 
-Genus Lecanora 
-
 Species Lecanora farinaria 
-
-Genus Lecanora 
 
 Species Lecanora fuliginosa Brodo 
 
-Genus Lecanora 
-
 Species Lecanora fuscescens (Sommerf.) Nyl. 
-
-Genus Lecanora 
 
 Species Lecanora hagenii 
 
-Genus Lecanora 
-
 Species Lecanora piniperda Körb. 
-
-Genus Lecanora 
 
 Species Lecanora polytropa (Hoffm.) Rabenh. 
 
-Genus Lecanora 
-
 Species Lecanora pulicaris (Pers.) Ach. 
-
-Genus Lecanora 
 
 Species Lecanora rupicola (L.) Zahlbr. 
 
-Genus Lecanora 
-
 Species Lecanora symmicta (Ach.) Ach. 
-
-Genus Lecanora 
 
 Species Lecanora varia (Hoffm.) Ach. 
 
@@ -4716,11 +4114,7 @@ Genus Lecidella
 
 Species Lecidella elaeochroma (Ach.) M. Choisy 
 
-Genus Lecidella 
-
 Species Lecidella euphorea (Flörke) Hertel 
-
-Genus Lecidella 
 
 Species Lecidella wulfenii (Hepp) Körb. 
 
@@ -4734,11 +4128,7 @@ Genus Mycoblastus
 
 Species Mycoblastus affinis (Schaer.) T. Schauer 
 
-Genus Mycoblastus 
-
 Species Mycoblastus alpinus (Fr.) Hellb. 
-
-Genus Mycoblastus 
 
 Species Mycoblastus sanguinarius (L.) Norman 
 
@@ -4747,8 +4137,6 @@ Species Mycoblastus sanguinarius (L.) Norman
 Genus Alectoria 
 
 Species Alectoria nigricans 
-
-Genus Alectoria 
 
 Species Alectoria sarmentosa 
 
@@ -4764,8 +4152,6 @@ Genus Asahinea
 
 Species Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb. 
 
-Genus Asahinea 
-
 Species Asahinea scholanderi 
 
 Genus Brodoa 
@@ -4780,35 +4166,19 @@ Genus Bryoria
 
 Species Bryoria capillaris (Ach.) Brodo & D. Hawksw. 
 
-Genus Bryoria 
-
 Species Bryoria carlottae Brodo & D. Hawksw. 
-
-Genus Bryoria 
 
 Species Bryoria fremontii (Tuck.) Brodo & D. Hawksw. 
 
-Genus Bryoria 
-
 Species Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw. 
-
-Genus Bryoria 
 
 Species Bryoria glabra (Motyka) Brodo & D. Hawksw. 
 
-Genus Bryoria 
-
 Species Bryoria lanestris (Ach.) Brodo & D. Hawksw. 
-
-Genus Bryoria 
 
 Species Bryoria nitidula (Th. Fr.) Brodo & D. Hawksw. 
 
-Genus Bryoria 
-
 Species Bryoria pseudofuscescens (Gyeln.) Brodo & D. Hawksw. 
-
-Genus Bryoria 
 
 Species Bryoria simplicior (Vain.) Brodo & D. Hawksw. 
 
@@ -4816,39 +4186,21 @@ Genus Cetraria
 
 Species Cetraria commixta (Nyl.) Th. Fr. 
 
-Genus Cetraria 
-
 Species Cetraria cucullata (Bellardi) Ach. 
-
-Genus Cetraria 
 
 Species Cetraria ericetorum Opiz 
 
-Genus Cetraria 
-
 Species Cetraria hepatizon (Ach.) Vain. 
-
-Genus Cetraria 
 
 Species Cetraria islandica (L.) Ach. 
 
-Genus Cetraria 
-
 Species Cetraria kamczatica 
-
-Genus Cetraria 
 
 Species Cetraria laevigata 
 
-Genus Cetraria 
-
 Species Cetraria nigricans Nyl. 
 
-Genus Cetraria 
-
 Species Cetraria nigricascens 
-
-Genus Cetraria 
 
 Species Cetraria nivalis (L.) Ach. 
 
@@ -4868,31 +4220,17 @@ Genus Hypogymnia
 
 Species Hypogymnia austerodes (Nyl.) Räsänen 
 
-Genus Hypogymnia 
-
 Species Hypogymnia bitteri (Lynge) Ahti 
-
-Genus Hypogymnia 
 
 Species Hypogymnia duplicata 
 
-Genus Hypogymnia 
-
 Species Hypogymnia enteromorpha 
-
-Genus Hypogymnia 
 
 Species Hypogymnia metaphysodes 
 
-Genus Hypogymnia 
-
 Species Hypogymnia occidentalis L.H. Pike 
 
-Genus Hypogymnia 
-
 Species Hypogymnia physodes (L.) Nyl. 
-
-Genus Hypogymnia 
 
 Species Hypogymnia rugosa 
 
@@ -4904,15 +4242,9 @@ Genus Melanelia
 
 Species Melanelia olivacea 
 
-Genus Melanelia 
-
 Species Melanelia panniformis 
 
-Genus Melanelia 
-
 Species Melanelia stygia 
-
-Genus Melanelia 
 
 Species Melanelia subaurifera 
 
@@ -4920,31 +4252,19 @@ Genus Parmelia
 
 Species Parmelia hygrophila Goward & Ahti 
 
-Genus Parmelia 
-
 Species Parmelia omphalodes (L.) Ach. 
-
-Genus Parmelia 
 
 Species Parmelia saxatilis (L.) Ach. 
 
-Genus Parmelia 
-
 Species Parmelia skultii Hale 
 
-Genus Parmelia 
-
 Species Parmelia squarrosa 
-
-Genus Parmelia 
 
 Species Parmelia sulcata Taylor 
 
 Genus Parmeliopsis 
 
 Species Parmeliopsis ambigua (Wulfen) Nyl. 
-
-Genus Parmeliopsis 
 
 Species Parmeliopsis hyperopta (Ach.) Arnold 
 
@@ -4956,8 +4276,6 @@ Genus Pseudephebe
 
 Species Pseudephebe minuscula (Arnold) Brodo & D. Hawksw. 
 
-Genus Pseudephebe 
-
 Species Pseudephebe pubescens (L.) M. Choisy 
 
 Genus Rhizoplaca 
@@ -4968,23 +4286,15 @@ Genus Tuckermannopsis
 
 Species Tuckermannopsis chlorophylla (Willd.) Hale 
 
-Genus Tuckermannopsis 
-
 Species Tuckermannopsis sepincola (Ehrh.) Hale 
 
 Genus Usnea 
 
 Species Usnea lapponica Vain. 
 
-Genus Usnea 
-
 Species Usnea scabrata Nyl. 
 
-Genus Usnea 
-
 Species Usnea subfloridana Stirt. 
-
-Genus Usnea 
 
 Species Usnea substerilis Motyka 
 
@@ -5002,8 +4312,6 @@ Genus Biatora
 
 Species Biatora pallens 
 
-Genus Biatora 
-
 Species Biatora vernalis (L.) Fr. 
 
 Genus Catinaria 
@@ -5018,15 +4326,11 @@ Genus Japewia
 
 Species Japewia subaurifera Muhr & Tønsberg 
 
-Genus Japewia 
-
 Species Japewia tornoensis (Nyl.) Tønsberg 
 
 Genus Lecania 
 
 Species Lecania cyrtella (Ach.) Th. Fr. 
-
-Genus Lecania 
 
 Species Lecania dubitans (Nyl.) A.L. Sm. 
 
@@ -5034,19 +4338,11 @@ Genus Ramalina
 
 Species Ramalina dilacerata (Hoffm.) Hoffm. 
 
-Genus Ramalina 
-
 Species Ramalina farinacea (L.) Ach. 
-
-Genus Ramalina 
 
 Species Ramalina intermedia 
 
-Genus Ramalina 
-
 Species Ramalina obtusata 
-
-Genus Ramalina 
 
 Species Ramalina roesleri 
 
@@ -5056,8 +4352,6 @@ Genus Sphaerophorus
 
 Species Sphaerophorus fragilis 
 
-Genus Sphaerophorus 
-
 Species Sphaerophorus globosus 
 
 ###### Family Stereocaulaceae 
@@ -5066,31 +4360,19 @@ Genus Lepraria
 
 Species Lepraria incana (L.) Ach. 
 
-Genus Lepraria 
-
 Species Lepraria neglecta Vain. 
 
 Genus Stereocaulon 
 
 Species Stereocaulon alpinum 
 
-Genus Stereocaulon 
-
 Species Stereocaulon arenarium 
-
-Genus Stereocaulon 
 
 Species Stereocaulon botryosum 
 
-Genus Stereocaulon 
-
 Species Stereocaulon intermedium 
 
-Genus Stereocaulon 
-
 Species Stereocaulon paschale 
-
-Genus Stereocaulon 
 
 Species Stereocaulon rivulorum 
 
@@ -5102,8 +4384,6 @@ Genus Lecidea
 
 Species Lecidea leprarioides 
 
-Genus Lecidea 
-
 Species Lecidea nylanderi 
 
 ###### Family Porpidiaceae 
@@ -5111,8 +4391,6 @@ Species Lecidea nylanderi
 Genus Bellemerea 
 
 Species Bellemerea alpina (Sommerf.) Clauzade & Cl. Roux 
-
-Genus Bellemerea 
 
 Species Bellemerea subsorediza (Lynge) R. Sant. 
 
@@ -5136,19 +4414,13 @@ Genus Collema
 
 Species Collema furfuraceum (Arnold) Du Rietz 
 
-Genus Collema 
-
 Species Collema subflaccidum Degel. 
 
 Genus Leptogium 
 
 Species Leptogium burnetiae 
 
-Genus Leptogium 
-
 Species Leptogium saturninum (Dicks.) Nyl. 
-
-Genus Leptogium 
 
 Species Leptogium teretiusculum (Wallr.) Arnold 
 
@@ -5158,15 +4430,9 @@ Genus Lobaria
 
 Species Lobaria hallii (Tuck.) Zahlbr. 
 
-Genus Lobaria 
-
 Species Lobaria linita 
 
-Genus Lobaria 
-
 Species Lobaria pulmonaria (L.) Hoffm. 
-
-Genus Lobaria 
 
 Species Lobaria scrobiculata 
 
@@ -5180,19 +4446,11 @@ Genus Nephroma
 
 Species Nephroma arcticum (L.) Torss. 
 
-Genus Nephroma 
-
 Species Nephroma bellum (Spreng.) Tuck. 
-
-Genus Nephroma 
 
 Species Nephroma expallidum (Nyl.) Nyl. 
 
-Genus Nephroma 
-
 Species Nephroma isidiosum 
-
-Genus Nephroma 
 
 Species Nephroma parile (Ach.) Ach. 
 
@@ -5216,71 +4474,37 @@ Genus Peltigera
 
 Species Peltigera aphthosa 
 
-Genus Peltigera 
-
 Species Peltigera britannica (Gyeln.) Holt.-Hartw. & Tønsberg 
-
-Genus Peltigera 
 
 Species Peltigera canina 
 
-Genus Peltigera 
-
 Species Peltigera collina (Ach.) Schrad. 
-
-Genus Peltigera 
 
 Species Peltigera degenii Gyeln. 
 
-Genus Peltigera 
-
 Species Peltigera didactyla (Nyl. ex Vain.) Goffinet & Hastings 
-
-Genus Peltigera 
 
 Species Peltigera kristinssonii Vitik. 
 
-Genus Peltigera 
-
 Species Peltigera leucophlebia (Nyl.) Gyeln. 
-
-Genus Peltigera 
 
 Species Peltigera malacea (Ach.) Funck 
 
-Genus Peltigera 
-
 Species Peltigera membranacea (Ach.) Nyl. 
-
-Genus Peltigera 
 
 Species Peltigera neckeri Hepp 
 
-Genus Peltigera 
-
 Species Peltigera neopolydactyla (Gyeln.) Gyeln. 
-
-Genus Peltigera 
 
 Species Peltigera polydactylon 
 
-Genus Peltigera 
-
 Species Peltigera ponojensis Gyeln. 
-
-Genus Peltigera 
 
 Species Peltigera praetextata (Flörke ex Sommerf.) Zopf 
 
-Genus Peltigera 
-
 Species Peltigera retifoveata Vitik. 
 
-Genus Peltigera 
-
 Species Peltigera rufescens (Weiss) Humb. 
-
-Genus Peltigera 
 
 Species Peltigera scabrosa Th. Fr. 
 
@@ -5298,27 +4522,15 @@ Genus Ochrolechia
 
 Species Ochrolechia androgyna (Hoffm.) Arnold 
 
-Genus Ochrolechia 
-
 Species Ochrolechia frigida (Sw.) Lynge 
-
-Genus Ochrolechia 
 
 Species Ochrolechia grimmiae Lynge 
 
-Genus Ochrolechia 
-
 Species Ochrolechia gyalectina 
-
-Genus Ochrolechia 
 
 Species Ochrolechia oregonensis H. Magn. 
 
-Genus Ochrolechia 
-
 Species Ochrolechia szatalaensis Verseghy 
-
-Genus Ochrolechia 
 
 Species Ochrolechia upsaliensis (L.) A. Massal. 
 
@@ -5326,27 +4538,15 @@ Genus Pertusaria
 
 Species Pertusaria alaskensis 
 
-Genus Pertusaria 
-
 Species Pertusaria carneopallida (Nyl.) Anzi ex Nyl. 
-
-Genus Pertusaria 
 
 Species Pertusaria dactylina (Ach.) Nyl. 
 
-Genus Pertusaria 
-
 Species Pertusaria oculata (Dicks.) Th. Fr. 
-
-Genus Pertusaria 
 
 Species Pertusaria ophthalmiza (Nyl.) Nyl. 
 
-Genus Pertusaria 
-
 Species Pertusaria subobducens 
-
-Genus Pertusaria 
 
 Species Pertusaria suboculata Brodo & Dibben 
 
@@ -5364,11 +4564,7 @@ Genus Buellia
 
 Species Buellia disciformis (Fr.) Mudd 
 
-Genus Buellia 
-
 Species Buellia griseovirens (Turner & Borrer ex Sm.) Almb. 
-
-Genus Buellia 
 
 Species Buellia punctata (Hoffm.) A. Massal. 
 
@@ -5384,19 +4580,11 @@ Genus Physcia
 
 Species Physcia adscendens (Th. Fr.) H. Olivier 
 
-Genus Physcia 
-
 Species Physcia aipolia (Ehrh. ex Humb.) Fürnr. 
-
-Genus Physcia 
 
 Species Physcia caesia (Hoffm.) Fürnr. 
 
-Genus Physcia 
-
 Species Physcia dubia (Hoffm.) Lettau 
-
-Genus Physcia 
 
 Species Physcia stellaris (L.) Nyl. 
 
@@ -5404,19 +4592,11 @@ Genus Rinodina
 
 Species Rinodina degeliana 
 
-Genus Rinodina 
-
 Species Rinodina efflorescens Malme 
-
-Genus Rinodina 
 
 Species Rinodina mniaraea (Ach.) Körb. 
 
-Genus Rinodina 
-
 Species Rinodina septentrionalis Malme 
-
-Genus Rinodina 
 
 Species Rinodina turfacea (Wahlenb.) Körb. 
 
@@ -5426,11 +4606,7 @@ Genus Caloplaca
 
 Species Caloplaca holocarpa (Hoffm.) A.E. Wade 
 
-Genus Caloplaca 
-
 Species Caloplaca nivalis (Körb.) Th. Fr. 
-
-Genus Caloplaca 
 
 Species Caloplaca tetraspora (Nyl.) H. Olivier 
 
@@ -5438,11 +4614,7 @@ Genus Xanthoria
 
 Species Xanthoria candelaria 
 
-Genus Xanthoria 
-
 Species Xanthoria elegans (Link) Th. Fr. 
-
-Genus Xanthoria 
 
 Species Xanthoria polycarpa (Hoffm.) Rieber 
 
@@ -5454,23 +4626,13 @@ Genus Umbilicaria
 
 Species Umbilicaria caroliniana 
 
-Genus Umbilicaria 
-
 Species Umbilicaria deusta 
-
-Genus Umbilicaria 
 
 Species Umbilicaria hyperborea 
 
-Genus Umbilicaria 
-
 Species Umbilicaria proboscidea 
 
-Genus Umbilicaria 
-
 Species Umbilicaria torrefacta 
-
-Genus Umbilicaria 
 
 Species Umbillicaria hyperborea (Ach.) Hoffm. 
 
@@ -5517,8 +4679,6 @@ Species Amanita muscaria
 Genus Cortinarius 
 
 Species Cortinarius caperatus 
-
-Genus Cortinarius 
 
 Species Cortinarius lucorum (Fr.) Berger, 1846 
 
@@ -5650,8 +4810,6 @@ Genus Bryum
 
 Species Bryum caespiticium Hedw. 
 
-Genus Bryum 
-
 Species Bryum weigelii Spreng. in Biehler 
 
 Genus Leptobryum 
@@ -5662,19 +4820,11 @@ Genus Pohlia
 
 Species Pohlia cruda (Hedw.) Lindb. 
 
-Genus Pohlia 
-
 Species Pohlia elongata Hedw. 
-
-Genus Pohlia 
 
 Species Pohlia nutans (Hedw.) Lindb. 
 
-Genus Pohlia 
-
 Species Pohlia vexans (Limpr.) H. Lindb. 
-
-Genus Pohlia 
 
 Species Pohlia wahlenbergii (Web. & Mohr) Andrews 
 
@@ -5683,8 +4833,6 @@ Species Pohlia wahlenbergii (Web. & Mohr) Andrews
 Genus Cinclidium 
 
 Species Cinclidium stygium Sw. in Schrad. 
-
-Genus Cinclidium 
 
 Species Cinclidium subrotundum Lindb. 
 
@@ -5696,19 +4844,11 @@ Genus Plagiomnium
 
 Species Plagiomnium ciliare (C. Müll.) T. Kop. 
 
-Genus Plagiomnium 
-
 Species Plagiomnium ellipticum (Brid.) T. Kop. 
-
-Genus Plagiomnium 
 
 Species Plagiomnium insigne (Mitt.) T. Kop. 
 
-Genus Plagiomnium 
-
 Species Plagiomnium medium (Bruch & Schimp. in B.S.G.) T. Kop. 
-
-Genus Plagiomnium 
 
 Species Plagiomnium rostratum (Schrad.) T. Kop. 
 
@@ -5720,8 +4860,6 @@ Genus Rhizomnium
 
 Species Rhizomnium magnifolium (Horik.) T. Kop. 
 
-Genus Rhizomnium 
-
 Species Rhizomnium nudum (Britt. & Williams) T. Kop. 
 
 ##### Order Dicranales 
@@ -5731,8 +4869,6 @@ Species Rhizomnium nudum (Britt. & Williams) T. Kop.
 Genus Cynodontium 
 
 Species Cynodontium polycarpon (Hedw.) Schimp. 
-
-Genus Cynodontium 
 
 Species Cynodontium strumiferum (Hedw.) Lindb. 
 
@@ -5752,47 +4888,27 @@ Genus Dicranum
 
 Species Dicranum acutifolium (Lindb. & Arnell) C. Jens. ex Weinm. 
 
-Genus Dicranum 
-
 Species Dicranum brevifolium (Lindb.) Lindb. 
-
-Genus Dicranum 
 
 Species Dicranum elongatum Schleich. ex Schwaegr. 
 
-Genus Dicranum 
-
 Species Dicranum fuscescens Turn. 
-
-Genus Dicranum 
 
 Species Dicranum howellii Ren. & Card. 
 
-Genus Dicranum 
-
 Species Dicranum majus Sm. 
-
-Genus Dicranum 
 
 Species Dicranum montanum Hedw. 
 
-Genus Dicranum 
-
 Species Dicranum polysetum Sw. 
 
-Genus Dicranum 
-
 Species Dicranum scoparium Hedw. 
-
-Genus Dicranum 
 
 Species Dicranum tauricum Sapeh. 
 
 Genus Oncophorus 
 
 Species Oncophorus virens (Hedw.) Brid. 
-
-Genus Oncophorus 
 
 Species Oncophorus wahlenbergii Brid. 
 
@@ -5814,35 +4930,21 @@ Genus Grimmia
 
 Species Grimmia anodon Bruch & Schimp. in B.S.G. 
 
-Genus Grimmia 
-
 Species Grimmia donniana Sm. 
 
 Genus Racomitrium 
 
 Species Racomitrium affine (Schleich. ex Web. & Mohr) Lindb. 
 
-Genus Racomitrium 
-
 Species Racomitrium canescens (Hedw.) Brid. 
-
-Genus Racomitrium 
 
 Species Racomitrium ericoides (Web. ex Brid.) Brid. 
 
-Genus Racomitrium 
-
 Species Racomitrium heterostichum (Hedw.) Brid. 
-
-Genus Racomitrium 
 
 Species Racomitrium lanuginosum (Hedw.) Brid. 
 
-Genus Racomitrium 
-
 Species Racomitrium microcarpon (Hedw.) Brid. 
-
-Genus Racomitrium 
 
 Species Racomitrium sudeticum (Funck) Bruch & Schimp. in B.S.G. 
 
@@ -5861,8 +4963,6 @@ Species Amblystegium serpens (Hedw.) Schimp. in B.S.G.
 Genus Campylium 
 
 Species Campylium hispidulum (Brid.) Mitt. 
-
-Genus Campylium 
 
 Species Campylium stellatum (Hedw.) C. Jens. 
 
@@ -5904,39 +5004,23 @@ Genus Brachythecium
 
 Species Brachythecium albicans (Hedw.) Schimp. in B.S.G. 
 
-Genus Brachythecium 
-
 Species Brachythecium calcareum Kindb. 
-
-Genus Brachythecium 
 
 Species Brachythecium oedipodium (Mitt.) Jaeg. 
 
-Genus Brachythecium 
-
 Species Brachythecium oxycladon (Brid.) Jaeg. 
-
-Genus Brachythecium 
 
 Species Brachythecium reflexum (Starke in Web. & Mohr) Schimp. in B.S.G. 
 
-Genus Brachythecium 
-
 Species Brachythecium rutabulum (Hedw.) Schimp. in B.S.G. 
 
-Genus Brachythecium 
-
 Species Brachythecium salebrosum (Web. & Mohr) Schimp. in B.S.G. 
-
-Genus Brachythecium 
 
 Species Brachythecium velutinum (Hedw.) Schimp. in B.S.G. 
 
 Genus Eurhynchium 
 
 Species Eurhynchium oreganum (Sull.) Jaeg. 
-
-Genus Eurhynchium 
 
 Species Eurhynchium pulchellum (Hedw.) Jenn. 
 
@@ -5954,11 +5038,7 @@ Genus Calliergon
 
 Species Calliergon cordifolium (Hedw.) Kindb. 
 
-Genus Calliergon 
-
 Species Calliergon giganteum (Schimp.) Kindb. 
-
-Genus Calliergon 
 
 Species Calliergon stramineum (Brid.) Kindb. 
 
@@ -5996,11 +5076,7 @@ Genus Rhytidiadelphus
 
 Species Rhytidiadelphus loreus (Hedw.) Warnst. 
 
-Genus Rhytidiadelphus 
-
 Species Rhytidiadelphus squarrosus (Hedw.) Warnst. 
-
-Genus Rhytidiadelphus 
 
 Species Rhytidiadelphus triquetrus (Hedw.) Warnst. 
 
@@ -6010,11 +5086,7 @@ Genus Hypnum
 
 Species Hypnum circinale Hook. 
 
-Genus Hypnum 
-
 Species Hypnum revolutum (Mitt.) Lindb. 
-
-Genus Hypnum 
 
 Species Hypnum subimponens Lesq. 
 
@@ -6042,8 +5114,6 @@ Genus Plagiothecium
 
 Species Plagiothecium denticulatum (Hedw.) Schimp. in B.S.G. 
 
-Genus Plagiothecium 
-
 Species Plagiothecium laetum Schimp. in B.S.G. 
 
 ###### Family Pterigynandraceae 
@@ -6066,8 +5136,6 @@ Genus Orthotrichum
 
 Species Orthotrichum obtusifolium Brid. 
 
-Genus Orthotrichum 
-
 Species Orthotrichum rupestre Schleich. ex Schwaegr. 
 
 ##### Order Pottiales 
@@ -6086,8 +5154,6 @@ Genus Tortula
 
 Species Tortula norvegica (Web.) Wahlenb. ex Lindb. 
 
-Genus Tortula 
-
 Species Tortula ruralis (Hedw.) Gaertn. et al. 
 
 ##### Order Rhizogoniales 
@@ -6098,11 +5164,7 @@ Genus Aulacomnium
 
 Species Aulacomnium androgynum (Hedw.) Schwaegr. 
 
-Genus Aulacomnium 
-
 Species Aulacomnium palustre (Hedw.) Schwaegr. 
-
-Genus Aulacomnium 
 
 Species Aulacomnium turgidum (Wahlenb.) Schwaegr. 
 
@@ -6113,8 +5175,6 @@ Species Aulacomnium turgidum (Wahlenb.) Schwaegr.
 Genus Meesia 
 
 Species Meesia longiseta Hedw. 
-
-Genus Meesia 
 
 Species Meesia uliginosa Hedw. 
 
@@ -6150,8 +5210,6 @@ Genus Pogonatum
 
 Species Pogonatum contortum (Brid.) Lesq. 
 
-Genus Pogonatum 
-
 Species Pogonatum urnigerum (Hedw.) P. Beauv. 
 
 Genus Polytrichastrum 
@@ -6162,27 +5220,15 @@ Genus Polytrichum
 
 Species Polytrichum commune Hedw. 
 
-Genus Polytrichum 
-
 Species Polytrichum juniperinum Hedw. 
-
-Genus Polytrichum 
 
 Species Polytrichum longisetum Brid. 
 
-Genus Polytrichum 
-
 Species Polytrichum lyallii (Mitt.) Kindb. 
-
-Genus Polytrichum 
 
 Species Polytrichum piliferum Hedw. 
 
-Genus Polytrichum 
-
 Species Polytrichum sexangulare Brid. 
-
-Genus Polytrichum 
 
 Species Polytrichum strictum Brid. 
 
@@ -6196,63 +5242,33 @@ Genus Sphagnum
 
 Species Sphagnum angustifolium (C. Jens. ex Russ.) C. Jens. in Tolf 
 
-Genus Sphagnum 
-
 Species Sphagnum balticum (Russ.) C. Jens. 
-
-Genus Sphagnum 
 
 Species Sphagnum capillifolium (Ehrh.) Hedw. 
 
-Genus Sphagnum 
-
 Species Sphagnum compactum DC. in Lam. & DC. 
-
-Genus Sphagnum 
 
 Species Sphagnum fuscum (Schimp.) Klinggr. 
 
-Genus Sphagnum 
-
 Species Sphagnum girgensohnii Russ. 
-
-Genus Sphagnum 
 
 Species Sphagnum magellanicum Brid. 
 
-Genus Sphagnum 
-
 Species Sphagnum nitidum Warnst. 
-
-Genus Sphagnum 
 
 Species Sphagnum papillosum Lindb. 
 
-Genus Sphagnum 
-
 Species Sphagnum riparium Ångstr. 
-
-Genus Sphagnum 
 
 Species Sphagnum russowii Warnst. 
 
-Genus Sphagnum 
-
 Species Sphagnum squarrosum Crome 
-
-Genus Sphagnum 
 
 Species Sphagnum steerei Andrus 
 
-Genus Sphagnum 
-
 Species Sphagnum subsecundum Nees in Sturm 
 
-Genus Sphagnum 
-
 Species Sphagnum teres (Schimp.) Ångstr. in Hartm. 
-
-Genus Sphagnum 
 
 Species Sphagnum warnstorfii Russ. 
 
@@ -6297,8 +5313,6 @@ Species Barbilophozia attenuata (Mart.) Loeske
 Genus Barbilophozia 
 
 Species Barbilophozia barbata (Schmidel ex Schreb.) Loeske 
-
-Genus Barbilophozia 
 
 Species Barbilophozia hatcheri (A. Evans) Loeske 
 
@@ -6352,8 +5366,6 @@ Genus Fuscocephaloziopsis
 
 Species Cephalozia lunulifolia (Dumort.) Dumort. 
 
-Genus Fuscocephaloziopsis 
-
 Species Pleurocladula albescens (Hook.) Grolle 
 
 ###### Family Cephaloziellaceae 
@@ -6367,8 +5379,6 @@ Species Lophozia obtusa (Lindb.) A. Evans
 Genus Gymnomitrion 
 
 Species Gymnomitrion corralioides Nees 
-
-Genus Gymnomitrion 
 
 Species Gymnomitrion pacificum Grolle 
 
@@ -6414,8 +5424,6 @@ Genus Diplophyllum
 
 Species Diplophyllum obtusifolium (Hook.) Dumort. 
 
-Genus Diplophyllum 
-
 Species Diplophyllum taxifolium (Wahlenb.) Dumort. 
 
 Genus Schistochilopsis 
@@ -6425,8 +5433,6 @@ Species Lophozia incisa (Schrad.) Dumort.
 Genus Scapania 
 
 Species Scapania hyperborea Jørg. 
-
-Genus Scapania 
 
 Species Scapania scandica (Arnell & H. Buch) Macvicar 
 
@@ -6453,8 +5459,6 @@ Species Porella cordaeana (Huebener) Moore
 Genus Ptilidium 
 
 Species Ptilidium ciliare (L.) Hampe 
-
-Genus Ptilidium 
 
 Species Ptilidium pulcherrimum (Weber) Vain. 
 
@@ -6486,8 +5490,6 @@ Genus Isoetes
 
 Species Isoetes echinospora Durieu 
 
-Genus Isoetes 
-
 Species Isoetes maritima Underw. 
 
 ##### Order Lycopodiales 
@@ -6498,19 +5500,11 @@ Genus Lycopodium
 
 Species Lycopodium alpinum L. 
 
-Genus Lycopodium 
-
 Species Lycopodium annotinum L. 
-
-Genus Lycopodium 
 
 Species Lycopodium clavatum L. 
 
-Genus Lycopodium 
-
 Species Lycopodium complanatum L. 
-
-Genus Lycopodium 
 
 Species Lycopodium lagopus (Laest. ex Hartm.) G. Zinserl. ex Kuzen. 
 
@@ -6534,8 +5528,6 @@ Genus Lemna
 
 Species Lemna minor L. 
 
-Genus Lemna 
-
 Species Lemna trisulca L. 
 
 ###### Family Juncaginaceae 
@@ -6543,8 +5535,6 @@ Species Lemna trisulca L.
 Genus Triglochin 
 
 Species Triglochin maritima L. 
-
-Genus Triglochin 
 
 Species Triglochin palustris L. 
 
@@ -6554,31 +5544,17 @@ Genus Potamogeton
 
 Species Potamogeton gramineus L. 
 
-Genus Potamogeton 
-
 Species Potamogeton natans L. 
-
-Genus Potamogeton 
 
 Species Potamogeton obtusifolius Mert. & W.D.J. Koch 
 
-Genus Potamogeton 
-
 Species Potamogeton praelongus Wulfen 
-
-Genus Potamogeton 
 
 Species Potamogeton pusillus L. 
 
-Genus Potamogeton 
-
 Species Potamogeton richardsonii (A. Benn.) Rydb. 
 
-Genus Potamogeton 
-
 Species Potamogeton robbinsii Oakes 
-
-Genus Potamogeton 
 
 Species Potamogeton zosteriformis Fernald 
 
@@ -6610,15 +5586,11 @@ Genus Angelica
 
 Species Angelica genuflexa Nutt. 
 
-Genus Angelica 
-
 Species Angelica lucida L. 
 
 Genus Cicuta 
 
 Species Cicuta douglasii (DC.) J.M. Coult. & Rose 
-
-Genus Cicuta 
 
 Species Cicuta virosa L. 
 
@@ -6682,8 +5654,6 @@ Genus Platanthera
 
 Species Platanthera dilatata (Pursh) Lindl. ex L.C. Beck 
 
-Genus Platanthera 
-
 Species Platanthera obtusata (Banks ex Pursh) Lindl. 
 
 Genus Spiranthes 
@@ -6698,15 +5668,11 @@ Genus Achillea
 
 Species Achillea millefolium L. 
 
-Genus Achillea 
-
 Species Achillea ptarmica L. 
 
 Genus Antennaria 
 
 Species Antennaria alpina (L.) Gaertn. 
-
-Genus Antennaria 
 
 Species Antennaria monocephala DC. 
 
@@ -6714,11 +5680,7 @@ Genus Arnica
 
 Species Arnica chamissonis Less. 
 
-Genus Arnica 
-
 Species Arnica latifolia Bong. 
-
-Genus Arnica 
 
 Species Arnica lessingii Greene 
 
@@ -6750,15 +5712,9 @@ Genus Erigeron
 
 Species Erigeron acris L. 
 
-Genus Erigeron 
-
 Species Erigeron compositus Pursh 
 
-Genus Erigeron 
-
 Species Erigeron humilis Graham 
-
-Genus Erigeron 
 
 Species Erigeron peregrinus (Banks ex Pursh) Greene 
 
@@ -6774,15 +5730,9 @@ Genus Hieracium
 
 Species Hieracium aurantiacum L. 
 
-Genus Hieracium 
-
 Species Hieracium caespitosum Dumort. 
 
-Genus Hieracium 
-
 Species Hieracium triste Willd. ex Spreng. 
-
-Genus Hieracium 
 
 Species Hieracium umbellatum L. 
 
@@ -6794,8 +5744,6 @@ Genus Leucanthemum
 
 Species Leucanthemum maximum (Ramond) DC. 
 
-Genus Leucanthemum 
-
 Species Leucanthemum vulgare Lam. 
 
 Genus Matricaria 
@@ -6805,8 +5753,6 @@ Species Matricaria discoidea DC.
 Genus Packera 
 
 Species Packera cymbalaria (Pursh) W.A. Weber & Á. Löve 
-
-Genus Packera 
 
 Species Packera indecora (Greene) Á. Löve & D. Löve 
 
@@ -6822,23 +5768,15 @@ Genus Senecio
 
 Species Senecio integerrimus Nutt. 
 
-Genus Senecio 
-
 Species Senecio lugens Richardson 
 
-Genus Senecio 
-
 Species Senecio triangularis Hook. 
-
-Genus Senecio 
 
 Species Senecio vulgaris L. 
 
 Genus Solidago 
 
 Species Solidago canadensis L. 
-
-Genus Solidago 
 
 Species Solidago multiradiata Aiton 
 
@@ -6854,15 +5792,9 @@ Genus Taraxacum
 
 Species Taraxacum ceratophorum (Ledeb.) DC. 
 
-Genus Taraxacum 
-
 Species Taraxacum erythrospermum Andrz. ex Besser 
 
-Genus Taraxacum 
-
 Species Taraxacum officinale F.H. Wigg. 
-
-Genus Taraxacum 
 
 Species Taraxacum phymatocarpum J. Vahl 
 
@@ -6875,8 +5807,6 @@ Species Tripleurospermum inodorum (L.) Sch. Bip.
 Genus Campanula 
 
 Species Campanula lasiocarpa Cham. 
-
-Genus Campanula 
 
 Species Campanula rotundifolia L. 
 
@@ -6940,11 +5870,7 @@ Genus Cardamine
 
 Species Cardamine bellidifolia L. 
 
-Genus Cardamine 
-
 Species Cardamine pratensis L. 
-
-Genus Cardamine 
 
 Species Cardamine umbellata Greene 
 
@@ -6952,19 +5878,11 @@ Genus Draba
 
 Species Draba borealis DC. 
 
-Genus Draba 
-
 Species Draba incerta Payson 
-
-Genus Draba 
 
 Species Draba juvenilis Kom. 
 
-Genus Draba 
-
 Species Draba nivalis Lilj. 
-
-Genus Draba 
 
 Species Draba stenoloba Ledeb. 
 
@@ -6972,15 +5890,11 @@ Genus Erysimum
 
 Species Erysimum cheiranthoides L. 
 
-Genus Erysimum 
-
 Species Erysimum X marshallii (Henfr.) Bois 
 
 Genus Lepidium 
 
 Species Lepidium densiflorum Schrad. 
-
-Genus Lepidium 
 
 Species Lepidium ramosissimum A. Nelson 
 
@@ -7012,8 +5926,6 @@ Genus Chenopodium
 
 Species Chenopodium album L. 
 
-Genus Chenopodium 
-
 Species Chenopodium berlandieri Moq. 
 
 Genus Salicornia 
@@ -7026,23 +5938,15 @@ Genus Cerastium
 
 Species Cerastium arvense L. 
 
-Genus Cerastium 
-
 Species Cerastium beeringianum Cham. & Schltdl. 
 
-Genus Cerastium 
-
 Species Cerastium fischerianum Ser. 
-
-Genus Cerastium 
 
 Species Cerastium fontanum Baumg. 
 
 Genus Dianthus 
 
 Species Dianthus deltoides L. 
-
-Genus Dianthus 
 
 Species Dianthus repens Willd. 
 
@@ -7054,11 +5958,7 @@ Genus Minuartia
 
 Species Minuartia arctica (Steven ex Ser.) Graebn. 
 
-Genus Minuartia 
-
 Species Minuartia macrocarpa (Pursh) Ostenf. 
-
-Genus Minuartia 
 
 Species Minuartia rubella (Wahlenb.) Hiern 
 
@@ -7070,15 +5970,9 @@ Genus Silene
 
 Species Silene acaulis (L.) Jacq. 
 
-Genus Silene 
-
 Species Silene armeria L. 
 
-Genus Silene 
-
 Species Silene latifolia Poir. 
-
-Genus Silene 
 
 Species Silene noctiflora L. 
 
@@ -7094,19 +5988,11 @@ Genus Stellaria
 
 Species Stellaria calycantha (Ledeb.) Bong. 
 
-Genus Stellaria 
-
 Species Stellaria crispa Cham. & Schltdl. 
-
-Genus Stellaria 
 
 Species Stellaria humifusa Rottb. 
 
-Genus Stellaria 
-
 Species Stellaria longipes Goldie 
-
-Genus Stellaria 
 
 Species Stellaria media (L.) Vill. 
 
@@ -7115,8 +6001,6 @@ Species Stellaria media (L.) Vill.
 Genus Drosera 
 
 Species Drosera anglica Huds. 
-
-Genus Drosera 
 
 Species Drosera rotundifolia L. 
 
@@ -7144,8 +6028,6 @@ Genus Persicaria
 
 Species Persicaria amphibia (L.) Delarbre 
 
-Genus Persicaria 
-
 Species Persicaria maculosa Gray 
 
 Genus Polygonum 
@@ -7156,19 +6038,11 @@ Genus Rumex
 
 Species Rumex acetosella L. 
 
-Genus Rumex 
-
 Species Rumex arcticus Trautv. 
-
-Genus Rumex 
 
 Species Rumex crispus L. 
 
-Genus Rumex 
-
 Species Rumex longifolius DC. 
-
-Genus Rumex 
 
 Species Rumex occidentalis S. Watson 
 
@@ -7188,8 +6062,6 @@ Genus Cornus
 
 Species Cornus canadensis L. 
 
-Genus Cornus 
-
 Species Cornus suecica L. 
 
 ##### Order Dipsacales 
@@ -7208,8 +6080,6 @@ Genus Viburnum
 
 Species Viburnum edule (Michx.) Raf. 
 
-Genus Viburnum 
-
 Species Viburnum opulus L. 
 
 ###### Family Linnaeaceae 
@@ -7223,8 +6093,6 @@ Species Linnaea borealis L.
 Genus Valeriana 
 
 Species Valeriana capitata Pall. ex Link 
-
-Genus Valeriana 
 
 Species Valeriana sitchensis Bong. 
 
@@ -7256,15 +6124,11 @@ Genus Arctous
 
 Species Arctous alpina (L.) Nied. 
 
-Genus Arctous 
-
 Species Arctous rubra (Rehder & Wilson) Nakai 
 
 Genus Cassiope 
 
 Species Cassiope lycopodioides (Pall.) D. Don 
-
-Genus Cassiope 
 
 Species Cassiope tetragona (L.) D. Don 
 
@@ -7279,8 +6143,6 @@ Species Empetrum nigrum L.
 Genus Harrimanella 
 
 Species Harrimanella hypnoides (L.) Coville 
-
-Genus Harrimanella 
 
 Species Harrimanella stelleriana (Pall.) Coville 
 
@@ -7304,15 +6166,9 @@ Genus Pyrola
 
 Species Pyrola asarifolia Michx. 
 
-Genus Pyrola 
-
 Species Pyrola chlorantha Sw. 
 
-Genus Pyrola 
-
 Species Pyrola grandiflora Radius 
-
-Genus Pyrola 
 
 Species Pyrola minor L. 
 
@@ -7320,27 +6176,17 @@ Genus Rhododendron
 
 Species Rhododendron groenlandicum (Oeder) Kron & Judd 
 
-Genus Rhododendron 
-
 Species Rhododendron tomentosum Harmaja 
 
 Genus Vaccinium 
 
 Species Vaccinium cespitosum Michx. 
 
-Genus Vaccinium 
-
 Species Vaccinium ovalifolium Sm. 
-
-Genus Vaccinium 
 
 Species Vaccinium oxycoccos L. 
 
-Genus Vaccinium 
-
 Species Vaccinium uliginosum L. 
-
-Genus Vaccinium 
 
 Species Vaccinium vitis-idaea L. 
 
@@ -7350,11 +6196,7 @@ Genus Polemonium
 
 Species Polemonium boreale Adams 
 
-Genus Polemonium 
-
 Species Polemonium caeruleum L. 
-
-Genus Polemonium 
 
 Species Polemonium pulcherrimum Hook. 
 
@@ -7380,11 +6222,7 @@ Genus Astragalus
 
 Species Astragalus alpinus L. 
 
-Genus Astragalus 
-
 Species Astragalus polaris (Seem.) Benth. ex Hook. f. 
-
-Genus Astragalus 
 
 Species Astragalus umbellatus Bunge 
 
@@ -7400,8 +6238,6 @@ Genus Lathyrus
 
 Species Lathyrus japonicus Willd. 
 
-Genus Lathyrus 
-
 Species Lathyrus palustris L. 
 
 Genus Lotus 
@@ -7412,11 +6248,7 @@ Genus Lupinus
 
 Species Lupinus arcticus S. Watson 
 
-Genus Lupinus 
-
 Species Lupinus nootkatensis Donn ex Sims 
-
-Genus Lupinus 
 
 Species Lupinus polyphyllus Lindl. 
 
@@ -7428,19 +6260,13 @@ Genus Melilotus
 
 Species Melilotus alba Medik. 
 
-Genus Melilotus 
-
 Species Melilotus officinalis (L.) Lam. 
 
 Genus Oxytropis 
 
 Species Oxytropis campestris (L.) DC. 
 
-Genus Oxytropis 
-
 Species Oxytropis nigrescens (Pall.) Fisch. ex DC. 
-
-Genus Oxytropis 
 
 Species Oxytropis splendens Douglas ex Hook. 
 
@@ -7448,11 +6274,7 @@ Genus Trifolium
 
 Species Trifolium hybridum L. 
 
-Genus Trifolium 
-
 Species Trifolium pratense L. 
-
-Genus Trifolium 
 
 Species Trifolium repens L. 
 
@@ -7468,19 +6290,11 @@ Genus Betula
 
 Species Betula glandulosa Michx. 
 
-Genus Betula 
-
 Species Betula kenaica W.H. Evans 
-
-Genus Betula 
 
 Species Betula nana L. 
 
-Genus Betula 
-
 Species Betula neoalaskana Sarg. 
-
-Genus Betula 
 
 Species Betula pendula Roth 
 
@@ -7498,8 +6312,6 @@ Genus Gentiana
 
 Species Gentiana douglasiana Bong. 
 
-Genus Gentiana 
-
 Species Gentiana glauca Pall. 
 
 Genus Gentianella 
@@ -7516,11 +6328,7 @@ Genus Galium
 
 Species Galium boreale L. 
 
-Genus Galium 
-
 Species Galium trifidum L. 
-
-Genus Galium 
 
 Species Galium triflorum Michx. 
 
@@ -7540,8 +6348,6 @@ Genus Galeopsis
 
 Species Galeopsis bifida Boenn. 
 
-Genus Galeopsis 
-
 Species Galeopsis tetrahit L. 
 
 ###### Family Lentibulariaceae 
@@ -7550,15 +6356,11 @@ Genus Pinguicula
 
 Species Pinguicula villosa L. 
 
-Genus Pinguicula 
-
 Species Pinguicula vulgaris L. 
 
 Genus Utricularia 
 
 Species Utricularia intermedia Hayne 
-
-Genus Utricularia 
 
 Species Utricularia vulgaris L. 
 
@@ -7580,23 +6382,13 @@ Genus Pedicularis
 
 Species Pedicularis capitata M.F. Adams 
 
-Genus Pedicularis 
-
 Species Pedicularis labradorica Wirsing 
-
-Genus Pedicularis 
 
 Species Pedicularis lanata Cham. & Schltdl. 
 
-Genus Pedicularis 
-
 Species Pedicularis macrodonta Richardson 
 
-Genus Pedicularis 
-
 Species Pedicularis parviflora Sm. 
-
-Genus Pedicularis 
 
 Species Pedicularis verticillata L. 
 
@@ -7620,8 +6412,6 @@ Genus Hippuris
 
 Species Hippuris tetraphylla L. f. 
 
-Genus Hippuris 
-
 Species Hippuris vulgaris L. 
 
 Genus Linaria 
@@ -7632,15 +6422,11 @@ Genus Plantago
 
 Species Plantago major L. 
 
-Genus Plantago 
-
 Species Plantago maritima L. 
 
 Genus Veronica 
 
 Species Veronica americana Schwein. ex Benth. 
-
-Genus Veronica 
 
 Species Veronica wormskjoldii Roem. & Schult. 
 
@@ -7678,8 +6464,6 @@ Genus Linum
 
 Species Linum grandiflorum Desf. 
 
-Genus Linum 
-
 Species Linum perenne L. 
 
 ###### Family Salicaceae 
@@ -7688,71 +6472,39 @@ Genus Populus
 
 Species Populus tremuloides Michx. 
 
-Genus Populus 
-
 Species Populus trichocarpa Torr. & A. Gray ex Hook. 
 
 Genus Salix 
 
 Species Salix alaxensis (Andersson) Coville 
 
-Genus Salix 
-
 Species Salix arctica Liebm. 
-
-Genus Salix 
 
 Species Salix barclayi Andersson 
 
-Genus Salix 
-
 Species Salix bebbiana Sarg. 
-
-Genus Salix 
 
 Species Salix commutata Bebb 
 
-Genus Salix 
-
 Species Salix fuscescens Andersson 
-
-Genus Salix 
 
 Species Salix glauca L. 
 
-Genus Salix 
-
 Species Salix lasiandra Benth. 
-
-Genus Salix 
 
 Species Salix myrtillifolia Andersson 
 
-Genus Salix 
-
 Species Salix niphoclada Rydb. 
-
-Genus Salix 
 
 Species Salix ovalifolia Trautv. 
 
-Genus Salix 
-
 Species Salix pulchra Cham. 
-
-Genus Salix 
 
 Species Salix reticulata L. 
 
-Genus Salix 
-
 Species Salix scouleriana Barratt ex Hook. 
 
-Genus Salix 
-
 Species Salix sitchensis Sanson ex Bong. 
-
-Genus Salix 
 
 Species Salix stolonifera Coville 
 
@@ -7762,23 +6514,13 @@ Genus Viola
 
 Species Viola adunca Sm. 
 
-Genus Viola 
-
 Species Viola epipsila Ledeb. 
-
-Genus Viola 
 
 Species Viola glabella Nutt. 
 
-Genus Viola 
-
 Species Viola langsdorffii Fisch. ex Ging. 
 
-Genus Viola 
-
 Species Viola renifolia A. Gray 
-
-Genus Viola 
 
 Species Viola selkirkii Pursh ex Goldie 
 
@@ -7790,8 +6532,6 @@ Genus Chamerion
 
 Species Chamerion angustifolium (L.) Holub 
 
-Genus Chamerion 
-
 Species Chamerion latifolium (L.) Holub 
 
 Genus Circaea 
@@ -7802,19 +6542,11 @@ Genus Epilobium
 
 Species Epilobium anagallidifolium Lam. 
 
-Genus Epilobium 
-
 Species Epilobium ciliatum Raf. 
-
-Genus Epilobium 
 
 Species Epilobium hornemannii Rchb. 
 
-Genus Epilobium 
-
 Species Epilobium lactiflorum Hausskn. 
-
-Genus Epilobium 
 
 Species Epilobium palustre L. 
 
@@ -7838,155 +6570,79 @@ Genus Carex
 
 Species Carex aquatilis Wahlenb. 
 
-Genus Carex 
-
 Species Carex bigelowii Torr. ex Schwein. 
-
-Genus Carex 
 
 Species Carex brunnescens (Pers.) Poir. 
 
-Genus Carex 
-
 Species Carex canescens L. 
-
-Genus Carex 
 
 Species Carex chordorrhiza Ehrh. ex L. f. 
 
-Genus Carex 
-
 Species Carex deflexa Hornem. 
-
-Genus Carex 
 
 Species Carex deweyana Schwein. 
 
-Genus Carex 
-
 Species Carex dioica L. 
-
-Genus Carex 
 
 Species Carex disperma Dewey 
 
-Genus Carex 
-
 Species Carex gynocrates Wormsk. ex Drejer 
-
-Genus Carex 
 
 Species Carex interior L.H. Bailey 
 
-Genus Carex 
-
 Species Carex laeviculmis Meinsh. 
-
-Genus Carex 
 
 Species Carex lasiocarpa Ehrh. 
 
-Genus Carex 
-
 Species Carex leptalea Wahlenb. 
-
-Genus Carex 
 
 Species Carex limosa L. 
 
-Genus Carex 
-
 Species Carex livida (Wahlenb.) Willd. 
-
-Genus Carex 
 
 Species Carex loliacea L. 
 
-Genus Carex 
-
 Species Carex lyngbyei Hornem. 
-
-Genus Carex 
 
 Species Carex macrochaeta C.A. Mey. 
 
-Genus Carex 
-
 Species Carex magellanica Lam. 
-
-Genus Carex 
 
 Species Carex membranacea Hook. 
 
-Genus Carex 
-
 Species Carex mertensii J.D. Prescott ex Bong. 
-
-Genus Carex 
 
 Species Carex microchaeta T. Holm 
 
-Genus Carex 
-
 Species Carex norvegica Retz. 
-
-Genus Carex 
 
 Species Carex pachystachya Cham. ex Steud. 
 
-Genus Carex 
-
 Species Carex pauciflora Lightf. 
-
-Genus Carex 
 
 Species Carex phaeocephala Piper 
 
-Genus Carex 
-
 Species Carex pluriflora Hultén 
-
-Genus Carex 
 
 Species Carex podocarpa R. Br. 
 
-Genus Carex 
-
 Species Carex preslii Steud. 
-
-Genus Carex 
 
 Species Carex pyrenaica Wahlenb. 
 
-Genus Carex 
-
 Species Carex ramenskii Kom. 
-
-Genus Carex 
 
 Species Carex rotundata Wahlenb. 
 
-Genus Carex 
-
 Species Carex saxatilis L. 
-
-Genus Carex 
 
 Species Carex scirpoidea Michx. 
 
-Genus Carex 
-
 Species Carex spectabilis Dewey 
-
-Genus Carex 
 
 Species Carex tenuiflora Wahlenb. 
 
-Genus Carex 
-
 Species Carex utriculata Boott 
-
-Genus Carex 
 
 Species Carex viridula Michx. 
 
@@ -7998,31 +6654,19 @@ Genus Eriophorum
 
 Species Eriophorum angustifolium Honck. 
 
-Genus Eriophorum 
-
 Species Eriophorum callitrix Cham. ex C.A. Mey. 
-
-Genus Eriophorum 
 
 Species Eriophorum russeolum Fr. 
 
-Genus Eriophorum 
-
 Species Eriophorum scheuchzeri Hoppe 
 
-Genus Eriophorum 
-
 Species Eriophorum vaginatum L. 
-
-Genus Eriophorum 
 
 Species Eriophorum viridicarinatum (Engelm.) Fernald 
 
 Genus Schoenoplectus 
 
 Species Schoenoplectus acutus (Muhl. ex Bigelow) Á. Löve & D. Löve 
-
-Genus Schoenoplectus 
 
 Species Schoenoplectus tabernaemontani (C.C. Gmel.) Palla 
 
@@ -8040,23 +6684,13 @@ Genus Juncus
 
 Species Juncus alpinoarticulatus Chaix 
 
-Genus Juncus 
-
 Species Juncus bufonius L. 
-
-Genus Juncus 
 
 Species Juncus castaneus Sm. 
 
-Genus Juncus 
-
 Species Juncus filiformis L. 
 
-Genus Juncus 
-
 Species Juncus mertensianus Bong. 
-
-Genus Juncus 
 
 Species Juncus triglumis L. 
 
@@ -8064,23 +6698,13 @@ Genus Luzula
 
 Species Luzula arcuata (Wahlenb.) Sw. 
 
-Genus Luzula 
-
 Species Luzula multiflora (Ehrh.) Lej. 
-
-Genus Luzula 
 
 Species Luzula parviflora (Ehrh.) Desv. 
 
-Genus Luzula 
-
 Species Luzula piperi (Coville) M.E. Jones 
 
-Genus Luzula 
-
 Species Luzula spicata (L.) DC. 
-
-Genus Luzula 
 
 Species Luzula wahlenbergii Rupr. 
 
@@ -8090,19 +6714,13 @@ Genus Agrostis
 
 Species Agrostis capillaris L. 
 
-Genus Agrostis 
-
 Species Agrostis mertensii Trin. 
-
-Genus Agrostis 
 
 Species Agrostis scabra Willd. 
 
 Genus Alopecurus 
 
 Species Alopecurus geniculatus L. 
-
-Genus Alopecurus 
 
 Species Alopecurus pratensis L. 
 
@@ -8113,8 +6731,6 @@ Species Anthoxanthum monticola (Bigelow) Veldkamp
 Genus Arctagrostis 
 
 Species Arctagrostis arundinacea (Trin.) Beal 
-
-Genus Arctagrostis 
 
 Species Arctagrostis latifolia (R. Br.) Griseb. 
 
@@ -8130,19 +6746,13 @@ Genus Bromus
 
 Species Bromus inermis Leyss. 
 
-Genus Bromus 
-
 Species Bromus tectorum L. 
 
 Genus Calamagrostis 
 
 Species Calamagrostis canadensis (Michx.) P. Beauv. 
 
-Genus Calamagrostis 
-
 Species Calamagrostis lapponica (Wahlenb.) Hartm. 
-
-Genus Calamagrostis 
 
 Species Calamagrostis stricta (Timm) Koeler 
 
@@ -8162,19 +6772,11 @@ Genus Elymus
 
 Species Elymus alaskanus (Scribn. & Merr.) Á. Löve 
 
-Genus Elymus 
-
 Species Elymus repens (L.) Gould 
-
-Genus Elymus 
 
 Species Elymus sibiricus L. 
 
-Genus Elymus 
-
 Species Elymus trachycaulus (Link) Gould ex Shinners 
-
-Genus Elymus 
 
 Species Elymus violaceus (Hornem.) Feilberg 
 
@@ -8182,19 +6784,11 @@ Genus Festuca
 
 Species Festuca altaica Trin. 
 
-Genus Festuca 
-
 Species Festuca brachyphylla Schult. & Schult. f. 
-
-Genus Festuca 
 
 Species Festuca brevissima Jurtzev 
 
-Genus Festuca 
-
 Species Festuca rubra L. 
-
-Genus Festuca 
 
 Species Festuca saximontana Rydb. 
 
@@ -8206,11 +6800,7 @@ Genus Hordeum
 
 Species Hordeum brachyantherum Nevski 
 
-Genus Hordeum 
-
 Species Hordeum jubatum L. 
-
-Genus Hordeum 
 
 Species Hordeum vulgare L. 
 
@@ -8222,8 +6812,6 @@ Genus Lolium
 
 Species Lolium multiflorum Lam. 
 
-Genus Lolium 
-
 Species Lolium perenne L. 
 
 Genus Phalaris 
@@ -8234,43 +6822,25 @@ Genus Phleum
 
 Species Phleum alpinum L. 
 
-Genus Phleum 
-
 Species Phleum pratense L. 
 
 Genus Poa 
 
 Species Poa alpina L. 
 
-Genus Poa 
-
 Species Poa annua L. 
-
-Genus Poa 
 
 Species Poa arctica R. Br. 
 
-Genus Poa 
-
 Species Poa compressa L. 
-
-Genus Poa 
 
 Species Poa glauca Vahl 
 
-Genus Poa 
-
 Species Poa macrocalyx Trautv. & C.A. Mey. 
-
-Genus Poa 
 
 Species Poa pratensis L. 
 
-Genus Poa 
-
 Species Poa stenantha Trin. 
-
-Genus Poa 
 
 Species Poa trivialis L. 
 
@@ -8300,11 +6870,7 @@ Genus Sparganium
 
 Species Sparganium angustifolium Michx. 
 
-Genus Sparganium 
-
 Species Sparganium hyperboreum Beurl. ex Laest. 
-
-Genus Sparganium 
 
 Species Sparganium natans L. 
 
@@ -8320,8 +6886,6 @@ Genus Corydalis
 
 Species Corydalis pauciflora (Stephan) Pers. 
 
-Genus Corydalis 
-
 Species Corydalis sempervirens (L.) Pers. 
 
 Genus Eschscholzia 
@@ -8331,8 +6895,6 @@ Species Eschscholzia californica Cham.
 Genus Papaver 
 
 Species Papaver alboroseum Hultén 
-
-Genus Papaver 
 
 Species Papaver nudicaule L. 
 
@@ -8350,8 +6912,6 @@ Genus Anemone
 
 Species Anemone parviflora Michx. 
 
-Genus Anemone 
-
 Species Anemone richardsonii Hook. 
 
 Genus Aquilegia 
@@ -8361,8 +6921,6 @@ Species Aquilegia formosa Fisch. ex DC.
 Genus Caltha 
 
 Species Caltha leptosepala DC. 
-
-Genus Caltha 
 
 Species Caltha palustris L. 
 
@@ -8378,19 +6936,11 @@ Genus Ranunculus
 
 Species Ranunculus eschscholtzii Schltdl. 
 
-Genus Ranunculus 
-
 Species Ranunculus hyperboreus Rottb. 
-
-Genus Ranunculus 
 
 Species Ranunculus lapponicus L. 
 
-Genus Ranunculus 
-
 Species Ranunculus nivalis L. 
-
-Genus Ranunculus 
 
 Species Ranunculus occidentalis Nutt. 
 
@@ -8428,11 +6978,7 @@ Genus Dryas
 
 Species Dryas drummondii Richardson ex Hook. 
 
-Genus Dryas 
-
 Species Dryas integrifolia Vahl 
-
-Genus Dryas 
 
 Species Dryas octopetala L. 
 
@@ -8440,19 +6986,13 @@ Genus Fragaria
 
 Species Fragaria vesca L. 
 
-Genus Fragaria 
-
 Species Fragaria X ananassa (Weston) Duchesne ex Rozier (pro sp.) 
 
 Genus Geum 
 
 Species Geum calthifolium Menzies ex Sm. 
 
-Genus Geum 
-
 Species Geum macrophyllum Willd. 
-
-Genus Geum 
 
 Species Geum rossii (R. Br.) Ser. 
 
@@ -8464,35 +7004,19 @@ Genus Potentilla
 
 Species Potentilla anserina L. 
 
-Genus Potentilla 
-
 Species Potentilla furcata A.E. Porsild 
-
-Genus Potentilla 
 
 Species Potentilla gracilis Douglas ex Hook. 
 
-Genus Potentilla 
-
 Species Potentilla nana Willd. ex Schltdl. 
-
-Genus Potentilla 
 
 Species Potentilla norvegica L. 
 
-Genus Potentilla 
-
 Species Potentilla pensylvanica L. 
-
-Genus Potentilla 
 
 Species Potentilla uniflora Ledeb. 
 
-Genus Potentilla 
-
 Species Potentilla vahliana Lehm. 
-
-Genus Potentilla 
 
 Species Potentilla villosa Pall. ex Pursh 
 
@@ -8500,27 +7024,17 @@ Genus Rosa
 
 Species Rosa acicularis Lindl. 
 
-Genus Rosa 
-
 Species Rosa nutkana C. Presl 
 
 Genus Rubus 
 
 Species Rubus arcticus L. 
 
-Genus Rubus 
-
 Species Rubus chamaemorus L. 
-
-Genus Rubus 
 
 Species Rubus idaeus L. 
 
-Genus Rubus 
-
 Species Rubus pedatus Sm. 
-
-Genus Rubus 
 
 Species Rubus spectabilis Pursh 
 
@@ -8540,15 +7054,11 @@ Genus Sorbus
 
 Species Sorbus scopulina Greene 
 
-Genus Sorbus 
-
 Species Sorbus sitchensis M. Roem. 
 
 Genus Spiraea 
 
 Species Spiraea douglasii Hook. 
-
-Genus Spiraea 
 
 Species Spiraea stevenii (C.K. Schneid.) Rydb. 
 
@@ -8580,23 +7090,13 @@ Genus Ribes
 
 Species Ribes bracteosum Douglas ex Hook. 
 
-Genus Ribes 
-
 Species Ribes glandulosum Grauer 
-
-Genus Ribes 
 
 Species Ribes hudsonianum Richardson 
 
-Genus Ribes 
-
 Species Ribes lacustre (Pers.) Poir. 
 
-Genus Ribes 
-
 Species Ribes laxiflorum Pursh 
-
-Genus Ribes 
 
 Species Ribes triste Pall. 
 
@@ -8606,11 +7106,7 @@ Genus Myriophyllum
 
 Species Myriophyllum farwellii Morong 
 
-Genus Myriophyllum 
-
 Species Myriophyllum sibiricum Kom. 
-
-Genus Myriophyllum 
 
 Species Myriophyllum verticillatum L. 
 
@@ -8632,11 +7128,7 @@ Genus Saxifraga
 
 Species Saxifraga bronchialis L. 
 
-Genus Saxifraga 
-
 Species Saxifraga oppositifolia L. 
-
-Genus Saxifraga 
 
 Species Saxifraga tricuspidata Rottb. 
 
@@ -8660,11 +7152,7 @@ Genus Picea
 
 Species Picea glauca (Moench) Voss 
 
-Genus Picea 
-
 Species Picea mariana (Mill.) Britton, Sterns & Poggenb. 
-
-Genus Picea 
 
 Species Picea X lutzii Little 
 
@@ -8686,27 +7174,15 @@ Genus Equisetum
 
 Species Equisetum arvense L. 
 
-Genus Equisetum 
-
 Species Equisetum fluviatile L. 
-
-Genus Equisetum 
 
 Species Equisetum hyemale L. 
 
-Genus Equisetum 
-
 Species Equisetum palustre L. 
-
-Genus Equisetum 
 
 Species Equisetum pratense Ehrh. 
 
-Genus Equisetum 
-
 Species Equisetum sylvaticum L. 
-
-Genus Equisetum 
 
 Species Equisetum variegatum Schleich. ex F. Weber & D. Mohr 
 
@@ -8718,8 +7194,6 @@ Genus Botrychium
 
 Species Botrychium boreale Milde 
 
-Genus Botrychium 
-
 Species Botrychium lunaria (L.) Sw. 
 
 ##### Order Polypodiales 
@@ -8729,8 +7203,6 @@ Species Botrychium lunaria (L.) Sw.
 Genus Dryopteris 
 
 Species Dryopteris expansa (C. Presl) Fraser-Jenk. & Jermy 
-
-Genus Dryopteris 
 
 Species Dryopteris fragrans (L.) Schott 
 
@@ -8749,8 +7221,6 @@ Species Matteuccia struthiopteris (L.) Tod.
 Genus Cryptogramma 
 
 Species Cryptogramma acrostichoides R. Br. 
-
-Genus Cryptogramma 
 
 Species Cryptogramma crispa (L.) R. Br. 
 

@@ -68,7 +68,7 @@ for (this_record in 1:nrow(cl1))
   fml <- cl1$family[this_record]
   }
  
-  if (!(gns == cl1$family[this_record]))
+  if (!(gns == cl1$genus[this_record]))
   {
   print_taxon(outfile=outfile, name=cl1$genus[this_record], rank="Genus")
   gns <- cl1$genus[this_record]
