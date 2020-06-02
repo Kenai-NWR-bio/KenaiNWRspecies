@@ -2,39 +2,13 @@
 
 ## Checklist
 
-### Kingdom taxon name missing 
-
-### Phylum taxon name missing 
-
-### Class taxon name missing 
-
-### Order taxon name missing 
-
-### Family Momphidae 
-
-### Genus taxon name missing 
-
-### Species Mompha conturbatella 
-
-Reference: 
-<http://arctos.database.museum/guid/UAMObs:Ento:238952>.
-
 ### Kingdom Animalia 
-
-### Order Coleoptera 
-
-### Family Staphylinidae 
-
-### Species Dinaraea pacei Klimaszewski & Langor, 2011 
-
-Reference: 
-<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5731-17>.
 
 ### Phylum Annelida 
 
 ### Class Clitellata 
 
-### Order taxon name missing 
+### Order Enchytraeida 
 
 ### Family Enchytraeidae 
 
@@ -44,8 +18,6 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11053>.
-
-### Order Enchytraeida 
 
 ### Species Mesenchytraeus solifugus (Emery, 1898) 
 
@@ -1796,7 +1768,7 @@ References:
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32498>.
 
-### Genus taxon name missing 
+### Genus Eanus 
 
 ### Species Eanus decoratus 
 
@@ -1875,8 +1847,6 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4829>.
-
-### Genus taxon name missing 
 
 ### Species Stephostethus liratus 
 
@@ -2075,6 +2045,13 @@ References:
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:256831>.
+
+### Genus Dinaraea 
+
+### Species Dinaraea pacei Klimaszewski & Langor, 2011 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5731-17>.
 
 ### Genus Eucnecosum 
 
@@ -4767,7 +4744,7 @@ Reference:
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883610>.
 
-### Genus taxon name missing 
+### Genus Nearctaphis 
 
 ### Species Nearctaphis kachena 
 
@@ -4832,7 +4809,7 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2574>.
 
-### Genus taxon name missing 
+### Genus Cicadula 
 
 ### Species Cicadula intermedia 
 
@@ -4846,12 +4823,14 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:176315>.
 
-### Genus taxon name missing 
+### Genus Elymana 
 
 ### Species Elymana inornata 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240269>.
+
+### Genus Errastunus 
 
 ### Species Errastunus ocellaris 
 
@@ -4870,12 +4849,14 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10036>.
 
-### Genus taxon name missing 
+### Genus Forcipata 
 
 ### Species Forcipata loca 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240441>.
+
+### Genus Idiocerus 
 
 ### Species Idiocerus subnitens 
 
@@ -4887,10 +4868,14 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239588>.
 
+### Genus Limotettix 
+
 ### Species Limotettix arctostaphyli 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240938>.
+
+### Genus Sorhoanus 
 
 ### Species Sorhoanus xanthoneurus 
 
@@ -5236,14 +5221,12 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10632>.
 
-### Genus taxon name missing 
+### Genus Cacopsylla 
 
 ### Species Cacopsylla myrtilli 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240361>.
-
-### Genus Cacopsylla 
 
 ### Species Cacopsylla rara 
 
@@ -5257,14 +5240,10 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1842>.
 
-### Genus taxon name missing 
-
 ### Species Craspedolepta schwarzi 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239645>.
-
-### Genus Craspedolepta 
 
 ### Species Craspedolepta subpunctata 
 
@@ -5353,8 +5332,6 @@ References:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1529>.
 
-### Genus taxon name missing 
-
 ### Species Aphidius salicis 
 
 Reference: 
@@ -5379,12 +5356,12 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1993>.
 
-### Genus taxon name missing 
-
 ### Species Ephedrus plagiator 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239262>.
+
+### Genus Lathrapanteles 
 
 ### Species Lathrapanteles heleios 
 
@@ -5603,17 +5580,21 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7611>.
 
-### Genus taxon name missing 
+### Genus Helictes 
 
 ### Species Helictes borealis 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240026>.
 
+### Genus Lissonota 
+
 ### Species Lissonota sexcincta 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238711>.
+
+### Genus Megastylus 
 
 ### Species Megastylus orbitator 
 
@@ -5648,12 +5629,14 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11273>.
 
-### Genus taxon name missing 
+### Genus Pantorhaestes 
 
 ### Species Pantorhaestes xanthostomus 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239202>.
+
+### Genus Plectiscidea 
 
 ### Species Plectiscidea venusta 
 
@@ -5667,7 +5650,7 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7330>.
 
-### Genus taxon name missing 
+### Genus Proclitus 
 
 ### Species Proclitus paganus 
 
@@ -5714,7 +5697,7 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4230>.
 
-### Genus taxon name missing 
+### Genus Amauronematus 
 
 ### Species Amauronematus fallax 
 
@@ -5735,28 +5718,20 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4391>.
 
-### Genus taxon name missing 
-
 ### Species Dolerus gessneri 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240435>.
-
-### Genus Dolerus 
 
 ### Species Dolerus gilvipes 
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4506>.
 
-### Genus taxon name missing 
-
 ### Species Dolerus subfasciatus 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239421>.
-
-### Genus Dolerus 
 
 ### Species Dolerus yukonensis 
 
@@ -5806,7 +5781,7 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1437>.
 
-### Genus taxon name missing 
+### Genus Strongylogaster 
 
 ### Species Strongylogaster macula 
 
@@ -5866,7 +5841,7 @@ Reference:
 
 ### Family Coleophoridae 
 
-### Genus taxon name missing 
+### Genus Batrachedra 
 
 ### Species Batrachedra praeangusta 
 
@@ -5919,12 +5894,14 @@ Reference:
 
 ### Family Gelechiidae 
 
-### Genus taxon name missing 
+### Genus Neotelphusa 
 
 ### Species Neotelphusa praefixa 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240942>.
+
+### Genus Xenolechia 
 
 ### Species Xenolechia aethiops 
 
@@ -6120,7 +6097,7 @@ References:
 Reference: 
 <https://www.inaturalist.org/observations/9091617>.
 
-### Genus taxon name missing 
+### Genus Parornix 
 
 ### Species Parornix obliterella 
 
@@ -6189,6 +6166,11 @@ Reference:
 ### Family Momphidae 
 
 ### Genus Mompha 
+
+### Species Mompha conturbatella 
+
+Reference: 
+<http://arctos.database.museum/guid/UAMObs:Ento:238952>.
 
 ### Species Mompha sexstrigella 
 
@@ -6637,8 +6619,6 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7433>.
 
-### Genus taxon name missing 
-
 ### Species Acleris schalleriana 
 
 Reference: 
@@ -6689,14 +6669,12 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10861>.
 
-### Genus taxon name missing 
+### Genus Epinotia 
 
 ### Species Epinotia albangulana 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238706>.
-
-### Genus Epinotia 
 
 ### Species Epinotia solandriana 
 
@@ -6717,12 +6695,14 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2617>.
 
-### Genus taxon name missing 
+### Genus Rhopobota 
 
 ### Species Rhopobota naevana 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240453>.
+
+### Genus Zeiraphera 
 
 ### Species Zeiraphera improbana 
 
@@ -6740,7 +6720,7 @@ Reference:
 
 ### Family Ypsolophidae 
 
-### Genus taxon name missing 
+### Genus Ypsolopha 
 
 ### Species Ypsolopha senex 
 
@@ -16004,7 +15984,7 @@ References:
 <http://ebird.org/ebird/view/checklist/S5012554>, 
 <http://ebird.org/ebird/view/checklist/S7120366>.
 
-### Genus taxon name missing 
+### Genus Dryobates 
 
 ### Species Dryobates pubescens 
 
@@ -17092,17 +17072,6 @@ Reference:
 
 ### Class Lecanoromycetes 
 
-### Order taxon name missing 
-
-### Family Coniocybaceae 
-
-### Genus taxon name missing 
-
-### Species Chaenotheca trichialis 
-
-Reference: 
-<http://arctos.database.museum/guid/KNWR:Herb:11960>.
-
 ### Order Acarosporales 
 
 ### Family Acarosporaceae 
@@ -17291,6 +17260,15 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8856>.
+
+### Family Coniocybaceae 
+
+### Genus Chaenotheca 
+
+### Species Chaenotheca trichialis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11960>.
 
 ### Family Ectolechiaceae 
 
@@ -17613,7 +17591,7 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9038>.
 
-### Genus taxon name missing 
+### Genus Melanohalea 
 
 ### Species Melanohalea septentrionalis 
 
