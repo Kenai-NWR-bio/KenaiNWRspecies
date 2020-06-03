@@ -8,6 +8,17 @@ simpleCap <- function(x) {
       sep="", collapse=" ")
 }
 
+italicize_sp <- function(x)
+ {
+ s <- strsplit(x, " ")[[1]]
+ formatted_name <- paste0("\\textit{", s[1], " ", s[2], "}")
+ if (length(s)>2)
+  {
+  formatted_name <- paste(formatted_name, paste(s[3:length(s)], collapse=" "))
+  }
+ formatted_name
+ }
+
 print_taxon <- function(outfile,
  name="",
  rank="",
@@ -25,8 +36,11 @@ print_taxon <- function(outfile,
 
 ## First load data.
 unzip("../data/DwC-A/dwca-kenainationalwildliferefuge.zip", exdir = "../data/DwC-A")
-cl1 <- read.delim("../data/DwC-A/taxon.txt")
-rf1 <- read.delim("../data/DwC-A/reference.txt")
+cl1 <- read.delim("../data/DwC-A/taxon.txt", stringsAsFactors=FALSE)
+rf1 <- read.delim("../data/DwC-A/reference.txt", stringsAsFactors=FALSE)
+
+## Filtering problematic characters for TeX.
+cl1$scientificName <- gsub("&", "\\\\&", cl1$scientificName)
 
 ## Sorting.
 cl1 <- cl1[order(cl1$kingdom, cl1$phylum, cl1$class, cl1$order, cl1$family, cl1$scientificName),]
@@ -48,7 +62,7 @@ odr <- "NA"
 fml <- "NA"
 gns <- "NA" 
  
-for (this_record in 1:10) #nrow(cl1)
+for (this_record in 1:nrow(cl1)) #nrow(cl1)
  {
  
  if (!(kdm == cl1$kingdom[this_record]))
@@ -87,12 +101,12 @@ for (this_record in 1:10) #nrow(cl1)
  
   if (!(gns == cl1$genus[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$genus[this_record], rank="Genus",
+  print_taxon(outfile=outfile, name=paste0("\\textit{", cl1$genus[this_record], "}"), rank="Genus",
  hspace="30pt")
   gns <- cl1$genus[this_record]
   }
  
- print_taxon(outfile=outfile, name=cl1$scientificName[this_record], rank="Species",
+ print_taxon(outfile=outfile, name=italicize_sp(as.character(cl1$scientificName[this_record])), rank="Species",
  hspace="36pt")
  
  ## If there are any references, print them.
