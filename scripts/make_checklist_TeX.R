@@ -23,7 +23,8 @@ print_taxon <- function(outfile,
  name="",
  rank="",
  hspace="0pt",
- vspace="6pt"
+ vspace="6pt",
+ vernacularName=""
  )
  {
  if (name=="")
@@ -32,6 +33,14 @@ print_taxon <- function(outfile,
   }
  rank <- simpleCap(rank)
  write(paste0("\\vspace{", vspace, "}\\noindent\\hspace{", hspace, "}", rank, " ", name, "\n\n"), file=outfile, append=TRUE)
+ if(!vernacularName=="")
+  {
+  write(
+   paste0("Common name: ", vernacularName, "\n"),
+   file=outfile,
+   append=TRUE
+   )
+  }
  }
 
 ## First load data.
@@ -106,8 +115,13 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
   gns <- cl1$genus[this_record]
   }
  
- print_taxon(outfile=outfile, name=italicize_sp(as.character(cl1$scientificName[this_record])), rank="Species",
- hspace="36pt")
+ print_taxon(
+  outfile=outfile,
+  name=italicize_sp(as.character(cl1$scientificName[this_record])),
+  rank="Species",
+  hspace="36pt",
+  vernacularName=cl1$vernacularName[this_record],
+  )
  
  ## If there are any references, print them.
  rfs <- rf1[rf1$ID==cl1$ID[this_record],]
@@ -118,11 +132,11 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
   {
   if (nrow(rfs) == 1)
    {
-   write("\\vspace{6pt}Reference: ", outfile, append=TRUE)
+   write("Reference: ", outfile, append=TRUE)
    }
   if (nrow(rfs) > 1)
    {
-   write("\\vspace{6pt}References: ", outfile, append=TRUE)
+   write("References: ", outfile, append=TRUE)
    }
   for (this_reference in 1:nrow(rfs))
    {
