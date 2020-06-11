@@ -8,6 +8,24 @@ simpleCap <- function(x) {
       sep="", collapse=" ")
 }
 
+break_sp <- function(x)
+ {
+ s <- strsplit(x, " ")[[1]]
+ if (length(s)==1)
+  {
+  name_vector <- s[1]
+  }
+ if (length(s)==2)
+  {
+  name_vector <- c(s[1], s[2])
+  }
+ if (length(s)>2)
+  {
+  name_vector <- c(s[1], s[2], paste(s[3:length(s)], collapse=" "))
+  }
+ name_vector
+ }
+
 italicize_sp <- function(x)
  {
  s <- strsplit(x, " ")[[1]]
@@ -36,7 +54,7 @@ print_taxon <- function(outfile,
  if(!vernacularName=="")
   {
   write(
-   paste0("Common name: ", vernacularName, "\n"),
+   paste0("\nCommon name: ", vernacularName, "\n"),
    file=outfile,
    append=TRUE
    )
@@ -69,11 +87,12 @@ plm <- "NA"
 cls <- "NA"
 odr <- "NA"
 fml <- "NA"
-gns <- "NA" 
+gns <- "NA"
+sps <- "NA" 
  
 for (this_record in 1:nrow(cl1)) #nrow(cl1)
  {
- 
+  
   if (!(gns == cl1$genus[this_record]))
   {
   if(!(gns=="NA"))
@@ -166,6 +185,16 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
  hspace="30pt")
   }
  
+ sps <- cl1$scientificName[this_record]
+ name_vector <- break_sp(sps)
+ if (is.na(name_vector[3]))
+  {
+  name_vector[3] <- ""
+  }
+ ## Start index entry Genus!species authority
+ write(paste0("\\index{", name_vector[1], "@\\textit{", name_vector[1], "}!", name_vector[2], "@\\textit{", name_vector[2], "} ", name_vector[3], "|(}\n"), file=outfile, append=TRUE)
+ ## Start index entry species authority (Genus)
+ write(paste0("\\index{", name_vector[2], " ", name_vector[3], " (", name_vector[1], ")@\\textit{", name_vector[2], "} ", name_vector[3], " (\\textit{", name_vector[1], "})|(}\n"), file=outfile, append=TRUE)
  print_taxon(
   outfile=outfile,
   name=italicize_sp(as.character(cl1$scientificName[this_record])),
@@ -202,7 +231,13 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
    write(wline, outfile, append=TRUE)
    }  
   }
+  
+  ## End index entry species authority (Genus)
+ write(paste0("\\index{", name_vector[2], " ", name_vector[3], " (", name_vector[1], ")@\\textit{", name_vector[2], "} ", name_vector[3], " (\\textit{", name_vector[1], "})|)}\n"), file=outfile, append=TRUE)
+  ## Start index entry Genus!species authority
+  write(paste0("\\index{", name_vector[1], "@\\textit{", name_vector[1], "}!", name_vector[2], "@\\textit{", name_vector[2], "} ", name_vector[3], "|)}\n"), file=outfile, append=TRUE)
  }
+
 write(paste0("\\index{", gns, "@\\textit{", gns, "}|)}\n"), file=outfile, append=TRUE)
 write(paste0("\\index{", fml, "|)}"), file=outfile, append=TRUE)
 write(paste0("\\index{", odr, "|)}"), file=outfile, append=TRUE)
