@@ -48,7 +48,8 @@ dwc1 <- data1[,c(
  "family",
  "genus",
  "scientificName",
- "taxonRank"
+ "taxonRank",
+ "vernacularName"
  )] 
 
 ## Now replacing problematic records.

@@ -1,0 +1,33 @@
+
+\usepackage{makeidx}
+\usepackage{multicol}
+
+%% Setting up hyperlink format
+\usepackage{xcolor}
+\usepackage[allbordercolors=blue, allcolors=blue, colorlinks=true]{hyperref}
+\makeatletter
+\Hy@AtBeginDocument{%
+  \def\@pdfborder{0 0 1}% Overrides border definition set with colorlinks=true
+  \def\@pdfborderstyle{/S/U/W 0}% Overrides border style set with colorlinks=true
+}
+\makeatother
+\def\UrlBreaks{\do\/\do\-\do\:\do\.\do\;\do\(\do\)\do&\do?\do_} %% Make it so urls break at hyphens and forward slashes, etc.
+
+%% Page Layout
+\setstocksize{11in}{8.5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settypeblocksize{9.228345in}{6.925196in}{*}
+\setlrmargins{*}{*}{1}
+\setulmargins{0.8464575in}{*}{*}
+\checkandfixthelayout
+\setlength\columnsep{20pt}
+
+%% Font
+%\usepackage{libertine}
+%\renewcommand{\ttdefault}{\rmdefault}
+
+%% Reduce spacing after periods.
+\frenchspacing
+
+%% Index
+\makeindex
