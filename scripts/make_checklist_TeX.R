@@ -21,18 +21,52 @@ break_sp <- function(x)
   }
  if (length(s)>2)
   {
-  name_vector <- c(s[1], s[2], paste(s[3:length(s)], collapse=" "))
+   if(!s[2]=="X")
+    {
+    name_vector <- c(s[1], s[2], paste(s[3:length(s)], collapse=" "))
+	}
+  if (s[2]=="X")
+   {
+   if (length(s)==3)
+    {
+    name_vector <- c(s[1], s[2], s[3])
+    }
+   if (length(s)>3)
+    {
+    name_vector <- c(s[1], s[2], s[3], paste(s[4:length(s)], collapse=" "))
+    }
+   }
   }
  name_vector
  }
 
-italicize_sp <- function(x)
+italicize_name <- function(x)
  {
- s <- strsplit(x, " ")[[1]]
- formatted_name <- paste0("\\textit{", s[1], " ", s[2], "}")
- if (length(s)>2)
+ name_vector <- break_sp(x)
+ if (length(name_vector)==1)
   {
-  formatted_name <- paste(formatted_name, paste(s[3:length(s)], collapse=" "))
+  formatted_name <- paste0("\\textit{", name_vector[1], "}")
+  }
+ if (length(name_vector)==2)
+  {
+  formatted_name <- paste0("\\textit{", name_vector[1], " ", name_vector[2], "}")
+  }
+ if (length(name_vector)>2)
+  {
+  formatted_name <- paste0("\\textit{", name_vector[1], " ", name_vector[2], "}")
+  formatted_name <- paste(formatted_name, paste(name_vector[3:length(name_vector)], collapse=" "))
+  if (name_vector[2]=="X")
+    {
+   if (length(name_vector)==3)
+    {
+    formatted_name <- paste0("\\textit{", name_vector[1], "} $\\times$ \\textit{", name_vector[3], "}")
+    }
+   if (length(name_vector)>3)
+    {
+    formatted_name <- paste0("\\textit{", name_vector[1], "} $\\times$ \\textit{", name_vector[3], "}")
+    formatted_name <- paste(formatted_name, paste(name_vector[4:length(name_vector)], collapse=" "))
+    }
+   }
   }
  formatted_name
  }
@@ -197,7 +231,7 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
  write(paste0("\\index{", name_vector[2], " ", name_vector[3], " (", name_vector[1], ")@\\textit{", name_vector[2], "} ", name_vector[3], " (\\textit{", name_vector[1], "})|(}\n"), file=outfile, append=TRUE)
  print_taxon(
   outfile=outfile,
-  name=italicize_sp(as.character(cl1$scientificName[this_record])),
+  name=italicize_name(as.character(cl1$scientificName[this_record])),
   rank="Species",
   hspace="36pt",
   vernacularName=cl1$vernacularName[this_record],
@@ -212,11 +246,11 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
   {
   if (nrow(rfs) == 1)
    {
-   write("Reference: ", outfile, append=TRUE)
+   write("\nReference: ", outfile, append=TRUE)
    }
   if (nrow(rfs) > 1)
    {
-   write("References: ", outfile, append=TRUE)
+   write("\nReferences: ", outfile, append=TRUE)
    }
   for (this_reference in 1:nrow(rfs))
    {
