@@ -25,7 +25,10 @@ data1 <- data1[data1$taxonRank == "species",] ## Limiting the list to species on
 
 sl <- data1$source == ""
 
-write.csv(data1[sl,c("SciName", "SpeciesNote")],
+nosource <- data1[sl,c("SciName", "SpeciesNote")]
+nosource <- nosource[order(nosource$SciName),]
+
+write.csv(nosource,
  "../data/species_lacking_evidence.csv",
  row.names=FALSE
  )
