@@ -20,7 +20,7 @@ Wildlife Service- Natural Resource Program Center 2019), where these
 data are currently maintained.
 
 The directory structure of this archive is being conformed to the
-recommended file structure of the Alaska Region Data Stewardship Team
+recommended file structure of Alaska Region Data Stewardship Team
 (2019).
 
 
