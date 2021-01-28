@@ -17,10 +17,10 @@ csl: canadian-journal-of-fisheries-and-aquatic-sciences.csl
 
 ## Summary
 
-This repository exists for cataloging species known to be present on the [Kenai National Wildlife Refuge](https://www.fws.gov/refuge/kenai/ "Kenai National Wildlife Refuge"). 
+This repository exists for cataloging species known to be present on the [Kenai National Wildlife Refuge](https://www.fws.gov/refuge/kenai/ "Kenai National Wildlife Refuge").
 
-It also includes a script for converting checklist data from [FWSpecies](https://ecos.fws.gov/ServCat/DownloadFile/163859 "FWSpecies User Guide Version 2.0") to Darwin Core Archive checklist format.
+The Kenai National Wildlife Refuge's species list was previously maintained as a set of data tables from which a checklist document was generated [@KenaiNWRbio2018]. In April 2019, most of these data were uploaded to FWSpecies [@NRPC2019], where these data are currently maintained.  
 
-The directory structure is being conformed to the recommended file structure of the Alaska Region Data Stewardship Team [-@Alaska_Region_Data_Stewardship_Team_2020].
+The directory structure of this archive is being conformed to the recommended file structure of the Alaska Region Data Stewardship Team [-@Alaska_Region_Data_Stewardship_Team_2020].
 
 ## References
