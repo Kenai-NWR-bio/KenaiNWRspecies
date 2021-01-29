@@ -16,10 +16,10 @@ library("zip")
 library("reshape2")
 
 ## First load data.
-data1 <- assemble_csvs(directory="../data/FWSpecies")
-fields_crosswalk <- read.csv("../data/field_name_crosswalk.csv", colClasses="character")
-establishmentMeans_crosswalk <- read.csv("../data/establishmentMeans_crosswalk.csv", colClasses="character")
-fillin <- read.csv("../data/taxonomy_fill-ins.csv", colClasses="character")
+data1 <- assemble_csvs(directory="../data/raw_data/FWSpecies_data")
+fields_crosswalk <- read.csv("../data/raw_data/non_FWSpecies_data/field_name_crosswalk.csv", colClasses="character")
+establishmentMeans_crosswalk <- read.csv("../data/raw_data/non_FWSpecies_data/establishmentMeans_crosswalk.csv", colClasses="character")
+fillin <- read.csv("../data/raw_data/non_FWSpecies_data/taxonomy_fill-ins.csv", colClasses="character")
 
 ## Renaming fields.
 for (this_field in 1:nrow(fields_crosswalk))
@@ -66,7 +66,7 @@ dwc1 <- dwc1[order(
  
 write.table(
  dwc1,
- file="../data/DwC-A/taxon.txt",
+ file="../data/final_data/DwC-A/taxon.txt",
  quote=FALSE,
  sep = "\t",
  row.names=FALSE
@@ -91,7 +91,7 @@ dist2$countryCode <- "US"
 dist2$locationID <- "GADM:Kenai Peninsula" ## Kenai National Wildlife Refuge is not available in any of the listed coding schemes  at http://rs.gbif.org/areas/
 write.table(
  dist2,
- file="../data/DwC-A/distribution.txt",
+ file="../data/final_data/DwC-A/distribution.txt",
  quote=FALSE,
  sep = "\t",
  row.names=FALSE
@@ -109,7 +109,7 @@ sources$ID <- ref1$ID[sources$ID]
 ref2 <- sources[,c("ID", "source")]
 write.table(
  ref2,
- file="../data/DwC-A/reference.txt",
+ file="../data/final_data/DwC-A/reference.txt",
  quote=FALSE,
  sep = "\t",
  row.names=FALSE
@@ -117,7 +117,7 @@ write.table(
 
 ## Now generate a meta.xml file. 
 ## Header...
-xml_file <- "../data/DwC-A/meta.xml"
+xml_file <- "../data/final_data/DwC-A/meta.xml"
 write('<?xml version="1.0"?>
 <archive xmlns="http://rs.tdwg.org/dwc/text/">
 \t<core encoding="UTF-8" linesTerminatedBy="\\r\\n" fieldsTerminatedBy="\\t" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
@@ -160,17 +160,17 @@ write('\t</extension>
 </archive>', xml_file, append=TRUE) 
  
 zipr(
- zipfile="../data/DwC-A/dwca-kenainationalwildliferefuge.zip",
+ zipfile="../data/final_data/DwC-A/dwca-kenainationalwildliferefuge.zip",
  files=c(
-  "../data/DwC-A/meta.xml", 
-  "../data/DwC-A/taxon.txt",
-  "../data/DwC-A/distribution.txt",
-  "../data/DwC-A/reference.txt"
+  "../data/final_data/DwC-A/meta.xml", 
+  "../data/final_data/DwC-A/taxon.txt",
+  "../data/final_data/DwC-A/distribution.txt",
+  "../data/final_data/DwC-A/reference.txt"
   )
  ) 
  
 ## Clean up.
-unlink("../data/DwC-A/meta.xml") 
-unlink("../data/DwC-A/taxon.txt")
-unlink("../data/DwC-A/distribution.txt")
-unlink("../data/DwC-A/reference.txt")
+unlink("../data/final_data/DwC-A/meta.xml") 
+unlink("../data/final_data/DwC-A/taxon.txt")
+unlink("../data/final_data/DwC-A/distribution.txt")
+unlink("../data/final_data/DwC-A/reference.txt")
