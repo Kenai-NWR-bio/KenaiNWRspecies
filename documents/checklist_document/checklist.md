@@ -2,7 +2,63 @@
 
 ## Checklist
 
+### Kingdom taxon name missing 
+
+### Phylum taxon name missing 
+
+### Class taxon name missing 
+
+### Order taxon name missing 
+
+### Family Coprinaceae 
+
+### Genus taxon name missing 
+
+### Species Coprinus comatus 
+
+Reference: 
+<https://www.inaturalist.org/observations/863074>.
+
 ### Kingdom Animalia 
+
+### Order Coleoptera 
+
+### Family Trogossitidae 
+
+### Species Ostoma fraterna Randall, 1838 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:110480>.
+
+### Species Ostoma septentrionalis Randall, 1838 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:111647>.
+
+### Order Diptera 
+
+### Family Agromyzidae 
+
+### Species Liriomyza equiseti De Meijere, 1924 
+
+References: 
+<https://arctos.database.museum/guid/KNWR:Ento:1698>, 
+<https://arctos.database.museum/guid/UAMObs:Ento:239386>.
+
+### Family Anthomyiidae 
+
+### Species Chirosia similata (Tiensuu, 1939) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:11152>.
+
+### Family Anthomyzidae 
+
+### Species Anthomyza gilviventris Rohß?ek & Barber, 2016 
+
+References: 
+<https://arctos.database.museum/guid/UAM:Ento:378419>, 
+<https://www.biotaxa.org/AEMNP/article/download/27902/25528>.
 
 ### Phylum Annelida 
 
@@ -35,15 +91,14 @@ Reference:
 
 ### Species Glossiphonia complanata (Linnaeus, 1758) 
 
-### Genus Helobdella 
-
-### Species Helobdella stagnalis (Linnaeus, 1758) 
-
 ### Family Haemopidae 
 
 ### Genus Haemopis 
 
 ### Species Haemopis lateromaculata Mathers, 1963 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:8390>.
 
 ### Order Opisthopora 
 
@@ -87,6 +142,9 @@ References:
 ### Genus Dendrodrilus 
 
 ### Species Dendrodrilus rubidus (Savigny, 1826) 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL6651-18>.
 
 ### Genus Lumbricus 
 
@@ -134,6 +192,9 @@ Reference:
 ### Genus Eurycercus 
 
 ### Species Eurycercus longirostris Hann, 1982 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=NJCGS1068-11>.
 
 ### Family Daphniidae 
 
@@ -194,6 +255,9 @@ Reference:
 ### Genus Weberacantha 
 
 ### Species Weberacantha octa Christiansen, 1951 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:6405>.
 
 ### Family Neelidae 
 
@@ -576,6 +640,9 @@ Reference:
 
 ### Species Helophora reducta (Keyserling, 1886) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:239119>.
+
 ### Genus Hypomma 
 
 ### Species Hypomma bituberculatum (Wider, 1834) 
@@ -682,6 +749,9 @@ References:
 
 ### Species Tiso aestivus (L. Koch, 1872) 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:6344>.
+
 ### Genus Walckenaeria 
 
 ### Species Walckenaeria directa (O. P.-Cambridge, 1874) 
@@ -704,6 +774,11 @@ Reference:
 
 Reference: 
 <https://mczbase.mcz.harvard.edu/guid/MCZ:IZ:76590>.
+
+### Species Arctosa raptor (Kulczynski, 1885) 
+
+Reference: 
+<https://www.inaturalist.org/observations/36714592>.
 
 ### Genus Pardosa 
 
@@ -738,6 +813,9 @@ Reference:
 
 ### Species Philodromus rufus Walckenaer, 1826 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:6646>.
+
 ### Genus Thanatus 
 
 ### Species Thanatus coloradensis Keyserling, 1880 
@@ -757,6 +835,9 @@ Reference:
 ### Genus Dolomedes 
 
 ### Species Dolomedes triton (Walckenaer, 1837) 
+
+Reference: 
+<https://www.inaturalist.org/observations/36778263>.
 
 ### Family Salticidae 
 
@@ -1353,6 +1434,14 @@ References:
 
 ### Family Cerambycidae 
 
+### Genus Gnathacmaeops 
+
+### Species Gnathacmaeops pratensis (Laicharting, 1784) 
+
+References: 
+<https://www.inaturalist.org/observations/50058253>, 
+<https://www.inaturalist.org/observations/6904175>.
+
 ### Genus Judolia 
 
 ### Species Judolia montivagans (Couper, 1864) 
@@ -1372,6 +1461,9 @@ Reference:
 ### Genus Monochamus 
 
 ### Species Monochamus scutellatus (Say, 1824) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:112180>.
 
 ### Genus Pachyta 
 
@@ -1441,6 +1533,9 @@ Reference:
 
 ### Species Plateumaris germari (Mannerheim, 1843) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:110852>.
+
 ### Family Coccinellidae 
 
 ### Genus Anisosticta 
@@ -1507,6 +1602,9 @@ Reference:
 
 ### Species Cucujus clavipes Fabricius, 1781 
 
+Reference: 
+<https://www.inaturalist.org/observations/1151159>.
+
 ### Family Curculionidae 
 
 ### Genus Cryphalus 
@@ -1523,6 +1621,9 @@ Reference:
 ### Genus Dorytomus 
 
 ### Species Dorytomus leucophyllus (Motschulsky, 1845) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:11698>.
 
 ### Species Dorytomus luridus (Mannerheim, 1853) 
 
@@ -1549,6 +1650,9 @@ Reference:
 <http://arctos.database.museum/guid/UAMObs:Ento:32856>.
 
 ### Species Dryocoetes caryi Hopkins, 1915 
+
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:32867>.
 
 ### Genus Glocianus 
 
@@ -1661,6 +1765,9 @@ Reference:
 
 ### Species Acilius semisulcatus Aubé, 1838 
 
+Reference: 
+<https://www.inaturalist.org/observations/50823985>.
+
 ### Genus Agabus 
 
 ### Species Agabus anthracinus Mannerheim, 1852 
@@ -1682,6 +1789,9 @@ Reference:
 ### Species Dytiscus dauricus Gebler, 1832 
 
 ### Species Dytiscus harrisii Kirby, 1837 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7798>.
 
 ### Genus Hydroporus 
 
@@ -1707,6 +1817,9 @@ Reference:
 
 ### Species Hydroporus tristis (Paykull, 1798) 
 
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL6462-17>.
+
 ### Genus Hygrotus 
 
 ### Species Hygrotus compar (Fall, 1919) 
@@ -1731,6 +1844,11 @@ Reference:
 
 ### Species Ilybius picipes (Kirby, 1837) 
 
+### Species Ilybius quadrimaculatus Aubé, 1838 
+
+Reference: 
+<https://www.inaturalist.org/observations/56861129>.
+
 ### Genus Liodessus 
 
 ### Species Liodessus obscurellus (LeConte, 1852) 
@@ -1740,6 +1858,9 @@ Reference:
 ### Species Oreodytes dauricus (Motschulsky, 1860) 
 
 ### Species Oreodytes laevis (Kirby, 1837) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7681>.
 
 ### Family Elateridae 
 
@@ -1859,13 +1980,22 @@ Reference:
 
 ### Species Anisotoma globososa Hatch, 1929 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:282602>.
+
 ### Genus Catops 
 
 ### Species Catops alpinus Gyllenhal, 1827 
 
 ### Species Catops basilaris Say, 1823 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:32540>.
+
 ### Species Catops egenus (Horn, 1880) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:1153>.
 
 ### Species Catops luridipennis Mannerheim, 1853 
 
@@ -2212,6 +2342,9 @@ References:
 
 ### Species Delia prostriata (Huckett, 1965) 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:1964>.
+
 ### Species Delia tenuiventris (Zetterstedt, 1860) 
 
 Reference: 
@@ -2264,6 +2397,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Ento:7240>.
 
 ### Species Zaphne zetterstedtii (Ringdahl, 1918) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10749>.
 
 ### Family Anthomyzidae 
 
@@ -2358,6 +2494,9 @@ Reference:
 
 ### Species Cynomya cadaverina Robineau-Desvoidy, 1830 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7218>.
+
 ### Genus Melanomya 
 
 ### Species Melanomya ordinaria (West, 1925) 
@@ -2440,6 +2579,13 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11105>.
 
+### Genus Kaltenbachiola 
+
+### Species Kaltenbachiola rachiphaga (Tripp, 1955) 
+
+Reference: 
+<https://www.inaturalist.org/observations/64540260>.
+
 ### Genus Rabdophaga 
 
 ### Species Rabdophaga rigidae (Osten Sacken, 1862) 
@@ -2508,6 +2654,9 @@ Reference:
 
 ### Species Cricotopus tremulus (Linnaeus, 1758) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:238610>.
+
 ### Genus Dicrotendipes 
 
 ### Species Dicrotendipes modestus (Say, 1823) 
@@ -2518,6 +2667,9 @@ Reference:
 ### Genus Eukiefferiella 
 
 ### Species Eukiefferiella claripennis Lundbeck 
+
+Reference: 
+<https://www.inaturalist.org/observations/64537969>.
 
 ### Species Eukiefferiella coerulescens (Kieffer) 
 
@@ -2672,6 +2824,9 @@ Reference:
 
 ### Species Aedes diantaeus Howard, Dyar and Knab, 1913 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:6782>.
+
 ### Genus Culex 
 
 ### Species Culex territans Walker, 1856 
@@ -2805,7 +2960,13 @@ References:
 
 ### Species Hydrophorus algens Wheeler, 1899 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10418>.
+
 ### Species Hydrophorus glaber (Walker, 1849) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10417>.
 
 ### Genus Medetera 
 
@@ -2825,6 +2986,9 @@ References:
 ### Genus Rhaphium 
 
 ### Species Rhaphium discolor Zetterstedt, 1838 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:2957>.
 
 ### Species Rhaphium elegantulum (Meigen, 1824) 
 
@@ -3744,6 +3908,9 @@ Reference:
 
 ### Species Lonchoptera uniseta Curran, 1934 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10014>.
+
 ### Family Micropezidae 
 
 ### Genus Cnodacophora 
@@ -4020,8 +4187,9 @@ Reference:
 
 ### Species Tarnania tarnanii (Dziedzicki, 1910) 
 
-Reference: 
-<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1588-16>.
+References: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1588-16>, 
+<https://www.inaturalist.org/observations/59731500>.
 
 ### Genus Trichonta 
 
@@ -4114,6 +4282,13 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239634>.
 
+### Genus taxon name missing 
+
+### Species Lindneromyia agarici 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:7343>.
+
 ### Family Scathophagidae 
 
 ### Genus Megaphthalmoides 
@@ -4178,6 +4353,9 @@ References:
 ### Genus Renocera 
 
 ### Species Renocera brevis (Cresson, 1920) 
+
+Reference: 
+<http://bins.boldsystems.org/index.php/Public_RecordView?processid=DKNWR060-11>.
 
 ### Genus Sepedon 
 
@@ -4320,9 +4498,15 @@ Reference:
 
 ### Species Baccha elongata (Fabricius, 1775) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:239358>.
+
 ### Genus Brachyopa 
 
 ### Species Brachyopa ferruginea (Fallen, 1817) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10772>.
 
 ### Genus Chalcosyrphus 
 
@@ -4334,6 +4518,9 @@ Reference:
 ### Genus Cheilosia 
 
 ### Species Cheilosia lasiophthalmus Williston, 1882 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:6775>.
 
 ### Genus Doros 
 
@@ -4383,7 +4570,13 @@ Reference:
 
 ### Species Platycheirus angustatus (Zetterstedt, 1843) 
 
+Reference: 
+<https://www.ebi.ac.uk/ena/browser/view/JN285917>.
+
 ### Species Platycheirus modestus Ide, 1926 
+
+Reference: 
+<https://www.ebi.ac.uk/ena/browser/view/JN285924>.
 
 ### Species Platycheirus peltatoides Curran, 1923 
 
@@ -4396,6 +4589,9 @@ Reference:
 <http://arctos.database.museum/guid/UAMObs:Ento:238992>.
 
 ### Species Platycheirus rosarum (Fabricius, 1787) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:239479>.
 
 ### Genus Sericomyia 
 
@@ -4441,6 +4637,9 @@ Reference:
 
 ### Species Chrysops nigripes Zetterstedt, 1838 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7152>.
+
 ### Genus Hybomitra 
 
 ### Species Hybomitra zonalis (Kirby, 1837) 
@@ -4466,10 +4665,10 @@ Reference:
 
 ### Genus Phasia 
 
-### Species Phasia robertsonii (Townsend, 1891) 
+### Species Phasia aeneoventris (Williston, 1886) 
 
 Reference: 
-<http://arctos.database.museum/guid/UAMObs:Ento:240173>.
+<https://arctos.database.museum/guid/UAMObs:Ento:240173>.
 
 ### Genus Siphona 
 
@@ -4670,6 +4869,11 @@ Reference:
 
 ### Genus Aphis 
 
+### Species Aphis farinosa 
+
+Reference: 
+<https://www.inaturalist.org/observations/50057105>.
+
 ### Species Aphis varians 
 
 Reference: 
@@ -4738,6 +4942,9 @@ Reference:
 ### Genus Macrosiphum 
 
 ### Species Macrosiphum euphorbiae (Thomas, 1878) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:230044>.
 
 ### Species Macrosiphum stanleyi 
 
@@ -5323,6 +5530,15 @@ References:
 <http://arctos.database.museum/guid/KNWR:Ento:2598>, 
 <http://arctos.database.museum/guid/KNWR:Ento:2770>.
 
+### Family Argidae 
+
+### Genus Arge 
+
+### Species Arge cyra 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7036>.
+
 ### Family Braconidae 
 
 ### Genus Aphidius 
@@ -5389,6 +5605,9 @@ Reference:
 ### Genus Cimbex 
 
 ### Species Cimbex americana Leach 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:127055>.
 
 ### Genus Trichiosoma 
 
@@ -5672,6 +5891,9 @@ Reference:
 
 ### Species Platygaster obscuripennis Ashmead, 1893 
 
+Reference: 
+<https://arctos.database.museum/guid/UAMObs:Ento:11751>.
+
 ### Family Pteromalidae 
 
 ### Genus Dinotiscus 
@@ -5921,6 +6143,13 @@ Reference:
 
 ### Species Archiearis infans (Möschler, 1862) 
 
+### Genus Aspitates 
+
+### Species Aspitates orciferaria (Walker, 1863) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10677>.
+
 ### Genus Cabera 
 
 ### Species Cabera exanthemata (Scopoli, 1763) 
@@ -6037,8 +6266,9 @@ References:
 
 ### Species Plemyria georgii Hulst, 1896 
 
-Reference: 
-<http://arctos.database.museum/guid/KNWR:Ento:7415>.
+References: 
+<http://arctos.database.museum/guid/KNWR:Ento:7415>, 
+<https://www.inaturalist.org/observations/59878481>.
 
 ### Genus Rheumaptera 
 
@@ -6067,6 +6297,9 @@ Reference:
 ### Genus Trichodezia 
 
 ### Species Trichodezia albovittata (Guenée in Boisduval and Guenée, 1858) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7964>.
 
 ### Genus Venusia 
 
@@ -6157,6 +6390,9 @@ References:
 ### Genus Plebejus 
 
 ### Species Plebejus idas (Linnaeus, 1761) 
+
+Reference: 
+<https://arctos.database.museum/guid/KWP:Ento:52566>.
 
 ### Species Plebejus optilete (Knoch, 1781) 
 
@@ -6328,6 +6564,9 @@ Reference:
 ### Genus Furcula 
 
 ### Species Furcula occidentalis (Lintner, 1878) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:10494>.
 
 ### Genus Pheosia 
 
@@ -6735,6 +6974,9 @@ Reference:
 
 ### Species Chrysopa chi Fitch, 1855 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:7129>.
+
 ### Family Coniopterygidae 
 
 ### Genus Coniopteryx 
@@ -7031,6 +7273,9 @@ Reference:
 
 ### Species Liposcelis corrodens (Heymons, 1909) 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:8824>.
+
 ### Family Philopteridae 
 
 ### Genus Ornithobius 
@@ -7068,6 +7313,15 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7309>.
+
+### Family Leptopsyllidae 
+
+### Genus taxon name missing 
+
+### Species Amphipsylla pollionis 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Ento:6396>.
 
 ### Order Thysanoptera 
 
@@ -9675,6 +9929,13 @@ References:
 
 ### Family Laridae 
 
+### Genus Chroicocephalus 
+
+### Species Chroicocephalus philadelphia (Ord, 1815) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWRObs:Bird:21>.
+
 ### Genus Larus 
 
 ### Species Larus argentatus Pontoppidan, 1763 
@@ -10236,6 +10497,13 @@ References:
 <http://ebird.org/ebird/view/checklist/S8521237>, 
 <http://ebird.org/ebird/view/checklist/S9106487>, 
 <http://ebird.org/ebird/view/checklist/S933765>.
+
+### Genus Onychoprion 
+
+### Species Onychoprion aleuticus (S. F. Baird, 1869) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWRObs:Bird:136>.
 
 ### Genus Rissa 
 
@@ -14225,6 +14493,13 @@ References:
 
 ### Family Fringillidae 
 
+### Genus Acanthis 
+
+### Species Acanthis flammea (Linnaeus, 1758) 
+
+Reference: 
+<https://www.inaturalist.org/observations/9776325>.
+
 ### Genus Leucosticte 
 
 ### Species Leucosticte tephrocotis (Swainson, 1832) 
@@ -14934,6 +15209,34 @@ References:
 <http://www.inaturalist.org/observations/2318745>, 
 <http://www.inaturalist.org/observations/568382>, 
 <http://www.inaturalist.org/observations/800016>.
+
+### Family Parulidae 
+
+### Genus Cardellina 
+
+### Species Cardellina pusilla (A. Wilson, 1811) 
+
+Reference: 
+<https://www.inaturalist.org/observations/799857>.
+
+### Genus Leiothlypis 
+
+### Species Leiothlypis celata (Say, 1822) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWRObs:Bird:199>.
+
+### Genus Setophaga 
+
+### Species Setophaga coronata (Linnaeus, 1766) 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWRObs:Bird:234>.
+
+### Species Setophaga petechia (Linnaeus, 1766) 
+
+Reference: 
+<https://www.inaturalist.org/observations/115161>.
 
 ### Family Regulidae 
 
@@ -16426,6 +16729,9 @@ References:
 
 ### Species Rangifer tarandus (Linnaeus, 1758) 
 
+Reference: 
+<https://www.inaturalist.org/observations/6127325>.
+
 ### Order Carnivora 
 
 ### Family Canidae 
@@ -16439,15 +16745,24 @@ Reference:
 
 ### Species Canis lupus Linnaeus, 1758 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:61075>.
+
 ### Genus Vulpes 
 
 ### Species Vulpes vulpes (Linnaeus, 1758) 
+
+Reference: 
+<https://arctos.database.museum/guid/MVZ:Mamm:4406>.
 
 ### Family Felidae 
 
 ### Genus Felis 
 
 ### Species Felis catus Linnaeus, 1758 
+
+Reference: 
+<https://www.inaturalist.org/observations/54647478>.
 
 ### Genus Lynx 
 
@@ -16459,9 +16774,15 @@ Reference:
 
 ### Species Gulo gulo (Linnaeus, 1758) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:61076>.
+
 ### Genus Lontra 
 
 ### Species Lontra canadensis (Schreber, 1777) 
+
+Reference: 
+<https://arctos.database.museum/guid/UWBM:Mamm:19871>.
 
 ### Genus Martes 
 
@@ -16474,7 +16795,13 @@ Reference:
 
 ### Species Mustela erminea Linnaeus, 1758 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:99495>.
+
 ### Species Neovison vison (Schreber, 1777) 
+
+Reference: 
+<https://arctos.database.museum/guid/MVZ:Mamm:4423>.
 
 ### Family Phocidae 
 
@@ -16505,6 +16832,9 @@ References:
 ### Genus Delphinapterus 
 
 ### Species Delphinapterus leucas (Pallas, 1776) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:137140>.
 
 ### Order Chiroptera 
 
@@ -16558,7 +16888,13 @@ Reference:
 
 ### Species Microtus miurus Osgood, 1901 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:86247>.
+
 ### Species Microtus oeconomus (Pallas, 1776) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:85925>.
 
 ### Species Microtus pennsylvanicus (Ord, 1815) 
 
@@ -16576,9 +16912,15 @@ Reference:
 
 ### Species Ondatra zibethicus (Linnaeus, 1766) 
 
+Reference: 
+<https://arctos.database.museum/guid/MSB:Host:8481>.
+
 ### Genus Synaptomys 
 
 ### Species Synaptomys borealis (Richardson, 1828) 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:117150>.
 
 ### Family Erethizontidae 
 
@@ -16618,9 +16960,18 @@ References:
 
 ### Species Sorex cinereus Kerr, 1792 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:86299>.
+
 ### Species Sorex hoyi Baird, 1857 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:99411>.
+
 ### Species Sorex monticolus Merriam, 1890 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Mamm:85717>.
 
 ### Class Teleostei 
 
@@ -16644,6 +16995,9 @@ References:
 ### Genus Esox 
 
 ### Species Esox lucius Linnaeus, 1758 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Fish:15055>.
 
 ### Order Gadiformes 
 
@@ -16669,6 +17023,9 @@ References:
 ### Genus Pungitius 
 
 ### Species Pungitius pungitius (Linnaeus, 1758) 
+
+Reference: 
+<https://www.inaturalist.org/observations/17143293>.
 
 ### Order Salmoniformes 
 
@@ -16701,6 +17058,9 @@ References:
 
 ### Species Oncorhynchus tshawytscha (Walbaum in Artedi, 1792) 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Fish:2308>.
+
 ### Genus Prosopium 
 
 ### Species Prosopium cylindraceum (Pennant, 1784) 
@@ -16726,6 +17086,9 @@ Reference:
 ### Genus Thymallus 
 
 ### Species Thymallus arcticus (Pallas, 1776) 
+
+Reference: 
+<https://www.inaturalist.org/observations/13334186>.
 
 ### Order Scorpaeniformes 
 
@@ -16784,6 +17147,9 @@ References:
 ### Genus Macoma 
 
 ### Species Macoma balthica (Linnaeus, 1758) 
+
+Reference: 
+<https://mczbase.mcz.harvard.edu/guid/MCZ:Mala:317214>.
 
 ### Class Gastropoda 
 
@@ -16958,6 +17324,97 @@ Reference:
 
 ### Kingdom Chromista 
 
+### Phylum taxon name missing 
+
+### Class taxon name missing 
+
+### Order Ochromonadales 
+
+### Family Dinobryaceae 
+
+### Genus taxon name missing 
+
+### Species Epipyxis gracilis D.K.Hilliard & Asmund 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:999>.
+
+### Species Epipyxis kenaiensis D.K.Hilliard & Asmund 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1000>.
+
+### Species Epipyxis planctonica D.K.Hilliard & B.C.Asmund 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1009>.
+
+### Species Epipyxis polymorpha (J.W.G.Lund) D.K.Hilliard & Asmund 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:997>.
+
+### Family Synuraceae 
+
+### Species Synura petersenii Korshikov 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1012>.
+
+### Phylum Chrysophyta 
+
+### Class Chrysophyceae 
+
+### Family Dinobryaceae 
+
+### Genus Dinobryon 
+
+### Species Dinobryon bavaricum Imhof 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1003>.
+
+### Species Dinobryon borgei Lemmermann 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1007>.
+
+### Species Dinobryon divergens 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1001>.
+
+### Species Dinobryon sociale 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1004>.
+
+### Species Dinobryon suecicum Lemmermann 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:994>.
+
+### Genus Epipyxis 
+
+### Species Epipyxis ramosa (Lauter.) Hill. and Asm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:998>.
+
+### Species Epipyxis tabellariae (Lemmermann) G. Smith 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:996>.
+
+### Family Synuraceae 
+
+### Genus Mallomonas 
+
+### Species Mallomonas tonsurata Teiling 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1013>.
+
 ### Phylum Ochrophyta 
 
 ### Class Bacillariophyceae 
@@ -16973,6 +17430,11 @@ Reference:
 Reference: 
 <https://www.inaturalist.org/observations/12872794>.
 
+### Species Melosira islandica O. Müll. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1010>.
+
 ### Order Eunotiales 
 
 ### Family Eunotiaceae 
@@ -16987,6 +17449,20 @@ Reference:
 ### Order Fragilariales 
 
 ### Family Fragilariaceae 
+
+### Genus Asterionella 
+
+### Species Asterionella formosa Hass. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1002>.
+
+### Genus Fragilaria 
+
+### Species Fragilaria crotonensis Kitton 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:995>.
 
 ### Genus Staurosira 
 
@@ -17035,7 +17511,8 @@ Reference:
 
 ### Species Stephanodiscus niagarae Ehrenb. 
 
-Reference: 
+References: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1011>, 
 <https://www.inaturalist.org/observations/12689404>.
 
 ### Phylum Phaeophyta 
@@ -17053,7 +17530,46 @@ Reference:
 Reference: 
 <http://www.inaturalist.org/observations/6612338>.
 
+### Phylum Pyrrophycophyta 
+
+### Class Dinophyceae 
+
+### Order Gonyaulacales 
+
+### Family Ceratiaceae 
+
+### Genus Ceratium 
+
+### Species Ceratium hirundinella Dujardin 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1006>.
+
 ### Kingdom Fungi 
+
+### Phylum taxon name missing 
+
+### Class taxon name missing 
+
+### Order taxon name missing 
+
+### Family taxon name missing 
+
+### Genus taxon name missing 
+
+### Species Sarcodon imbricatus 
+
+Reference: 
+<https://www.inaturalist.org/observations/48600705>.
+
+### Order Rhytismatales 
+
+### Family Rhytismataceae 
+
+### Species Lirula macrospora (R.Hartig) Darker 
+
+Reference: 
+<https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd712413.pdf>.
 
 ### Phylum Ascomycota 
 
@@ -17069,6 +17585,19 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11795>.
+
+### Class Eurotiomycetes 
+
+### Order Mycocaliciales 
+
+### Family Mycocaliciaceae 
+
+### Genus taxon name missing 
+
+### Species Phaeocalicium compressulum 
+
+Reference: 
+<http://arctos.database.museum/guid/KNWR:Herb:11981>.
 
 ### Class Lecanoromycetes 
 
@@ -17182,19 +17711,40 @@ Reference:
 
 ### Species Cladonia carneola (Fr.) Fr. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12143>.
+
 ### Species Cladonia cenotea (Ach.) Schaer. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12019>.
+
 ### Species Cladonia chlorophaea (Flörke ex Sommerf.) Spreng. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11630>.
 
 ### Species Cladonia coccifera (L.) Willd. 
 
 ### Species Cladonia coniocraea (Flörke) Spreng. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12020>.
+
 ### Species Cladonia cornuta (L.) Hoffm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11700>.
 
 ### Species Cladonia crispata 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12185>.
+
 ### Species Cladonia deformis 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12021>.
 
 ### Species Cladonia digitata (L.) Hoffm. 
 
@@ -17207,6 +17757,9 @@ Reference:
 
 ### Species Cladonia fimbriata (L.) Fr. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11702>.
+
 ### Species Cladonia furcata (Huds.) Schrad. 
 
 ### Species Cladonia gracilis (L.) Willd. 
@@ -17215,6 +17768,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:8858>.
 
 ### Species Cladonia grayi G. Merr. ex Sandst. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11801>.
 
 ### Species Cladonia hookeri 
 
@@ -17234,6 +17790,9 @@ Reference:
 
 ### Species Cladonia ochrochlora Flörke 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12023>.
+
 ### Species Cladonia pleurota (Flörke) Schaer. 
 
 ### Species Cladonia pyxidata (L.) Hoffm. 
@@ -17251,6 +17810,9 @@ Reference:
 ### Species Cladonia subulata (L.) F.H. Wigg. 
 
 ### Species Cladonia sulphurina (Michx.) Fr. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12024>.
 
 ### Species Cladonia symphycarpa (Ach.) Fr. 
 
@@ -17312,7 +17874,13 @@ Reference:
 
 ### Species Lecanora fuscescens (Sommerf.) Nyl. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11779>.
+
 ### Species Lecanora hagenii 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11977>.
 
 ### Species Lecanora hybocarpa (Tuck.) Brodo 
 
@@ -17330,9 +17898,15 @@ Reference:
 
 ### Species Lecanora pulicaris (Pers.) Ach. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11845>.
+
 ### Species Lecanora rupicola (L.) Zahlbr. 
 
 ### Species Lecanora symmicta (Ach.) Ach. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11780>.
 
 ### Species Lecanora varia (Hoffm.) Ach. 
 
@@ -17363,6 +17937,9 @@ Reference:
 ### Species Mycoblastus alpinus (Fr.) Hellb. 
 
 ### Species Mycoblastus sanguinarius (L.) Norman 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12004>.
 
 ### Family Parmeliaceae 
 
@@ -17435,12 +18012,18 @@ Reference:
 
 ### Species Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11565>.
+
 ### Species Bryoria glabra (Motyka) Brodo & D. Hawksw. 
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12110>.
 
 ### Species Bryoria lanestris (Ach.) Brodo & D. Hawksw. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11735>.
 
 ### Species Bryoria nitidula (Th. Fr.) Brodo & D. Hawksw. 
 
@@ -17451,7 +18034,13 @@ Reference:
 
 ### Species Bryoria pseudofuscescens (Gyeln.) Brodo & D. Hawksw. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12032>.
+
 ### Species Bryoria simplicior (Vain.) Brodo & D. Hawksw. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11836>.
 
 ### Species Bryoria vrangiana 
 
@@ -17540,6 +18129,9 @@ References:
 
 ### Species Hypogymnia bitteri (Lynge) Ahti 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12036>.
+
 ### Species Hypogymnia duplicata 
 
 ### Species Hypogymnia enteromorpha 
@@ -17553,6 +18145,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9019>.
 
 ### Species Hypogymnia occidentalis L.H. Pike 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11928>.
 
 ### Species Hypogymnia physodes (L.) Nyl. 
 
@@ -17568,6 +18163,9 @@ Reference:
 ### Genus Imshaugia 
 
 ### Species Imshaugia aleurites (Ach.) S.L.F. Mey. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11905>.
 
 ### Genus Melanelia 
 
@@ -17607,7 +18205,13 @@ Reference:
 
 ### Species Parmelia hygrophila Goward & Ahti 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12225>.
+
 ### Species Parmelia omphalodes (L.) Ach. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:9044>.
 
 ### Species Parmelia saxatilis (L.) Ach. 
 
@@ -17634,9 +18238,15 @@ Reference:
 
 ### Species Parmeliopsis hyperopta (Ach.) Arnold 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11716>.
+
 ### Genus Platismatia 
 
 ### Species Platismatia glauca (L.) W.L. Culb. & C.F. Culb. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12006>.
 
 ### Genus Pseudephebe 
 
@@ -17670,11 +18280,17 @@ Reference:
 
 ### Species Usnea lapponica Vain. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11574>.
+
 ### Species Usnea scabrata Nyl. 
 
 ### Species Usnea subfloridana Stirt. 
 
 ### Species Usnea substerilis Motyka 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11575>.
 
 ### Genus Vulpicida 
 
@@ -17711,11 +18327,20 @@ Reference:
 
 ### Species Cliostomum griffithii (Sm.) Coppins 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12335>.
+
 ### Genus Japewia 
 
 ### Species Japewia subaurifera Muhr & Tønsberg 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11952>.
+
 ### Species Japewia tornoensis (Nyl.) Tønsberg 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11608>.
 
 ### Genus Lecania 
 
@@ -17730,7 +18355,13 @@ Reference:
 
 ### Species Ramalina dilacerata (Hoffm.) Hoffm. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11619>.
+
 ### Species Ramalina farinacea (L.) Ach. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11572>.
 
 ### Species Ramalina intermedia 
 
@@ -17740,6 +18371,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9066>.
 
 ### Species Ramalina roesleri 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12350>.
 
 ### Species Ramalina thrausta 
 
@@ -17854,11 +18488,17 @@ Reference:
 
 ### Species Collema subflaccidum Degel. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12138>.
+
 ### Genus Leptogium 
 
 ### Species Leptogium burnetiae 
 
 ### Species Leptogium saturninum (Dicks.) Nyl. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12146>.
 
 ### Species Leptogium teretiusculum (Wallr.) Arnold 
 
@@ -17909,6 +18549,9 @@ Reference:
 
 ### Species Nephroma parile (Ach.) Ach. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11895>.
+
 ### Species Nephroma resupinatum (L.) Ach. 
 
 Reference: 
@@ -17934,6 +18577,9 @@ Reference:
 
 ### Species Peltigera aphthosa 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12276>.
+
 ### Species Peltigera britannica (Gyeln.) Holt.-Hartw. & Tønsberg 
 
 Reference: 
@@ -17957,6 +18603,9 @@ Reference:
 
 ### Species Peltigera leucophlebia (Nyl.) Gyeln. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11932>.
+
 ### Species Peltigera malacea (Ach.) Funck 
 
 Reference: 
@@ -17964,9 +18613,15 @@ Reference:
 
 ### Species Peltigera membranacea (Ach.) Nyl. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12002>.
+
 ### Species Peltigera neckeri Hepp 
 
 ### Species Peltigera neopolydactyla (Gyeln.) Gyeln. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11784>.
 
 ### Species Peltigera occidentalis 
 
@@ -17984,6 +18639,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9058>.
 
 ### Species Peltigera praetextata (Flörke ex Sommerf.) Zopf 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12213>.
 
 ### Species Peltigera retifoveata Vitik. 
 
@@ -18012,6 +18670,9 @@ References:
 
 ### Species Ochrolechia androgyna (Hoffm.) Arnold 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11614>.
+
 ### Species Ochrolechia frigida (Sw.) Lynge 
 
 ### Species Ochrolechia grimmiae Lynge 
@@ -18021,6 +18682,9 @@ References:
 ### Species Ochrolechia oregonensis H. Magn. 
 
 ### Species Ochrolechia szatalaensis Verseghy 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11930>.
 
 ### Species Ochrolechia upsaliensis (L.) A. Massal. 
 
@@ -18039,6 +18703,9 @@ References:
 ### Species Pertusaria subobducens 
 
 ### Species Pertusaria suboculata Brodo & Dibben 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11948>.
 
 ### Order Rhizocarpales 
 
@@ -18068,9 +18735,15 @@ Reference:
 
 ### Species Buellia disciformis (Fr.) Mudd 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11635>.
+
 ### Species Buellia griseovirens (Turner & Borrer ex Sm.) Almb. 
 
 ### Species Buellia punctata (Hoffm.) A. Massal. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11973>.
 
 ### Genus Heterodermia 
 
@@ -18098,6 +18771,9 @@ Reference:
 ### Species Physcia caesia (Hoffm.) Fürnr. 
 
 ### Species Physcia dubia (Hoffm.) Lettau 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11718>.
 
 ### Species Physcia stellaris (L.) Nyl. 
 
@@ -18149,6 +18825,9 @@ References:
 
 ### Species Xanthoria polycarpa (Hoffm.) Rieber 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11993>.
+
 ### Order Umbilicariales 
 
 ### Family Umbilicariaceae 
@@ -18181,6 +18860,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9100>.
 
 ### Species Umbillicaria hyperborea (Ach.) Hoffm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:9096>.
 
 ### Class Leotiomycetes 
 
@@ -18243,6 +18925,13 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:7334>.
 
+### Genus Lycoperdon 
+
+### Species Lycoperdon pyriforme Schaeff. 
+
+Reference: 
+<https://www.inaturalist.org/observations/871329>.
+
 ### Family Amanitaceae 
 
 ### Genus Amanita 
@@ -18252,6 +18941,22 @@ Reference:
 Reference: 
 <https://www.inaturalist.org/observations/877727>.
 
+### Family Clavariaceae 
+
+### Genus Clavaria 
+
+### Species Clavaria rosea Fr. 
+
+Reference: 
+<https://www.inaturalist.org/observations/3962205>.
+
+### Genus taxon name missing 
+
+### Species Clavulinopsis laeticolor 
+
+Reference: 
+<https://www.inaturalist.org/observations/56861660>.
+
 ### Family Cortinariaceae 
 
 ### Genus Cortinarius 
@@ -18260,6 +18965,11 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8949>.
+
+### Species Cortinarius huronensis 
+
+Reference: 
+<https://www.inaturalist.org/observations/31184013>.
 
 ### Species Cortinarius lucorum (Fr.) Berger, 1846 
 
@@ -18278,6 +18988,13 @@ Reference:
 ### Order Boletales 
 
 ### Family Boletaceae 
+
+### Genus taxon name missing 
+
+### Species Boletus edulis 
+
+Reference: 
+<https://www.inaturalist.org/observations/18726089>.
 
 ### Genus Chalciporus 
 
@@ -18338,6 +19055,17 @@ Reference:
 Reference: 
 <https://www.inaturalist.org/observations/10454240>.
 
+### Order Polyporales 
+
+### Family Fomitopsidaceae 
+
+### Genus taxon name missing 
+
+### Species Piptoporus betulinus 
+
+Reference: 
+<https://www.inaturalist.org/observations/16265738>.
+
 ### Order Russulales 
 
 ### Family Hericiaceae 
@@ -18395,9 +19123,29 @@ Reference:
 Reference: 
 <https://www.inaturalist.org/observations/6413791>.
 
+### Family Pucciniaceae 
+
+### Genus Puccinia 
+
+### Species Puccinia linkii 
+
+Reference: 
+<https://www.inaturalist.org/observations/3746023>.
+
 ### Phylum Myxomycota 
 
 ### Class Myxomycetes 
+
+### Order Liceales 
+
+### Family Reticulariaceae 
+
+### Genus Lycogala 
+
+### Species Lycogala epidendrum (J.C. Buxb. ex L.) Fr. 
+
+Reference: 
+<https://www.inaturalist.org/observations/51006945>.
 
 ### Order Physarales 
 
@@ -18442,23 +19190,38 @@ Reference:
 
 ### Species Leptobryum pyriforme (Hedw.) Wils. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=91446>.
+
 ### Genus Pohlia 
 
 ### Species Pohlia cruda (Hedw.) Lindb. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=473517>.
 
 ### Species Pohlia elongata Hedw. 
 
 ### Species Pohlia nutans (Hedw.) Lindb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11787>.
+
 ### Species Pohlia vexans (Limpr.) H. Lindb. 
 
 ### Species Pohlia wahlenbergii (Web. & Mohr) Andrews 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=87272>.
 
 ### Family Mniaceae 
 
 ### Genus Cinclidium 
 
 ### Species Cinclidium stygium Sw. in Schrad. 
+
+Reference: 
+<https://bryophyteportal.org/portal/collections/individual/index.php?occid=1788553>.
 
 ### Species Cinclidium subrotundum Lindb. 
 
@@ -18469,6 +19232,9 @@ Reference:
 
 ### Species Mnium spinulosum Bruch & Schimp. in B.S.G. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=694305>.
+
 ### Genus Plagiomnium 
 
 ### Species Plagiomnium ciliare (C. Müll.) T. Kop. 
@@ -18478,6 +19244,9 @@ Reference:
 ### Species Plagiomnium insigne (Mitt.) T. Kop. 
 
 ### Species Plagiomnium medium (Bruch & Schimp. in B.S.G.) T. Kop. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11985>.
 
 ### Species Plagiomnium rostratum (Schrad.) T. Kop. 
 
@@ -18493,6 +19262,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:12327>.
 
 ### Species Rhizomnium magnifolium (Horik.) T. Kop. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=300326>.
 
 ### Species Rhizomnium nudum (Britt. & Williams) T. Kop. 
 
@@ -18523,15 +19295,27 @@ Reference:
 
 ### Species Dicranoweisia crispula (Hedw.) Lindb. ex Milde 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=325919>.
+
 ### Genus Dicranum 
 
 ### Species Dicranum acutifolium (Lindb. & Arnell) C. Jens. ex Weinm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12033>.
 
 ### Species Dicranum brevifolium (Lindb.) Lindb. 
 
 ### Species Dicranum elongatum Schleich. ex Schwaegr. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=192513>.
+
 ### Species Dicranum fuscescens Turn. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11567>.
 
 ### Species Dicranum howellii Ren. & Card. 
 
@@ -18542,6 +19326,9 @@ Reference:
 
 ### Species Dicranum majus Sm. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=748306>.
+
 ### Species Dicranum montanum Hedw. 
 
 ### Species Dicranum pallidisetum (Bail. in Holz.) Irel. 
@@ -18551,15 +19338,27 @@ Reference:
 
 ### Species Dicranum polysetum Sw. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11999>.
+
 ### Species Dicranum scoparium Hedw. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11605>.
+
 ### Species Dicranum tauricum Sapeh. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12148>.
 
 ### Genus Oncophorus 
 
 ### Species Oncophorus virens (Hedw.) Brid. 
 
 ### Species Oncophorus wahlenbergii Brid. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=297822>.
 
 ### Genus Paraleucobryum 
 
@@ -18594,15 +19393,24 @@ Reference:
 
 ### Species Racomitrium canescens (Hedw.) Brid. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=512797>.
+
 ### Species Racomitrium ericoides (Web. ex Brid.) Brid. 
 
 ### Species Racomitrium heterostichum (Hedw.) Brid. 
 
 ### Species Racomitrium lanuginosum (Hedw.) Brid. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=24938>.
+
 ### Species Racomitrium microcarpon (Hedw.) Brid. 
 
 ### Species Racomitrium sudeticum (Funck) Bruch & Schimp. in B.S.G. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=478703>.
 
 ### Genus Schistidium 
 
@@ -18629,6 +19437,9 @@ Reference:
 
 ### Species Campylium stellatum (Hedw.) C. Jens. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11838>.
+
 ### Genus Drepanocladus 
 
 ### Species Drepanocladus sendtneri (Schimp.) Warnst. 
@@ -18652,6 +19463,9 @@ Reference:
 ### Genus Sanionia 
 
 ### Species Sanionia uncinata (Hedw.) Loeske 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12013>.
 
 ### Genus Sarmenthypnum 
 
@@ -18693,13 +19507,22 @@ Reference:
 
 ### Species Brachythecium oedipodium (Mitt.) Jaeg. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=204633>.
+
 ### Species Brachythecium oxycladon (Brid.) Jaeg. 
 
 ### Species Brachythecium reflexum (Starke in Web. & Mohr) Schimp. in B.S.G. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=758163>.
+
 ### Species Brachythecium rutabulum (Hedw.) Schimp. in B.S.G. 
 
 ### Species Brachythecium salebrosum (Web. & Mohr) Schimp. in B.S.G. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11625>.
 
 ### Species Brachythecium velutinum (Hedw.) Schimp. in B.S.G. 
 
@@ -18708,6 +19531,9 @@ Reference:
 ### Species Eurhynchium oreganum (Sull.) Jaeg. 
 
 ### Species Eurhynchium pulchellum (Hedw.) Jenn. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=487667>.
 
 ### Genus Pseudoscleropodium 
 
@@ -18730,6 +19556,9 @@ Reference:
 
 ### Species Calliergon cordifolium (Hedw.) Kindb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12326>.
+
 ### Species Calliergon giganteum (Schimp.) Kindb. 
 
 ### Species Calliergon stramineum (Brid.) Kindb. 
@@ -18743,6 +19572,9 @@ Reference:
 ### Genus Climacium 
 
 ### Species Climacium dendroides (Hedw.) Web. & Mohr 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=507902>.
 
 ### Family Helodiaceae 
 
@@ -18760,9 +19592,15 @@ Reference:
 
 ### Species Hylocomium splendens (Hedw.) Schimp. in B.S.G. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11697>.
+
 ### Genus Pleurozium 
 
 ### Species Pleurozium schreberi (Brid.) Mitt. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11719>.
 
 ### Genus Rhytidiadelphus 
 
@@ -18775,11 +19613,17 @@ Reference:
 
 ### Species Rhytidiadelphus triquetrus (Hedw.) Warnst. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=113661>.
+
 ### Family Hypnaceae 
 
 ### Genus Hypnum 
 
 ### Species Hypnum circinale Hook. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12224>.
 
 ### Species Hypnum revolutum (Mitt.) Lindb. 
 
@@ -18799,6 +19643,9 @@ Reference:
 ### Genus Ptilium 
 
 ### Species Ptilium crista-castrensis (Hedw.) De Not. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12009>.
 
 ### Genus Pylaisiella 
 
@@ -18824,7 +19671,13 @@ Reference:
 
 ### Species Plagiothecium denticulatum (Hedw.) Schimp. in B.S.G. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=274801>.
+
 ### Species Plagiothecium laetum Schimp. in B.S.G. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12042>.
 
 ### Family Pterigynandraceae 
 
@@ -18845,6 +19698,9 @@ Reference:
 ### Genus Orthotrichum 
 
 ### Species Orthotrichum obtusifolium Brid. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12221>.
 
 ### Species Orthotrichum rupestre Schleich. ex Schwaegr. 
 
@@ -18874,9 +19730,18 @@ Reference:
 
 ### Species Aulacomnium androgynum (Hedw.) Schwaegr. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=361942>.
+
 ### Species Aulacomnium palustre (Hedw.) Schwaegr. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11830>.
+
 ### Species Aulacomnium turgidum (Wahlenb.) Schwaegr. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=162570>.
 
 ### Order Splachnales 
 
@@ -18891,9 +19756,15 @@ Reference:
 
 ### Species Meesia uliginosa Hedw. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=327360>.
+
 ### Genus Paludella 
 
 ### Species Paludella squarrosa (Hedw.) Brid. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=246512>.
 
 ### Family Splachnaceae 
 
@@ -18918,6 +19789,9 @@ Reference:
 
 ### Species Tetraplodon mnioides (Hedw.) Bruch & Schimp. in B.S.G. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=324517>.
+
 ### Order Timmiales 
 
 ### Family Timmiaceae 
@@ -18925,6 +19799,9 @@ Reference:
 ### Genus Timmia 
 
 ### Species Timmia austriaca Hedw. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=726036>.
 
 ### Class Polytrichopsida 
 
@@ -18942,11 +19819,20 @@ Reference:
 
 ### Species Polytrichastrum alpinum (Hedw.) G.L. Sm. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=147217>.
+
 ### Genus Polytrichum 
 
 ### Species Polytrichum commune Hedw. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12044>.
+
 ### Species Polytrichum juniperinum Hedw. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=728728>.
 
 ### Species Polytrichum longisetum Brid. 
 
@@ -18958,6 +19844,9 @@ Reference:
 
 ### Species Polytrichum strictum Brid. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12196>.
+
 ### Class Sphagnopsida 
 
 ### Order Sphagnales 
@@ -18968,9 +19857,18 @@ Reference:
 
 ### Species Sphagnum angustifolium (C. Jens. ex Russ.) C. Jens. in Tolf 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11725>.
+
 ### Species Sphagnum balticum (Russ.) C. Jens. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=1189745>.
+
 ### Species Sphagnum capillifolium (Ehrh.) Hedw. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11855>.
 
 ### Species Sphagnum compactum DC. in Lam. & DC. 
 
@@ -18981,7 +19879,13 @@ Reference:
 
 ### Species Sphagnum fuscum (Schimp.) Klinggr. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11728>.
+
 ### Species Sphagnum girgensohnii Russ. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=66755>.
 
 ### Species Sphagnum jensenii H. Lindb. 
 
@@ -18990,11 +19894,20 @@ Reference:
 
 ### Species Sphagnum magellanicum Brid. 
 
+Reference: 
+<https://biocache.ala.org.au/occurrences/c528879d-f3ef-4b0d-800e-bf63b20f8f31>.
+
 ### Species Sphagnum nitidum Warnst. 
 
 ### Species Sphagnum papillosum Lindb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11730>.
+
 ### Species Sphagnum riparium Ångstr. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=662107>.
 
 ### Species Sphagnum rubellum Wils. 
 
@@ -19003,13 +19916,25 @@ Reference:
 
 ### Species Sphagnum russowii Warnst. 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=221133>.
+
 ### Species Sphagnum squarrosum Crome 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11741>.
 
 ### Species Sphagnum steerei Andrus 
 
 ### Species Sphagnum subsecundum Nees in Sturm 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=1192725>.
+
 ### Species Sphagnum teres (Schimp.) Ångstr. in Hartm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11742>.
 
 ### Species Sphagnum warnstorfii Russ. 
 
@@ -19023,7 +19948,38 @@ Reference:
 
 ### Species Tetraphis pellucida Hedw. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11991>.
+
+### Phylum Charophyta 
+
+### Class Klebsormidiophyceae 
+
+### Order Klebsormidiales 
+
+### Family Elakatotrichaceae 
+
+### Genus Elakatothrix 
+
+### Species Elakatothrix gelatinosa Wille, 1898 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1008>.
+
 ### Phylum Chlorophyta 
+
+### Class Chlorophyceae 
+
+### Order Chlamydomonadales 
+
+### Family Chlamydomonadaceae 
+
+### Genus Chlamydomonas 
+
+### Species Chlamydomonas dinobryonii G. M. Smith, 1920 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1005>.
 
 ### Class Ulvophyceae 
 
@@ -19060,6 +20016,9 @@ Reference:
 
 ### Species Barbilophozia hatcheri (A. Evans) Loeske 
 
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=262131>.
+
 ### Genus Schljakovia 
 
 ### Species Barbilophozia kunzeana (Huebener) Müll. Frib. 
@@ -19079,6 +20038,9 @@ Reference:
 ### Genus Gymnocolea 
 
 ### Species Gymnocolea inflata (Huds.) Dumort. 
+
+Reference: 
+<http://sweetgum.nybg.org/science/vh/specimen-details/?irn=493000>.
 
 ### Genus Isopaches 
 
@@ -19190,6 +20152,9 @@ Reference:
 
 ### Species Lophozia ventricosa (Dicks.) Dumort. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11570>.
+
 ### Genus Tritomaria 
 
 ### Species Tritomaria exsectiformis (Breidl.) Schiffn. ex Loeske 
@@ -19201,11 +20166,17 @@ Reference:
 
 ### Species Tritomaria quinquedentata (Huds.) H. Buch 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11623>.
+
 ### Family Myliaceae 
 
 ### Genus Mylia 
 
 ### Species Mylia anomala (Hook.) Gray 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11712>.
 
 ### Species Mylia taylorii (Hook.) Gray 
 
@@ -19254,7 +20225,13 @@ Reference:
 
 ### Species Ptilidium ciliare (L.) Hampe 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11687>.
+
 ### Species Ptilidium pulcherrimum (Weber) Vain. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:12051>.
 
 ### Class Marchantiopsida 
 
@@ -19271,6 +20248,9 @@ Reference:
 ### Genus Marchantia 
 
 ### Species Marchantia polymorpha L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/47421037>.
 
 ### Phylum Tracheophyta 
 
@@ -19298,6 +20278,13 @@ Reference:
 
 ### Family Lycopodiaceae 
 
+### Genus Huperzia 
+
+### Species Huperzia selago (L.) Bernh. ex Schrank & Mart. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11295>.
+
 ### Genus Lycopodium 
 
 ### Species Lycopodium alpinum L. 
@@ -19307,7 +20294,13 @@ Reference:
 
 ### Species Lycopodium annotinum L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10813>.
+
 ### Species Lycopodium clavatum L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11484>.
 
 ### Species Lycopodium complanatum L. 
 
@@ -19315,6 +20308,9 @@ Reference:
 <http://www.inaturalist.org/observations/1290853>.
 
 ### Species Lycopodium lagopus (Laest. ex Hartm.) G. Zinserl. ex Kuzen. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10809>.
 
 ### Class Magnoliopsida 
 
@@ -19355,11 +20351,21 @@ References:
 <http://arctos.database.museum/guid/UAM:Herb:20824>, 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
+### Genus Spirodela 
+
+### Species Spirodela polyrhiza (L.) Schleid. 
+
+Reference: 
+<https://www.inaturalist.org/observations/59163202>.
+
 ### Family Juncaginaceae 
 
 ### Genus Triglochin 
 
 ### Species Triglochin maritima L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11288>.
 
 ### Species Triglochin palustris L. 
 
@@ -19388,6 +20394,9 @@ Reference:
 
 ### Species Potamogeton praelongus Wulfen 
 
+Reference: 
+<https://www.inaturalist.org/observations/33452912>.
+
 ### Species Potamogeton pusillus L. 
 
 References: 
@@ -19415,11 +20424,17 @@ Reference:
 
 ### Species Stuckenia filiformis (Pers.) Börner 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10957>.
+
 ### Family Scheuchzeriaceae 
 
 ### Genus Scheuchzeria 
 
 ### Species Scheuchzeria palustris L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:1476>.
 
 ### Family Tofieldiaceae 
 
@@ -19427,9 +20442,15 @@ Reference:
 
 ### Species Tofieldia coccinea Richardson 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11516>.
+
 ### Genus Triantha 
 
 ### Species Triantha glutinosa (Michx.) Baker 
+
+Reference: 
+<https://www.inaturalist.org/observations/3744065>.
 
 ### Order Apiales 
 
@@ -19441,6 +20462,9 @@ Reference:
 
 ### Species Angelica lucida L. 
 
+Reference: 
+<https://www.inaturalist.org/observations/6633100>.
+
 ### Genus Cicuta 
 
 ### Species Cicuta douglasii (DC.) J.M. Coult. & Rose 
@@ -19449,6 +20473,9 @@ Reference:
 <http://arctos.database.museum/guid/UAM:Herb:21623>.
 
 ### Species Cicuta virosa L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10408>.
 
 ### Genus Conioselinum 
 
@@ -19546,6 +20573,9 @@ Reference:
 
 ### Species Platanthera dilatata (Pursh) Lindl. ex L.C. Beck 
 
+Reference: 
+<https://www.inaturalist.org/observations/3744426>.
+
 ### Species Platanthera obtusata (Banks ex Pursh) Lindl. 
 
 ### Genus Spiranthes 
@@ -19569,6 +20599,9 @@ References:
 
 ### Species Achillea ptarmica L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10508>.
+
 ### Genus Antennaria 
 
 ### Species Antennaria alpina (L.) Gaertn. 
@@ -19581,9 +20614,17 @@ Reference:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:733>.
 
+### Species Antennaria rosea Greene 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:58230>.
+
 ### Genus Arnica 
 
 ### Species Arnica chamissonis Less. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10517>.
 
 ### Species Arnica latifolia Bong. 
 
@@ -19593,7 +20634,15 @@ References:
 
 ### Species Arnica lessingii Greene 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57297>.
+
 ### Genus Artemisia 
+
+### Species Artemisia norvegica Fr. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10377>.
 
 ### Species Artemisia tilesii Ledeb. 
 
@@ -19611,6 +20660,9 @@ Reference:
 
 ### Species Chrysanthemum arcticum L. 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:58108>.
+
 ### Genus Cirsium 
 
 ### Species Cirsium arvense (L.) Scop. 
@@ -19626,9 +20678,15 @@ Reference:
 
 ### Species Crepis tectorum L. 
 
+Reference: 
+<https://www.inaturalist.org/observations/1831836>.
+
 ### Genus Erigeron 
 
 ### Species Erigeron acris L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10526>.
 
 ### Species Erigeron compositus Pursh 
 
@@ -19641,6 +20699,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:732>.
 
 ### Species Erigeron peregrinus (Banks ex Pursh) Greene 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11507>.
 
 ### Genus Eurybia 
 
@@ -19659,9 +20720,15 @@ Reference:
 
 ### Species Hieracium caespitosum Dumort. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10435>.
+
 ### Species Hieracium triste Willd. ex Spreng. 
 
 ### Species Hieracium umbellatum L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10434>.
 
 ### Genus Leontodon 
 
@@ -19678,6 +20745,9 @@ Reference:
 <http://www.inaturalist.org/observations/8157380>.
 
 ### Species Leucanthemum vulgare Lam. 
+
+Reference: 
+<https://www.inaturalist.org/observations/50060518>.
 
 ### Genus Matricaria 
 
@@ -19703,6 +20773,9 @@ References:
 
 ### Species Petasites frigidus (L.) Fr. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10574>.
+
 ### Genus Psilocarphus 
 
 ### Species Psilocarphus elatior (A. Gray) A. Gray 
@@ -19715,6 +20788,9 @@ Reference:
 ### Species Senecio integerrimus Nutt. 
 
 ### Species Senecio lugens Richardson 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11493>.
 
 ### Species Senecio triangularis Hook. 
 
@@ -19788,6 +20864,9 @@ Reference:
 
 ### Species Campanula lasiocarpa Cham. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11534>.
+
 ### Species Campanula rotundifolia L. 
 
 References: 
@@ -19819,6 +20898,9 @@ Reference:
 
 ### Species Mertensia paniculata (Aiton) G. Don 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10561>.
+
 ### Genus Myosotis 
 
 ### Species Myosotis asiatica (Vestergr.) Schischk. & Serg. 
@@ -19827,6 +20909,11 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:10371>, 
 <http://arctos.database.museum/guid/KNWR:Herb:742>, 
 <http://arctos.database.museum/guid/KNWR:Herb:743>.
+
+### Species Myosotis scorpioides L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/52625632>.
 
 ### Genus Symphytum 
 
@@ -19845,6 +20932,13 @@ Reference:
 
 ### Family Brassicaceae 
 
+### Genus Arabidopsis 
+
+### Species Arabidopsis lyrata (L.) O'Kane & Al-Shehbaz 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10563>.
+
 ### Genus Arabis 
 
 ### Species Arabis hirsuta (L.) Scop. 
@@ -19857,19 +20951,34 @@ References:
 
 ### Species Barbarea orthoceras Ledeb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10564>.
+
 ### Genus Brassica 
 
 ### Species Brassica rapa L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10565>.
 
 ### Genus Capsella 
 
 ### Species Capsella bursa-pastoris (L.) Medik. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10566>.
+
 ### Genus Cardamine 
 
 ### Species Cardamine bellidifolia L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11541>.
+
 ### Species Cardamine pratensis L. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:58228>.
 
 ### Species Cardamine umbellata Greene 
 
@@ -19879,6 +20988,9 @@ Reference:
 ### Genus Draba 
 
 ### Species Draba borealis DC. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10577>.
 
 ### Species Draba incerta Payson 
 
@@ -19902,6 +21014,9 @@ Reference:
 
 ### Species Erysimum cheiranthoides L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10569>.
+
 ### Species Erysimum X marshallii (Henfr.) Bois 
 
 Reference: 
@@ -19921,9 +21036,15 @@ Reference:
 
 ### Species Sinapis arvensis L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10571>.
+
 ### Genus Subularia 
 
 ### Species Subularia aquatica L. 
+
+Reference: 
+<http://arctos.database.museum/guid/UAM:Herb:20784>.
 
 ### Genus Thlaspi 
 
@@ -19967,7 +21088,13 @@ Reference:
 
 ### Species Cerastium fischerianum Ser. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10606>.
+
 ### Species Cerastium fontanum Baumg. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10611>.
 
 ### Genus Dianthus 
 
@@ -19989,7 +21116,13 @@ Reference:
 
 ### Species Minuartia arctica (Steven ex Ser.) Graebn. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11227>.
+
 ### Species Minuartia macrocarpa (Pursh) Ostenf. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11408>.
 
 ### Species Minuartia rubella (Wahlenb.) Hiern 
 
@@ -20018,19 +21151,31 @@ Reference:
 
 ### Species Silene latifolia Poir. 
 
+Reference: 
+<https://www.inaturalist.org/observations/1789902>.
+
 ### Species Silene noctiflora L. 
 
 ### Genus Spergula 
 
 ### Species Spergula arvensis L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10619>.
+
 ### Genus Spergularia 
 
 ### Species Spergularia rubra (L.) J. Presl & C. Presl 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10610>.
+
 ### Genus Stellaria 
 
 ### Species Stellaria calycantha (Ledeb.) Bong. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10603>.
 
 ### Species Stellaria crispa Cham. & Schltdl. 
 
@@ -20090,6 +21235,9 @@ Reference:
 
 ### Species Oxyria digyna (L.) Hill 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10941>.
+
 ### Genus Persicaria 
 
 ### Species Persicaria amphibia (L.) Delarbre 
@@ -20112,7 +21260,13 @@ Reference:
 
 ### Species Rumex acetosella L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10949>.
+
 ### Species Rumex arcticus Trautv. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11304>.
 
 ### Species Rumex crispus L. 
 
@@ -20137,6 +21291,9 @@ Reference:
 
 ### Species Parnassia palustris L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11144>.
+
 ### Order Cornales 
 
 ### Family Cornaceae 
@@ -20144,6 +21301,9 @@ Reference:
 ### Genus Cornus 
 
 ### Species Cornus canadensis L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10626>.
 
 ### Species Cornus suecica L. 
 
@@ -20171,6 +21331,9 @@ Reference:
 ### Genus Viburnum 
 
 ### Species Viburnum edule (Michx.) Raf. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10589>.
 
 ### Species Viburnum opulus L. 
 
@@ -20214,6 +21377,9 @@ Reference:
 
 ### Species Diapensia lapponica L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11221>.
+
 ### Family Ericaceae 
 
 ### Genus Andromeda 
@@ -20244,11 +21410,20 @@ Reference:
 
 ### Species Cassiope lycopodioides (Pall.) D. Don 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10710>.
+
 ### Species Cassiope tetragona (L.) D. Don 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11333>.
 
 ### Genus Chamaedaphne 
 
 ### Species Chamaedaphne calyculata (L.) Moench 
+
+Reference: 
+<https://www.inaturalist.org/observations/12968342>.
 
 ### Genus Empetrum 
 
@@ -20267,37 +21442,74 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:10357>, 
 <http://www.inaturalist.org/observations/114293>.
 
+### Genus Kalmia 
+
+### Species Kalmia procumbens (L.) Gift, Kron & P.F. Stevens ex Galasso, Banfi & F. Conti 
+
+Reference: 
+<https://www.inaturalist.org/observations/7028180>.
+
 ### Genus Menziesia 
 
 ### Species Menziesia ferruginea Sm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:88>.
 
 ### Genus Moneses 
 
 ### Species Moneses uniflora (L.) A. Gray 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57411>.
+
 ### Genus Orthilia 
 
 ### Species Orthilia secunda (L.) House 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:110>.
 
 ### Genus Phyllodoce 
 
 ### Species Phyllodoce aleutica (Spreng.) Heller 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11292>.
+
 ### Genus Pyrola 
 
 ### Species Pyrola asarifolia Michx. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10979>.
+
 ### Species Pyrola chlorantha Sw. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57414>.
 
 ### Species Pyrola grandiflora Radius 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57284>.
+
 ### Species Pyrola minor L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11247>.
 
 ### Genus Rhododendron 
 
 ### Species Rhododendron groenlandicum (Oeder) Kron & Judd 
 
+Reference: 
+<https://www.inaturalist.org/observations/7152587>.
+
 ### Species Rhododendron tomentosum Harmaja 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11225>.
 
 ### Genus Vaccinium 
 
@@ -20307,6 +21519,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:11451>.
 
 ### Species Vaccinium ovalifolium Sm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11434>.
 
 ### Species Vaccinium oxycoccos L. 
 
@@ -20355,6 +21570,9 @@ Reference:
 
 ### Species Primula cuneifolia Ledeb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11296>.
+
 ### Genus Trientalis 
 
 ### Species Trientalis europaea L. 
@@ -20375,6 +21593,9 @@ References:
 
 ### Species Astragalus polaris (Seem.) Benth. ex Hook. f. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11354>.
+
 ### Species Astragalus umbellatus Bunge 
 
 Reference: 
@@ -20388,9 +21609,15 @@ Reference:
 
 ### Species Hedysarum alpinum L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10738>.
+
 ### Genus Lathyrus 
 
 ### Species Lathyrus japonicus Willd. 
+
+Reference: 
+<https://www.inaturalist.org/observations/1790133>.
 
 ### Species Lathyrus palustris L. 
 
@@ -20410,9 +21637,18 @@ Reference:
 
 ### Species Lupinus arcticus S. Watson 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:20816>.
+
 ### Species Lupinus nootkatensis Donn ex Sims 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57339>.
+
 ### Species Lupinus polyphyllus Lindl. 
+
+Reference: 
+<https://www.inaturalist.org/observations/14021495>.
 
 ### Genus Medicago 
 
@@ -20430,6 +21666,9 @@ Reference:
 
 ### Species Melilotus officinalis (L.) Lam. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10741>.
+
 ### Genus Oxytropis 
 
 ### Species Oxytropis campestris (L.) DC. 
@@ -20446,9 +21685,15 @@ Reference:
 
 ### Species Oxytropis splendens Douglas ex Hook. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10731>.
+
 ### Genus Trifolium 
 
 ### Species Trifolium hybridum L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10742>.
 
 ### Species Trifolium pratense L. 
 
@@ -20464,11 +21709,20 @@ Reference:
 
 ### Species Vicia cracca L. 
 
+Reference: 
+<https://www.inaturalist.org/observations/33728931>.
+
 ### Order Fagales 
 
 ### Family Betulaceae 
 
 ### Genus Alnus 
+
+### Species Alnus incana (L.) Moench 
+
+References: 
+<https://arctos.database.museum/guid/KNWR:Herb:10556>, 
+<https://arctos.database.museum/guid/UAM:Herb:20781>.
 
 ### Species Alnus viridis (Chaix) DC. 
 
@@ -20478,6 +21732,9 @@ Reference:
 ### Genus Betula 
 
 ### Species Betula glandulosa Michx. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11198>.
 
 ### Species Betula kenaica W.H. Evans 
 
@@ -20499,11 +21756,17 @@ References:
 
 ### Species Betula pendula Roth 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11556>.
+
 ### Family Myricaceae 
 
 ### Genus Myrica 
 
 ### Species Myrica gale L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10805>.
 
 ### Order Gentianales 
 
@@ -20526,6 +21789,9 @@ Reference:
 
 ### Species Gentianella amarella (L.) Börner 
 
+Reference: 
+<https://www.inaturalist.org/observations/1790119>.
+
 ### Genus Swertia 
 
 ### Species Swertia perennis L. 
@@ -20544,7 +21810,13 @@ Reference:
 
 ### Species Galium trifidum L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:1463>.
+
 ### Species Galium triflorum Michx. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:101>.
 
 ### Order Geraniales 
 
@@ -20625,7 +21897,13 @@ Reference:
 
 ### Species Pedicularis capitata M.F. Adams 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11190>.
+
 ### Species Pedicularis labradorica Wirsing 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11488>.
 
 ### Species Pedicularis lanata Cham. & Schltdl. 
 
@@ -20639,6 +21917,9 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:653>.
 
 ### Species Pedicularis parviflora Sm. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:156970>.
 
 ### Species Pedicularis verticillata L. 
 
@@ -20668,6 +21949,9 @@ Reference:
 
 ### Species Callitriche palustris L. 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:129862>.
+
 ### Genus Hippuris 
 
 ### Species Hippuris tetraphylla L. f. 
@@ -20685,6 +21969,9 @@ Reference:
 
 ### Species Linaria vulgaris Mill. 
 
+Reference: 
+<https://www.inaturalist.org/observations/1790120>.
+
 ### Genus Plantago 
 
 ### Species Plantago major L. 
@@ -20695,6 +21982,9 @@ References:
 
 ### Species Plantago maritima L. 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:27732>.
+
 ### Genus Veronica 
 
 ### Species Veronica americana Schwein. ex Benth. 
@@ -20703,7 +21993,15 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:613>, 
 <http://arctos.database.museum/guid/KNWR:Herb:650>.
 
+### Species Veronica peregrina L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/57466121>.
+
 ### Species Veronica wormskjoldii Roem. & Schult. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11438>.
 
 ### Order Liliales 
 
@@ -20721,15 +22019,24 @@ References:
 
 ### Species Lloydia serotina (L.) Salisb. ex Rchb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11222>.
+
 ### Genus Streptopus 
 
 ### Species Streptopus amplexifolius (L.) DC. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10798>.
 
 ### Family Melanthiaceae 
 
 ### Genus Anticlea 
 
 ### Species Anticlea elegans (Pursh) Rydb. 
+
+Reference: 
+<https://www.inaturalist.org/observations/7028695>.
 
 ### Genus Veratrum 
 
@@ -20750,6 +22057,9 @@ Reference:
 <http://www.inaturalist.org/observations/4050351>.
 
 ### Species Linum perenne L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10539>.
 
 ### Family Salicaceae 
 
@@ -20791,9 +22101,18 @@ References:
 
 ### Species Salix bebbiana Sarg. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11058>.
+
 ### Species Salix commutata Bebb 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11314>.
+
 ### Species Salix fuscescens Andersson 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57387>.
 
 ### Species Salix glauca L. 
 
@@ -20808,9 +22127,15 @@ References:
 
 ### Species Salix myrtillifolia Andersson 
 
+Reference: 
+<https://plant.depo.msu.ru/open/public/item/MW0573339>.
+
 ### Species Salix niphoclada Rydb. 
 
 ### Species Salix ovalifolia Trautv. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11214>.
 
 ### Species Salix pulchra Cham. 
 
@@ -20823,6 +22148,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:10343>.
 
 ### Species Salix scouleriana Barratt ex Hook. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:58127>.
 
 ### Species Salix sitchensis Sanson ex Bong. 
 
@@ -20848,6 +22176,9 @@ References:
 
 ### Species Viola epipsila Ledeb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11323>.
+
 ### Species Viola glabella Nutt. 
 
 Reference: 
@@ -20860,7 +22191,13 @@ Reference:
 
 ### Species Viola renifolia A. Gray 
 
+Reference: 
+<https://www.inaturalist.org/observations/13564981>.
+
 ### Species Viola selkirkii Pursh ex Goldie 
+
+Reference: 
+<https://www.inaturalist.org/observations/13565077>.
 
 ### Order Myrtales 
 
@@ -20883,11 +22220,20 @@ References:
 
 ### Species Circaea alpina L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10533>.
+
 ### Genus Epilobium 
 
 ### Species Epilobium anagallidifolium Lam. 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57229>.
+
 ### Species Epilobium ciliatum Raf. 
+
+Reference: 
+<https://www.inaturalist.org/observations/13895381>.
 
 ### Species Epilobium hornemannii Rchb. 
 
@@ -20936,9 +22282,18 @@ References:
 
 ### Species Carex brunnescens (Pers.) Poir. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:1151>.
+
 ### Species Carex canescens L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11260>.
+
 ### Species Carex chordorrhiza Ehrh. ex L. f. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:20789>.
 
 ### Species Carex deflexa Hornem. 
 
@@ -20951,7 +22306,13 @@ Reference:
 
 ### Species Carex disperma Dewey 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11278>.
+
 ### Species Carex gynocrates Wormsk. ex Drejer 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:690>.
 
 ### Species Carex interior L.H. Bailey 
 
@@ -20959,15 +22320,30 @@ Reference:
 
 ### Species Carex lasiocarpa Ehrh. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10654>.
+
 ### Species Carex leptalea Wahlenb. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11270>.
 
 ### Species Carex limosa L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11245>.
+
 ### Species Carex livida (Wahlenb.) Willd. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11267>.
 
 ### Species Carex loliacea L. 
 
 ### Species Carex lyngbyei Hornem. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11285>.
 
 ### Species Carex macrochaeta C.A. Mey. 
 
@@ -21016,13 +22392,25 @@ References:
 
 ### Species Carex pluriflora Hultén 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:20799>.
+
 ### Species Carex podocarpa R. Br. 
+
+Reference: 
+<https://www.inaturalist.org/observations/13435370>.
 
 ### Species Carex preslii Steud. 
 
 ### Species Carex pyrenaica Wahlenb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11365>.
+
 ### Species Carex ramenskii Kom. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11286>.
 
 ### Species Carex rotundata Wahlenb. 
 
@@ -21037,17 +22425,32 @@ Reference:
 
 ### Species Carex scirpoidea Michx. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11383>.
+
 ### Species Carex spectabilis Dewey 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11326>.
 
 ### Species Carex tenuiflora Wahlenb. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11243>.
+
 ### Species Carex utriculata Boott 
+
+Reference: 
+<https://www.inaturalist.org/observations/1358064>.
 
 ### Species Carex viridula Michx. 
 
 ### Genus Eleocharis 
 
 ### Species Eleocharis palustris (L.) Roem. & Schult. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10637>.
 
 ### Genus Eriophorum 
 
@@ -21059,9 +22462,15 @@ References:
 
 ### Species Eriophorum callitrix Cham. ex C.A. Mey. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10638>.
+
 ### Species Eriophorum russeolum Fr. 
 
 ### Species Eriophorum scheuchzeri Hoppe 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:475>.
 
 ### Species Eriophorum vaginatum L. 
 
@@ -21096,6 +22505,9 @@ Reference:
 
 ### Species Juncus alpinoarticulatus Chaix 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10780>.
+
 ### Species Juncus bufonius L. 
 
 References: 
@@ -21103,6 +22515,9 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:625>.
 
 ### Species Juncus castaneus Sm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10778>.
 
 ### Species Juncus filiformis L. 
 
@@ -21117,6 +22532,9 @@ References:
 
 ### Species Juncus triglumis L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:467>.
+
 ### Genus Luzula 
 
 ### Species Luzula arcuata (Wahlenb.) Sw. 
@@ -21125,6 +22543,9 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:10348>.
 
 ### Species Luzula multiflora (Ehrh.) Lej. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11454>.
 
 ### Species Luzula parviflora (Ehrh.) Desv. 
 
@@ -21138,7 +22559,13 @@ References:
 
 ### Species Luzula spicata (L.) DC. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11464>.
+
 ### Species Luzula wahlenbergii Rupr. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11399>.
 
 ### Family Poaceae 
 
@@ -21148,13 +22575,25 @@ References:
 
 ### Species Agrostis mertensii Trin. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11468>.
+
 ### Species Agrostis scabra Willd. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10854>.
 
 ### Genus Alopecurus 
 
 ### Species Alopecurus geniculatus L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10909>.
+
 ### Species Alopecurus pratensis L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10900>.
 
 ### Genus Anthoxanthum 
 
@@ -21177,15 +22616,27 @@ Reference:
 
 ### Species Arctopoa eminens (J. Presl) Prob. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11290>.
+
 ### Genus Bromus 
 
 ### Species Bromus inermis Leyss. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10908>.
+
 ### Species Bromus tectorum L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10848>.
 
 ### Genus Calamagrostis 
 
 ### Species Calamagrostis canadensis (Michx.) P. Beauv. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10849>.
 
 ### Species Calamagrostis lapponica (Wahlenb.) Hartm. 
 
@@ -21204,6 +22655,9 @@ Reference:
 ### Genus Danthonia 
 
 ### Species Danthonia intermedia Vasey 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11517>.
 
 ### Genus Deschampsia 
 
@@ -21224,9 +22678,18 @@ Reference:
 
 ### Species Elymus repens (L.) Gould 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10901>.
+
 ### Species Elymus sibiricus L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10493>.
+
 ### Species Elymus trachycaulus (Link) Gould ex Shinners 
+
+Reference: 
+<https://www.inaturalist.org/observations/1831852>.
 
 ### Species Elymus violaceus (Hornem.) Feilberg 
 
@@ -21234,7 +22697,13 @@ Reference:
 
 ### Species Festuca altaica Trin. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11514>.
+
 ### Species Festuca brachyphylla Schult. & Schult. f. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11470>.
 
 ### Species Festuca brevissima Jurtzev 
 
@@ -21244,11 +22713,20 @@ References:
 
 ### Species Festuca rubra L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11191>.
+
 ### Species Festuca saximontana Rydb. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11448>.
 
 ### Genus Glyceria 
 
 ### Species Glyceria borealis (Nash) Batch. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10877>.
 
 ### Genus Hordeum 
 
@@ -21259,11 +22737,17 @@ Reference:
 
 ### Species Hordeum jubatum L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10851>.
+
 ### Species Hordeum vulgare L. 
 
 ### Genus Leymus 
 
 ### Species Leymus mollis (Trin.) Pilg. 
+
+Reference: 
+<https://www.inaturalist.org/observations/9083673>.
 
 ### Genus Lolium 
 
@@ -21274,9 +22758,15 @@ Reference:
 
 ### Species Lolium perenne L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10906>.
+
 ### Genus Phalaris 
 
 ### Species Phalaris arundinacea L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/9149177>.
 
 ### Genus Phleum 
 
@@ -21300,7 +22790,13 @@ Reference:
 
 ### Species Poa annua L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10897>.
+
 ### Species Poa arctica R. Br. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10847>.
 
 ### Species Poa compressa L. 
 
@@ -21315,6 +22811,9 @@ References:
 
 ### Species Poa pratensis L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11466>.
+
 ### Species Poa stenantha Trin. 
 
 ### Species Poa trivialis L. 
@@ -21323,9 +22822,15 @@ References:
 
 ### Species Puccinellia nutkaensis (J. Presl) Fernald & Weath. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:1482>.
+
 ### Genus Secale 
 
 ### Species Secale cereale L. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57443>.
 
 ### Genus Trisetum 
 
@@ -21337,6 +22842,9 @@ Reference:
 ### Genus Vahlodea 
 
 ### Species Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11520>.
 
 ### Genus Zizania 
 
@@ -21355,6 +22863,9 @@ Reference:
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ### Species Sparganium hyperboreum Beurl. ex Laest. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:833>.
 
 ### Species Sparganium natans L. 
 
@@ -21416,7 +22927,15 @@ Reference:
 
 ### Genus Anemone 
 
+### Species Anemone narcissiflora L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11496>.
+
 ### Species Anemone parviflora Michx. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10996>.
 
 ### Species Anemone richardsonii Hook. 
 
@@ -21441,11 +22960,22 @@ References:
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:674>.
 
+### Species Caltha natans Pall. 
+
+Reference: 
+<https://www.inaturalist.org/observations/57584513>.
+
 ### Species Caltha palustris L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10995>.
 
 ### Genus Coptis 
 
 ### Species Coptis trifolia (L.) Salisb. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57415>.
 
 ### Genus Delphinium 
 
@@ -21456,11 +22986,25 @@ Reference:
 
 ### Genus Ranunculus 
 
+### Species Ranunculus aquatilis L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10980>.
+
 ### Species Ranunculus eschscholtzii Schltdl. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10987>.
 
 ### Species Ranunculus hyperboreus Rottb. 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:20853>.
+
 ### Species Ranunculus lapponicus L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11308>.
 
 ### Species Ranunculus nivalis L. 
 
@@ -21509,6 +23053,9 @@ Reference:
 
 ### Species Dasiphora fruticosa (L.) Rydb. 
 
+Reference: 
+<https://www.inaturalist.org/observations/14503251>.
+
 ### Genus Dryas 
 
 ### Species Dryas drummondii Richardson ex Hook. 
@@ -21543,6 +23090,9 @@ Reference:
 
 ### Species Geum rossii (R. Br.) Ser. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11532>.
+
 ### Genus Luetkea 
 
 ### Species Luetkea pectinata (Pursh) Kuntze 
@@ -21566,9 +23116,18 @@ Reference:
 
 ### Species Potentilla norvegica L. 
 
+Reference: 
+<https://www.inaturalist.org/observations/8404032>.
+
 ### Species Potentilla pensylvanica L. 
 
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:57232>.
+
 ### Species Potentilla uniflora Ledeb. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11216>.
 
 ### Species Potentilla vahliana Lehm. 
 
@@ -21593,6 +23152,9 @@ References:
 
 ### Species Rosa nutkana C. Presl 
 
+Reference: 
+<https://www.inaturalist.org/observations/18618928>.
+
 ### Genus Rubus 
 
 ### Species Rubus arcticus L. 
@@ -21607,6 +23169,9 @@ References:
 <http://www.inaturalist.org/observations/1790143>.
 
 ### Species Rubus idaeus L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/6633092>.
 
 ### Species Rubus pedatus Sm. 
 
@@ -21636,11 +23201,20 @@ Reference:
 
 ### Species Sorbaria sorbifolia (L.) A. Braun 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11041>.
+
 ### Genus Sorbus 
 
 ### Species Sorbus scopulina Greene 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11321>.
+
 ### Species Sorbus sitchensis M. Roem. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11435>.
 
 ### Genus Spiraea 
 
@@ -21648,11 +23222,17 @@ Reference:
 
 ### Species Spiraea stevenii (C.K. Schneid.) Rydb. 
 
+Reference: 
+<https://www.inaturalist.org/observations/3541169>.
+
 ### Family Urticaceae 
 
 ### Genus Urtica 
 
 ### Species Urtica dioica L. 
+
+Reference: 
+<https://www.inaturalist.org/observations/13433061>.
 
 ### Order Santalales 
 
@@ -21661,6 +23241,9 @@ Reference:
 ### Genus Geocaulon 
 
 ### Species Geocaulon lividum (Richardson) Fernald 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11132>.
 
 ### Order Saxifragales 
 
@@ -21684,7 +23267,13 @@ References:
 
 ### Species Ribes glandulosum Grauer 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11320>.
+
 ### Species Ribes hudsonianum Richardson 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11283>.
 
 ### Species Ribes lacustre (Pers.) Poir. 
 
@@ -21696,6 +23285,9 @@ References:
 
 ### Species Ribes triste Pall. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11319>.
+
 ### Family Haloragaceae 
 
 ### Genus Myriophyllum 
@@ -21703,6 +23295,9 @@ References:
 ### Species Myriophyllum farwellii Morong 
 
 ### Species Myriophyllum sibiricum Kom. 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Herb:5187>.
 
 ### Species Myriophyllum verticillatum L. 
 
@@ -21731,6 +23326,13 @@ Reference:
 
 ### Species Leptarrhena pyrolifolia (D. Don) R. Br. ex Ser. 
 
+### Genus Micranthes 
+
+### Species Micranthes nelsoniana (D. Don) Small 
+
+Reference: 
+<https://www.inaturalist.org/observations/4050170>.
+
 ### Genus Saxifraga 
 
 ### Species Saxifraga bronchialis L. 
@@ -21756,6 +23358,9 @@ References:
 
 ### Species Tiarella trifoliata L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11143>.
+
 ### Class Pinopsida 
 
 ### Order Pinales 
@@ -21775,7 +23380,13 @@ Reference:
 
 ### Species Picea glauca (Moench) Voss 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11490>.
+
 ### Species Picea mariana (Mill.) Britton, Sterns & Poggenb. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:127>.
 
 ### Species Picea X lutzii Little 
 
@@ -21817,9 +23428,18 @@ Reference:
 
 ### Species Equisetum palustre L. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11275>.
+
 ### Species Equisetum pratense Ehrh. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:20>.
+
 ### Species Equisetum sylvaticum L. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:293>.
 
 ### Species Equisetum variegatum Schleich. ex F. Weber & D. Mohr 
 
@@ -21837,6 +23457,9 @@ References:
 
 ### Species Botrychium lunaria (L.) Sw. 
 
+Reference: 
+<https://www.inaturalist.org/observations/1521800>.
+
 ### Order Polypodiales 
 
 ### Family Dryopteridaceae 
@@ -21851,9 +23474,15 @@ References:
 
 ### Species Dryopteris fragrans (L.) Schott 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10664>.
+
 ### Genus Polystichum 
 
 ### Species Polystichum lonchitis (L.) Roth 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:7170>.
 
 ### Family Onocleaceae 
 
@@ -21892,19 +23521,46 @@ Reference:
 
 ### Species Athyrium filix-femina (L.) Roth 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:10538>.
+
 ### Genus Cystopteris 
 
 ### Species Cystopteris fragilis (L.) Bernh. 
+
+Reference: 
+<https://www.inaturalist.org/observations/6614559>.
 
 ### Genus Gymnocarpium 
 
 ### Species Gymnocarpium dryopteris (L.) Newman 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:221>.
+
 ### Genus Woodsia 
 
 ### Species Woodsia ilvensis (L.) R. Br. 
 
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Herb:11380>.
+
 ### Kingdom Protozoa 
+
+### Phylum Craspedophyta 
+
+### Class Craspedophyceae 
+
+### Order Craspedomonadales 
+
+### Family Salpingoecaceae 
+
+### Genus Salpingoeca 
+
+### Species Salpingoeca frequentissima Zach. Lemm. 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:993>.
 
 ### Phylum Protozoa 
 

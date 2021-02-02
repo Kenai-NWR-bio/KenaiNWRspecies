@@ -1,4 +1,8 @@
+
 ## Generating a checklist document.
+
+dirdata <- "../data/final_data/DwC-A/"
+dirdoc <- "../documents/checklist_document/"
 
 library("zip")
 
@@ -19,14 +23,14 @@ print_taxon <- function(outfile, name="", rank="")
  }
 
 ## First load data.
-unzip("../data/DwC-A/dwca-kenainationalwildliferefuge.zip", exdir = "../data/DwC-A")
-cl1 <- read.delim("../data/DwC-A/taxon.txt")
-rf1 <- read.delim("../data/DwC-A/reference.txt")
+unzip(paste0(dirdata, "dwca-kenainationalwildliferefuge.zip"), exdir=dirdata)
+cl1 <- read.delim(paste0(dirdata, "taxon.txt"))
+rf1 <- read.delim(paste0(dirdata, "reference.txt"))
 
 ## Sorting.
 cl1 <- cl1[order(cl1$kingdom, cl1$phylum, cl1$class, cl1$order, cl1$family, cl1$scientificName),]
 
-outfile <- "../text/checklist.md"
+outfile <- paste0(dirdoc, "checklist.md")
 write("# Kenai National Wildlife Refuge Species List\n", file=outfile, append=FALSE)
 
 write("## Checklist\n", file=outfile, append=TRUE) 
@@ -110,7 +114,7 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
  }
  
 ## Clean up.
-unlink("../data/DwC-A/meta.xml") 
-unlink("../data/DwC-A/taxon.txt")
-unlink("../data/DwC-A/distribution.txt")
-unlink("../data/DwC-A/reference.txt")
+unlink(paste0(dirdata, "meta.xml")) 
+unlink(paste0(dirdata, "taxon.txt"))
+unlink(paste0(dirdata, "distribution.txt"))
+unlink(paste0(dirdata, "reference.txt"))
