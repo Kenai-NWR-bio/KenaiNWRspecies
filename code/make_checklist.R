@@ -1,6 +1,8 @@
 
 ## Generating a checklist document.
 
+options(encoding="native.enc")
+
 dirdata <- "../data/final_data/DwC-A/"
 dirdoc <- "../documents/checklist_document/"
 
@@ -14,14 +16,14 @@ simpleCap <- function(x) {
       sep="", collapse=" ")
 }
 
-print_taxon <- function(outfile, name="", rank="")
+print_taxon <- function(outfile, name="", rank="", prefix="######")
  {
  if (name=="")
   {
   name <- "taxon name missing"
   }
  rank <- simpleCap(rank)
- write(paste("###", rank, name, "\n"), file=outfile, append=TRUE)
+ write(paste0(prefix, " ", rank, " ", name, "\n"), file=outfile, append=TRUE)
  }
 
 ## First load data.
@@ -31,6 +33,10 @@ rf1 <- read.delim(paste0(dirdata, "reference.txt"))
 
 ## Sorting.
 cl1 <- cl1[order(cl1$kingdom, cl1$phylum, cl1$class, cl1$order, cl1$family, cl1$scientificName),]
+
+## How many species?
+
+nspecies <- sum(cl1$taxonRank=="species")
 
 ## Now start assembling the document.
 
@@ -62,8 +68,25 @@ toc-title: 'Contents'
 write(paste0("# ", title, "\n"), file=outfile, append=FALSE)
 write(paste0(author, "\n"), file=outfile, append=TRUE)
 write(paste0(datetext(), "\n"), file=outfile, append=TRUE)
+write("USFWS Kenai National Wildlife Refuge, Soldotna, Alaska\n", file=outfile, append=TRUE)
 
-write("## Checklist\n", file=outfile, append=TRUE) 
+wline <- '# Introduction
+
+## Purpose
+
+A primary purpose for which the Kenai National Wildlife Refuge was established in the Alaska National Interest Lands Conservation Act of 1980 was, “to conserve fish and wildlife populations and habitats in their natural diversity…,” where the term “fish and wildlife” was defined as “any member of the animal kingdom, including without limitation any mammal, fish, bird…, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate.”  An obvious first step toward fulfilling this purpose is to know what fish and wildlife, habitats, and natural diversity are to be conserved.  This checklist is intended to be a frequently-updated document reflecting our current knowledge of which living things call the Kenai National Wildlife Refuge home.
+'
+write(wline, file=outfile, append=TRUE)
+
+wline <- paste0("## About the list
+
+The present list includes a total of ", nspecies, " species.
+
+")
+
+write(wline, file=outfile, append=TRUE)
+
+write("# Checklist\n", file=outfile, append=TRUE) 
 
 kdm <- "NA"
 plm <- "NA"
@@ -77,25 +100,25 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
  
  if (!(kdm == cl1$kingdom[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$kingdom[this_record], rank="Kingdom")
+  print_taxon(outfile=outfile, name=cl1$kingdom[this_record], rank="Kingdom", prefix="##")
   kdm <- cl1$kingdom[this_record]
   }
  
   if (!(plm == cl1$phylum[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$phylum[this_record], rank="Phylum")
+  print_taxon(outfile=outfile, name=cl1$phylum[this_record], rank="Phylum", prefix="###")
   plm <- cl1$phylum[this_record]
   }
   
   if (!(cls == cl1$class[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$class[this_record], rank="Class")
+  print_taxon(outfile=outfile, name=cl1$class[this_record], rank="Class", prefix="####")
   cls <- cl1$class[this_record]
   }
  
   if (!(odr == cl1$order[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$order[this_record], rank="Order")
+  print_taxon(outfile=outfile, name=cl1$order[this_record], rank="Order", prefix="#####")
   odr <- cl1$order[this_record]
   }
   
