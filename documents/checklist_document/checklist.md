@@ -2,63 +2,7 @@
 
 ## Checklist
 
-### Kingdom taxon name missing 
-
-### Phylum taxon name missing 
-
-### Class taxon name missing 
-
-### Order taxon name missing 
-
-### Family Coprinaceae 
-
-### Genus taxon name missing 
-
-### Species Coprinus comatus 
-
-Reference: 
-<https://www.inaturalist.org/observations/863074>.
-
 ### Kingdom Animalia 
-
-### Order Coleoptera 
-
-### Family Trogossitidae 
-
-### Species Ostoma fraterna Randall, 1838 
-
-Reference: 
-<https://arctos.database.museum/guid/UAM:Ento:110480>.
-
-### Species Ostoma septentrionalis Randall, 1838 
-
-Reference: 
-<https://arctos.database.museum/guid/UAM:Ento:111647>.
-
-### Order Diptera 
-
-### Family Agromyzidae 
-
-### Species Liriomyza equiseti De Meijere, 1924 
-
-References: 
-<https://arctos.database.museum/guid/KNWR:Ento:1698>, 
-<https://arctos.database.museum/guid/UAMObs:Ento:239386>.
-
-### Family Anthomyiidae 
-
-### Species Chirosia similata (Tiensuu, 1939) 
-
-Reference: 
-<https://arctos.database.museum/guid/KNWR:Ento:11152>.
-
-### Family Anthomyzidae 
-
-### Species Anthomyza gilviventris RohÃŸ?ek & Barber, 2016 
-
-References: 
-<https://arctos.database.museum/guid/UAM:Ento:378419>, 
-<https://www.biotaxa.org/AEMNP/article/download/27902/25528>.
 
 ### Phylum Annelida 
 
@@ -169,7 +113,7 @@ References:
 
 ### Genus Ixodes 
 
-### Species Ixodes angustus 
+### Species Ixodes angustus Neumann, 1899 
 
 Reference: 
 <http://arctos.database.museum/guid/MSB:Para:28090>.
@@ -2235,6 +2179,20 @@ Reference:
 
 ### Species Trachypachus holmbergi Mannerheim, 1853 
 
+### Family Trogossitidae 
+
+### Genus Ostoma 
+
+### Species Ostoma fraterna Randall, 1838 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:110480>.
+
+### Species Ostoma septentrionalis Randall, 1838 
+
+Reference: 
+<https://arctos.database.museum/guid/UAM:Ento:111647>.
+
 ### Order Diptera 
 
 ### Family Acartophthalmidae 
@@ -2247,6 +2205,14 @@ Reference:
 <http://arctos.database.museum/guid/UAMObs:Ento:240932>.
 
 ### Family Agromyzidae 
+
+### Genus Liriomyza 
+
+### Species Liriomyza equiseti De Meijere, 1924 
+
+References: 
+<https://arctos.database.museum/guid/KNWR:Ento:1698>, 
+<https://arctos.database.museum/guid/UAMObs:Ento:239386>.
 
 ### Genus Metopomyza 
 
@@ -2287,6 +2253,13 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2264>.
+
+### Genus Chirosia 
+
+### Species Chirosia similata (Tiensuu, 1939) 
+
+Reference: 
+<https://arctos.database.museum/guid/KNWR:Ento:11152>.
 
 ### Genus Delia 
 
@@ -2405,6 +2378,12 @@ Reference:
 
 ### Genus Anthomyza 
 
+### Species Anthomyza gilviventris Rohá?ek & Barber 2016 
+
+References: 
+<https://arctos.database.museum/guid/UAM:Ento:378419>, 
+<https://www.biotaxa.org/AEMNP/article/download/27902/25528>.
+
 ### Species Anthomyza tenuis (Loew, 1863) 
 
 References: 
@@ -2452,7 +2431,7 @@ References:
 
 ### Genus Hesperinus 
 
-### Species Hesperinus brevifrons 
+### Species Hesperinus brevifrons Walker, 1848 
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:110156>.
@@ -4843,7 +4822,7 @@ References:
 
 ### Genus Adelges 
 
-### Species Adelges cooleyi 
+### Species Adelges cooleyi (Gillette, 1907) 
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11232>.
@@ -4862,7 +4841,7 @@ References:
 
 ### Genus Amphorophora 
 
-### Species Amphorophora agathonica 
+### Species Amphorophora agathonica Hottes, 1950 
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883804>.
@@ -4881,7 +4860,7 @@ Reference:
 
 ### Genus Boernerina 
 
-### Species Boernerina occidentalis 
+### Species Boernerina occidentalis Hille Ris Lambers & Hottes, 1962 
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883805>.
@@ -4900,7 +4879,7 @@ Reference:
 
 ### Genus Chaitophorus 
 
-### Species Chaitophorus populifolii 
+### Species Chaitophorus populifolii (Essig, 1912) 
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/KR034024>.
@@ -4953,7 +4932,7 @@ Reference:
 
 ### Genus Nearctaphis 
 
-### Species Nearctaphis kachena 
+### Species Nearctaphis kachena (Hottes, 1934) 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240058>.
@@ -4967,19 +4946,19 @@ Reference:
 
 ### Genus Tamalia 
 
-### Species Tamalia coweni 
+### Species Tamalia coweni (Cockerell & T.D.A., 1905) 
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883540>.
 
 ### Genus Thecabius 
 
-### Species Thecabius affinis 
+### Species Thecabius affinis (Kaltenbach, 1843) 
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:229851>.
 
-### Species Thecabius populimonilis 
+### Species Thecabius populimonilis (Riley & C.V., 1879) 
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6350>.
@@ -5543,7 +5522,7 @@ Reference:
 
 ### Genus Aphidius 
 
-### Species Aphidius ervi 
+### Species Aphidius ervi Haliday, 1834 
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1529>.
@@ -18924,6 +18903,13 @@ Reference:
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:7334>.
+
+### Genus Coprinus 
+
+### Species Coprinus comatus (O.F.Müll.) Pers. 
+
+Reference: 
+<https://www.inaturalist.org/observations/863074>.
 
 ### Genus Lycoperdon 
 
