@@ -4,7 +4,9 @@
 dirdata <- "../data/final_data/DwC-A/"
 dirdoc <- "../documents/checklist_document/"
 
+## Load libraries and functions.
 library("zip")
+source("functions.R")
 
 simpleCap <- function(x) {
   s <- strsplit(x, " ")[[1]]
@@ -30,8 +32,36 @@ rf1 <- read.delim(paste0(dirdata, "reference.txt"))
 ## Sorting.
 cl1 <- cl1[order(cl1$kingdom, cl1$phylum, cl1$class, cl1$order, cl1$family, cl1$scientificName),]
 
+## Now start assembling the document.
+
+options(encoding="utf-8") ## pandoc apparently needs utf-8 input.
+
 outfile <- paste0(dirdoc, "checklist.md")
-write("# Kenai National Wildlife Refuge Species List\n", file=outfile, append=FALSE)
+metafile <- paste0(dirdoc, "checklist.yaml")
+
+title <- paste("Kenai National Wildlife Refuge Species List, version", datestring())
+author <- "Kenai National Wildlife Refuge biology staff"
+
+## Start metadata.
+
+write(paste0("---\n"), file=metafile, append=FALSE)
+write(paste0("title:
+- type: main
+  text: ", title, "
+creator:
+- role: author
+  text: ", author, "
+  affiliation: USFWS Kenai National Wildlife Refuge
+publisher: USFWS Kenai National Wildlife Refuge
+rights: CC0
+language: en-US
+toc-title: 'Contents'
+...", "\n"), file=metafile, append=TRUE)
+
+## Start main document.
+write(paste0("# ", title, "\n"), file=outfile, append=FALSE)
+write(paste0(author, "\n"), file=outfile, append=TRUE)
+write(paste0(datetext(), "\n"), file=outfile, append=TRUE)
 
 write("## Checklist\n", file=outfile, append=TRUE) 
 

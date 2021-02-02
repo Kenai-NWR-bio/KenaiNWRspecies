@@ -16,3 +16,23 @@ assemble_csvs <- function(directory="../data/FWSpecies")
   }
  comp_data
  }
+
+## Convert current time to ISO time format. 
+nowstring <- function()
+ {
+ format(Sys.time(), format="%Y-%m-%dT%H%M")
+ }
+ 
+## Convert current date to ISO time format. 
+datestring <- function()
+ {
+ format(Sys.time(), format="%Y-%m-%d")
+ }
+
+## Convert current date to format for title page.
+datetext <- function()
+ {
+ format(Sys.time(), format="%B %e, %Y")
+ }
+ 
+ 
