@@ -7,10 +7,10 @@ creator:
   text: Matthew L. Bowser
 rights: CC0
 language: en-US
-bibliography: README.bib
+bibliography: ../../data/raw_data/bibliographic_data/bibliography.bib
 toc-title: 'Contents'
 link-citations: true
-csl: canadian-journal-of-fisheries-and-aquatic-sciences.csl
+csl: ../../source_data/citation_styles/canadian-journal-of-fisheries-and-aquatic-sciences.csl
 ...
 
 # Kenai National Wildlife Refuge Species List
