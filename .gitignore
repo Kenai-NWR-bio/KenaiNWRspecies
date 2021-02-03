@@ -7,3 +7,6 @@
 *.out
 *.pdf
 *.synctex.gz
+*.tex
+documents/checklist_document/*.html
+documents/checklist_document/*.txt

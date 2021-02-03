@@ -28,11 +28,11 @@ Occurrence records were gathered over many years from various sources. The Kenai
 
 The directory structure of the project was conformed to the recommended file structure of @Alaska_Region_Data_Stewardship_Team_2020. As of this writing, an current version of the archive, including all raw data, is being maintained on GitHub at <https://github.com/Kenai-NWR-bio/KenaiNWRspecies>.
 
-Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.02 [@RCoreTeam2020] that calls the packages knitr, version 1.29 [@Xie2014; @Xie2015; @Xie2020] and zip, version 2.0.4 [@Csardietal2019], generating a document in markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
+Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.02 [@RCoreTeam2020] that calls the packages knitr, version 1.29 [@Xie2014; @Xie2015; @Xie2020] and zip, version 2.0.4 [@Csardietal2019], generating a document in Markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
 
 # Checklist summary
 
-The present list includes a total of 2206 species, of which 2085 are native, 2085 are exotic, and 1 is of uncertain origin.
+The present list includes a total of 2206 species, of which 2085 are native, 120 are exotic, and 1 is of uncertain origin.
 
 
 Table: Counts of species by establisment means.
