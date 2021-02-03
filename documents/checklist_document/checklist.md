@@ -10,13 +10,20 @@ USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
 ## Purpose
 
-A primary purpose for which the Kenai National Wildlife Refuge was established in the Alaska National Interest Lands Conservation Act of 1980 was, â€œto conserve fish and wildlife populations and habitats in their natural diversityâ€¦,â€ where the term â€œfish and wildlifeâ€ was defined as â€œany member of the animal kingdom, including without limitation any mammal, fish, birdâ€¦, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate.â€  An obvious first step toward fulfilling this purpose is to know what fish and wildlife, habitats, and natural diversity are to be conserved.  This checklist is intended to be a frequently-updated document reflecting our current knowledge of which living things call the Kenai National Wildlife Refuge home.
+A primary purpose for which the Kenai National Wildlife Refuge was established in the Alaska National Interest Lands Conservation Act of 1980 was, “to conserve fish and wildlife populations and habitats in their natural diversity…,” where the term “fish and wildlife” was defined as “any member of the animal kingdom, including without limitation any mammal, fish, bird…, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate.”  An obvious first step toward fulfilling this purpose is to know what fish and wildlife, habitats, and natural diversity are to be conserved.  This checklist is intended to be a frequently-updated document reflecting our current knowledge of which living things call the Kenai National Wildlife Refuge home.
 
 ## About the list
 
-The present list includes a total of 2206 species.
+The present list includes a total of 2206 species, of which 2085 are native, 2085 are exotic, and 1 is of uncertain origin.
 
 
+Table: Counts of species by establisment means.
+
+|Establishment means | Count|
+|:-------------------|-----:|
+|exotic              |   120|
+|native              |  2085|
+|uncertain           |     1|
 # Checklist
 
 ## Kingdom Animalia
@@ -33,10 +40,14 @@ The present list includes a total of 2206 species.
 
 ###### Species Mesenchytraeus orcae Eisen, 1904
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11053>.
 
 ###### Species Mesenchytraeus solifugus (Emery, 1898)
+
+Establishment means: native
 
 ##### Order Hirudinida
 
@@ -46,17 +57,23 @@ Reference:
 
 ###### Species Erpobdella punctata (Leidy, 1870)
 
+Establishment means: native
+
 ###### Family Glossiphoniidae
 
 ###### Genus Glossiphonia
 
 ###### Species Glossiphonia complanata (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Family Haemopidae
 
 ###### Genus Haemopis
 
 ###### Species Haemopis lateromaculata Mathers, 1963
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:8390>.
@@ -68,6 +85,8 @@ Reference:
 ###### Genus Dendrobaena
 
 ###### Species Dendrobaena octaedra (Savigny, 1826)
+
+Establishment means: exotic
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6764>, 
@@ -104,6 +123,8 @@ References:
 
 ###### Species Dendrodrilus rubidus (Savigny, 1826)
 
+Establishment means: exotic
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL6651-18>.
 
@@ -111,10 +132,14 @@ Reference:
 
 ###### Species Lumbricus rubellus Hoffmeister, 1843
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6755>.
 
 ###### Species Lumbricus terrestris Linnaeus, 1758
+
+Establishment means: exotic
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7060>, 
@@ -132,6 +157,8 @@ References:
 
 ###### Species Ixodes angustus Neumann, 1899
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/MSB:Para:28090>.
 
@@ -145,6 +172,8 @@ Reference:
 
 ###### Species Bosmina longirostris (O. F. MÃ¼ller, 1776)
 
+Establishment means: native
+
 Reference: 
 <https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
 
@@ -153,6 +182,8 @@ Reference:
 ###### Genus Eurycercus
 
 ###### Species Eurycercus longirostris Hann, 1982
+
+Establishment means: native
 
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=NJCGS1068-11>.
@@ -163,12 +194,16 @@ Reference:
 
 ###### Species Daphnia longiremis G. O. Sars, 1861
 
+Establishment means: native
+
 Reference: 
 <https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
 
 ###### Genus Simocephalus
 
 ###### Species Simocephalus serrulatus (Koch, 1841)
+
+Establishment means: native
 
 References: 
 <https://www.ebi.ac.uk/ena/data/view/MG936115>, 
@@ -184,6 +219,8 @@ References:
 
 ###### Species Strigamia chionophila Wood, 1862
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7331>.
 
@@ -194,6 +231,8 @@ Reference:
 ###### Genus Lithobius
 
 ###### Species Lithobius stejnegeri (Bollman, 1893)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6373>.
@@ -208,6 +247,8 @@ Reference:
 
 ###### Species Entomobrya nivalis (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7625>.
 
@@ -216,6 +257,8 @@ Reference:
 ###### Genus Weberacantha
 
 ###### Species Weberacantha octa Christiansen, 1951
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:6405>.
@@ -226,11 +269,15 @@ Reference:
 
 ###### Species Megalothorax minimus Willem, 1900
 
+Establishment means: native
+
 ###### Family Onychiuridae
 
 ###### Genus Hymenaphorura
 
 ###### Species Hymenaphorura nearctica Pomorski, 2001
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7411>.
@@ -245,6 +292,8 @@ Reference:
 
 ###### Species Agelenopsis utahana (Chamberlin & Ivie, 1933)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6663>.
 
@@ -254,25 +303,35 @@ Reference:
 
 ###### Species Araneus corticarius (Emerton, 1884)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10328>.
 
 ###### Species Araneus marmoreus Clerck, 1757
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6524>.
 
 ###### Species Araneus nordmanni (Thorell, 1870)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7032>.
 
 ###### Species Araneus trifolium (Hentz, 1847)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239204>.
 
 ###### Species Araneus yukon Levi, 1971
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240216>.
@@ -280,6 +339,8 @@ Reference:
 ###### Genus Araniella
 
 ###### Species Araniella displicata (Hentz, 1847)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4753>, 
@@ -289,12 +350,16 @@ References:
 
 ###### Species Araniella proxima (Kulczynski, 1885)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238639>.
 
 ###### Genus Cyclosa
 
 ###### Species Cyclosa conica (Pallas, 1772)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6413>, 
@@ -310,12 +375,16 @@ References:
 
 ###### Species Hypsosinga pygmaea (Sundevall, 1831)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6648>.
 
 ###### Genus Larinioides
 
 ###### Species Larinioides patagiatus (Clerck, 1757)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239367>.
@@ -326,15 +395,21 @@ Reference:
 
 ###### Species Clubiona furcata Emerton, 1919
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240386>.
 
 ###### Species Clubiona kulczynskii Lessert, 1905
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240662>.
 
 ###### Species Clubiona riparia L. Koch, 1866
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239032>.
@@ -344,6 +419,8 @@ Reference:
 ###### Genus Dictyna
 
 ###### Species Dictyna alaskae Chamberlin & Ivie, 1947
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5091>, 
@@ -377,6 +454,8 @@ References:
 
 ###### Species Dictyna arundinacea (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6454>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6578>, 
@@ -389,15 +468,21 @@ References:
 
 ###### Species Dictyna brevitarsa Emerton, 1915
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240226>.
 
 ###### Species Dictyna major Menge, 1869
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6453>.
 
 ###### Species Dictyna uncinata Thorell, 1856
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239455>.
@@ -405,6 +490,8 @@ Reference:
 ###### Genus Emblyna
 
 ###### Species Emblyna annulipes (Blackwall, 1846)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6468>, 
@@ -424,11 +511,15 @@ References:
 
 ###### Species Emblyna chitina (Chamberlin & Gertsch, 1958)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6627>, 
 <http://arctos.database.museum/guid/UAM:Ento:313707>.
 
 ###### Species Emblyna manitoba (Ivie, 1947)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2090>, 
@@ -442,6 +533,8 @@ References:
 
 ###### Species Baryphyma trifrons (O. P.-Cambridge, 1863)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2032>, 
 <http://arctos.database.museum/guid/KNWR:Ento:4559>, 
@@ -453,6 +546,8 @@ References:
 ###### Genus Ceraticelus
 
 ###### Species Ceraticelus atriceps (O. P.-Cambridge, 1874)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2319>, 
@@ -478,10 +573,14 @@ References:
 
 ###### Species Ceraticelus fissiceps (O. P.-Cambridge, 1874)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240519>.
 
 ###### Species Ceraticelus silus Dondale, 1958
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4182>, 
@@ -503,6 +602,8 @@ References:
 
 ###### Species Ceratinella ornatula (Crosby & Bishop, 1925)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6473>, 
 <http://arctos.database.museum/guid/UAM:Ento:309419>.
@@ -511,12 +612,16 @@ References:
 
 ###### Species Dismodicus alticeps Chamberlin & Ivie, 1947
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6482>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6671>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6672>.
 
 ###### Species Dismodicus modicus Chamberlin & Ivie, 1947
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6433>, 
@@ -534,10 +639,14 @@ References:
 
 ###### Species Erigone atra Blackwall, 1833
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239226>.
 
 ###### Species Erigone tirolensis L. Koch, 1872
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6743>, 
@@ -546,6 +655,8 @@ References:
 ###### Genus Estrandia
 
 ###### Species Estrandia grandaeva (Keyserling, 1886)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2164>, 
@@ -594,12 +705,16 @@ References:
 
 ###### Species Grammonota vittata Barrows, 1919
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6584>.
 
 ###### Genus Helophora
 
 ###### Species Helophora reducta (Keyserling, 1886)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:239119>.
@@ -608,12 +723,16 @@ Reference:
 
 ###### Species Hypomma bituberculatum (Wider, 1834)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239046>.
 
 ###### Genus Hypselistes
 
 ###### Species Hypselistes florens (O. P.-Cambridge, 1875)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4696>, 
@@ -629,12 +748,16 @@ References:
 
 ###### Species Kaestneria rufula (Hackman, 1954)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:240442>.
 
 ###### Genus Lepthyphantes
 
 ###### Species Lepthyphantes alpinus (Emerton, 1882)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6564>, 
@@ -644,9 +767,13 @@ References:
 
 ###### Species Megalepthyphantes nebulosus (Sundevall, 1830)
 
+Establishment means: native
+
 ###### Genus Micrargus
 
 ###### Species Micrargus longitarsus (Emerton, 1882)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6464>.
@@ -655,6 +782,8 @@ Reference:
 
 ###### Species Mughiphantes marusiki (Tanasevitch, 1988)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6455>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6531>.
@@ -662,6 +791,8 @@ References:
 ###### Genus Neriene
 
 ###### Species Neriene radiata (Walckenaer, 1841)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6440>, 
@@ -679,20 +810,28 @@ References:
 
 ###### Species Pityohyphantes alticeps Chamberlin & Ivie, 1943
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238634>.
 
 ###### Species Pityohyphantes cristatus Chamberlin & Ivie, 1942
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240363>.
 
 ###### Species Pityohyphantes limitaneus (Emerton, 1915)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239216>.
 
 ###### Species Pityohyphantes subarcticus Chamberlin & Ivie, 1943
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6458>, 
@@ -702,6 +841,8 @@ References:
 
 ###### Species Pocadicnemis pumila (Blackwall, 1841)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6506>, 
 <http://arctos.database.museum/guid/UAM:Ento:301759>.
@@ -710,12 +851,16 @@ References:
 
 ###### Species Tiso aestivus (L. Koch, 1872)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:6344>.
 
 ###### Genus Walckenaeria
 
 ###### Species Walckenaeria directa (O. P.-Cambridge, 1874)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6811>.
@@ -726,6 +871,8 @@ Reference:
 
 ###### Species Alopecosa aculeata (Clerck, 1757)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10342>.
 
@@ -733,10 +880,14 @@ Reference:
 
 ###### Species Arctosa alpigena (Doleschall, 1852)
 
+Establishment means: native
+
 Reference: 
 <https://mczbase.mcz.harvard.edu/guid/MCZ:IZ:76590>.
 
 ###### Species Arctosa raptor (Kulczynski, 1885)
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/36714592>.
@@ -745,18 +896,26 @@ Reference:
 
 ###### Species Pardosa albomaculata Emerton, 1885
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6742>, 
 <http://arctos.database.museum/guid/UAM:Ento:94514>.
 
 ###### Species Pardosa diuturna Fox, 1937
 
+Establishment means: native
+
 ###### Species Pardosa groenlandica (Thorell, 1872)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10479>.
 
 ###### Species Pardosa xerampelina (Keyserling, 1877)
+
+Establishment means: native
 
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1226-16>.
@@ -764,6 +923,8 @@ Reference:
 ###### Genus Trochosa
 
 ###### Species Trochosa terricola Thorell, 1856
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7001>.
@@ -774,6 +935,8 @@ Reference:
 
 ###### Species Philodromus rufus Walckenaer, 1826
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:6646>.
 
@@ -781,12 +944,16 @@ Reference:
 
 ###### Species Thanatus coloradensis Keyserling, 1880
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238750>.
 
 ###### Genus Tibellus
 
 ###### Species Tibellus maritimus (Menge, 1875)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3386>.
@@ -797,6 +964,8 @@ Reference:
 
 ###### Species Dolomedes triton (Walckenaer, 1837)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/36778263>.
 
@@ -806,9 +975,13 @@ Reference:
 
 ###### Species Evarcha proszynskii Marusik & Logunov, 1998
 
+Establishment means: native
+
 ###### Genus Pelegrina
 
 ###### Species Pelegrina montana (Emerton, 1891)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240282>.
@@ -819,12 +992,16 @@ Reference:
 
 ###### Species Tetragnatha extensa (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3329>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6487>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6579>.
 
 ###### Species Tetragnatha laboriosa Hentz, 1850
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3382>, 
@@ -837,6 +1014,8 @@ References:
 
 ###### Species Canalidion montanum (Emerton, 1882)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239642>.
 
@@ -844,9 +1023,13 @@ Reference:
 
 ###### Species Enoplognatha intrepida (SÃ¸rensen, 1898)
 
+Establishment means: native
+
 ###### Genus Ohlertidion
 
 ###### Species Ohlertidion ohlerti (Thorell, 1870)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3943>.
@@ -855,6 +1038,8 @@ Reference:
 
 ###### Species Phylloneta impressa (L. Koch, 1881)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238969>.
 
@@ -862,12 +1047,16 @@ Reference:
 
 ###### Species Robertus crosbyi (Kaston, 1946)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6583>.
 
 ###### Genus Rugathodes
 
 ###### Species Rugathodes aurantius (Emerton, 1915)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3491>, 
@@ -893,12 +1082,16 @@ References:
 
 ###### Species Steatoda borealis (Hentz, 1850)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7131>.
 
 ###### Genus Theridion
 
 ###### Species Theridion pictum (Walckenaer, 1802)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6466>, 
@@ -910,6 +1103,8 @@ References:
 
 ###### Species Theridion saanichum Chamberlin & Ivie, 1947
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240784>.
 
@@ -919,12 +1114,16 @@ Reference:
 
 ###### Species Bassaniana utahensis (Gertsch, 1932)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1723>.
 
 ###### Genus Misumena
 
 ###### Species Misumena vatia (Clerck, 1757)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3364>.
@@ -933,10 +1132,14 @@ Reference:
 
 ###### Species Xysticus britcheri Gertsch, 1934
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239976>.
 
 ###### Species Xysticus obscurus Collett, 1877
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239240>.
@@ -949,6 +1152,8 @@ Reference:
 
 ###### Species Leptobunus borealis Banks, 1899
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10851>.
 
@@ -956,12 +1161,16 @@ Reference:
 
 ###### Species Mitopus morio (Fabricus, 1779)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:94515>.
 
 ###### Genus Phalangium
 
 ###### Species Phalangium opilio Linnaeus, 1758
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10788>.
@@ -972,6 +1181,8 @@ Reference:
 
 ###### Species Sabacon occidentalis (Banks, 1894)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11292>.
 
@@ -980,6 +1191,8 @@ Reference:
 ###### Genus Nelima
 
 ###### Species Nelima paessleri (Roewer, 1910)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:6675>.
@@ -992,6 +1205,8 @@ Reference:
 
 ###### Species Halobisium occidentale Beier, 1931
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/6565787>, 
 <http://www.inaturalist.org/observations/6612878>.
@@ -999,6 +1214,8 @@ References:
 ###### Genus Microbisium
 
 ###### Species Microbisium brunneum (Hagen, 1868)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10324>.
@@ -1011,6 +1228,8 @@ Reference:
 
 ###### Species Camisia biurus (Koch, 1839)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239336>.
 
@@ -1020,11 +1239,15 @@ Reference:
 
 ###### Species Eremaeus translamellatus Hammer, 1952
 
+Establishment means: native
+
 ###### Family Nothridae
 
 ###### Genus Nothrus
 
 ###### Species Nothrus borussicus Sellnick, 1928
+
+Establishment means: native
 
 ##### Order Trombidiformes
 
@@ -1034,6 +1257,8 @@ Reference:
 
 ###### Species Demodex folliculorum
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11243>.
 
@@ -1042,6 +1267,8 @@ Reference:
 ###### Genus Erythraeus
 
 ###### Species Erythraeus tonsus (L. Koch, 1879)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6407>, 
@@ -1057,6 +1284,8 @@ References:
 
 ###### Species Petridiobius arcticus (Folsom, 1902)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11215>.
 
@@ -1068,16 +1297,22 @@ Reference:
 
 ###### Species Melanophila acuminata (De Geer, 1774)
 
+Establishment means: native
+
 ###### Family Cantharidae
 
 ###### Genus Dichelotarsus
 
 ###### Species Dichelotarsus laevicollis (Kirby, 1837)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11271>.
 
 ###### Species Dichelotarsus tetragonoderus (Fall, 1926)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:282616>.
@@ -1085,6 +1320,8 @@ Reference:
 ###### Genus Rhagonycha
 
 ###### Species Rhagonycha mandibularis (Kirby in Richards, 1837)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239712>.
@@ -1095,15 +1332,21 @@ Reference:
 
 ###### Species Amara alpina (Paykull, 1790)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:111995>.
 
 ###### Species Amara brunnea (Gyllenhal, 1810)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:241044>.
 
 ###### Species Amara obesa (Say, 1823)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:111998>.
@@ -1112,12 +1355,16 @@ Reference:
 
 ###### Species Blethisa quadricollis Haldeman, 1847
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:144696>.
 
 ###### Genus Calathus
 
 ###### Species Calathus advena (LeConte, 1846)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1427>, 
@@ -1170,6 +1417,8 @@ References:
 
 ###### Species Calathus ingratus Dejean, 1828
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6802>, 
 <http://arctos.database.museum/guid/UAM:Ento:111500>, 
@@ -1184,10 +1433,14 @@ References:
 
 ###### Species Carabus chamissonis Fischer von Waldheim, 1820
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:111884>.
 
 ###### Species Carabus taedatus Fabricius, 1787
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1425>.
@@ -1196,12 +1449,16 @@ Reference:
 
 ###### Species Nebria piperi Van Dyke, 1925
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:31822>.
 
 ###### Genus Notiophilus
 
 ###### Species Notiophilus aquaticus (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:254813>.
@@ -1210,6 +1467,8 @@ Reference:
 
 ###### Species Patrobus foveocollis (Eschscholtz, 1823)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6800>.
 
@@ -1217,12 +1476,16 @@ Reference:
 
 ###### Species Platynus decentis (Say, 1823)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6801>.
 
 ###### Genus Pterostichus
 
 ###### Species Pterostichus adstrictus Eschscholtz, 1823
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1426>, 
@@ -1232,6 +1495,8 @@ References:
 
 ###### Species Pterostichus brevicornis (Kirby, 1837)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1231>, 
 <http://arctos.database.museum/guid/KNWR:Ento:1232>, 
@@ -1239,12 +1504,16 @@ References:
 
 ###### Species Pterostichus riparius (Dejean, 1828)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1405>.
 
 ###### Genus Scaphinotus
 
 ###### Species Scaphinotus marginatus (Fischer von Waldheim, 1820)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:111644>, 
@@ -1377,10 +1646,14 @@ References:
 
 ###### Species Sericoda bembidioides Kirby, 1837
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:241042>.
 
 ###### Species Sericoda bogemannii (Gyllenhal, 1813)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:241043>.
@@ -1388,6 +1661,8 @@ Reference:
 ###### Genus Trechus
 
 ###### Species Trechus chalybeus Dejean, 1831
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:256935>, 
@@ -1399,6 +1674,8 @@ References:
 
 ###### Species Gnathacmaeops pratensis (Laicharting, 1784)
 
+Establishment means: native
+
 References: 
 <https://www.inaturalist.org/observations/50058253>, 
 <https://www.inaturalist.org/observations/6904175>.
@@ -1406,6 +1683,8 @@ References:
 ###### Genus Judolia
 
 ###### Species Judolia montivagans (Couper, 1864)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:112187>, 
@@ -1416,12 +1695,16 @@ References:
 
 ###### Species Leptalia macilenta (Mannerheim, 1853)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239427>.
 
 ###### Genus Monochamus
 
 ###### Species Monochamus scutellatus (Say, 1824)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:112180>.
@@ -1430,19 +1713,27 @@ Reference:
 
 ###### Species Pachyta lamed (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Genus Tetropium
 
 ###### Species Tetropium parvulum Casey, 1891
 
+Establishment means: native
+
 ###### Genus Xylotrechus
 
 ###### Species Xylotrechus undulatus (Say, 1824)
+
+Establishment means: native
 
 ###### Family Chrysomelidae
 
 ###### Genus Altica
 
 ###### Species Altica tombacina Mannerheim, 1853
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240101>.
@@ -1451,6 +1742,8 @@ Reference:
 
 ###### Species Bromius obscurus (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6798>.
 
@@ -1458,12 +1751,16 @@ Reference:
 
 ###### Species Chrysomela lapponica Linnaeus, 1758
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5366-17>.
 
 ###### Genus Galerucella
 
 ###### Species Galerucella nymphaeae (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1421>, 
@@ -1482,6 +1779,8 @@ References:
 
 ###### Species Phratora hudsonia Brown, 1951
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:111403>.
 
@@ -1489,10 +1788,14 @@ Reference:
 
 ###### Species Plateumaris flavipes (Kirby, 1837)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5342>.
 
 ###### Species Plateumaris germari (Mannerheim, 1843)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:110852>.
@@ -1503,12 +1806,16 @@ Reference:
 
 ###### Species Anisosticta borealis Timberlake, 1943
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:13937>.
 
 ###### Genus Calvia
 
 ###### Species Calvia quatuordecimguttata (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4919>, 
@@ -1519,6 +1826,8 @@ References:
 
 ###### Species Ceratomegilla ulkei Crotch, 1873
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:79268>.
 
@@ -1526,10 +1835,14 @@ Reference:
 
 ###### Species Coccinella transversoguttata Faldermann, 1835
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:111537>.
 
 ###### Species Coccinella trifasciata Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4452>, 
@@ -1539,11 +1852,15 @@ References:
 
 ###### Species Hippodamia falcigera Crotch, 1873
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:112199>, 
 <http://arctos.database.museum/guid/UAM:Ento:112200>.
 
 ###### Species Hippodamia tredecimpunctata (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:111510>.
@@ -1554,6 +1871,8 @@ Reference:
 
 ###### Species Atomaria fimetarius (Fabricius, 1792)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4964>.
 
@@ -1562,6 +1881,8 @@ Reference:
 ###### Genus Cucujus
 
 ###### Species Cucujus clavipes Fabricius, 1781
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/1151159>.
@@ -1572,9 +1893,13 @@ Reference:
 
 ###### Species Cryphalus ruficollis Hopkins, 1915
 
+Establishment means: native
+
 ###### Genus Dendroctonus
 
 ###### Species Dendroctonus rufipennis (Kirby, 1837)
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/3761945>.
@@ -1583,10 +1908,14 @@ Reference:
 
 ###### Species Dorytomus leucophyllus (Motschulsky, 1845)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:11698>.
 
 ###### Species Dorytomus luridus (Mannerheim, 1853)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4523>, 
@@ -1595,6 +1924,8 @@ References:
 
 ###### Species Dorytomus mannerheimi (Gemminger, 1871)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4630>.
 
@@ -1602,15 +1933,21 @@ Reference:
 
 ###### Species Dryocoetes affaber (Mannerheim, 1852)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32814>.
 
 ###### Species Dryocoetes autographus (Ratzeburg, 1837)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32856>.
 
 ###### Species Dryocoetes caryi Hopkins, 1915
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:32867>.
@@ -1619,6 +1956,8 @@ Reference:
 
 ###### Species Glocianus punctiger (C.R.Sahlberg, 1835)
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10806>.
 
@@ -1626,7 +1965,11 @@ Reference:
 
 ###### Species Ips borealis Swaine, 1911
 
+Establishment means: native
+
 ###### Species Ips perturbatus (Eichhoff, 1869)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32988>.
@@ -1635,12 +1978,16 @@ Reference:
 
 ###### Species Isochnus flagellum (Erichson, 1902)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5526>.
 
 ###### Genus Lepyrus
 
 ###### Species Lepyrus gemellus Kirby, 1837
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1430>.
@@ -1649,6 +1996,8 @@ Reference:
 
 ###### Species Otiorhynchus ovatus (Linnaeus, 1758)
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10797>.
 
@@ -1656,13 +2005,19 @@ Reference:
 
 ###### Species Phloeotribus piceae Swaine, 1911
 
+Establishment means: native
+
 ###### Genus Pityophthorus
 
 ###### Species Pityophthorus nitidulus (Mannerheim, 1843)
 
+Establishment means: native
+
 ###### Genus Polygraphus
 
 ###### Species Polygraphus rufipennis (Kirby, 1837)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:33222>.
@@ -1671,9 +2026,13 @@ Reference:
 
 ###### Species Scierus pubescens Swaine, 1924
 
+Establishment means: native
+
 ###### Genus Sthereus
 
 ###### Species Sthereus quadrituberculatus Motschulsky, 1845
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5886>.
@@ -1681,6 +2040,8 @@ Reference:
 ###### Genus Trichalophus
 
 ###### Species Trichalophus alternatus (Say, 1831)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10396>, 
@@ -1691,12 +2052,18 @@ References:
 
 ###### Species Trypodendron lineatum (Olivier, 1795)
 
+Establishment means: native
+
 ###### Species Trypodendron retusum (LeConte, 1868)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:33333>.
 
 ###### Species Trypodendron rufitarsis (Kirby, 1837)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:33337>.
@@ -1705,17 +2072,25 @@ Reference:
 
 ###### Species Xylechinus montanus Blackman, 1940
 
+Establishment means: native
+
 ###### Family Dermestidae
 
 ###### Genus Dermestes
 
 ###### Species Dermestes lardarius Linnaeus, 1758
 
+Establishment means: exotic
+
 ###### Genus Megatoma
 
 ###### Species Megatoma cylindrica (Kirby, 1837)
 
+Establishment means: native
+
 ###### Species Megatoma perversa (Fall, 1926)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:311321>.
@@ -1726,6 +2101,8 @@ Reference:
 
 ###### Species Acilius semisulcatus AubÃ©, 1838
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/50823985>.
 
@@ -1733,23 +2110,41 @@ Reference:
 
 ###### Species Agabus anthracinus Mannerheim, 1852
 
+Establishment means: native
+
 ###### Species Agabus bifarius (Kirby, 1837)
+
+Establishment means: native
 
 ###### Species Agabus confinis (Gyllenhal, 1808)
 
+Establishment means: native
+
 ###### Species Agabus inscriptus (Crotch, 1873)
+
+Establishment means: native
 
 ###### Species Agabus semipunctatus (Kirby, 1837)
 
+Establishment means: native
+
 ###### Species Agabus tristis AubÃ©, 1838
+
+Establishment means: native
 
 ###### Genus Dytiscus
 
 ###### Species Dytiscus circumcinctus Ahrens, 1811
 
+Establishment means: native
+
 ###### Species Dytiscus dauricus Gebler, 1832
 
+Establishment means: native
+
 ###### Species Dytiscus harrisii Kirby, 1837
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7798>.
@@ -1758,25 +2153,47 @@ Reference:
 
 ###### Species Hydroporus badiellus Fall, 1923
 
+Establishment means: native
+
 ###### Species Hydroporus dentellus Fall, 1917
+
+Establishment means: native
 
 ###### Species Hydroporus lapponum (Gyllenhal, 1808)
 
+Establishment means: native
+
 ###### Species Hydroporus morio AubÃ©, 1838
+
+Establishment means: native
 
 ###### Species Hydroporus nigellus Mannerheim, 1853
 
+Establishment means: native
+
 ###### Species Hydroporus notabilis LeConte, 1850
+
+Establishment means: native
 
 ###### Species Hydroporus obscurus Sturm, 1835
 
+Establishment means: native
+
 ###### Species Hydroporus puberulus LeConte, 1850
+
+Establishment means: native
 
 ###### Species Hydroporus rectus Fall, 1923
 
+Establishment means: native
+
 ###### Species Hydroporus striola (Gyllenhal, 1826)
 
+Establishment means: native
+
 ###### Species Hydroporus tristis (Paykull, 1798)
+
+Establishment means: native
 
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL6462-17>.
@@ -1785,27 +2202,49 @@ Reference:
 
 ###### Species Hygrotus compar (Fall, 1919)
 
+Establishment means: native
+
 ###### Species Hygrotus impressopunctatus (Schaller, 1783)
+
+Establishment means: native
 
 ###### Species Hygrotus novemlineatus (Stephens, 1829)
 
+Establishment means: native
+
 ###### Species Hygrotus picatus (Kirby, 1837)
 
+Establishment means: native
+
 ###### Species Hygrotus turbidus (LeConte, 1855)
+
+Establishment means: native
 
 ###### Genus Ilybius
 
 ###### Species Ilybius angustior (Gyllenhal, 1808)
 
+Establishment means: native
+
 ###### Species Ilybius discedens Sharp, 1882
+
+Establishment means: native
 
 ###### Species Ilybius erichsoni (Gemminger and Harold, 1868)
 
+Establishment means: native
+
 ###### Species Ilybius hypomelas (Mannerheim, 1843)
+
+Establishment means: native
 
 ###### Species Ilybius picipes (Kirby, 1837)
 
+Establishment means: native
+
 ###### Species Ilybius quadrimaculatus AubÃ©, 1838
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/56861129>.
@@ -1814,11 +2253,17 @@ Reference:
 
 ###### Species Liodessus obscurellus (LeConte, 1852)
 
+Establishment means: native
+
 ###### Genus Oreodytes
 
 ###### Species Oreodytes dauricus (Motschulsky, 1860)
 
+Establishment means: native
+
 ###### Species Oreodytes laevis (Kirby, 1837)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7681>.
@@ -1829,6 +2274,8 @@ Reference:
 
 ###### Species Athous rufiventris
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3963>.
 
@@ -1836,16 +2283,22 @@ Reference:
 
 ###### Species Ctenicera kendalli
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:112038>.
 
 ###### Species Ctenicera resplendens
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3962>, 
 <https://www.inaturalist.org/observations/3541144>.
 
 ###### Species Ctenicera watsoni
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32498>.
@@ -1854,12 +2307,16 @@ Reference:
 
 ###### Species Eanus decoratus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238729>.
 
 ###### Genus Hypnoidus
 
 ###### Species Hypnoidus bicolor
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11363>.
@@ -1868,12 +2325,16 @@ Reference:
 
 ###### Species Pseudanostirus ochreipennis (LeConte, 1863)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6167>.
 
 ###### Genus Sericus
 
 ###### Species Sericus incongruus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3767>.
@@ -1884,6 +2345,8 @@ Reference:
 
 ###### Species Epiphanis cornutus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32521>.
 
@@ -1893,11 +2356,19 @@ Reference:
 
 ###### Species Gyrinus maculiventris LeConte, 1868
 
+Establishment means: native
+
 ###### Species Gyrinus minutus Fabricius, 1798
+
+Establishment means: native
 
 ###### Species Gyrinus opacus Sahlberg, 1817
 
+Establishment means: native
+
 ###### Species Gyrinus picipes AubÃ©, 1838
+
+Establishment means: native
 
 ###### Family Latridiidae
 
@@ -1905,12 +2376,16 @@ Reference:
 
 ###### Species Corticaria ferruginea
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4568>.
 
 ###### Genus Corticarina
 
 ###### Species Corticarina minuta (Fabricius, 1792)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:111586>, 
@@ -1920,6 +2395,8 @@ References:
 
 ###### Species Enicmus mimus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:282612>.
 
@@ -1927,10 +2404,14 @@ Reference:
 
 ###### Species Stephostethus armatulus (Fall, 1899)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4829>.
 
 ###### Species Stephostethus liratus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240883>.
@@ -1941,6 +2422,8 @@ Reference:
 
 ###### Species Anisotoma globososa Hatch, 1929
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:282602>.
 
@@ -1948,21 +2431,31 @@ Reference:
 
 ###### Species Catops alpinus Gyllenhal, 1827
 
+Establishment means: native
+
 ###### Species Catops basilaris Say, 1823
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:32540>.
 
 ###### Species Catops egenus (Horn, 1880)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:1153>.
 
 ###### Species Catops luridipennis Mannerheim, 1853
 
+Establishment means: native
+
 ###### Genus Leptinillus
 
 ###### Species Leptinillus validus (Horn, 1872)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10672>, 
@@ -1975,6 +2468,8 @@ References:
 
 ###### Species Dictyoptera aurora (Herbst, 1784)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3465>.
 
@@ -1983,6 +2478,8 @@ Reference:
 ###### Genus Xylita
 
 ###### Species Xylita laevigata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32562>.
@@ -1993,6 +2490,8 @@ Reference:
 
 ###### Species Rhizophagus dimidiatus Mannerheim, 1843
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:32601>.
 
@@ -2001,6 +2500,8 @@ Reference:
 ###### Genus Glischrochilus
 
 ###### Species Glischrochilus vittatus (Say, 1835)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7807>, 
@@ -2012,6 +2513,8 @@ References:
 
 ###### Species Ptinus raptor Sturm, 1837
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10792>.
 
@@ -2021,6 +2524,8 @@ Reference:
 
 ###### Species Dendroides ephemeroides
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6804>.
 
@@ -2029,6 +2534,8 @@ Reference:
 ###### Genus Priognathus
 
 ###### Species Priognathus monilicornis (Randall, 1838)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1708>, 
@@ -2040,6 +2547,8 @@ References:
 
 ###### Species Aegialites debilis Mannerheim, 1853
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/6612922>.
 
@@ -2049,10 +2558,14 @@ Reference:
 
 ###### Species Agoliinus congregatus (Mannerheim, 1853)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:404008>.
 
 ###### Species Agoliinus piceatus (Robinson, 1946)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1750>, 
@@ -2061,6 +2574,8 @@ References:
 ###### Genus Caelius
 
 ###### Species Caelius montana (Brown, 1931)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:94513>.
@@ -2071,10 +2586,14 @@ Reference:
 
 ###### Species Contacyphon variabilis (Thunberg, 1785)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240473>.
 
 ###### Species Cyphon variabilis (Thunberg, 1785)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:282600>.
@@ -2085,6 +2604,8 @@ Reference:
 
 ###### Species Anaspis rufa Say, 1826
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6797>.
 
@@ -2094,10 +2615,14 @@ Reference:
 
 ###### Species Nicrophorus investigator Zetterstedt, 1824
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1436>.
 
 ###### Species Nicrophorus vespilloides Herbst, 1783
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10092>, 
@@ -2123,6 +2648,8 @@ References:
 
 ###### Species Dendrophagus cygnaei Mannerheim, 1846
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:110488>, 
 <http://arctos.database.museum/guid/UAM:Ento:110489>, 
@@ -2134,12 +2661,16 @@ References:
 
 ###### Species Acidota quadratum
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:256831>.
 
 ###### Genus Dinaraea
 
 ###### Species Dinaraea pacei Klimaszewski & Langor, 2011
+
+Establishment means: native
 
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5731-17>.
@@ -2148,12 +2679,16 @@ Reference:
 
 ###### Species Eucnecosum brachypterum
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:253710>.
 
 ###### Genus Olisthaerus
 
 ###### Species Olisthaerus megacephalus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:33374>.
@@ -2162,12 +2697,16 @@ Reference:
 
 ###### Species Quedionuchus plagiatus (Mannerheim, 1843)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:33380>.
 
 ###### Genus Tachinus
 
 ###### Species Tachinus quebecensis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11095>.
@@ -2178,6 +2717,8 @@ Reference:
 
 ###### Species Stenotrachelus aeneus (Fabricius, 1787)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7709>.
 
@@ -2186,6 +2727,8 @@ Reference:
 ###### Genus Upis
 
 ###### Species Upis ceramboides
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/11436134>.
@@ -2196,16 +2739,22 @@ Reference:
 
 ###### Species Trachypachus holmbergi Mannerheim, 1853
 
+Establishment means: native
+
 ###### Family Trogossitidae
 
 ###### Genus Ostoma
 
 ###### Species Ostoma fraterna Randall, 1838
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:110480>.
 
 ###### Species Ostoma septentrionalis Randall, 1838
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:111647>.
@@ -2218,6 +2767,8 @@ Reference:
 
 ###### Species Acartophthalmus nigrinus (Zetterstedt, 1848)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240932>.
 
@@ -2227,6 +2778,8 @@ Reference:
 
 ###### Species Liriomyza equiseti De Meijere, 1924
 
+Establishment means: native
+
 References: 
 <https://arctos.database.museum/guid/KNWR:Ento:1698>, 
 <https://arctos.database.museum/guid/UAMObs:Ento:239386>.
@@ -2234,6 +2787,8 @@ References:
 ###### Genus Metopomyza
 
 ###### Species Metopomyza interfrontalis (Melander, 1913)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240447>.
@@ -2243,6 +2798,8 @@ Reference:
 ###### Genus Sylvicola
 
 ###### Species Sylvicola fuscatus (Fabricius, 1775)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2045>, 
@@ -2256,6 +2813,8 @@ References:
 
 ###### Species Alliopsis silvestris (Fallen, 1824)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239990>.
 
@@ -2263,10 +2822,14 @@ Reference:
 
 ###### Species Botanophila hucketti (Ringdahl, 1935)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238695>.
 
 ###### Species Botanophila rubrigena (Schnabl, 1915)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2264>.
@@ -2275,6 +2838,8 @@ Reference:
 
 ###### Species Chirosia similata (Tiensuu, 1939)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:11152>.
 
@@ -2282,30 +2847,42 @@ Reference:
 
 ###### Species Delia alaba (Walker, 1849)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7645>.
 
 ###### Species Delia bucculenta (Coquillett, 1904)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6062>.
 
 ###### Species Delia echinata (Seguy, 1923)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3633>.
 
 ###### Species Delia extensa (Huckett, 1951)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10031>.
 
 ###### Species Delia fabricii (Holmgren, 1872)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240655>.
 
 ###### Species Delia lineariventris (Zetterstedt, 1845)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2265>, 
@@ -2332,10 +2909,14 @@ References:
 
 ###### Species Delia prostriata (Huckett, 1965)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:1964>.
 
 ###### Species Delia tenuiventris (Zetterstedt, 1860)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240176>.
@@ -2344,10 +2925,14 @@ Reference:
 
 ###### Species Lasiomma atricaudum (Zetterstedt, 1845)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7285>.
 
 ###### Species Lasiomma octoguttatum (Zetterstedt, 1845)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240028>.
@@ -2356,15 +2941,21 @@ Reference:
 
 ###### Species Pegomya flavoscutellata (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1415-16>.
 
 ###### Species Pegomya geniculata (Bouche, 1834)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239600>.
 
 ###### Species Pegomya notabilis (Zetterstedt, 1846)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240032>.
@@ -2373,20 +2964,28 @@ Reference:
 
 ###### Species Zaphne borealis (Malloch, 1920)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7272>.
 
 ###### Species Zaphne implicata (Huckett, 1944)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240375>.
 
 ###### Species Zaphne lineatocollis (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7240>.
 
 ###### Species Zaphne zetterstedtii (Ringdahl, 1918)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10749>.
@@ -2397,11 +2996,15 @@ Reference:
 
 ###### Species Anthomyza gilviventris Rohá?ek & Barber 2016
 
+Establishment means: native
+
 References: 
 <https://arctos.database.museum/guid/UAM:Ento:378419>, 
 <https://www.biotaxa.org/AEMNP/article/download/27902/25528>.
 
 ###### Species Anthomyza tenuis (Loew, 1863)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1816>, 
@@ -2413,6 +3016,8 @@ References:
 
 ###### Species Arganthomyza duplex RohÃ¡Äek and Barber
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238682>.
 
@@ -2421,6 +3026,8 @@ Reference:
 ###### Genus Leiomyza
 
 ###### Species Leiomyza curvinervis (Zetterstedt, 1838)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5232>, 
@@ -2436,6 +3043,8 @@ References:
 
 ###### Species Bibio longipes Loew, 1864
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1727>, 
 <http://arctos.database.museum/guid/KNWR:Ento:1728>, 
@@ -2450,6 +3059,8 @@ References:
 
 ###### Species Hesperinus brevifrons Walker, 1848
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:110156>.
 
@@ -2459,15 +3070,21 @@ Reference:
 
 ###### Species Bolitophila acuta Garrett, 1925
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11282>.
 
 ###### Species Bolitophila austriaca
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239255>.
 
 ###### Species Bolitophila hybrida (Meigen, 1804)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239407>.
@@ -2478,10 +3095,14 @@ Reference:
 
 ###### Species Calliphora terraenovae Macquart, 1851
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239970>.
 
 ###### Species Calliphora vomitoria (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8776>.
@@ -2490,6 +3111,8 @@ Reference:
 
 ###### Species Cynomya cadaverina Robineau-Desvoidy, 1830
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7218>.
 
@@ -2497,12 +3120,16 @@ Reference:
 
 ###### Species Melanomya ordinaria (West, 1925)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240325>.
 
 ###### Genus Pollenia
 
 ###### Species Pollenia vagabunda (Meigen, 1826)
+
+Establishment means: exotic
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10689>, 
@@ -2555,6 +3182,8 @@ References:
 
 ###### Species Protophormia terraenovae (Robineau-desvoidy, 1830)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:8863>, 
 <http://arctos.database.museum/guid/UAM:Ento:256830>.
@@ -2565,12 +3194,16 @@ References:
 
 ###### Species Dasineura serrulatae (Osten Sacken, 1862)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11164>.
 
 ###### Genus Iteomyia
 
 ###### Species Iteomyia salicisverruca (Osten Sacken, 1878)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11105>.
@@ -2579,12 +3212,16 @@ Reference:
 
 ###### Species Kaltenbachiola rachiphaga (Tripp, 1955)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/64540260>.
 
 ###### Genus Rabdophaga
 
 ###### Species Rabdophaga rigidae (Osten Sacken, 1862)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:11127>, 
@@ -2597,10 +3234,14 @@ References:
 
 ###### Species Culicoides obsoletus (Meigen, 1818)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238611>.
 
 ###### Species Culicoides stilobezzioides Foot and Pratt, 1954
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239321>.
@@ -2611,6 +3252,8 @@ Reference:
 
 ###### Species Chamaemyia geniculata (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239029>.
 
@@ -2620,12 +3263,16 @@ Reference:
 
 ###### Species Ablabesmyia monilis (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240358>.
 
 ###### Genus Chironomus
 
 ###### Species Chironomus maturus Johannsen, 1908
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239362>.
@@ -2634,12 +3281,16 @@ Reference:
 
 ###### Species Conchapelopia americana Fittkau, 1957
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239224>.
 
 ###### Genus Constempellina
 
 ###### Species Constempellina brevicosta (Edwards, 1937)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239033>.
@@ -2648,7 +3299,11 @@ Reference:
 
 ###### Species Cricotopus annulator Goetghebuer, 1927
 
+Establishment means: native
+
 ###### Species Cricotopus tremulus (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:238610>.
@@ -2657,6 +3312,8 @@ Reference:
 
 ###### Species Dicrotendipes modestus (Say, 1823)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240433>.
 
@@ -2664,18 +3321,26 @@ Reference:
 
 ###### Species Eukiefferiella claripennis Lundbeck
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/64537969>.
 
 ###### Species Eukiefferiella coerulescens (Kieffer)
 
+Establishment means: native
+
 ###### Genus Hydrobaenus
 
 ###### Species Hydrobaenus fusistylus (Goetghebuer, 1933)
 
+Establishment means: native
+
 ###### Genus Lauterborniella
 
 ###### Species Lauterborniella agrayloides (Kieffer, 1911)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240235>.
@@ -2684,12 +3349,16 @@ Reference:
 
 ###### Species Limnophyes minimus (Meigen, 1818)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240320>.
 
 ###### Genus Monopelopia
 
 ###### Species Monopelopia tenuicalcar
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239188>.
@@ -2698,21 +3367,35 @@ Reference:
 
 ###### Species Nanocladius spiniplenus Saether, 1977
 
+Establishment means: native
+
 ###### Genus Orthocladius
 
 ###### Species Orthocladius appersoni Soponis, 1977
 
+Establishment means: native
+
 ###### Species Orthocladius curtiseta Saether, 1973
+
+Establishment means: native
 
 ###### Species Orthocladius oblidens (Walker, 1856)
 
+Establishment means: native
+
 ###### Species Orthocladius rivicola Kieffer, 1911
 
+Establishment means: native
+
 ###### Species Orthocladius rivulorum Kieffer, 1909
+
+Establishment means: native
 
 ###### Genus Paraphaenocladius
 
 ###### Species Paraphaenocladius impensus (Walker, 1856)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238906>.
@@ -2721,6 +3404,8 @@ Reference:
 
 ###### Species Phaenopsectra punctipes (Wiedemann, 1817)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240402>.
 
@@ -2728,10 +3413,14 @@ Reference:
 
 ###### Species Polypedilum cultellatum Goetghebuer, 1931
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240409>.
 
 ###### Species Polypedilum tritum (Walker, 1856)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240410>.
@@ -2740,6 +3429,8 @@ Reference:
 
 ###### Species Psectrocladius fennicus Stora, 1939
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240413>.
 
@@ -2747,13 +3438,19 @@ Reference:
 
 ###### Species Psilometriocnemus triannulatus Saether, 1969
 
+Establishment means: native
+
 ###### Genus Synorthocladius
 
 ###### Species Synorthocladius semivirens (Keiffer, 1909)
 
+Establishment means: native
+
 ###### Genus Tanypus
 
 ###### Species Tanypus punctipennis Meigen, 1818
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240088>.
@@ -2762,6 +3459,8 @@ Reference:
 
 ###### Species Tanytarsus mendax Kieffer, 1925
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240781>.
 
@@ -2769,9 +3468,13 @@ Reference:
 
 ###### Species Tvetenia calvescens (Edwards, 1929)
 
+Establishment means: native
+
 ###### Genus Xenochironomus
 
 ###### Species Xenochironomus xenolabis (Kieffer, 1916)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240374>.
@@ -2781,6 +3484,8 @@ Reference:
 ###### Genus Chlorops
 
 ###### Species Chlorops sahlbergii Loew, 1863
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1825>, 
@@ -2794,12 +3499,16 @@ References:
 
 ###### Species Rhopalopterum soror (Macquart, 1851)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238993>.
 
 ###### Genus Thaumatomyia
 
 ###### Species Thaumatomyia trifasciata (Zetterstedt, 1848)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2909>, 
@@ -2815,10 +3524,14 @@ References:
 
 ###### Species Aedes abserratus (Felt and Young, 1904)
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1404-16>.
 
 ###### Species Aedes diantaeus Howard, Dyar and Knab, 1913
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:6782>.
@@ -2827,6 +3540,8 @@ Reference:
 
 ###### Species Culex territans Walker, 1856
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240298>.
 
@@ -2834,10 +3549,14 @@ Reference:
 
 ###### Species Culiseta impatiens (Walker, 1848)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10415>.
 
 ###### Species Culiseta morsitans (Theobald, 1901)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238588>.
@@ -2846,40 +3565,56 @@ Reference:
 
 ###### Species Ochlerotatus communis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239006>.
 
 ###### Species Ochlerotatus diantaeus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239559>.
 
 ###### Species Ochlerotatus excrucians
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238593>.
 
 ###### Species Ochlerotatus fitchii
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239815>.
 
 ###### Species Ochlerotatus hexodontus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239484>.
 
 ###### Species Ochlerotatus intrudens
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239066>.
 
 ###### Species Ochlerotatus pionips
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239447>.
 
 ###### Species Ochlerotatus punctor
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239506>.
@@ -2890,6 +3625,8 @@ Reference:
 
 ###### Species Diastata vagans Loew, 1864
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240205>.
 
@@ -2899,6 +3636,8 @@ Reference:
 
 ###### Species Argyra currani Van Duzee, 1925
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2935>.
 
@@ -2906,10 +3645,14 @@ Reference:
 
 ###### Species Campsicnemus alaskensis (Harmston and Miller, 1966)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3081>.
 
 ###### Species Campsicnemus claudicans Loew, 1864
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7855>.
@@ -2918,10 +3661,14 @@ Reference:
 
 ###### Species Dolichopus detersus Loew, 1866
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7851>.
 
 ###### Species Dolichopus plumipes (Scopoli, 1763)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2934>, 
@@ -2938,12 +3685,16 @@ References:
 
 ###### Species Dolichopus remipes Wahlberg, 1839
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6783>, 
 <http://arctos.database.museum/guid/KNWR:Ento:7849>, 
 <http://arctos.database.museum/guid/KNWR:Ento:7850>.
 
 ###### Species Dolichopus stenhammari Zetterdtedt, 1843
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5471>, 
@@ -2956,10 +3707,14 @@ References:
 
 ###### Species Hydrophorus algens Wheeler, 1899
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10418>.
 
 ###### Species Hydrophorus glaber (Walker, 1849)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10417>.
@@ -2968,12 +3723,16 @@ Reference:
 
 ###### Species Medetera vockerothi Bickel, 1985
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7846>.
 
 ###### Genus Neurigona
 
 ###### Species Neurigona ciliata Van Duzee, 1913
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6787>, 
@@ -2983,16 +3742,22 @@ References:
 
 ###### Species Rhaphium discolor Zetterstedt, 1838
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:2957>.
 
 ###### Species Rhaphium elegantulum (Meigen, 1824)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6786>, 
 <http://arctos.database.museum/guid/KNWR:Ento:7847>.
 
 ###### Species Rhaphium femoratum (Van Duzee, 1922)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2937>, 
@@ -3040,10 +3805,14 @@ References:
 
 ###### Species Drosophila affinis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240227>.
 
 ###### Species Drosophila neotestacea Grimaldi, James & Jaenike, 1992
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240047>.
@@ -3051,6 +3820,8 @@ Reference:
 ###### Genus Scaptomyza
 
 ###### Species Scaptomyza trochanterata Collin, 1953
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239059>.
@@ -3061,6 +3832,8 @@ Reference:
 
 ###### Species Dryomyza setosa (Bigot, 1886)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3356>.
 
@@ -3068,11 +3841,15 @@ Reference:
 
 ###### Species Helcomyza mirabilis Melander, 1920
 
+Establishment means: native
+
 ###### Family Empididae
 
 ###### Genus Boreodromia
 
 ###### Species Boreodromia bicolor (Loew, 1863)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240306>.
@@ -3081,15 +3858,21 @@ Reference:
 
 ###### Species Clinocera fuscipennis Loew, 1876
 
+Establishment means: native
+
 ###### Genus Iteaphila
 
 ###### Species Iteaphila macquarti Zetterstedt, 1838
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2515>, 
 <http://arctos.database.museum/guid/KNWR:Ento:4700>.
 
 ###### Species Iteaphila orchestris Melander, 1902
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3485>, 
@@ -3098,10 +3881,14 @@ References:
 
 ###### Species Iteaphila testacea Melander, 1946
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3279>.
 
 ###### Species Iteaphila triangula (Coquillett, 1900)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2887>, 
@@ -3111,10 +3898,14 @@ References:
 
 ###### Species Rhamphomyia anthracodes Coquillett, 1900
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7859>.
 
 ###### Species Rhamphomyia atrata Coquillett, 1900
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4025>, 
@@ -3127,6 +3918,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Ento:5180>.
 
 ###### Species Rhamphomyia barypoda Coquillett, 1900
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3466>, 
@@ -3142,12 +3935,16 @@ References:
 
 ###### Species Coenia curvicauda (Meigen, 1830)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10573>.
 
 ###### Genus Dichaeta
 
 ###### Species Dichaeta caudata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10514>.
@@ -3156,12 +3953,16 @@ Reference:
 
 ###### Species Discocerina obscurella (Fallen, 1813)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10603>.
 
 ###### Genus Ditrichophora
 
 ###### Species Ditrichophora occidentalis Cresson, 1942
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10596>, 
@@ -3178,6 +3979,8 @@ References:
 
 ###### Species Ephydra riparia Fallen, 1813
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3001>.
 
@@ -3185,10 +3988,14 @@ Reference:
 
 ###### Species Gymnoclasiopa parilis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10593>.
 
 ###### Species Gymnoclasiopa tacoma
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10593>.
@@ -3196,6 +4003,8 @@ Reference:
 ###### Genus Hyadina
 
 ###### Species Hyadina binotata (Cresson, 1926)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10013>, 
@@ -3212,10 +4021,14 @@ References:
 
 ###### Species Hydrellia morrisoni Cresson, 1924
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2998>.
 
 ###### Species Hydrellia tibialis Cresson, 1917
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10519>, 
@@ -3230,6 +4043,8 @@ References:
 
 ###### Species Ilythea spilota (Curtis, 1832)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10012>, 
 <http://arctos.database.museum/guid/KNWR:Ento:10598>, 
@@ -3239,6 +4054,8 @@ References:
 
 ###### Species Lamproscatella occidentalis Mathis, 1979
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10508>, 
 <http://arctos.database.museum/guid/KNWR:Ento:10512>, 
@@ -3247,6 +4064,8 @@ References:
 ###### Genus Lytogaster
 
 ###### Species Lytogaster obscura Clausen, 1982
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3008>, 
@@ -3266,6 +4085,8 @@ References:
 
 ###### Species Notiphila loewi Cresson, 1917
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10560>, 
 <http://arctos.database.museum/guid/KNWR:Ento:10561>, 
@@ -3275,6 +4096,8 @@ References:
 
 ###### Species Notiphila uliginosa
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10588>.
 
@@ -3282,16 +4105,22 @@ Reference:
 
 ###### Species Parydra aquila (Fallen, 1813)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10532>, 
 <http://arctos.database.museum/guid/KNWR:Ento:10547>.
 
 ###### Species Parydra fossarum
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:11711>.
 
 ###### Species Parydra quadriloba Clausen and Cook, 1971
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4078>.
@@ -3299,6 +4128,8 @@ Reference:
 ###### Genus Pelina
 
 ###### Species Pelina canadensis Cresson, 1934
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3024>, 
@@ -3311,12 +4142,16 @@ References:
 
 ###### Species Philygria debilis Loew, 1861
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7831>.
 
 ###### Genus Psilopa
 
 ###### Species Psilopa girschneri Von Roeder, 1889
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3042>, 
@@ -3333,11 +4168,15 @@ References:
 
 ###### Species Scatella laxa Cresson, 1933
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3036>, 
 <http://arctos.database.museum/guid/KNWR:Ento:3066>.
 
 ###### Species Scatella obsoleta Loew, 1861
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10549>, 
@@ -3347,6 +4186,8 @@ References:
 
 ###### Species Scatella tenuicosta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10505>.
 
@@ -3354,12 +4195,16 @@ Reference:
 
 ###### Species Scatophila cribrata (Stenhammar, 1844)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4550>.
 
 ###### Genus Setacera
 
 ###### Species Setacera micans (Haliday, 1833)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10537>.
@@ -3370,36 +4215,50 @@ Reference:
 
 ###### Species Fannia aethiops Malloch, 1913
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239492>.
 
 ###### Species Fannia brooksi Chillcott, 1961
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238853>.
 
 ###### Species Fannia ciliatissima Chillcott, 1961
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240795>.
 
 ###### Species Fannia metallipennis (Zetterstedt, 1838)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239301>.
 
 ###### Species Fannia postica (Stein, 1895)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2005>.
 
 ###### Species Fannia serena (Fallen, 1825)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2004>, 
 <http://arctos.database.museum/guid/KNWR:Ento:2144>.
 
 ###### Species Fannia spathiophora Malloch, 1918
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1192>, 
@@ -3742,6 +4601,8 @@ References:
 
 ###### Species Fannia subpellucens (Zetterstedt, 1845)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1534>, 
 <http://arctos.database.museum/guid/KNWR:Ento:2002>, 
@@ -3777,6 +4638,8 @@ References:
 
 ###### Species Fannia verrallii (Stein, 1895)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240605>.
 
@@ -3786,14 +4649,20 @@ Reference:
 
 ###### Species Heleomyza nebulosa (Coquillett, 1910)
 
+Establishment means: native
+
 ###### Genus Suillia
 
 ###### Species Suillia apicalis (Loew, 1862)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2117>.
 
 ###### Species Suillia convergens (Walker, 1849)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1189>, 
@@ -3816,12 +4685,16 @@ References:
 
 ###### Species Euhybus triplex (Walker, 1849)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239459>.
 
 ###### Genus Ocydromia
 
 ###### Species Ocydromia glabricula (Fallen, 1816)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5138>, 
@@ -3830,6 +4703,8 @@ References:
 ###### Genus Platypalpus
 
 ###### Species Platypalpus lateralis Loew, 1864
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1499>, 
@@ -3861,6 +4736,8 @@ References:
 
 ###### Species Platypalpus xanthopodus Melander, 1927
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2035>, 
 <http://arctos.database.museum/guid/KNWR:Ento:2539>, 
@@ -3886,6 +4763,8 @@ References:
 
 ###### Species Minettia lupulina (Fabricius, 1787)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240185>.
 
@@ -3894,6 +4773,8 @@ Reference:
 ###### Genus Metalimnobia
 
 ###### Species Metalimnobia cinctipes
+
+Establishment means: native
 
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5734-17>.
@@ -3904,6 +4785,8 @@ Reference:
 
 ###### Species Lonchoptera uniseta Curran, 1934
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10014>.
 
@@ -3912,6 +4795,8 @@ Reference:
 ###### Genus Cnodacophora
 
 ###### Species Cnodacophora nasoni
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3098>.
@@ -3922,6 +4807,8 @@ Reference:
 
 ###### Species Caricea erythrocera Robineau-Desvoidy, 1830
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240183>.
 
@@ -3929,30 +4816,42 @@ Reference:
 
 ###### Species Coenosia campestris (Robineau-desvoidy, 1830)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240869>.
 
 ###### Species Coenosia cilicauda Malloch, 1920
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7270>.
 
 ###### Species Coenosia conforma Huckett, 1934
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240152>.
 
 ###### Species Coenosia impunctata Malloch, 1920
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240566>.
 
 ###### Species Coenosia mollicula (Fallen, 1825)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240266>.
 
 ###### Species Coenosia morrisoni
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239818>.
@@ -3960,6 +4859,8 @@ Reference:
 ###### Genus Haematobosca
 
 ###### Species Haematobosca alcis (Snow, 1891)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2302>, 
@@ -3973,6 +4874,8 @@ References:
 
 ###### Species Hebecnema nigra (Robineau-desvoidy, 1830)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240197>.
 
@@ -3980,10 +4883,14 @@ Reference:
 
 ###### Species Helina annosa (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240720>.
 
 ###### Species Helina evecta (Harris, 1780)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240797>.
@@ -3992,20 +4899,28 @@ Reference:
 
 ###### Species Hydrotaea militaris (Meigen, 1826)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240079>.
 
 ###### Species Hydrotaea pilitibia Stein, 1916
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240179>.
 
 ###### Species Hydrotaea spinifemorata Huckett, 1954
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240744>.
 
 ###### Species Hydrotaea unispinosa Stein, 1898
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239667>.
@@ -4014,12 +4929,16 @@ Reference:
 
 ###### Species Limnospila albifrons (Zetterstedt, 1849)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6044>.
 
 ###### Genus Mesembrina
 
 ###### Species Mesembrina latreillii Robineau-Desvoidy, 1830
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1707>, 
@@ -4030,12 +4949,16 @@ References:
 
 ###### Species Morellia podagrica (Loew, 1857)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7221>.
 
 ###### Genus Muscina
 
 ###### Species Muscina levida (Harris, 1788)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7220>.
@@ -4044,10 +4967,14 @@ Reference:
 
 ###### Species Mydaea furtiva Stein, 1920
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240732>.
 
 ###### Species Mydaea obscurella Malloch, 1921
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240092>.
@@ -4056,12 +4983,16 @@ Reference:
 
 ###### Species Myospila meditabunda (Fabricius, 1781)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240589>.
 
 ###### Genus Phaonia
 
 ###### Species Phaonia apicalis Stein, 1914
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240156>.
@@ -4070,15 +5001,21 @@ Reference:
 
 ###### Species Spilogona contractifrons (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240203>.
 
 ###### Species Spilogona forticula Huckett, 1965
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240954>.
 
 ###### Species Spilogona opaca (Schnabl, 19150
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239061>.
@@ -4087,10 +5024,14 @@ Reference:
 
 ###### Species Thricops coquilletti (Malloch, 1920)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11066>.
 
 ###### Species Thricops diaphanus (Wiedemann, 1817)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10286>.
@@ -4101,12 +5042,16 @@ Reference:
 
 ###### Species Boletina arctica Holmgren, 1872
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239561>.
 
 ###### Genus Coelosia
 
 ###### Species Coelosia gracilis Johannsen, 1912
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240812>.
@@ -4115,15 +5060,21 @@ Reference:
 
 ###### Species Exechia borealis Van Duzee, 1928
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239763>.
 
 ###### Species Exechia contaminata Winnertz, 1863
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239083>.
 
 ###### Species Exechia frigida (Boheman, 1865)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239892>.
@@ -4132,20 +5083,28 @@ Reference:
 
 ###### Species Mycetophila alea Laffoon, 1965
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240462>.
 
 ###### Species Mycetophila cruciator (Laffoon, 1957)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239585>.
 
 ###### Species Mycetophila luctuosa Meigen, 1830
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240507>.
 
 ###### Species Mycetophila ocellus Walker, 1848
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240913>.
@@ -4154,20 +5113,28 @@ Reference:
 
 ###### Species Mycomya maculata (Meigen, 1804)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239728>.
 
 ###### Species Mycomya nitida (Zetterstedt, 1852)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239164>.
 
 ###### Species Mycomya pulchella
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240115>.
 
 ###### Species Mycomya shermani Garrett, 1924
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239888>.
@@ -4176,12 +5143,16 @@ Reference:
 
 ###### Species Phronia nigripalpis Lundstrom, 1909
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240492>.
 
 ###### Genus Tarnania
 
 ###### Species Tarnania tarnanii (Dziedzicki, 1910)
+
+Establishment means: native
 
 References: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1588-16>, 
@@ -4191,10 +5162,14 @@ References:
 
 ###### Species Trichonta hamata Mik, 1880
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239736>.
 
 ###### Species Trichonta vitta (Meigen, 1830)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240627>.
@@ -4204,6 +5179,8 @@ Reference:
 ###### Genus Melieria
 
 ###### Species Melieria cana (Loew, 1858)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3037>, 
@@ -4228,6 +5205,8 @@ References:
 
 ###### Species Gymnophora subarcuata Schmitz, 1952
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240000>.
 
@@ -4235,10 +5214,14 @@ Reference:
 
 ###### Species Phora carlina Schmitz, 1930
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240061>.
 
 ###### Species Phora occidentata Malloch, 1912
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240895>.
@@ -4249,10 +5232,14 @@ Reference:
 
 ###### Species Pipunculus hertzogi Rapp
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6768>.
 
 ###### Species Pipunculus luteicornis Cresson, 1911
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239786>.
@@ -4261,10 +5248,14 @@ Reference:
 
 ###### Species Tomosvaryella kuthyi Aczel, 1944
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5264>.
 
 ###### Species Tomosvaryella sylvatica (Meigen, 1824)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5264>.
@@ -4275,12 +5266,16 @@ Reference:
 
 ###### Species Callomyia proxima Johnson, 1916
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239634>.
 
 ###### Genus taxon name missing
 
 ###### Species Lindneromyia agarici
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7343>.
@@ -4291,6 +5286,8 @@ Reference:
 
 ###### Species Megaphthalmoides unilineatus (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240132>.
 
@@ -4300,6 +5297,8 @@ Reference:
 
 ###### Species Bradysia forcipulata (Lundbeck, 1898)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239580>.
 
@@ -4307,12 +5306,16 @@ Reference:
 
 ###### Species Corynoptera subtrivialis (Pettey, 1918)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240175>.
 
 ###### Genus Phytosciara
 
 ###### Species Phytosciara flavipes (Meigen, 1804)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239704>.
@@ -4323,12 +5326,16 @@ Reference:
 
 ###### Species Dictya umbroides Curran, 1932
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:138868>.
 
 ###### Genus Pherbellia
 
 ###### Species Pherbellia albocostata (Fallen, 1820)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1771>, 
@@ -4337,10 +5344,14 @@ References:
 
 ###### Species Pherbellia schoenherri
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2036>.
 
 ###### Species Pherbellia tenuipes (Loew, 1872)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3682>, 
@@ -4350,6 +5361,8 @@ References:
 
 ###### Species Renocera brevis (Cresson, 1920)
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=DKNWR060-11>.
 
@@ -4357,10 +5370,14 @@ Reference:
 
 ###### Species Sepedon borealis Steyskal, 1951
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5354>.
 
 ###### Species Sepedon pusilla Loew, 1859
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240455>.
@@ -4369,15 +5386,21 @@ Reference:
 
 ###### Species Tetanocera fuscinervis (Zetterstedt, 1838)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5353>.
 
 ###### Species Tetanocera montana Day, 1881
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1589>.
 
 ###### Species Tetanocera phyllophora Melander, 1920
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3936>, 
@@ -4386,10 +5409,14 @@ References:
 
 ###### Species Tetanocera plebeja Loew, 1862
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6772>.
 
 ###### Species Tetanocera silvatica Meigen, 1830
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6771>.
@@ -4400,6 +5427,8 @@ Reference:
 
 ###### Species Sepsis neocynipsea Melander and Spuler, 1917
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240758>.
 
@@ -4407,11 +5436,15 @@ Reference:
 
 ###### Species Themira putris (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Family Simuliidae
 
 ###### Genus Prosimulium
 
 ###### Species Prosimulium travisi Stone, 1952
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2140>, 
@@ -4439,10 +5472,14 @@ References:
 
 ###### Species Simulium tuberosum (Lundstrom, 1911)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240150>.
 
 ###### Species Simulium vittatum (Zetterstedt, 1838)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2881>.
@@ -4453,6 +5490,8 @@ Reference:
 
 ###### Species Aptilotus parvipennis (Spuler, 1924)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8349>.
 
@@ -4462,6 +5501,8 @@ Reference:
 
 ###### Species Beris fuscipes Meigen, 1820
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1244-16>.
 
@@ -4469,12 +5510,16 @@ Reference:
 
 ###### Species Nemotelus canadensis Loew, 1863
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3109>.
 
 ###### Genus Sargus
 
 ###### Species Sargus decorus Say, 1824
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239769>.
@@ -4485,6 +5530,8 @@ Reference:
 
 ###### Species Synneuron decipiens Hutson, 1977
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6788>.
 
@@ -4494,12 +5541,16 @@ Reference:
 
 ###### Species Baccha elongata (Fabricius, 1775)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:239358>.
 
 ###### Genus Brachyopa
 
 ###### Species Brachyopa ferruginea (Fallen, 1817)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10772>.
@@ -4508,12 +5559,16 @@ Reference:
 
 ###### Species Chalcosyrphus vecors (Osten Sacken, 1875)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10818>.
 
 ###### Genus Cheilosia
 
 ###### Species Cheilosia lasiophthalmus Williston, 1882
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:6775>.
@@ -4522,12 +5577,16 @@ Reference:
 
 ###### Species Doros aequalis Loew, 1863
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7130>.
 
 ###### Genus Eupeodes
 
 ###### Species Eupeodes lapponicus (Zetterstedt, 1838)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238826>.
@@ -4536,12 +5595,16 @@ Reference:
 
 ###### Species Lejops perfidiosus (Hunter, 1897)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6082>.
 
 ###### Genus Melanostoma
 
 ###### Species Melanostoma mellinum (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2015>, 
@@ -4552,12 +5615,16 @@ References:
 
 ###### Species Neoascia metallica (Williston, 1882)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6085>.
 
 ###### Genus Parasyrphus
 
 ###### Species Parasyrphus tarsatus (Zetterstedt, 1838)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3891>.
@@ -4566,25 +5633,35 @@ Reference:
 
 ###### Species Platycheirus angustatus (Zetterstedt, 1843)
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/browser/view/JN285917>.
 
 ###### Species Platycheirus modestus Ide, 1926
+
+Establishment means: native
 
 Reference: 
 <https://www.ebi.ac.uk/ena/browser/view/JN285924>.
 
 ###### Species Platycheirus peltatoides Curran, 1923
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2808>.
 
 ###### Species Platycheirus quadratus (Say, 1823)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238992>.
 
 ###### Species Platycheirus rosarum (Fabricius, 1787)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:239479>.
@@ -4593,6 +5670,8 @@ Reference:
 
 ###### Species Sericomyia militaris Walker, 1849
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1564>.
 
@@ -4600,10 +5679,14 @@ Reference:
 
 ###### Species Sphaerophoria novaeangliae Johnson, 1916
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240896>.
 
 ###### Species Sphaerophoria philanthus Meigen
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3393>, 
@@ -4614,15 +5697,21 @@ References:
 
 ###### Species Syrphus ribesii Linnaeus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240038>.
 
 ###### Species Syrphus torvus Osten Sacken, 1875
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240541>.
 
 ###### Species Syrphus vitripennis Meigen, 1822
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1566>.
@@ -4633,12 +5722,16 @@ Reference:
 
 ###### Species Chrysops nigripes Zetterstedt, 1838
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7152>.
 
 ###### Genus Hybomitra
 
 ###### Species Hybomitra zonalis (Kirby, 1837)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2293>.
@@ -4649,12 +5742,16 @@ Reference:
 
 ###### Species Euclytia flava (Townsend, 1891)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240158>.
 
 ###### Genus Periscepsia
 
 ###### Species Periscepsia clesides (Walker, 1849)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240463>.
@@ -4663,12 +5760,16 @@ Reference:
 
 ###### Species Phasia aeneoventris (Williston, 1886)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:240173>.
 
 ###### Genus Siphona
 
 ###### Species Siphona maculata Staeger, 1849
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3634>, 
@@ -4681,6 +5782,8 @@ References:
 
 ###### Species Tachina marklini Zetterstedt, 1838
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10668>.
 
@@ -4690,6 +5793,8 @@ Reference:
 
 ###### Species Campiglossa farinata (Novak, 1974)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2637>, 
 <http://arctos.database.museum/guid/KNWR:Ento:2640>.
@@ -4697,6 +5802,8 @@ References:
 ###### Genus Rhagoletis
 
 ###### Species Rhagoletis basiola (Osten Sacken, 1877)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11093>.
@@ -4707,12 +5814,16 @@ Reference:
 
 ###### Species Cylindrotoma distinctissima Meigen
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239082>.
 
 ###### Genus Limnophila
 
 ###### Species Limnophila poetica Osten Sacken, 1869
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240569>.
@@ -4721,12 +5832,16 @@ Reference:
 
 ###### Species Prionocera unimicra (Alexander, 1915)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11234>.
 
 ###### Genus Pseudolimnophila
 
 ###### Species Pseudolimnophila inornata (Osten Sacken, 1869)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239371>.
@@ -4735,15 +5850,21 @@ Reference:
 
 ###### Species Tipula entomophthorae Alexander, 1918
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/2853091>.
 
 ###### Species Tipula macrolabis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11157>.
 
 ###### Species Tipula penobscot Alexander, 1915
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238942>.
@@ -4753,6 +5874,8 @@ Reference:
 ###### Genus Xylophagus
 
 ###### Species Xylophagus decorus Williston, 1885
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6767>.
@@ -4765,6 +5888,8 @@ Reference:
 
 ###### Species Ameletus celer McDunnough, 1934
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11230>.
 
@@ -4774,12 +5899,16 @@ Reference:
 
 ###### Species Baetis bicaudatus Dodds, 1923
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11231>.
 
 ###### Genus Procloeon
 
 ###### Species Procloeon pennulatum (Eaton, 1870)
+
+Establishment means: native
 
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1429-16>.
@@ -4790,6 +5919,8 @@ Reference:
 
 ###### Species Caenis youngi Roemhild, 1984
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:241280>.
 
@@ -4798,6 +5929,8 @@ Reference:
 ###### Genus Ephemerella
 
 ###### Species Ephemerella aurivillii (Bengtsson, 1908)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11270>.
@@ -4808,6 +5941,8 @@ Reference:
 
 ###### Species Epeorus grandis (McDunnough, 1924)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11228>.
 
@@ -4816,6 +5951,8 @@ Reference:
 ###### Genus Paraleptophlebia
 
 ###### Species Paraleptophlebia debilis (Walker, 1853)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10676>.
@@ -4827,6 +5964,8 @@ Reference:
 ###### Genus Elasmostethus
 
 ###### Species Elasmostethus interstinctus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1578>, 
@@ -4841,6 +5980,8 @@ References:
 
 ###### Species Adelges cooleyi (Gillette, 1907)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11232>.
 
@@ -4849,6 +5990,8 @@ Reference:
 ###### Genus Anthocoris
 
 ###### Species Anthocoris musculus (Say, 1832)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:4010>, 
@@ -4860,6 +6003,8 @@ References:
 
 ###### Species Amphorophora agathonica Hottes, 1950
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883804>.
 
@@ -4867,10 +6012,14 @@ Reference:
 
 ###### Species Aphis farinosa
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/50057105>.
 
 ###### Species Aphis varians
+
+Establishment means: native
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883609>.
@@ -4879,6 +6028,8 @@ Reference:
 
 ###### Species Boernerina occidentalis Hille Ris Lambers & Hottes, 1962
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883805>.
 
@@ -4886,10 +6037,14 @@ Reference:
 
 ###### Species Cavariella digitata
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883634>.
 
 ###### Species Cavariella salicis
+
+Establishment means: native
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883546>.
@@ -4898,6 +6053,8 @@ Reference:
 
 ###### Species Chaitophorus populifolii (Essig, 1912)
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/KR034024>.
 
@@ -4905,25 +6062,35 @@ Reference:
 
 ###### Species Cinara fornacula
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11128>.
 
 ###### Species Cinara mariana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239260>.
 
 ###### Species Cinara nimbata
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883561>.
 
 ###### Species Cinara obscura
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238739>.
 
 ###### Species Cinara pruinosa
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240204>.
@@ -4932,6 +6099,8 @@ Reference:
 
 ###### Species Illinoia menziesiae
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239461>.
 
@@ -4939,10 +6108,14 @@ Reference:
 
 ###### Species Macrosiphum euphorbiae (Thomas, 1878)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:230044>.
 
 ###### Species Macrosiphum stanleyi
+
+Establishment means: native
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883610>.
@@ -4951,12 +6124,16 @@ Reference:
 
 ###### Species Nearctaphis kachena (Hottes, 1934)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240058>.
 
 ###### Genus Pachypappa
 
 ###### Species Pachypappa rosettei (Maxson)
+
+Establishment means: native
 
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883532>.
@@ -4965,6 +6142,8 @@ Reference:
 
 ###### Species Tamalia coweni (Cockerell & T.D.A., 1905)
 
+Establishment means: native
+
 Reference: 
 <https://www.ebi.ac.uk/ena/data/view/JF883540>.
 
@@ -4972,10 +6151,14 @@ Reference:
 
 ###### Species Thecabius affinis (Kaltenbach, 1843)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:229851>.
 
 ###### Species Thecabius populimonilis (Riley & C.V., 1879)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6350>.
@@ -4986,6 +6169,8 @@ Reference:
 
 ###### Species Philaenus spumarius (Linnaeus, 1758)
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/6901415>.
 
@@ -4994,6 +6179,8 @@ Reference:
 ###### Genus Aneurus
 
 ###### Species Aneurus simplex Uhler, 1871
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10748>.
@@ -5004,10 +6191,14 @@ Reference:
 
 ###### Species Balclutha manitou
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6766>.
 
 ###### Species Balclutha punctata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2574>.
@@ -5016,12 +6207,16 @@ Reference:
 
 ###### Species Cicadula intermedia
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240194>.
 
 ###### Genus Draeculacephala
 
 ###### Species Draeculacephala angulifera
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:176315>.
@@ -5030,12 +6225,16 @@ Reference:
 
 ###### Species Elymana inornata
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240269>.
 
 ###### Genus Errastunus
 
 ###### Species Errastunus ocellaris
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240242>.
@@ -5044,10 +6243,14 @@ Reference:
 
 ###### Species Evacanthus acuminatus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239316>.
 
 ###### Species Evacanthus grandipes
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10036>.
@@ -5056,6 +6259,8 @@ Reference:
 
 ###### Species Forcipata loca
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240441>.
 
@@ -5063,10 +6268,14 @@ Reference:
 
 ###### Species Idiocerus subnitens
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239044>.
 
 ###### Species Idiocerus xanthiops
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239588>.
@@ -5075,6 +6284,8 @@ Reference:
 
 ###### Species Limotettix arctostaphyli
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240938>.
 
@@ -5082,12 +6293,16 @@ Reference:
 
 ###### Species Sorhoanus xanthoneurus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240009>.
 
 ###### Genus Thamnotettix
 
 ###### Species Thamnotettix confinis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:176125>.
@@ -5098,6 +6313,8 @@ Reference:
 
 ###### Species Cixius meridionalis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8998>.
 
@@ -5106,6 +6323,8 @@ Reference:
 ###### Genus Achorotile
 
 ###### Species Achorotile subarctica Scudder, 1963
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10183>, 
@@ -5121,6 +6340,8 @@ References:
 ###### Genus Criomorphus
 
 ###### Species Criomorphus inconspicuus (Uhler, 1877)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10189>, 
@@ -5138,12 +6359,16 @@ References:
 
 ###### Species Delphacodes serrata Beamer, 1948
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6175>.
 
 ###### Genus Javesella
 
 ###### Species Javesella atrata (Osborn, 1938)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10184>, 
@@ -5156,6 +6381,8 @@ References:
 <http://arctos.database.museum/guid/UAM:Ento:282638>.
 
 ###### Species Javesella pellucida (Fabricius, 1794)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10185>, 
@@ -5235,6 +6462,8 @@ References:
 
 ###### Species Kosswigianella analis (Crawford, 1914)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10179>.
 
@@ -5242,12 +6471,16 @@ Reference:
 
 ###### Species Kusnezoviella macleani Wilson, 1988
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5273>.
 
 ###### Genus Paraliburnia
 
 ###### Species Paraliburnia kilmani (Van Duzee, 1897)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5199>, 
@@ -5260,6 +6493,8 @@ References:
 
 ###### Species Geocoris bullatus (Say, 1832)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7686>.
 
@@ -5269,9 +6504,13 @@ Reference:
 
 ###### Species Gerris buenoi Kirkaldy, 1911
 
+Establishment means: native
+
 ###### Genus Limnoporus
 
 ###### Species Limnoporus rufoscutellatus (Latreille, 1807)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:94509>.
@@ -5281,6 +6520,8 @@ Reference:
 ###### Genus Kleidocerys
 
 ###### Species Kleidocerys resedae (Panzer, 1797)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5050>, 
@@ -5301,6 +6542,8 @@ References:
 
 ###### Species Calocoris fulvomaculatus (De Geer, 1773)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3497>.
 
@@ -5308,12 +6551,16 @@ Reference:
 
 ###### Species Chlamydatus pulicarius (FallÃ©n, 1807)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240426>.
 
 ###### Genus Irbisia
 
 ###### Species Irbisia sericans (StÃ¥l, 1858)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1835>, 
@@ -5325,6 +6572,8 @@ References:
 
 ###### Species Lygocoris pabulinus (Linnaeus, 1761)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:8518>, 
 <http://arctos.database.museum/guid/KNWR:Ento:8519>, 
@@ -5335,19 +6584,33 @@ References:
 
 ###### Species Lygus borealis (Kelton, 1955)
 
+Establishment means: native
+
 ###### Species Lygus lupini Schwartz in Schwartz and Foottit, 1998
+
+Establishment means: native
 
 ###### Species Lygus punctatus (Zetterstedt, 1838)
 
+Establishment means: native
+
 ###### Species Lygus rugulipennis Poppius, 1911
+
+Establishment means: native
 
 ###### Species Lygus shulli Knight, 1941
 
+Establishment means: native
+
 ###### Species Lygus striatus Knight, 1917
+
+Establishment means: native
 
 ###### Genus Mecomma
 
 ###### Species Mecomma gilvipes (StÃ¥l, 1858)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240323>.
@@ -5356,12 +6619,16 @@ Reference:
 
 ###### Species Pinalitus rostratus Kelton, 1977
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238678>.
 
 ###### Genus Plagiognathus
 
 ###### Species Plagiognathus alboradialis Knight, 1923
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3498>, 
@@ -5371,12 +6638,16 @@ References:
 
 ###### Species Psallus falleni Reuter, 1883
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240286>.
 
 ###### Genus Stenodema
 
 ###### Species Stenodema trispinosum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5769>.
@@ -5387,12 +6658,16 @@ Reference:
 
 ###### Species Nabicula nigrovittata (Sahlberg, 1878)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239478>.
 
 ###### Genus Nabis
 
 ###### Species Nabis americoferus Carayon, 1961
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240146>.
@@ -5403,6 +6678,8 @@ Reference:
 
 ###### Species Arctorthezia cataphracta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8892>.
 
@@ -5411,6 +6688,8 @@ Reference:
 ###### Genus Neottiglossa
 
 ###### Species Neottiglossa undata (Say, 1832)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:150609>.
@@ -5421,6 +6700,8 @@ Reference:
 
 ###### Species Aphalara nubifera
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10632>.
 
@@ -5428,10 +6709,14 @@ Reference:
 
 ###### Species Cacopsylla myrtilli
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240361>.
 
 ###### Species Cacopsylla rara
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7025>.
@@ -5440,15 +6725,21 @@ Reference:
 
 ###### Species Craspedolepta nebulosa
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1842>.
 
 ###### Species Craspedolepta schwarzi
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239645>.
 
 ###### Species Craspedolepta subpunctata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1419>.
@@ -5459,9 +6750,13 @@ Reference:
 
 ###### Species Eremocoris borealis (Dallas, 1852)
 
+Establishment means: native
+
 ###### Genus Ligyrocoris
 
 ###### Species Ligyrocoris sylvestris (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10283>.
@@ -5470,12 +6765,16 @@ Reference:
 
 ###### Species Peritrechus convivus (StÃ¥l, 1851)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10356>.
 
 ###### Genus Scolopostethus
 
 ###### Species Scolopostethus thomsoni Reuter, 1874
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11205>.
@@ -5486,6 +6785,8 @@ Reference:
 
 ###### Species Homaemus aeneifrons (Say, 1824)
 
+Establishment means: native
+
 ##### Order Hymenoptera
 
 ###### Family Andrenidae
@@ -5493,6 +6794,8 @@ Reference:
 ###### Genus Andrena
 
 ###### Species Andrena clarkella (Kirby, 1802)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8381>.
@@ -5503,6 +6806,8 @@ Reference:
 
 ###### Species Apis mellifera Linnaeus, 1758
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10639>.
 
@@ -5510,15 +6815,21 @@ Reference:
 
 ###### Species Bombus mixtus Cresson, 1878
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239206>.
 
 ###### Species Bombus occidentalis Greene, 1858
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2800>.
 
 ###### Species Bombus sylvicola Kirby, 1837
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1962>, 
@@ -5532,6 +6843,8 @@ References:
 
 ###### Species Arge cyra
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7036>.
 
@@ -5541,10 +6854,14 @@ Reference:
 
 ###### Species Aphidius ervi Haliday, 1834
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1529>.
 
 ###### Species Aphidius salicis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240103>.
@@ -5553,6 +6870,8 @@ Reference:
 
 ###### Species Chelonus gracilis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7573>.
 
@@ -5560,15 +6879,21 @@ Reference:
 
 ###### Species Ephedrus incompletus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1608>.
 
 ###### Species Ephedrus lacertosus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1993>.
 
 ###### Species Ephedrus plagiator
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239262>.
@@ -5577,12 +6902,16 @@ Reference:
 
 ###### Species Lathrapanteles heleios
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238981>.
 
 ###### Genus Zele
 
 ###### Species Zele niveitarsis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6277>.
@@ -5593,6 +6922,8 @@ Reference:
 
 ###### Species Omalus aeneus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8382>.
 
@@ -5602,12 +6933,16 @@ Reference:
 
 ###### Species Cimbex americana Leach
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Ento:127055>.
 
 ###### Genus Trichiosoma
 
 ###### Species Trichiosoma triangulum
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/16032929>.
@@ -5618,6 +6953,8 @@ Reference:
 
 ###### Species Hylaeus annulatus (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8380>.
 
@@ -5626,6 +6963,8 @@ Reference:
 ###### Genus Crabro
 
 ###### Species Crabro latipes F. Smith, 1856
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8386>.
@@ -5636,6 +6975,8 @@ Reference:
 
 ###### Species Diplolepis polita
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5247-17>.
 
@@ -5644,6 +6985,8 @@ Reference:
 ###### Genus Spilomicrus
 
 ###### Species Spilomicrus stigmaticalis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2805>.
@@ -5654,12 +6997,16 @@ Reference:
 
 ###### Species Aphelopus albopictus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2804>.
 
 ###### Genus Gonatopus
 
 ###### Species Gonatopus ashmeadi
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:96674>.
@@ -5669,6 +7016,8 @@ Reference:
 ###### Genus Camponotus
 
 ###### Species Camponotus herculeanus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1710>, 
@@ -5682,12 +7031,16 @@ References:
 
 ###### Species Formica aserva Forel, 1901
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10268>, 
 <http://arctos.database.museum/guid/KNWR:Ento:10269>, 
 <http://arctos.database.museum/guid/KNWR:Ento:3378>.
 
 ###### Species Formica gagatoides Ruzsky, 1904
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2456>, 
@@ -5696,6 +7049,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Ento:2707>.
 
 ###### Species Formica neorufibarbis Emery, 1893
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10266>, 
@@ -5746,6 +7101,8 @@ References:
 
 ###### Species Leptothorax muscorum (Nylander, 1846)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:1855>, 
 <http://arctos.database.museum/guid/KNWR:Ento:3720>, 
@@ -5760,6 +7117,8 @@ References:
 ###### Genus Myrmica
 
 ###### Species Myrmica alaskensis Wheeler, 1917
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10261>, 
@@ -5779,11 +7138,15 @@ References:
 
 ###### Species Lasioglossum behri (Cockerell, 1910)
 
+Establishment means: native
+
 ###### Family Ichneumonidae
 
 ###### Genus Crypteffigies
 
 ###### Species Crypteffigies confusus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7791>.
@@ -5792,12 +7155,16 @@ Reference:
 
 ###### Species Hadrodactylus seldoviae
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7611>.
 
 ###### Genus Helictes
 
 ###### Species Helictes borealis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240026>.
@@ -5806,12 +7173,16 @@ Reference:
 
 ###### Species Lissonota sexcincta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238711>.
 
 ###### Genus Megastylus
 
 ###### Species Megastylus orbitator
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239617>.
@@ -5820,12 +7191,16 @@ Reference:
 
 ###### Species Mesochorus prolatus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7747>.
 
 ###### Genus Opheltes
 
 ###### Species Opheltes glaucopterus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7448>.
@@ -5834,12 +7209,16 @@ Reference:
 
 ###### Species Ophion bilineatus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4458>.
 
 ###### Genus Oxyrrhexis
 
 ###### Species Oxyrrhexis carbonator
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11273>.
@@ -5848,12 +7227,16 @@ Reference:
 
 ###### Species Pantorhaestes xanthostomus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239202>.
 
 ###### Genus Plectiscidea
 
 ###### Species Plectiscidea venusta
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240828>.
@@ -5862,12 +7245,16 @@ Reference:
 
 ###### Species Polyaulon canadensis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7330>.
 
 ###### Genus Proclitus
 
 ###### Species Proclitus paganus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240738>.
@@ -5878,6 +7265,8 @@ Reference:
 
 ###### Species Dendrocerus laevis (Ratzeburg, 1852)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:124752>.
 
@@ -5886,6 +7275,8 @@ Reference:
 ###### Genus Platygaster
 
 ###### Species Platygaster obscuripennis Ashmead, 1893
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:11751>.
@@ -5896,12 +7287,16 @@ Reference:
 
 ###### Species Dinotiscus eupterus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6154>.
 
 ###### Genus Mesopolobus
 
 ###### Species Mesopolobus verditer
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5268>.
@@ -5912,12 +7307,16 @@ Reference:
 
 ###### Species Allantus albolabris
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4230>.
 
 ###### Genus Amauronematus
 
 ###### Species Amauronematus fallax
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238734>.
@@ -5926,6 +7325,8 @@ Reference:
 
 ###### Species Cladius difformis (Panzer)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:144697>.
 
@@ -5933,25 +7334,35 @@ Reference:
 
 ###### Species Dolerus elderi
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4391>.
 
 ###### Species Dolerus gessneri
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240435>.
 
 ###### Species Dolerus gilvipes
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4506>.
 
 ###### Species Dolerus subfasciatus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239421>.
 
 ###### Species Dolerus yukonensis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3892>.
@@ -5960,12 +7371,16 @@ Reference:
 
 ###### Species Empria maculata
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4061>.
 
 ###### Genus Eriocampa
 
 ###### Species Eriocampa ovata
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/7524742>.
@@ -5974,20 +7389,28 @@ Reference:
 
 ###### Species Pristiphora cincta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3510>.
 
 ###### Species Pristiphora lativentris
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8362>.
 
 ###### Species Pristiphora mollis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2715>.
 
 ###### Species Pristiphora staudingeri
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1980>.
@@ -5996,12 +7419,16 @@ Reference:
 
 ###### Species Rhogogaster viridis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1437>.
 
 ###### Genus Strongylogaster
 
 ###### Species Strongylogaster macula
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239436>.
@@ -6012,12 +7439,16 @@ Reference:
 
 ###### Species Megastigmus atedius
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4941>.
 
 ###### Genus Torymus
 
 ###### Species Torymus cecidomyiae
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8379>.
@@ -6028,15 +7459,21 @@ Reference:
 
 ###### Species Dolichovespula albida
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8145>.
 
 ###### Species Dolichovespula arctica
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:124963>.
 
 ###### Species Dolichovespula arenaria (Fabricius)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7961>.
@@ -6045,12 +7482,16 @@ Reference:
 
 ###### Species Symmorphus cristatus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11330>.
 
 ###### Genus Vespula
 
 ###### Species Vespula alascensis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8888>.
@@ -6063,12 +7504,16 @@ Reference:
 
 ###### Species Batrachedra praeangusta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239968>.
 
 ###### Genus Coleophora
 
 ###### Species Coleophora canadensisella
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238764>.
@@ -6079,12 +7524,16 @@ Reference:
 
 ###### Species Hypena californica Behr, 1870
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/6221736>.
 
 ###### Genus Hypenodes
 
 ###### Species Hypenodes palustris Ferguson, 1954
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3864>.
@@ -6093,6 +7542,8 @@ Reference:
 
 ###### Species Orgyia antiqua (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:11732>.
 
@@ -6100,12 +7551,16 @@ Reference:
 
 ###### Species Platarctia parthenos (Harris, 1850)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10496>.
 
 ###### Genus Scoliopteryx
 
 ###### Species Scoliopteryx libatrix (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11249>.
@@ -6116,12 +7571,16 @@ Reference:
 
 ###### Species Neotelphusa praefixa
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240942>.
 
 ###### Genus Xenolechia
 
 ###### Species Xenolechia aethiops
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239072>.
@@ -6132,6 +7591,8 @@ Reference:
 
 ###### Species Anticlea vasiliata GuenÃ©e in Boisduval and GuenÃ©e, 1858
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239245>.
 
@@ -6139,9 +7600,13 @@ Reference:
 
 ###### Species Archiearis infans (MÃ¶schler, 1862)
 
+Establishment means: native
+
 ###### Genus Aspitates
 
 ###### Species Aspitates orciferaria (Walker, 1863)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10677>.
@@ -6149,6 +7614,8 @@ Reference:
 ###### Genus Cabera
 
 ###### Species Cabera exanthemata (Scopoli, 1763)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:3800>, 
@@ -6158,6 +7625,8 @@ References:
 
 ###### Species Campaea perlata (GuenÃ©e in Boisduval and GuenÃ©e, 1858)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7163>, 
 <http://arctos.database.museum/guid/KNWR:Ento:7314>.
@@ -6166,12 +7635,16 @@ References:
 
 ###### Species Carsia sororiata (HÃ¼bner, 1813)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238760>.
 
 ###### Genus Cladara
 
 ###### Species Cladara limitaria (Walker, 1860)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11054>.
@@ -6180,12 +7653,16 @@ Reference:
 
 ###### Species Dysstroma citrata (Linnaeus, 1761)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238704>.
 
 ###### Genus Ecliptopera
 
 ###### Species Ecliptopera silaceata ([Denis and SchiffermÃ¼ller], 1775)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:11719>.
@@ -6194,12 +7671,16 @@ Reference:
 
 ###### Species Epirrita undulata (Harrison, 1942)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7423>.
 
 ###### Genus Eulithis
 
 ###### Species Eulithis propulsata (Walker, 1862)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7337>, 
@@ -6209,12 +7690,16 @@ References:
 
 ###### Species Eupithecia sharronata Bolte, 1990
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2771>.
 
 ###### Genus Lobophora
 
 ###### Species Lobophora nivigerata Walker, 1862
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240878>.
@@ -6223,10 +7708,14 @@ Reference:
 
 ###### Species Lycia rachelae (Hulst, 1896)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10862>.
 
 ###### Species Lycia ursaria (Walker in D'Urban, 1860)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10946>.
@@ -6235,12 +7724,16 @@ Reference:
 
 ###### Species Macaria brunneata (Thunberg, 1784)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239388>.
 
 ###### Genus Mesothea
 
 ###### Species Mesothea incertata (Walker, 1863)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:429088>.
@@ -6249,10 +7742,14 @@ Reference:
 
 ###### Species Operophtera bruceata (Hulst, 1886)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7353>.
 
 ###### Species Operophtera occidentalis
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:11341>, 
@@ -6262,6 +7759,8 @@ References:
 
 ###### Species Plemyria georgii Hulst, 1896
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7415>, 
 <https://www.inaturalist.org/observations/59878481>.
@@ -6270,15 +7769,21 @@ References:
 
 ###### Species Rheumaptera hastata (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6816>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6817>.
 
 ###### Species Rheumaptera subhastata (Nolcken, 1870)
 
+Establishment means: native
+
 ###### Genus Scopula
 
 ###### Species Scopula frigidaria (MÃ¶schler, 1860)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6819>.
@@ -6287,12 +7792,16 @@ Reference:
 
 ###### Species Spargania luctuata ([Denis and SchiffermÃ¼ller], 1775)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6818>.
 
 ###### Genus Trichodezia
 
 ###### Species Trichodezia albovittata (GuenÃ©e in Boisduval and GuenÃ©e, 1858)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7964>.
@@ -6301,6 +7810,8 @@ Reference:
 
 ###### Species Venusia pearsalli (Dyar, 1906)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238856>.
 
@@ -6308,9 +7819,15 @@ Reference:
 
 ###### Species Xanthorhoe decoloraria (Esper, 1806)
 
+Establishment means: native
+
 ###### Species Xanthorhoe ferrugata (Clerck, 1759)
 
+Establishment means: native
+
 ###### Species Xanthorhoe fossaria Taylor, 1906
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6821>, 
@@ -6323,12 +7840,16 @@ References:
 
 ###### Species Caloptilia alnivorella
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/9091617>.
 
 ###### Genus Parornix
 
 ###### Species Parornix obliterella
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238968>.
@@ -6338,6 +7859,8 @@ Reference:
 ###### Genus Carterocephalus
 
 ###### Species Carterocephalus palaemon (Pallas, 1771)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6829>, 
@@ -6350,6 +7873,8 @@ References:
 
 ###### Species Phyllodesma americana (Harris)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4584>.
 
@@ -6358,6 +7883,8 @@ Reference:
 ###### Genus Celastrina
 
 ###### Species Celastrina lucia (W. Kirby, 1837)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7017>, 
@@ -6371,6 +7898,8 @@ References:
 
 ###### Species Glaucopsyche lygdamus (E. Doubleday, 1841)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:56842>, 
 <http://www.inaturalist.org/observations/1636102>.
@@ -6378,6 +7907,8 @@ References:
 ###### Genus Lycaena
 
 ###### Species Lycaena dorcas W. Kirby, 1837
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10630>, 
@@ -6387,10 +7918,14 @@ References:
 
 ###### Species Plebejus idas (Linnaeus, 1761)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KWP:Ento:52566>.
 
 ###### Species Plebejus optilete (Knoch, 1781)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:364445>.
@@ -6401,10 +7936,14 @@ Reference:
 
 ###### Species Mompha conturbatella
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238952>.
 
 ###### Species Mompha sexstrigella
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4037>.
@@ -6415,12 +7954,16 @@ Reference:
 
 ###### Species Alypia langtoni Couper, 1865
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10635>.
 
 ###### Genus Apamea
 
 ###### Species Apamea cogitata (Smith, 1891)
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/30050164>.
@@ -6429,11 +7972,15 @@ Reference:
 
 ###### Species Diarsia esurialis (Grote, 1881)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6812>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6813>.
 
 ###### Species Diarsia rosaria (Grote, 1878)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6814>, 
@@ -6443,12 +7990,16 @@ References:
 
 ###### Species Eremobina claudens (Walker, 1857)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239075>.
 
 ###### Genus Eurois
 
 ###### Species Eurois occulta (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239944>.
@@ -6457,6 +8008,8 @@ Reference:
 
 ###### Species Lacanobia nevadae (Grote, 1876)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:11738>.
 
@@ -6464,9 +8017,13 @@ Reference:
 
 ###### Species Litholomia napaea (Morrison, 1874)
 
+Establishment means: native
+
 ###### Genus Lithomoia
 
 ###### Species Lithomoia germana (Morrison, 1875)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7354>.
@@ -6475,12 +8032,16 @@ Reference:
 
 ###### Species Lithophane thaxteri Grote, 1874
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238966>.
 
 ###### Genus Noctua
 
 ###### Species Noctua pronuba (Linnaeus, 1758)
+
+Establishment means: exotic
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7355>.
@@ -6489,6 +8050,8 @@ Reference:
 
 ###### Species Spaelotis clandestina (Harris, 1841)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11090>.
 
@@ -6496,10 +8059,14 @@ Reference:
 
 ###### Species Sunira bicolorago (GuenÃ©e, 1852)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/15768287>.
 
 ###### Species Sunira verberata (Smith, 1904)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7424>, 
@@ -6509,6 +8076,8 @@ References:
 
 ###### Species Sympistis dentata (Grote, 1875)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239396>.
 
@@ -6516,10 +8085,14 @@ Reference:
 
 ###### Species Syngrapha alticola (Walker, 1858)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11227>.
 
 ###### Species Syngrapha viridisigma (Grote, 1874)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:11226>, 
@@ -6529,10 +8102,14 @@ References:
 
 ###### Species Xestia c-nigrum (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7336>.
 
 ###### Species Xestia homogena (McDunnough, 1921)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7335>, 
@@ -6540,10 +8117,14 @@ References:
 
 ###### Species Xestia speciosa (HÃ¼bner, 1813)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239355>.
 
 ###### Species Xestia tecta (HÃ¼bner, 1808)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7446>.
@@ -6551,6 +8132,8 @@ Reference:
 ###### Genus Xylena
 
 ###### Species Xylena thoracica (Putnam-Cramer, 1886)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8499>.
@@ -6561,12 +8144,16 @@ Reference:
 
 ###### Species Furcula occidentalis (Lintner, 1878)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:10494>.
 
 ###### Genus Pheosia
 
 ###### Species Pheosia rimosa Packard, 1864
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7193>, 
@@ -6577,6 +8164,8 @@ References:
 ###### Genus Aglais
 
 ###### Species Aglais milberti (Godart, 1819)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10683>, 
@@ -6597,6 +8186,8 @@ References:
 
 ###### Species Boloria chariclea (Schneider, 1794)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:48307>, 
 <http://arctos.database.museum/guid/KWP:Ento:56961>, 
@@ -6609,6 +8200,8 @@ References:
 
 ###### Species Boloria freija (Thunberg, 1791)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:42234>, 
 <http://arctos.database.museum/guid/KWP:Ento:57367>, 
@@ -6616,6 +8209,8 @@ References:
 <http://arctos.database.museum/guid/KWP:Ento:57392>.
 
 ###### Species Boloria selene ([SchiffermÃ¼ller], 1775)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:52202>, 
@@ -6626,6 +8221,8 @@ References:
 
 ###### Species Coenonympha tullia (MÃ¼ller, 1764)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:52205>, 
 <http://arctos.database.museum/guid/KWP:Ento:57010>, 
@@ -6635,6 +8232,8 @@ References:
 
 ###### Species Erebia discoidalis (W. Kirby, 1837)
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/6238143>, 
 <http://www.inaturalist.org/observations/6652720>.
@@ -6642,6 +8241,8 @@ References:
 ###### Genus Nymphalis
 
 ###### Species Nymphalis antiopa (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10675>, 
@@ -6658,6 +8259,8 @@ References:
 
 ###### Species Oeneis bore (Esper, 1789)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:56314>, 
 <http://arctos.database.museum/guid/KWP:Ento:56315>, 
@@ -6665,6 +8268,8 @@ References:
 <http://arctos.database.museum/guid/KWP:Ento:56317>.
 
 ###### Species Oeneis polixenes (Fabricius, 1775)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:57371>, 
@@ -6674,6 +8279,8 @@ References:
 ###### Genus Polygonia
 
 ###### Species Polygonia faunus (W. H. Edwards, 1862)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10664>, 
@@ -6701,6 +8308,8 @@ References:
 
 ###### Species Speyeria mormonia (Boisduval, 1869)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:48308>, 
 <http://arctos.database.museum/guid/KWP:Ento:56960>, 
@@ -6712,6 +8321,8 @@ References:
 
 ###### Species Papilio canadensis Rothschild and Jordan, 1906
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10495>, 
 <http://arctos.database.museum/guid/KWP:Ento:56816>, 
@@ -6722,6 +8333,8 @@ References:
 
 ###### Species Papilio machaon Linnaeus, 1758
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:52200>, 
 <http://arctos.database.museum/guid/KWP:Ento:57348>.
@@ -6729,6 +8342,8 @@ References:
 ###### Genus Parnassius
 
 ###### Species Parnassius phoebus (Fabricius, 1793)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10636>.
@@ -6739,12 +8354,16 @@ Reference:
 
 ###### Species Colias nastes Boisduval, 1832
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10662>, 
 <http://arctos.database.museum/guid/KWP:Ento:56984>, 
 <http://arctos.database.museum/guid/KWP:Ento:56989>.
 
 ###### Species Colias philodice Godart, 1819
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10670>, 
@@ -6770,6 +8389,8 @@ References:
 
 ###### Species Euchloe ausonides (Lucas, 1852)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KWP:Ento:56817>, 
 <http://arctos.database.museum/guid/KWP:Ento:56913>, 
@@ -6778,6 +8399,8 @@ References:
 ###### Genus Pieris
 
 ###### Species Pieris marginalis Scudder, 1861
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KWP:Ento:56862>.
@@ -6788,6 +8411,8 @@ Reference:
 
 ###### Species Rhigognostis interrupta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6832>.
 
@@ -6797,12 +8422,16 @@ Reference:
 
 ###### Species Amblyptilia pica
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10643>.
 
 ###### Genus Gillmeria
 
 ###### Species Gillmeria pallidactyla (Haw)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6826>.
@@ -6813,12 +8442,16 @@ Reference:
 
 ###### Species Gesneria centuriella
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8477>.
 
 ###### Genus Udea
 
 ###### Species Udea washingtonalis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6825>.
@@ -6829,6 +8462,8 @@ Reference:
 
 ###### Species Albuna pyramidalis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6831>.
 
@@ -6838,6 +8473,8 @@ Reference:
 
 ###### Species Hemaris thysbe (Fabricius, 1775)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/47666774>.
 
@@ -6845,16 +8482,22 @@ Reference:
 
 ###### Species Hyles gallii (Rottemburg, 1775)
 
+Establishment means: native
+
 ###### Family Tortricidae
 
 ###### Genus Acleris
 
 ###### Species Acleris arcticana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7433>.
 
 ###### Species Acleris schalleriana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240258>.
@@ -6863,12 +8506,16 @@ Reference:
 
 ###### Species Ancylis tineana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3395>.
 
 ###### Genus Argyrotaenia
 
 ###### Species Argyrotaenia occultana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:4687>.
@@ -6877,10 +8524,14 @@ Reference:
 
 ###### Species Clepsis moeschleriana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2616>.
 
 ###### Species Clepsis persicana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10489>.
@@ -6889,10 +8540,14 @@ Reference:
 
 ###### Species Cydia inopiosa
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1600-16>.
 
 ###### Species Cydia piperana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:95347>.
@@ -6901,6 +8556,8 @@ Reference:
 
 ###### Species Endothenia hebesana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10861>.
 
@@ -6908,10 +8565,14 @@ Reference:
 
 ###### Species Epinotia albangulana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238706>.
 
 ###### Species Epinotia solandriana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7429>.
@@ -6920,12 +8581,16 @@ Reference:
 
 ###### Species Eulia ministrana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6824>.
 
 ###### Genus Hystrichophora
 
 ###### Species Hystrichophora asphodelana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2617>.
@@ -6934,12 +8599,16 @@ Reference:
 
 ###### Species Rhopobota naevana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240453>.
 
 ###### Genus Zeiraphera
 
 ###### Species Zeiraphera improbana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239295>.
@@ -6950,6 +8619,8 @@ Reference:
 
 ###### Species Swammerdamia caesiella
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3299>.
 
@@ -6958,6 +8629,8 @@ Reference:
 ###### Genus Ypsolopha
 
 ###### Species Ypsolopha senex
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239064>.
@@ -6970,6 +8643,8 @@ Reference:
 
 ###### Species Chrysopa chi Fitch, 1855
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:7129>.
 
@@ -6978,6 +8653,8 @@ Reference:
 ###### Genus Coniopteryx
 
 ###### Species Coniopteryx tineiformis Curtis, 1834
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:2086>, 
@@ -6990,25 +8667,35 @@ References:
 
 ###### Species Hemerobius conjunctus Fitch, 1855
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239893>.
 
 ###### Species Hemerobius humulinus Linnaeus, 1758
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239286>.
 
 ###### Species Hemerobius kokaneeanus Currie, 1904
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239894>.
 
 ###### Species Hemerobius ovalis Carpenter, 1940
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239842>.
 
 ###### Species Hemerobius simulans Walker, 1853
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240481>.
@@ -7017,12 +8704,16 @@ Reference:
 
 ###### Species Micromus borealis Klimaszewski and Kevan, 1988
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238890>.
 
 ###### Genus Wesmaelius
 
 ###### Species Wesmaelius nervosus (Fabricius, 1793)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11233>.
@@ -7035,32 +8726,46 @@ Reference:
 
 ###### Species Aeshna eremita Scudder, 1866
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8948>.
 
 ###### Species Aeshna interrupta Walker, 1908
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8608>.
 
 ###### Species Aeshna juncea (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Species Aeshna palmata Hagen, 1856
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/117214>.
 
 ###### Species Aeshna septentrionalis Burmeister, 1839
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1563>.
 
 ###### Species Aeshna sitchensis Hagen, 1861
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/115153>.
 
 ###### Species Aeshna subarctica Walker, 1908
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/115152>.
@@ -7071,12 +8776,16 @@ Reference:
 
 ###### Species Coenagrion resolutum (Hagen in Selys, 1876)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:1709>.
 
 ###### Genus Enallagma
 
 ###### Species Enallagma annexum (Hagen, 1861)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:238864>, 
@@ -7085,11 +8794,15 @@ References:
 
 ###### Species Enallagma boreale Selys, 1875
 
+Establishment means: native
+
 ###### Family Corduliidae
 
 ###### Genus Cordulia
 
 ###### Species Cordulia shurtleffii Scudder, 1866
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7007>, 
@@ -7099,6 +8812,8 @@ References:
 ###### Genus Somatochlora
 
 ###### Species Somatochlora albicincta (Burmeister, 1839)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10795>, 
@@ -7110,6 +8825,8 @@ References:
 
 ###### Species Lestes disjunctus Selys, 1862
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10637>.
 
@@ -7119,15 +8836,21 @@ Reference:
 
 ###### Species Leucorrhinia hudsonica (Selys, 1850)
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/799852>.
 
 ###### Species Leucorrhinia patricia Walker, 1940
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7005>.
 
 ###### Species Leucorrhinia proxima Calvert, 1890
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Ento:238865>.
@@ -7136,6 +8859,8 @@ Reference:
 
 ###### Species Libellula quadrimaculata Linnaeus, 1758
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Ento:238866>, 
 <http://arctos.database.museum/guid/UAM:Ento:238868>.
@@ -7143,6 +8868,8 @@ References:
 ###### Genus Sympetrum
 
 ###### Species Sympetrum danae (Sulzer, 1776)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:10674>, 
@@ -7159,6 +8886,8 @@ References:
 
 ###### Species Chorthippus curtipennis (Harris, 1835)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:8513>, 
 <http://arctos.database.museum/guid/KNWR:Ento:8514>.
@@ -7166,6 +8895,8 @@ References:
 ###### Genus Melanoplus
 
 ###### Species Melanoplus fasciatus (F. Walker, 1870)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8515>.
@@ -7178,6 +8909,8 @@ Reference:
 
 ###### Species Capnia confusa Claassen, 1936
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAMObs:Ento:100682>, 
 <http://arctos.database.museum/guid/UAMObs:Ento:100685>, 
@@ -7187,6 +8920,8 @@ References:
 
 ###### Species Eucapnopsis brevicauda (Claassen, 1924)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAMObs:Ento:100735>, 
 <http://arctos.database.museum/guid/UAMObs:Ento:100736>.
@@ -7194,6 +8929,8 @@ References:
 ###### Genus Utacapnia
 
 ###### Species Utacapnia columbiana (Claassen, 1924)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7002>, 
@@ -7206,12 +8943,16 @@ References:
 
 ###### Species Alloperla severa (Hagen, 1861)
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/7727469>.
 
 ###### Genus Plumiperla
 
 ###### Species Plumiperla diversa (Frison, 1935)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAMObs:Ento:101348>, 
@@ -7221,11 +8962,15 @@ References:
 
 ###### Species Suwallia forcipata (Neave, 1929)
 
+Establishment means: native
+
 ###### Family Perlodidae
 
 ###### Genus Isoperla
 
 ###### Species Isoperla petersoni Needham and Christenson, 1927
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAMObs:Ento:101626>, 
@@ -7237,6 +8982,8 @@ References:
 ###### Genus Pteronarcella
 
 ###### Species Pteronarcella badia (Hagen, 1874)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAMObs:Ento:101774>, 
@@ -7250,6 +8997,8 @@ References:
 
 ###### Species Valenzuela flavidus (Stephens, 1836)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6397>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6760>.
@@ -7260,6 +9009,8 @@ References:
 
 ###### Species Lachesilla contraforcepeta Chapman, 1930
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240583>.
 
@@ -7268,6 +9019,8 @@ Reference:
 ###### Genus Liposcelis
 
 ###### Species Liposcelis corrodens (Heymons, 1909)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Ento:8824>.
@@ -7278,6 +9031,8 @@ Reference:
 
 ###### Species Ornithobius waterstoni
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6805>.
 
@@ -7287,6 +9042,8 @@ Reference:
 
 ###### Species Trichadenotecnum majus (Kolbe, 1880)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240542>.
 
@@ -7295,6 +9052,8 @@ Reference:
 ###### Genus Dorypteryx
 
 ###### Species Dorypteryx domestica (Smithers, 1958)
+
+Establishment means: exotic
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11081>.
@@ -7307,6 +9066,8 @@ Reference:
 
 ###### Species Ceratophyllus niger
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7309>.
 
@@ -7315,6 +9076,8 @@ Reference:
 ###### Genus taxon name missing
 
 ###### Species Amphipsylla pollionis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6396>.
@@ -7327,6 +9090,8 @@ Reference:
 
 ###### Species Taeniothrips orionis Treherne, 1924
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=RFTHY133-10>.
 
@@ -7338,12 +9103,16 @@ Reference:
 
 ###### Species Mystacides alafimbriatus Hill-Griffin, 1912
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8731>.
 
 ###### Genus Oecetis
 
 ###### Species Oecetis inconspicua (Walker, 1852)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7435>.
@@ -7354,12 +9123,16 @@ Reference:
 
 ###### Species Ecclisomyia conspersa Banks, 1907
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11229>.
 
 ###### Genus Glyphopsyche
 
 ###### Species Glyphopsyche irrorata (Fabricius, 1781)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAMObs:Ento:242195>.
@@ -7368,6 +9141,8 @@ Reference:
 
 ###### Species Limnephilus dispar McLachlan, 1875
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:5346>, 
 <http://arctos.database.museum/guid/KNWR:Ento:5347>, 
@@ -7375,15 +9150,21 @@ References:
 
 ###### Species Limnephilus externus Hagen, 1861
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8732>.
 
 ###### Species Limnephilus ornatus Banks, 1897
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239385>.
 
 ###### Species Limnephilus sericeus (Say, 1824)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10796>.
@@ -7392,12 +9173,16 @@ Reference:
 
 ###### Species Nemotaulius hostilis (Hagen, 1873)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7947>.
 
 ###### Genus Philarctus
 
 ###### Species Philarctus quaeris (Milne, 1935)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10726>.
@@ -7408,6 +9193,8 @@ Reference:
 
 ###### Species Agrypnia glacialis Hagen, 1873
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10794>.
 
@@ -7415,9 +9202,13 @@ Reference:
 
 ###### Species Banksiola crotchi Banks, 1944
 
+Establishment means: native
+
 ###### Genus Phryganea
 
 ###### Species Phryganea cinerea Walker, 1852
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:7946>, 
@@ -7446,6 +9237,8 @@ References:
 
 ###### Species Gammarus lacustris G. O. Sars, 1863
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=NJCGS1177-11>.
 
@@ -7455,6 +9248,8 @@ Reference:
 
 ###### Species Hyalella azteca Saussure, 1858
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL5370-17>.
 
@@ -7463,6 +9258,8 @@ Reference:
 ###### Genus Traskorchestia
 
 ###### Species Traskorchestia georgiana (Bousfield, 1958)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Inv:24>.
@@ -7477,6 +9274,8 @@ Reference:
 
 ###### Species Diaptomus pribilofensis Juday and Muttkowski
 
+Establishment means: native
+
 Reference: 
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
@@ -7485,6 +9284,8 @@ Reference:
 ###### Genus Epischura
 
 ###### Species Epischura nevadensis Lilljeborg in Guerne and Richard, 1889
+
+Establishment means: native
 
 Reference: 
 <https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
@@ -7497,12 +9298,16 @@ Reference:
 
 ###### Species Cyclops columbianus Lindberg, 1956
 
+Establishment means: native
+
 References: 
 <http://www.ciaanet.org/Projects/TUSTUMENA%20RPT%202013.pdf>, 
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>, 
 <https://www.ciaanet.org/Projects/2017%20HIDDEN%20LAKE%20RPT.pdf>.
 
 ###### Species Cyclops strenuus Fischer, 1851
+
+Establishment means: native
 
 Reference: 
 <http://n2t.net/ark:/65665/3ca80a4dd-9f67-4632-a767-4239c619e05d>.
@@ -7515,6 +9320,8 @@ Reference:
 
 ###### Species Thersitina gasterostei (Pagenstecher, 1861)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10787>.
 
@@ -7525,6 +9332,8 @@ Reference:
 ###### Genus Salmincola
 
 ###### Species Salmincola californiensis (Dana, 1853)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10786>.
@@ -7541,6 +9350,8 @@ Reference:
 
 ###### Species Lithobates sylvaticus (LeConte, 1825)
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/115158>, 
 <http://www.inaturalist.org/observations/115166>, 
@@ -7556,6 +9367,8 @@ References:
 ###### Genus Accipiter
 
 ###### Species Accipiter gentilis (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -7594,12 +9407,16 @@ References:
 
 ###### Species Accipiter striatus Vieillot, 1808
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S25492838>.
 
 ###### Genus Aquila
 
 ###### Species Aquila chrysaetos (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S2627102>, 
@@ -7611,6 +9428,8 @@ References:
 ###### Genus Buteo
 
 ###### Species Buteo jamaicensis (Gmelin, 1788)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10822383>, 
@@ -7663,12 +9482,16 @@ References:
 
 ###### Species Buteo lagopus (Pontoppidan, 1763)
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S24660738>.
 
 ###### Genus Circus
 
 ###### Species Circus cyaneus (Linnaeus, 1766)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S4342574>, 
@@ -7804,6 +9627,8 @@ References:
 ###### Genus Haliaeetus
 
 ###### Species Haliaeetus leucocephalus (Linnaeus, 1766)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10822383>, 
@@ -8098,6 +9923,8 @@ References:
 
 ###### Species Pandion haliaetus (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S4154766>, 
 <http://ebird.org/ebird/view/checklist/S4164491>, 
@@ -8120,6 +9947,8 @@ References:
 ###### Genus Anas
 
 ###### Species Anas acuta Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S23192260>, 
@@ -8303,6 +10132,8 @@ References:
 
 ###### Species Anas americana Gmelin, 1789
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
 <http://ebird.org/ebird/view/checklist/S19988512>, 
@@ -8438,6 +10269,8 @@ References:
 <http://www.inaturalist.org/observations/38971>.
 
 ###### Species Anas clypeata Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5060120>, 
@@ -8592,6 +10425,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980359>.
 
 ###### Species Anas crecca Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -8783,6 +10618,8 @@ References:
 
 ###### Species Anas discors Linnaeus, 1766
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S6447196>, 
 <http://ebird.org/ebird/view/checklist/S6551030>, 
@@ -8794,6 +10631,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S7273837>.
 
 ###### Species Anas platyrhynchos Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9047,6 +10886,8 @@ References:
 
 ###### Species Anas strepera Linnaeus, 1758
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5648044>, 
 <http://ebird.org/ebird/view/checklist/S5866263>, 
@@ -9073,6 +10914,8 @@ References:
 ###### Genus Anser
 
 ###### Species Anser albifrons (Scopoli, 1769)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5866263>, 
@@ -9141,11 +10984,17 @@ References:
 
 ###### Species Anser cygnoides (Linnaeus, 1758)
 
+Establishment means: exotic
+
 ###### Genus Aythya
 
 ###### Species Aythya americana (Eyton, 1838)
 
+Establishment means: native
+
 ###### Species Aythya collaris (Donovan, 1809)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9155,6 +11004,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980247>.
 
 ###### Species Aythya marila (Linnaeus, 1761)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11791056>, 
@@ -9186,6 +11037,8 @@ References:
 
 ###### Species Aythya valisineria (A. Wilson, 1814)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S6447196>, 
 <http://ebird.org/ebird/view/checklist/S6551006>, 
@@ -9197,6 +11050,8 @@ References:
 ###### Genus Branta
 
 ###### Species Branta canadensis (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S2847747>, 
@@ -9276,6 +11131,8 @@ References:
 
 ###### Species Branta hutchinsii (Richardson, 1832)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866263>, 
 <http://ebird.org/ebird/view/checklist/S5866267>, 
@@ -9317,6 +11174,8 @@ References:
 
 ###### Species Bucephala albeola (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
 <http://ebird.org/ebird/view/checklist/S23002993>, 
@@ -9336,6 +11195,8 @@ References:
 <http://www.inaturalist.org/observations/2097731>.
 
 ###### Species Bucephala clangula (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S23192260>, 
@@ -9364,6 +11225,8 @@ References:
 <http://www.inaturalist.org/observations/14378>.
 
 ###### Species Bucephala islandica (Gmelin, 1789)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9400,6 +11263,8 @@ References:
 
 ###### Species Chen caerulescens (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866264>, 
 <http://ebird.org/ebird/view/checklist/S5866265>, 
@@ -9428,12 +11293,16 @@ References:
 
 ###### Species Clangula hyemalis (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S2847769>.
 
 ###### Genus Cygnus
 
 ###### Species Cygnus buccinator Richardson, 1831
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9605,9 +11474,13 @@ References:
 
 ###### Species Cygnus columbianus (Ord, 1815)
 
+Establishment means: native
+
 ###### Genus Histrionicus
 
 ###### Species Histrionicus histrionicus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S12402945>, 
@@ -9624,6 +11497,8 @@ References:
 
 ###### Species Melanitta fusca (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866256>, 
 <http://ebird.org/ebird/view/checklist/S5866286>, 
@@ -9637,7 +11512,11 @@ References:
 
 ###### Species Melanitta nigra (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Species Melanitta perspicillata (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9665,6 +11544,8 @@ References:
 ###### Genus Mergus
 
 ###### Species Mergus merganser Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S12402951>, 
@@ -9730,6 +11611,8 @@ References:
 
 ###### Species Mergus serrator Linnaeus, 1758
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S10830630>, 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9774,6 +11657,8 @@ References:
 
 ###### Species Selasphorus rufus (Gmelin, 1788)
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S2616911>.
 
@@ -9785,11 +11670,15 @@ Reference:
 
 ###### Species Brachyramphus marmoratus (Gmelin, 1789)
 
+Establishment means: native
+
 ###### Family Charadriidae
 
 ###### Genus Charadrius
 
 ###### Species Charadrius semipalmatus Bonaparte, 1825
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -9867,6 +11756,8 @@ References:
 
 ###### Species Pluvialis dominica (Statius Muller, 1776)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866269>, 
 <http://ebird.org/ebird/view/checklist/S5866271>, 
@@ -9875,7 +11766,11 @@ References:
 
 ###### Species Pluvialis fulva (Gmelin, 1789)
 
+Establishment means: native
+
 ###### Species Pluvialis squatarola (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5866256>, 
@@ -9929,12 +11824,16 @@ References:
 
 ###### Species Chroicocephalus philadelphia (Ord, 1815)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:21>.
 
 ###### Genus Larus
 
 ###### Species Larus argentatus Pontoppidan, 1763
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10829120>, 
@@ -10175,6 +12074,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S8557471>.
 
 ###### Species Larus canus Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -10428,6 +12329,8 @@ References:
 
 ###### Species Larus glaucescens J. F. Naumann, 1840
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
 <http://ebird.org/ebird/view/checklist/S24877517>, 
@@ -10498,12 +12401,16 @@ References:
 
 ###### Species Onychoprion aleuticus (S. F. Baird, 1869)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:136>.
 
 ###### Genus Rissa
 
 ###### Species Rissa tridactyla (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S3046963>, 
@@ -10513,6 +12420,8 @@ References:
 ###### Genus Sterna
 
 ###### Species Sterna paradisaea Pontoppidan, 1763
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10822383>, 
@@ -10770,6 +12679,8 @@ References:
 
 ###### Species Actitis macularius (Linnaeus, 1766)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S10830630>, 
 <http://ebird.org/ebird/view/checklist/S11107294>, 
@@ -10802,10 +12713,14 @@ References:
 
 ###### Species Arenaria interpres (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S5866267>.
 
 ###### Species Arenaria melanocephala (Vigors, 1829)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5866256>, 
@@ -10823,14 +12738,20 @@ References:
 
 ###### Species Bartramia longicauda (Bechstein, 1812)
 
+Establishment means: native
+
 ###### Genus Calidris
 
 ###### Species Calidris bairdii (Coues, 1861)
+
+Establishment means: native
 
 Reference: 
 <http://ebird.org/ebird/view/checklist/S8542506>.
 
 ###### Species Calidris mauri (Cabanis, 1857)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S24877516>, 
@@ -10848,6 +12769,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980353>.
 
 ###### Species Calidris melanotos (Vieillot, 1819)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5060120>, 
@@ -10915,6 +12838,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980356>.
 
 ###### Species Calidris minutilla (Vieillot, 1819)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5060120>, 
@@ -11133,6 +13058,8 @@ References:
 
 ###### Species Calidris pusilla (Linnaeus, 1766)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866237>, 
 <http://ebird.org/ebird/view/checklist/S5866256>, 
@@ -11174,6 +13101,8 @@ References:
 ###### Genus Gallinago
 
 ###### Species Gallinago delicata (Ord, 1825)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S23192260>, 
@@ -11392,6 +13321,8 @@ References:
 
 ###### Species Limnodromus griseus (Gmelin, 1789)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5060093>, 
 <http://ebird.org/ebird/view/checklist/S5060120>, 
@@ -11568,6 +13499,8 @@ References:
 
 ###### Species Limnodromus scolopaceus (Say, 1822)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866237>, 
 <http://ebird.org/ebird/view/checklist/S5866269>, 
@@ -11597,6 +13530,8 @@ References:
 ###### Genus Limosa
 
 ###### Species Limosa haemastica (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5060120>, 
@@ -11689,6 +13624,8 @@ References:
 
 ###### Species Numenius phaeopus (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866237>, 
 <http://ebird.org/ebird/view/checklist/S5866265>, 
@@ -11735,6 +13672,8 @@ References:
 ###### Genus Phalaropus
 
 ###### Species Phalaropus lobatus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5866237>, 
@@ -11855,6 +13794,8 @@ References:
 ###### Genus Tringa
 
 ###### Species Tringa flavipes (Gmelin, 1789)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -12101,6 +14042,8 @@ References:
 <http://www.inaturalist.org/observations/14388>.
 
 ###### Species Tringa melanoleuca (Gmelin, 1789)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -12369,6 +14312,8 @@ References:
 
 ###### Species Tringa solitaria A. Wilson, 1813
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S18976084>, 
 <http://ebird.org/ebird/view/checklist/S4160414>, 
@@ -12429,6 +14374,8 @@ References:
 
 ###### Species Megaceryle alcyon (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S23192260>, 
 <http://ebird.org/ebird/view/checklist/S2847755>, 
@@ -12461,6 +14408,8 @@ References:
 ###### Genus Falco
 
 ###### Species Falco columbarius Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S26510307>, 
@@ -12619,6 +14568,8 @@ References:
 
 ###### Species Falco peregrinus Tunstall, 1771
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5866303>, 
 <http://ebird.org/ebird/view/checklist/S5870987>, 
@@ -12648,7 +14599,11 @@ References:
 
 ###### Species Falco rusticolus Linnaeus, 1758
 
+Establishment means: native
+
 ###### Species Falco sparverius Linnaeus, 1758
+
+Establishment means: native
 
 ##### Order Galliformes
 
@@ -12658,6 +14613,8 @@ References:
 
 ###### Species Bonasa umbellus (Linnaeus, 1766)
 
+Establishment means: exotic
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11290356>, 
 <http://ebird.org/ebird/view/checklist/S2616871>, 
@@ -12666,6 +14623,8 @@ References:
 ###### Genus Falcipennis
 
 ###### Species Falcipennis canadensis (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10829120>, 
@@ -12738,12 +14697,16 @@ References:
 
 ###### Species Lagopus lagopus (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S27123938>, 
 <http://ebird.org/ebird/view/checklist/S4157250>, 
 <http://ebird.org/ebird/view/checklist/S6495919>.
 
 ###### Species Lagopus leucura (Richardson, 1831)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11107340>, 
@@ -12761,6 +14724,8 @@ References:
 
 ###### Species Lagopus muta (Montin, 1781)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11107340>, 
 <http://ebird.org/ebird/view/checklist/S4157250>, 
@@ -12776,9 +14741,13 @@ References:
 
 ###### Species Meleagris gallopavo Linnaeus, 1758
 
+Establishment means: exotic
+
 ###### Genus Phasianus
 
 ###### Species Phasianus colchicus Linnaeus, 1758
+
+Establishment means: exotic
 
 ##### Order Gaviiformes
 
@@ -12787,6 +14756,8 @@ References:
 ###### Genus Gavia
 
 ###### Species Gavia immer (Brunnich, 1764)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10830630>, 
@@ -12954,6 +14925,8 @@ References:
 
 ###### Species Gavia pacifica (Lawrence, 1858)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S10829130>, 
 <http://ebird.org/ebird/view/checklist/S10830630>, 
@@ -13017,6 +14990,8 @@ References:
 
 ###### Species Gavia stellata (Pontoppidan, 1763)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S13346745>, 
 <http://ebird.org/ebird/view/checklist/S6447196>, 
@@ -13030,6 +15005,8 @@ References:
 ###### Genus Grus
 
 ###### Species Grus canadensis (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S18976084>, 
@@ -13313,6 +15290,8 @@ References:
 
 ###### Species Eremophila alpestris (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11107340>, 
 <http://ebird.org/ebird/view/checklist/S8482634>, 
@@ -13323,6 +15302,8 @@ References:
 ###### Genus Bombycilla
 
 ###### Species Bombycilla garrulus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11107340>, 
@@ -13342,6 +15323,8 @@ References:
 ###### Genus Calcarius
 
 ###### Species Calcarius lapponicus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5866236>, 
@@ -13380,6 +15363,8 @@ References:
 
 ###### Species Plectrophenax nivalis (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S6495919>, 
 <http://www.inaturalist.org/observations/134313>.
@@ -13389,6 +15374,8 @@ References:
 ###### Genus Certhia
 
 ###### Species Certhia americana Bonaparte, 1838
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10196071>, 
@@ -13419,6 +15406,8 @@ References:
 
 ###### Species Cinclus mexicanus Swainson, 1827
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S23237453>, 
 <http://ebird.org/ebird/view/checklist/S2847755>, 
@@ -13432,6 +15421,8 @@ References:
 ###### Genus Corvus
 
 ###### Species Corvus caurinus S. F. Baird, 1858
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S24877517>, 
@@ -13447,6 +15438,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6529816>.
 
 ###### Species Corvus corax Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S1928210>, 
@@ -13741,6 +15734,8 @@ References:
 
 ###### Species Cyanocitta stelleri (Gmelin, 1788)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S26074376>, 
 <http://ebird.org/ebird/view/checklist/S4147088>, 
@@ -13758,6 +15753,8 @@ References:
 ###### Genus Perisoreus
 
 ###### Species Perisoreus canadensis (Linnaeus, 1766)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10830630>, 
@@ -13897,16 +15894,22 @@ References:
 
 ###### Species Pica hudsonia (Sabine, 1823)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:214>.
 
 ###### Species Pica pica (Linnaeus, 1758)
+
+Establishment means: native
 
 ###### Family Emberizidae
 
 ###### Genus Junco
 
 ###### Species Junco hyemalis (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10829120>, 
@@ -14116,6 +16119,8 @@ References:
 
 ###### Species Melospiza lincolnii (Audubon, 1834)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S14192493>, 
 <http://ebird.org/ebird/view/checklist/S2614273>, 
@@ -14155,6 +16160,8 @@ References:
 
 ###### Species Melospiza melodia (A. Wilson, 1810)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5080215>, 
 <http://ebird.org/ebird/view/checklist/S6470158>, 
@@ -14163,6 +16170,8 @@ References:
 ###### Genus Passerculus
 
 ###### Species Passerculus sandwichensis (J. F. Gmelin, 1789)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11107294>, 
@@ -14396,6 +16405,8 @@ References:
 
 ###### Species Passerella iliaca (Merrem, 1786)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S24877517>, 
 <http://ebird.org/ebird/view/checklist/S26969647>, 
@@ -14424,6 +16435,8 @@ References:
 
 ###### Species Zonotrichia atricapilla (J. F. Gmelin, 1789)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11107294>, 
 <http://ebird.org/ebird/view/checklist/S23237453>, 
@@ -14447,6 +16460,8 @@ References:
 <http://www.inaturalist.org/observations/799858>.
 
 ###### Species Zonotrichia leucophrys (J. R. Forster, 1772)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -14493,12 +16508,16 @@ References:
 
 ###### Species Acanthis flammea (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/9776325>.
 
 ###### Genus Leucosticte
 
 ###### Species Leucosticte tephrocotis (Swainson, 1832)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S6512066>, 
@@ -14511,10 +16530,14 @@ References:
 
 ###### Species Loxia curvirostra Linnaeus, 1758
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S5012464>.
 
 ###### Species Loxia leucoptera J. F. Gmelin, 1789
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11107340>, 
@@ -14547,6 +16570,8 @@ References:
 ###### Genus Pinicola
 
 ###### Species Pinicola enucleator (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11791056>, 
@@ -14602,6 +16627,8 @@ References:
 
 ###### Species Petrochelidon pyrrhonota (Vieillot, 1817)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S24877517>, 
 <http://ebird.org/ebird/view/checklist/S26074376>, 
@@ -14612,6 +16639,8 @@ References:
 ###### Genus Riparia
 
 ###### Species Riparia riparia (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S3891842>, 
@@ -14636,6 +16665,8 @@ References:
 ###### Genus Tachycineta
 
 ###### Species Tachycineta bicolor (Vieillot, 1808)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -14724,6 +16755,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S933765>.
 
 ###### Species Tachycineta thalassina (Swainson, 1827)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S26074376>, 
@@ -14827,6 +16860,8 @@ References:
 ###### Genus Euphagus
 
 ###### Species Euphagus carolinus (Statius Muller, 1776)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10825412>, 
@@ -14934,6 +16969,8 @@ References:
 
 ###### Species Lanius excubitor Linnaeus, 1758
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S4244604>, 
 <http://ebird.org/ebird/view/checklist/S5060120>, 
@@ -14952,6 +16989,8 @@ References:
 ###### Genus Anthus
 
 ###### Species Anthus rubescens (Tunstall, 1771)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11107340>, 
@@ -14976,11 +17015,15 @@ References:
 
 ###### Species Oenanthe oenanthe (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Family Paridae
 
 ###### Genus Poecile
 
 ###### Species Poecile atricapillus (Linnaeus, 1766)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -15068,6 +17111,8 @@ References:
 <http://www.inaturalist.org/observations/2318746>.
 
 ###### Species Poecile hudsonicus (J. R. Forster, 1772)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10196071>, 
@@ -15212,12 +17257,16 @@ References:
 
 ###### Species Cardellina pusilla (A. Wilson, 1811)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/799857>.
 
 ###### Genus Leiothlypis
 
 ###### Species Leiothlypis celata (Say, 1822)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:199>.
@@ -15226,10 +17275,14 @@ Reference:
 
 ###### Species Setophaga coronata (Linnaeus, 1766)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:234>.
 
 ###### Species Setophaga petechia (Linnaeus, 1766)
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/115161>.
@@ -15239,6 +17292,8 @@ Reference:
 ###### Genus Regulus
 
 ###### Species Regulus calendula (Linnaeus, 1766)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10829120>, 
@@ -15351,6 +17406,8 @@ References:
 
 ###### Species Regulus satrapa Lichtenstein, 1823
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S23002993>, 
 <http://ebird.org/ebird/view/checklist/S24859887>, 
@@ -15397,6 +17454,8 @@ References:
 
 ###### Species Sitta canadensis Linnaeus, 1766
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S10196071>, 
 <http://ebird.org/ebird/view/checklist/S19989982>, 
@@ -15430,6 +17489,8 @@ References:
 
 ###### Species Troglodytes pacificus S. F. Baird, 1864
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S6617153>, 
 <http://www.inaturalist.org/observations/2318732>.
@@ -15439,6 +17500,8 @@ References:
 ###### Genus Catharus
 
 ###### Species Catharus guttatus (Pallas, 1811)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10830630>, 
@@ -15557,6 +17620,8 @@ References:
 
 ###### Species Catharus minimus (Lafresnaye, 1848)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
 <http://ebird.org/ebird/view/checklist/S12402951>, 
@@ -15569,6 +17634,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6582321>.
 
 ###### Species Catharus ustulatus (Nuttall, 1840)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -15657,6 +17724,8 @@ References:
 ###### Genus Ixoreus
 
 ###### Species Ixoreus naevius (Gmelin, 1789)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10829120>, 
@@ -15785,6 +17854,8 @@ References:
 
 ###### Species Myadestes townsendi (Audubon, 1838)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11898823>, 
 <http://ebird.org/ebird/view/checklist/S7273811>, 
@@ -15793,6 +17864,8 @@ References:
 ###### Genus Turdus
 
 ###### Species Turdus migratorius Linnaeus, 1766
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S10829130>, 
@@ -16068,6 +18141,8 @@ References:
 
 ###### Species Contopus cooperi (Nuttall, 1831)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
 <http://ebird.org/ebird/view/checklist/S2614273>, 
@@ -16149,6 +18224,8 @@ References:
 
 ###### Species Contopus sordidulus P. L. Sclater, 1859
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
 <http://ebird.org/ebird/view/checklist/S2614273>, 
@@ -16206,6 +18283,8 @@ References:
 ###### Genus Empidonax
 
 ###### Species Empidonax alnorum Brewster, 1895
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11107294>, 
@@ -16265,6 +18344,8 @@ References:
 
 ###### Species Empidonax hammondii (Xantus de Vesey, 1858)
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S2616908>.
 
@@ -16275,6 +18356,8 @@ Reference:
 ###### Genus Colaptes
 
 ###### Species Colaptes auratus (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -16287,10 +18370,14 @@ References:
 
 ###### Species Dryobates pubescens
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:441>.
 
 ###### Species Dryobates villosus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Bird:291>.
@@ -16298,6 +18385,8 @@ Reference:
 ###### Genus Picoides
 
 ###### Species Picoides arcticus (Swainson, 1832)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5110610>, 
@@ -16307,6 +18396,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S5205805>.
 
 ###### Species Picoides dorsalis S. F. Baird, 1858
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S12818368>, 
@@ -16347,6 +18438,8 @@ References:
 
 ###### Species Picoides pubescens (Linnaeus, 1766)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S24877516>, 
 <http://ebird.org/ebird/view/checklist/S25492838>, 
@@ -16375,6 +18468,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S7587890>.
 
 ###### Species Picoides villosus (Linnaeus, 1766)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S12818368>, 
@@ -16424,6 +18519,8 @@ References:
 
 ###### Species Podiceps auritus (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S25368335>, 
 <http://ebird.org/ebird/view/checklist/S25492838>, 
@@ -16437,6 +18534,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S7519310>.
 
 ###### Species Podiceps grisegena (Boddaert, 1783)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -16534,6 +18633,8 @@ References:
 
 ###### Species Oceanodroma furcata (Gmelin, 1789)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S2820571>, 
 <http://ebird.org/ebird/view/checklist/S3046963>.
@@ -16546,6 +18647,8 @@ References:
 
 ###### Species Aegolius acadicus (J. F. Gmelin, 1788)
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S23791344>, 
 <http://ebird.org/ebird/view/checklist/S2620567>, 
@@ -16557,12 +18660,16 @@ References:
 
 ###### Species Aegolius funereus (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://ebird.org/ebird/view/checklist/S22444136>.
 
 ###### Genus Asio
 
 ###### Species Asio flammeus (Pontoppidan, 1763)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5866263>, 
@@ -16584,6 +18691,8 @@ References:
 ###### Genus Bubo
 
 ###### Species Bubo virginianus (J. F. Gmelin, 1788)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S22444008>, 
@@ -16621,6 +18730,8 @@ References:
 
 ###### Species Strix nebulosa J. R. Forster, 1772
 
+Establishment means: native
+
 References: 
 <http://ebird.org/ebird/view/checklist/S5355396>, 
 <http://ebird.org/ebird/view/checklist/S5461985>.
@@ -16628,6 +18739,8 @@ References:
 ###### Genus Surnia
 
 ###### Species Surnia ulula (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S5146753>, 
@@ -16649,6 +18762,8 @@ References:
 ###### Genus Phalacrocorax
 
 ###### Species Phalacrocorax auritus (Lesson, 1831)
+
+Establishment means: native
 
 References: 
 <http://ebird.org/ebird/view/checklist/S11505349>, 
@@ -16684,6 +18799,8 @@ References:
 
 ###### Species Lethenteron camtschaticum (Tilesius, 1811)
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/6903261>.
 
@@ -16697,12 +18814,16 @@ Reference:
 
 ###### Species Oreamnos americanus (Blainville, 1816)
 
+Establishment means: native
+
 Reference: 
 <https://doi.org/10.1002/jwmg.21691>.
 
 ###### Genus Ovis
 
 ###### Species Ovis dalli Nelson, 1884
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/14893>.
@@ -16713,6 +18834,8 @@ Reference:
 
 ###### Species Alces alces (Linnaeus, 1758)
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/1843113>, 
 <https://catalog.data.gov/dataset/kenai-national-wildlife-refuge-annual-narrative-report-calendar-year-1985>.
@@ -16721,9 +18844,13 @@ References:
 
 ###### Species Odocoileus hemionus (Rafinesque, 1817)
 
+Establishment means: exotic
+
 ###### Genus Rangifer
 
 ###### Species Rangifer tarandus (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/6127325>.
@@ -16736,10 +18863,14 @@ Reference:
 
 ###### Species Canis latrans Say, 1823
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/14877>.
 
 ###### Species Canis lupus Linnaeus, 1758
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:61075>.
@@ -16747,6 +18878,8 @@ Reference:
 ###### Genus Vulpes
 
 ###### Species Vulpes vulpes (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/MVZ:Mamm:4406>.
@@ -16757,6 +18890,8 @@ Reference:
 
 ###### Species Felis catus Linnaeus, 1758
 
+Establishment means: exotic
+
 Reference: 
 <https://www.inaturalist.org/observations/54647478>.
 
@@ -16764,11 +18899,15 @@ Reference:
 
 ###### Species Lynx lynx (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Family Mustelidae
 
 ###### Genus Gulo
 
 ###### Species Gulo gulo (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:61076>.
@@ -16777,12 +18916,16 @@ Reference:
 
 ###### Species Lontra canadensis (Schreber, 1777)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UWBM:Mamm:19871>.
 
 ###### Genus Martes
 
 ###### Species Martes americana (Turton, 1806)
+
+Establishment means: native
 
 Reference: 
 <https://doi.org/10.1093/jmammal/gyx011>.
@@ -16791,10 +18934,14 @@ Reference:
 
 ###### Species Mustela erminea Linnaeus, 1758
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:99495>.
 
 ###### Species Neovison vison (Schreber, 1777)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/MVZ:Mamm:4423>.
@@ -16805,16 +18952,22 @@ Reference:
 
 ###### Species Phoca vitulina Linnaeus, 1758
 
+Establishment means: native
+
 ###### Family Ursidae
 
 ###### Genus Ursus
 
 ###### Species Ursus americanus Pallas, 1780
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/463969>.
 
 ###### Species Ursus arctos Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/113374>, 
@@ -16829,6 +18982,8 @@ References:
 
 ###### Species Delphinapterus leucas (Pallas, 1776)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:137140>.
 
@@ -16840,6 +18995,8 @@ Reference:
 
 ###### Species Myotis lucifugus (Le Conte, 1831)
 
+Establishment means: native
+
 ##### Order Lagomorpha
 
 ###### Family Leporidae
@@ -16848,6 +19005,8 @@ Reference:
 
 ###### Species Lepus americanus Erxleben, 1777
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/115174>, 
 <http://www.inaturalist.org/observations/9965>.
@@ -16855,6 +19014,8 @@ References:
 ###### Genus Oryctolagus
 
 ###### Species Oryctolagus cuniculus (Linnaeus, 1758)
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/3967164>.
@@ -16867,6 +19028,8 @@ Reference:
 
 ###### Species Homo sapiens Linnaeus, 1758
 
+Establishment means: native
+
 ##### Order Rodentia
 
 ###### Family Castoridae
@@ -16874,6 +19037,8 @@ Reference:
 ###### Genus Castor
 
 ###### Species Castor canadensis Kuhl, 1820
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/2318742>.
@@ -16884,15 +19049,21 @@ Reference:
 
 ###### Species Microtus miurus Osgood, 1901
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:86247>.
 
 ###### Species Microtus oeconomus (Pallas, 1776)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:85925>.
 
 ###### Species Microtus pennsylvanicus (Ord, 1815)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Mamm:81108>.
@@ -16901,6 +19072,8 @@ Reference:
 
 ###### Species Myodes rutilus (Pallas, 1779)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Mamm:81117>.
 
@@ -16908,12 +19081,16 @@ Reference:
 
 ###### Species Ondatra zibethicus (Linnaeus, 1766)
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/MSB:Host:8481>.
 
 ###### Genus Synaptomys
 
 ###### Species Synaptomys borealis (Richardson, 1828)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:117150>.
@@ -16924,6 +19101,8 @@ Reference:
 
 ###### Species Erethizon dorsatus (Linnaeus, 1758)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/MVZ:Mamm:4756>.
 
@@ -16932,6 +19111,8 @@ Reference:
 ###### Genus Marmota
 
 ###### Species Marmota caligata (Eschscholtz, 1829)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Mamm:101919>, 
@@ -16942,6 +19123,8 @@ References:
 ###### Genus Tamiasciurus
 
 ###### Species Tamiasciurus hudsonicus (Erxleben, 1777)
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/117216>, 
@@ -16956,15 +19139,21 @@ References:
 
 ###### Species Sorex cinereus Kerr, 1792
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:86299>.
 
 ###### Species Sorex hoyi Baird, 1857
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:99411>.
 
 ###### Species Sorex monticolus Merriam, 1890
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:85717>.
@@ -16979,6 +19168,8 @@ Reference:
 
 ###### Species Catostomus catostomus (Forster, 1773)
 
+Establishment means: native
+
 References: 
 <http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
 <http://www.fws.gov/uploadedFiles/Dean_JL_and_S_Rickabough_2005.pdf>, 
@@ -16992,6 +19183,8 @@ References:
 
 ###### Species Esox lucius Linnaeus, 1758
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Fish:15055>.
 
@@ -17003,6 +19196,8 @@ Reference:
 
 ###### Species Lota lota (Linnaeus, 1758)
 
+Establishment means: exotic
+
 ##### Order Gasterosteiformes
 
 ###### Family Gasterosteidae
@@ -17010,6 +19205,8 @@ Reference:
 ###### Genus Gasterosteus
 
 ###### Species Gasterosteus aculeatus Linnaeus, 1758
+
+Establishment means: native
 
 References: 
 <http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
@@ -17019,6 +19216,8 @@ References:
 ###### Genus Pungitius
 
 ###### Species Pungitius pungitius (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/17143293>.
@@ -17031,15 +19230,23 @@ Reference:
 
 ###### Species Oncorhynchus gorbuscha (Walbaum, 1792)
 
+Establishment means: native
+
 ###### Species Oncorhynchus keta (Walbaum in Artedi, 1792)
 
+Establishment means: native
+
 ###### Species Oncorhynchus kisutch (Walbaum, 1792)
+
+Establishment means: native
 
 References: 
 <http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
 <http://www.inaturalist.org/observations/4891214>.
 
 ###### Species Oncorhynchus mykiss (Walbaum, 1792)
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/1814201>, 
@@ -17048,11 +19255,15 @@ References:
 
 ###### Species Oncorhynchus nerka (Walbaum in Artedi, 1792)
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/1021584>, 
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ###### Species Oncorhynchus tshawytscha (Walbaum in Artedi, 1792)
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Fish:2308>.
@@ -17061,6 +19272,8 @@ Reference:
 
 ###### Species Prosopium cylindraceum (Pennant, 1784)
 
+Establishment means: native
+
 Reference: 
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
@@ -17068,7 +19281,11 @@ Reference:
 
 ###### Species Salvelinus alpinus (Linnaeus, 1758)
 
+Establishment means: native
+
 ###### Species Salvelinus malma (Walbaum in Artedi, 1792)
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/811997>, 
@@ -17076,12 +19293,16 @@ References:
 
 ###### Species Salvelinus namaycush (Walbaum in Artedi, 1792)
 
+Establishment means: native
+
 Reference: 
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ###### Genus Thymallus
 
 ###### Species Thymallus arcticus (Pallas, 1776)
+
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/13334186>.
@@ -17094,11 +19315,15 @@ Reference:
 
 ###### Species Cottus aleuticus Gilbert, 1896
 
+Establishment means: native
+
 References: 
 <http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ###### Species Cottus cognatus Richardson, 1836
+
+Establishment means: native
 
 References: 
 <http://ecos.fws.gov/ServCatFiles/reference/holding/2361>, 
@@ -17116,6 +19341,8 @@ References:
 
 ###### Species Hydra hymanae Hadley and Forrest, 1949
 
+Establishment means: native
+
 Reference: 
 <http://bins.boldsystems.org/index.php/Public_RecordView?processid=MOBIL1659-16>.
 
@@ -17131,6 +19358,8 @@ Reference:
 
 ###### Species Anodonta beringiana Middendorff, 1851
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/3672927>, 
 <http://www.inaturalist.org/observations/3673034>, 
@@ -17143,6 +19372,8 @@ References:
 ###### Genus Macoma
 
 ###### Species Macoma balthica (Linnaeus, 1758)
+
+Establishment means: native
 
 Reference: 
 <https://mczbase.mcz.harvard.edu/guid/MCZ:Mala:317214>.
@@ -17157,9 +19388,13 @@ Reference:
 
 ###### Species Lymnaea atkaensis Dall, 1884
 
+Establishment means: native
+
 ###### Genus Radix
 
 ###### Species Radix auricularia (Linnaeus, 1758)
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:11102>, 
@@ -17168,6 +19403,8 @@ References:
 ###### Genus Stagnicola
 
 ###### Species Stagnicola elodes (Say, 1821)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:10865>.
@@ -17178,13 +19415,19 @@ Reference:
 
 ###### Species Gyraulus deflectus (Say, 1824)
 
+Establishment means: native
+
 ###### Genus Menetus
 
 ###### Species Menetus opercularis (Gould, 1847)
 
+Establishment means: native
+
 ###### Genus Planorbella
 
 ###### Species Planorbella trivolvis (Say, 1817)
+
+Establishment means: native
 
 ##### Order Heterostropha
 
@@ -17194,6 +19437,8 @@ Reference:
 
 ###### Species Valvata sincera Say, 1824
 
+Establishment means: native
+
 ##### Order Neotaenioglossa
 
 ###### Family Littorinidae
@@ -17201,6 +19446,8 @@ Reference:
 ###### Genus Littorina
 
 ###### Species Littorina subrotundata (Carpenter, 1864)
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/6612398>.
@@ -17213,6 +19460,8 @@ Reference:
 
 ###### Species Discus whitneyi (Newcomb, 1864)
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Ento:6114>, 
 <http://arctos.database.museum/guid/KNWR:Ento:6809>.
@@ -17223,6 +19472,8 @@ References:
 
 ###### Species Euconulus fulvus (Muller, 1774)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240272>.
 
@@ -17232,10 +19483,14 @@ Reference:
 
 ###### Species Deroceras laeve (Muller, 1774)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:11132>.
 
 ###### Species Deroceras reticulatum (Muller, 1774)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8635>.
@@ -17246,6 +19501,8 @@ Reference:
 
 ###### Species Columella columella (von Martens, 1830)
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5515>.
 
@@ -17253,10 +19510,14 @@ Reference:
 
 ###### Species Vertigo concinnula Cockerell, 1897
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240739>.
 
 ###### Species Vertigo cristata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240712>.
@@ -17266,6 +19527,8 @@ Reference:
 ###### Genus Zoogenetes
 
 ###### Species Zoogenetes harpa (Say, 1824)
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5629>.
@@ -17282,6 +19545,8 @@ Reference:
 
 ###### Species Mermis nigrescens
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Inv:17>, 
 <http://arctos.database.museum/guid/KNWR:Inv:19>.
@@ -17297,6 +19562,8 @@ References:
 ###### Genus Polycelis
 
 ###### Species Polycelis coronata (Girard, 1891)
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/6565818>.
@@ -17315,6 +19582,8 @@ Reference:
 
 ###### Species Nostoc pruniforme C. Agardh
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/33453138>.
 
@@ -17332,20 +19601,28 @@ Reference:
 
 ###### Species Epipyxis gracilis D.K.Hilliard & Asmund
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:999>.
 
 ###### Species Epipyxis kenaiensis D.K.Hilliard & Asmund
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1000>.
 
 ###### Species Epipyxis planctonica D.K.Hilliard & B.C.Asmund
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1009>.
 
 ###### Species Epipyxis polymorpha (J.W.G.Lund) D.K.Hilliard & Asmund
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:997>.
@@ -17353,6 +19630,8 @@ Reference:
 ###### Family Synuraceae
 
 ###### Species Synura petersenii Korshikov
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1012>.
@@ -17367,25 +19646,35 @@ Reference:
 
 ###### Species Dinobryon bavaricum Imhof
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1003>.
 
 ###### Species Dinobryon borgei Lemmermann
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1007>.
 
 ###### Species Dinobryon divergens
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1001>.
 
 ###### Species Dinobryon sociale
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1004>.
 
 ###### Species Dinobryon suecicum Lemmermann
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:994>.
@@ -17394,10 +19683,14 @@ Reference:
 
 ###### Species Epipyxis ramosa (Lauter.) Hill. and Asm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:998>.
 
 ###### Species Epipyxis tabellariae (Lemmermann) G. Smith
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:996>.
@@ -17407,6 +19700,8 @@ Reference:
 ###### Genus Mallomonas
 
 ###### Species Mallomonas tonsurata Teiling
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1013>.
@@ -17423,10 +19718,14 @@ Reference:
 
 ###### Species Aulacoseira subarctica (O. MÃ¼ll.) E. Y. Haw.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/12872794>.
 
 ###### Species Melosira islandica O. MÃ¼ll.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1010>.
@@ -17439,6 +19738,8 @@ Reference:
 
 ###### Species Eunotia glacialis F. Meister
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/12830204>.
 
@@ -17450,6 +19751,8 @@ Reference:
 
 ###### Species Asterionella formosa Hass.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1002>.
 
@@ -17457,12 +19760,16 @@ Reference:
 
 ###### Species Fragilaria crotonensis Kitton
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:995>.
 
 ###### Genus Staurosira
 
 ###### Species Staurosira construens Ehrenb.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/12891879>.
@@ -17475,10 +19782,14 @@ Reference:
 
 ###### Species Neidium hitchcockii (Ehrenb.) Cleve
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/12765676>.
 
 ###### Species Neidium iridis (Ehrenb.) Cleve
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/12730287>.
@@ -17491,10 +19802,14 @@ Reference:
 
 ###### Species Epithemia adnata (KÃ¼tz.) BrÃ©b.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/12894528>.
 
 ###### Species Epithemia turgida (Ehrenb.) KÃ¼tz.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/12685525>.
@@ -17506,6 +19821,8 @@ Reference:
 ###### Genus Stephanodiscus
 
 ###### Species Stephanodiscus niagarae Ehrenb.
+
+Establishment means: native
 
 References: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1011>, 
@@ -17523,6 +19840,8 @@ References:
 
 ###### Species Fucus distichus Linnaeus, 1767
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/6612338>.
 
@@ -17537,6 +19856,8 @@ Reference:
 ###### Genus Ceratium
 
 ###### Species Ceratium hirundinella Dujardin
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1006>.
@@ -17555,6 +19876,8 @@ Reference:
 
 ###### Species Sarcodon imbricatus
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/48600705>.
 
@@ -17563,6 +19886,8 @@ Reference:
 ###### Family Rhytismataceae
 
 ###### Species Lirula macrospora (R.Hartig) Darker
+
+Establishment means: native
 
 Reference: 
 <https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd712413.pdf>.
@@ -17579,6 +19904,8 @@ Reference:
 
 ###### Species Chrysothrix candelaris
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11795>.
 
@@ -17591,6 +19918,8 @@ Reference:
 ###### Genus taxon name missing
 
 ###### Species Phaeocalicium compressulum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11981>.
@@ -17605,6 +19934,8 @@ Reference:
 
 ###### Species Acarospora smaragdula (Wahlenb.) A. Massal.
 
+Establishment means: native
+
 ##### Order Agyriales
 
 ###### Family Agyriaceae
@@ -17613,6 +19944,8 @@ Reference:
 
 ###### Species Rimularia caeca
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11723>.
 
@@ -17620,9 +19953,13 @@ Reference:
 
 ###### Species Trapeliopsis granulosa (Hoffm.) Lumbsch
 
+Establishment means: native
+
 ###### Genus Xylographa
 
 ###### Species Xylographa vitiligo (Ach.) J.R. Laundon
+
+Establishment means: native
 
 ##### Order Baeomycetales
 
@@ -17632,12 +19969,16 @@ Reference:
 
 ###### Species Baeomyces rufus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAMb:Herb:21786>.
 
 ###### Genus Icmadophila
 
 ###### Species Icmadophila ericetorum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9022>.
@@ -17650,7 +19991,11 @@ Reference:
 
 ###### Species Candelariella terrigena
 
+Establishment means: native
+
 ###### Species Candelariella xanthostigma (Ach.) Lettau
+
+Establishment means: native
 
 ##### Order Lecanorales
 
@@ -17660,20 +20005,28 @@ Reference:
 
 ###### Species Cladina mitis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8861>.
 
 ###### Species Cladina rangiferina
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11924>.
 
 ###### Species Cladina stellaris
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8859>.
 
 ###### Species Cladina stygia
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11691>.
@@ -17682,139 +20035,227 @@ Reference:
 
 ###### Species Cladonia acuminata (Ach.) Norrl.
 
+Establishment means: native
+
 ###### Species Cladonia albonigra
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11770>.
 
 ###### Species Cladonia amaurocraea
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8857>.
 
 ###### Species Cladonia bacilliformis (Nyl.) GlÃ¼ck
 
+Establishment means: native
+
 ###### Species Cladonia bellidiflora (Ach.) Schaer.
+
+Establishment means: native
 
 ###### Species Cladonia borealis S. Stenroos
 
+Establishment means: native
+
 ###### Species Cladonia botrytes (K.G. Hagen) Willd.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11749>.
 
 ###### Species Cladonia cariosa (Ach.) Spreng.
 
+Establishment means: native
+
 ###### Species Cladonia carneola (Fr.) Fr.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12143>.
 
 ###### Species Cladonia cenotea (Ach.) Schaer.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12019>.
 
 ###### Species Cladonia chlorophaea (FlÃ¶rke ex Sommerf.) Spreng.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11630>.
 
 ###### Species Cladonia coccifera (L.) Willd.
 
+Establishment means: native
+
 ###### Species Cladonia coniocraea (FlÃ¶rke) Spreng.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12020>.
 
 ###### Species Cladonia cornuta (L.) Hoffm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11700>.
 
 ###### Species Cladonia crispata
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12185>.
 
 ###### Species Cladonia deformis
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12021>.
 
 ###### Species Cladonia digitata (L.) Hoffm.
 
+Establishment means: native
+
 ###### Species Cladonia ecmocyna
 
+Establishment means: native
+
 ###### Species Cladonia elongata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11655>.
 
 ###### Species Cladonia fimbriata (L.) Fr.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11702>.
 
 ###### Species Cladonia furcata (Huds.) Schrad.
 
+Establishment means: native
+
 ###### Species Cladonia gracilis (L.) Willd.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8858>.
 
 ###### Species Cladonia grayi G. Merr. ex Sandst.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11801>.
 
 ###### Species Cladonia hookeri
 
+Establishment means: native
+
 ###### Species Cladonia kanewskii
+
+Establishment means: native
 
 ###### Species Cladonia macilenta Hoffm.
 
+Establishment means: native
+
 ###### Species Cladonia macroceras (Delise) Ahti
+
+Establishment means: native
 
 ###### Species Cladonia macrophyllodes
 
+Establishment means: native
+
 ###### Species Cladonia maxima (Asahina) Ahti
+
+Establishment means: native
 
 ###### Species Cladonia metacorallifera Asahina
 
+Establishment means: native
+
 ###### Species Cladonia multiformis
 
+Establishment means: native
+
 ###### Species Cladonia ochrochlora FlÃ¶rke
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12023>.
 
 ###### Species Cladonia pleurota (FlÃ¶rke) Schaer.
 
+Establishment means: native
+
 ###### Species Cladonia pyxidata (L.) Hoffm.
+
+Establishment means: native
 
 ###### Species Cladonia rei Schaer.
 
+Establishment means: native
+
 ###### Species Cladonia scabriuscula (Delise) Leight.
+
+Establishment means: native
 
 ###### Species Cladonia squamosa (Scop.) Hoffm.
 
+Establishment means: native
+
 ###### Species Cladonia stricta
+
+Establishment means: native
 
 ###### Species Cladonia subfurcata (Nyl.) Arnold
 
+Establishment means: native
+
 ###### Species Cladonia subulata (L.) F.H. Wigg.
 
+Establishment means: native
+
 ###### Species Cladonia sulphurina (Michx.) Fr.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12024>.
 
 ###### Species Cladonia symphycarpa (Ach.) Fr.
 
+Establishment means: native
+
 ###### Species Cladonia umbricola TÃ¸nsberg & Ahti
 
+Establishment means: native
+
 ###### Species Cladonia uncialis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8856>.
@@ -17825,6 +20266,8 @@ Reference:
 
 ###### Species Chaenotheca trichialis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11960>.
 
@@ -17834,7 +20277,11 @@ Reference:
 
 ###### Species Lopadium coralloideum (Nyl.) Lynge
 
+Establishment means: native
+
 ###### Species Lopadium pezizoideum
+
+Establishment means: native
 
 ###### Family Hymeneliaceae
 
@@ -17842,11 +20289,15 @@ Reference:
 
 ###### Species Aspicilia myrinii (Fr.) Stein
 
+Establishment means: native
+
 ###### Family Lecanoraceae
 
 ###### Genus Ramboldia
 
 ###### Species <em>Ramboldia</em> <em>cinnabarina</em> (Sommerf.) Kalb, Lumbsch & Elix
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12158>.
@@ -17855,68 +20306,108 @@ Reference:
 
 ###### Species Lecanora boligera (Th. Fr.) Hedl.
 
+Establishment means: native
+
 ###### Species Lecanora cadubriae (A. Massal.) Hedl.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11708>.
 
 ###### Species Lecanora chlarotera Nyl.
 
+Establishment means: native
+
 ###### Species Lecanora circumborealis Brodo & Vitik.
+
+Establishment means: native
 
 ###### Species Lecanora farinaria
 
+Establishment means: native
+
 ###### Species Lecanora fuliginosa Brodo
 
+Establishment means: native
+
 ###### Species Lecanora fuscescens (Sommerf.) Nyl.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11779>.
 
 ###### Species Lecanora hagenii
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11977>.
 
 ###### Species Lecanora hybocarpa (Tuck.) Brodo
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11978>.
 
 ###### Species Lecanora impudens Degel.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12145>.
 
 ###### Species Lecanora piniperda KÃ¶rb.
 
+Establishment means: native
+
 ###### Species Lecanora polytropa (Hoffm.) Rabenh.
 
+Establishment means: native
+
 ###### Species Lecanora pulicaris (Pers.) Ach.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11845>.
 
 ###### Species Lecanora rupicola (L.) Zahlbr.
 
+Establishment means: native
+
 ###### Species Lecanora symmicta (Ach.) Ach.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11780>.
 
 ###### Species Lecanora varia (Hoffm.) Ach.
 
+Establishment means: native
+
 ###### Genus Lecidella
 
 ###### Species Lecidella elaeochroma (Ach.) M. Choisy
 
+Establishment means: native
+
 ###### Species Lecidella euphorea (FlÃ¶rke) Hertel
 
+Establishment means: native
+
 ###### Species Lecidella wulfenii (Hepp) KÃ¶rb.
+
+Establishment means: native
 
 ###### Genus Pycnora 
 
 ###### Species Pycnora sorophora
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11722>.
@@ -17927,12 +20418,18 @@ Reference:
 
 ###### Species Mycoblastus affinis (Schaer.) T. Schauer
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9039>.
 
 ###### Species Mycoblastus alpinus (Fr.) Hellb.
 
+Establishment means: native
+
 ###### Species Mycoblastus sanguinarius (L.) Norman
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12004>.
@@ -17943,6 +20440,8 @@ Reference:
 
 ###### Species <em>Hypogymnia</em> <em>protea</em> Goward, T. Sprib. & Ahti
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11867>.
 
@@ -17950,10 +20449,14 @@ Reference:
 
 ###### Species Alectoria nigricans
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9004>.
 
 ###### Species Alectoria sarmentosa
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9001>.
@@ -17962,12 +20465,16 @@ Reference:
 
 ###### Species Allantoparmelia alpicola (Th. Fr.) Essl.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9002>.
 
 ###### Genus Arctoparmelia
 
 ###### Species Arctoparmelia centrifuga
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9003>.
@@ -17976,7 +20483,11 @@ Reference:
 
 ###### Species Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb.
 
+Establishment means: native
+
 ###### Species Asahinea scholanderi
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9005>.
@@ -17985,9 +20496,13 @@ Reference:
 
 ###### Species Brodoa oroarctica (Krog) Goward
 
+Establishment means: native
+
 ###### Genus Bryocaulon
 
 ###### Species Bryocaulon divergens (Ach.) KÃ¤rnefelt
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8847>, 
@@ -17997,48 +20512,72 @@ References:
 
 ###### Species Bryoria capillaris (Ach.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 ###### Species Bryoria carlottae Brodo & D. Hawksw.
+
+Establishment means: native
 
 ###### Species Bryoria fremontii (Tuck.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 ###### Species Bryoria furcellata (Fr.) Brodo & D. Hawksw.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11733>.
 
 ###### Species Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11565>.
 
 ###### Species Bryoria glabra (Motyka) Brodo & D. Hawksw.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12110>.
 
 ###### Species Bryoria lanestris (Ach.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11735>.
 
 ###### Species Bryoria nitidula (Th. Fr.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 ###### Species Bryoria pikei Brodo & D. Hawksw.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11747>.
 
 ###### Species Bryoria pseudofuscescens (Gyeln.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12032>.
 
 ###### Species Bryoria simplicior (Vain.) Brodo & D. Hawksw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11836>.
 
 ###### Species Bryoria vrangiana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11626>.
@@ -18047,7 +20586,11 @@ Reference:
 
 ###### Species Cetraria commixta (Nyl.) Th. Fr.
 
+Establishment means: native
+
 ###### Species Cetraria cucullata (Bellardi) Ach.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8846>, 
@@ -18055,47 +20598,67 @@ References:
 
 ###### Species Cetraria delisei (Bory ex Schaer.) Nyl.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11901>.
 
 ###### Species Cetraria ericetorum Opiz
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8845>.
 
 ###### Species Cetraria hepatizon (Ach.) Vain.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9033>.
 
 ###### Species Cetraria islandica (L.) Ach.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8844>.
 
 ###### Species Cetraria kamczatica
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9009>.
 
 ###### Species Cetraria laevigata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9010>.
 
 ###### Species Cetraria nigricans Nyl.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9011>.
 
 ###### Species Cetraria nigricascens
 
+Establishment means: native
+
 ###### Species Cetraria nivalis (L.) Ach.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8860>.
 
 ###### Species Cetraria sepincola
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11690>.
@@ -18104,6 +20667,8 @@ Reference:
 
 ###### Species Cetrariella delisei
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9013>.
 
@@ -18111,9 +20676,13 @@ Reference:
 
 ###### Species Coelocaulon aculeatum (Schreb.) Link
 
+Establishment means: native
+
 ###### Genus Dactylina
 
 ###### Species Dactylina arctica (Hook. f.) Nyl.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8855>, 
@@ -18123,35 +20692,51 @@ References:
 
 ###### Species Hypogymnia austerodes (Nyl.) RÃ¤sÃ¤nen
 
+Establishment means: native
+
 ###### Species Hypogymnia bitteri (Lynge) Ahti
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12036>.
 
 ###### Species Hypogymnia duplicata
 
+Establishment means: native
+
 ###### Species Hypogymnia enteromorpha
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9018>.
 
 ###### Species Hypogymnia metaphysodes
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9019>.
 
 ###### Species Hypogymnia occidentalis L.H. Pike
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11928>.
 
 ###### Species Hypogymnia physodes (L.) Nyl.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:9020>, 
 <http://www.inaturalist.org/observations/115176>.
 
 ###### Species Hypogymnia rugosa
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9021>.
@@ -18160,6 +20745,8 @@ Reference:
 
 ###### Species Imshaugia aleurites (Ach.) S.L.F. Mey.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11905>.
 
@@ -18167,20 +20754,28 @@ Reference:
 
 ###### Species Melanelia olivacea
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9035>.
 
 ###### Species Melanelia panniformis
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9036>.
 
 ###### Species Melanelia stygia
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9037>.
 
 ###### Species Melanelia subaurifera
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9038>.
@@ -18189,10 +20784,14 @@ Reference:
 
 ###### Species Melanohalea septentrionalis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12040>.
 
 ###### Species Melanohalea trabeculata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12341>.
@@ -18201,15 +20800,21 @@ Reference:
 
 ###### Species Parmelia hygrophila Goward & Ahti
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12225>.
 
 ###### Species Parmelia omphalodes (L.) Ach.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:9044>.
 
 ###### Species Parmelia saxatilis (L.) Ach.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:9045>, 
@@ -18217,9 +20822,15 @@ References:
 
 ###### Species Parmelia skultii Hale
 
+Establishment means: native
+
 ###### Species Parmelia squarrosa
 
+Establishment means: native
+
 ###### Species Parmelia sulcata Taylor
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:9047>, 
@@ -18229,10 +20840,14 @@ References:
 
 ###### Species Parmeliopsis ambigua (Wulfen) Nyl.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9049>.
 
 ###### Species Parmeliopsis hyperopta (Ach.) Arnold
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11716>.
@@ -18241,6 +20856,8 @@ Reference:
 
 ###### Species Platismatia glauca (L.) W.L. Culb. & C.F. Culb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12006>.
 
@@ -18248,10 +20865,14 @@ Reference:
 
 ###### Species Pseudephebe minuscula (Arnold) Brodo & D. Hawksw.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9064>.
 
 ###### Species Pseudephebe pubescens (L.) M. Choisy
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8852>.
@@ -18260,14 +20881,20 @@ Reference:
 
 ###### Species Rhizoplaca melanophthalma (DC.) Leuckert
 
+Establishment means: native
+
 ###### Genus Tuckermannopsis
 
 ###### Species Tuckermannopsis chlorophylla (Willd.) Hale
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9092>.
 
 ###### Species Tuckermannopsis sepincola (Ehrh.) Hale
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9012>.
@@ -18276,14 +20903,22 @@ Reference:
 
 ###### Species Usnea lapponica Vain.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11574>.
 
 ###### Species Usnea scabrata Nyl.
 
+Establishment means: native
+
 ###### Species Usnea subfloridana Stirt.
 
+Establishment means: native
+
 ###### Species Usnea substerilis Motyka
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11575>.
@@ -18291,6 +20926,8 @@ Reference:
 ###### Genus Vulpicida
 
 ###### Species Vulpicida pinastri
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12130>.
@@ -18301,27 +20938,39 @@ Reference:
 
 ###### Species Bacidia rosella
 
+Establishment means: native
+
 ###### Genus Biatora
 
 ###### Species Biatora efflorescens
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12272>.
 
 ###### Species Biatora pallens
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11684>.
 
 ###### Species Biatora vernalis (L.) Fr.
 
+Establishment means: native
+
 ###### Genus Catinaria
 
 ###### Species Catinaria atropurpurea
 
+Establishment means: native
+
 ###### Genus Cliostomum
 
 ###### Species Cliostomum griffithii (Sm.) Coppins
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12335>.
@@ -18330,10 +20979,14 @@ Reference:
 
 ###### Species Japewia subaurifera Muhr & TÃ¸nsberg
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11952>.
 
 ###### Species Japewia tornoensis (Nyl.) TÃ¸nsberg
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11608>.
@@ -18342,7 +20995,11 @@ Reference:
 
 ###### Species Lecania cyrtella (Ach.) Th. Fr.
 
+Establishment means: native
+
 ###### Species Lecania dubitans (Nyl.) A.L. Sm.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9025>.
@@ -18351,27 +21008,39 @@ Reference:
 
 ###### Species Ramalina dilacerata (Hoffm.) Hoffm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11619>.
 
 ###### Species Ramalina farinacea (L.) Ach.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11572>.
 
 ###### Species Ramalina intermedia
 
+Establishment means: native
+
 ###### Species Ramalina obtusata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9066>.
 
 ###### Species Ramalina roesleri
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12350>.
 
 ###### Species Ramalina thrausta
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12322>.
@@ -18382,10 +21051,14 @@ Reference:
 
 ###### Species Sphaerophorus fragilis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9068>.
 
 ###### Species Sphaerophorus globosus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8851>.
@@ -18396,36 +21069,52 @@ Reference:
 
 ###### Species Lepraria incana (L.) Ach.
 
+Establishment means: native
+
 ###### Species Lepraria neglecta Vain.
+
+Establishment means: native
 
 ###### Genus Stereocaulon
 
 ###### Species Stereocaulon alpinum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8850>.
 
 ###### Species Stereocaulon arenarium
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9078>.
 
 ###### Species Stereocaulon botryosum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9080>.
 
 ###### Species Stereocaulon intermedium
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9084>.
 
 ###### Species Stereocaulon paschale
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9082>.
 
 ###### Species Stereocaulon rivulorum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9085>.
@@ -18438,15 +21127,21 @@ Reference:
 
 ###### Species Lecidea leprarioides
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11637>.
 
 ###### Species Lecidea nylanderi
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11638>.
 
 ###### Species Lecidea pullata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11584>.
@@ -18457,11 +21152,17 @@ Reference:
 
 ###### Species Bellemerea alpina (Sommerf.) Clauzade & Cl. Roux
 
+Establishment means: native
+
 ###### Species Bellemerea subsorediza (Lynge) R. Sant.
+
+Establishment means: native
 
 ###### Genus Mycobilimbia
 
 ###### Species Mycobilimbia epixanthoides
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11612>.
@@ -18474,6 +21175,8 @@ Reference:
 
 ###### Species Phlyctis argena (Spreng.) Flot.
 
+Establishment means: native
+
 ##### Order Peltigerales
 
 ###### Family Collemataceae
@@ -18482,7 +21185,11 @@ Reference:
 
 ###### Species Collema furfuraceum (Arnold) Du Rietz
 
+Establishment means: native
+
 ###### Species Collema subflaccidum Degel.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12138>.
@@ -18491,12 +21198,18 @@ Reference:
 
 ###### Species Leptogium burnetiae
 
+Establishment means: native
+
 ###### Species Leptogium saturninum (Dicks.) Nyl.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12146>.
 
 ###### Species Leptogium teretiusculum (Wallr.) Arnold
+
+Establishment means: native
 
 ###### Family Lobariaceae
 
@@ -18504,7 +21217,11 @@ Reference:
 
 ###### Species Lobaria hallii (Tuck.) Zahlbr.
 
+Establishment means: native
+
 ###### Species Lobaria linita
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8854>, 
@@ -18512,10 +21229,14 @@ References:
 
 ###### Species Lobaria pulmonaria (L.) Hoffm.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/115173>.
 
 ###### Species Lobaria scrobiculata
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12000>.
@@ -18524,11 +21245,15 @@ Reference:
 
 ###### Species Pseudocyphellaria crocata (L.) Vain.
 
+Establishment means: native
+
 ###### Family Nephromataceae
 
 ###### Genus Nephroma
 
 ###### Species Nephroma arcticum (L.) Torss.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:9040>, 
@@ -18536,19 +21261,29 @@ References:
 
 ###### Species Nephroma bellum (Spreng.) Tuck.
 
+Establishment means: native
+
 ###### Species Nephroma expallidum (Nyl.) Nyl.
 
+Establishment means: native
+
 ###### Species Nephroma isidiosum
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9041>.
 
 ###### Species Nephroma parile (Ach.) Ach.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11895>.
 
 ###### Species Nephroma resupinatum (L.) Ach.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12252>.
@@ -18559,13 +21294,19 @@ Reference:
 
 ###### Species Leproloma membranaceum (Dicks.) Vain.
 
+Establishment means: native
+
 ###### Genus Pannaria
 
 ###### Species Pannaria praetermissa Nyl.
 
+Establishment means: native
+
 ###### Genus Psoroma
 
 ###### Species Psoroma hypnorum (Vahl) Gray
+
+Establishment means: native
 
 ###### Family Peltigeraceae
 
@@ -18573,77 +21314,115 @@ Reference:
 
 ###### Species Peltigera aphthosa
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12276>.
 
 ###### Species Peltigera britannica (Gyeln.) Holt.-Hartw. & TÃ¸nsberg
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9051>.
 
 ###### Species Peltigera canina
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9052>.
 
 ###### Species Peltigera collina (Ach.) Schrad.
 
+Establishment means: native
+
 ###### Species Peltigera degenii Gyeln.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9053>.
 
 ###### Species Peltigera didactyla (Nyl. ex Vain.) Goffinet & Hastings
 
+Establishment means: native
+
 ###### Species Peltigera kristinssonii Vitik.
 
+Establishment means: native
+
 ###### Species Peltigera leucophlebia (Nyl.) Gyeln.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11932>.
 
 ###### Species Peltigera malacea (Ach.) Funck
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9055>.
 
 ###### Species Peltigera membranacea (Ach.) Nyl.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12002>.
 
 ###### Species Peltigera neckeri Hepp
 
+Establishment means: native
+
 ###### Species Peltigera neopolydactyla (Gyeln.) Gyeln.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11784>.
 
 ###### Species Peltigera occidentalis
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12162>.
 
 ###### Species Peltigera polydactylon
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9057>.
 
 ###### Species Peltigera ponojensis Gyeln.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9058>.
 
 ###### Species Peltigera praetextata (FlÃ¶rke ex Sommerf.) Zopf
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12213>.
 
 ###### Species Peltigera retifoveata Vitik.
 
+Establishment means: native
+
 ###### Species Peltigera rufescens (Weiss) Humb.
 
+Establishment means: native
+
 ###### Species Peltigera scabrosa Th. Fr.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9059>.
@@ -18656,6 +21435,8 @@ Reference:
 
 ###### Species Thamnolia vermicularis (Sw.) Ach. ex Schaer.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8849>, 
 <http://arctos.database.museum/guid/KNWR:Herb:9089>.
@@ -18666,39 +21447,67 @@ References:
 
 ###### Species Ochrolechia androgyna (Hoffm.) Arnold
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11614>.
 
 ###### Species Ochrolechia frigida (Sw.) Lynge
 
+Establishment means: native
+
 ###### Species Ochrolechia grimmiae Lynge
+
+Establishment means: native
 
 ###### Species Ochrolechia gyalectina
 
+Establishment means: native
+
 ###### Species Ochrolechia oregonensis H. Magn.
 
+Establishment means: native
+
 ###### Species Ochrolechia szatalaensis Verseghy
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11930>.
 
 ###### Species Ochrolechia upsaliensis (L.) A. Massal.
 
+Establishment means: native
+
 ###### Genus Pertusaria
 
 ###### Species Pertusaria alaskensis
 
+Establishment means: native
+
 ###### Species Pertusaria carneopallida (Nyl.) Anzi ex Nyl.
+
+Establishment means: native
 
 ###### Species Pertusaria dactylina (Ach.) Nyl.
 
+Establishment means: native
+
 ###### Species Pertusaria oculata (Dicks.) Th. Fr.
+
+Establishment means: native
 
 ###### Species Pertusaria ophthalmiza (Nyl.) Nyl.
 
+Establishment means: native
+
 ###### Species Pertusaria subobducens
 
+Establishment means: native
+
 ###### Species Pertusaria suboculata Brodo & Dibben
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11948>.
@@ -18711,6 +21520,8 @@ Reference:
 
 ###### Species Toensbergia leucococca (R. Sant.) Bendiksby & Timdal
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11953>.
 
@@ -18722,6 +21533,8 @@ Reference:
 
 ###### Species Calicium viride
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12016>.
 
@@ -18731,12 +21544,18 @@ Reference:
 
 ###### Species Buellia disciformis (Fr.) Mudd
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11635>.
 
 ###### Species Buellia griseovirens (Turner & Borrer ex Sm.) Almb.
 
+Establishment means: native
+
 ###### Species Buellia punctata (Hoffm.) A. Massal.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11973>.
@@ -18745,6 +21564,8 @@ Reference:
 
 ###### Species Heterodermia speciosa (Wulfen) Trevis.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9017>.
 
@@ -18752,46 +21573,70 @@ Reference:
 
 ###### Species Phaeophyscia endococcinodes
 
+Establishment means: native
+
 ###### Genus Physcia
 
 ###### Species Physcia adscendens (Th. Fr.) H. Olivier
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9061>.
 
 ###### Species Physcia aipolia (Ehrh. ex Humb.) FÃ¼rnr.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9072>.
 
 ###### Species Physcia caesia (Hoffm.) FÃ¼rnr.
 
+Establishment means: native
+
 ###### Species Physcia dubia (Hoffm.) Lettau
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11718>.
 
 ###### Species Physcia stellaris (L.) Nyl.
 
+Establishment means: native
+
 ###### Genus Rinodina
 
 ###### Species Rinodina degeliana
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12299>.
 
 ###### Species Rinodina efflorescens Malme
 
+Establishment means: native
+
 ###### Species Rinodina metaboliza Vain.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11646>.
 
 ###### Species Rinodina mniaraea (Ach.) KÃ¶rb.
 
+Establishment means: native
+
 ###### Species Rinodina septentrionalis Malme
 
+Establishment means: native
+
 ###### Species Rinodina turfacea (Wahlenb.) KÃ¶rb.
+
+Establishment means: native
 
 ###### Family Teloschistaceae
 
@@ -18799,27 +21644,39 @@ Reference:
 
 ###### Species Caloplaca holocarpa (Hoffm.) A.E. Wade
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9007>.
 
 ###### Species Caloplaca nivalis (KÃ¶rb.) Th. Fr.
 
+Establishment means: native
+
 ###### Species Caloplaca tetraspora (Nyl.) H. Olivier
+
+Establishment means: native
 
 ###### Genus Xanthoria
 
 ###### Species Xanthoria candelaria
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9102>.
 
 ###### Species Xanthoria elegans (Link) Th. Fr.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:9104>, 
 <http://arctos.database.museum/guid/KNWR:Herb:9105>.
 
 ###### Species Xanthoria polycarpa (Hoffm.) Rieber
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11993>.
@@ -18832,30 +21689,42 @@ Reference:
 
 ###### Species Umbilicaria caroliniana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9093>.
 
 ###### Species Umbilicaria deusta
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9095>.
 
 ###### Species Umbilicaria hyperborea
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9096>.
 
 ###### Species Umbilicaria proboscidea
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9099>.
 
 ###### Species Umbilicaria torrefacta
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9100>.
 
 ###### Species Umbillicaria hyperborea (Ach.) Hoffm.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:9096>.
@@ -18870,6 +21739,8 @@ Reference:
 
 ###### Species Cudonia circinans
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/9523714>.
 
@@ -18883,6 +21754,8 @@ Reference:
 
 ###### Species Gyromitra infula
 
+Establishment means: native
+
 References: 
 <https://www.inaturalist.org/observations/16948769>, 
 <https://www.inaturalist.org/observations/18726085>, 
@@ -18894,6 +21767,8 @@ References:
 
 ###### Species Morchella tomentosa
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/47411794>.
 
@@ -18902,6 +21777,8 @@ Reference:
 ###### Genus Geopyxis
 
 ###### Species Geopyxis carbonaria (Alb. & Schwein.) Sacc. 1889
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/46393003>.
@@ -18918,6 +21795,8 @@ Reference:
 
 ###### Species Calvatia booniana
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:7334>.
 
@@ -18925,12 +21804,16 @@ Reference:
 
 ###### Species Coprinus comatus (O.F.Müll.) Pers.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/863074>.
 
 ###### Genus Lycoperdon
 
 ###### Species Lycoperdon pyriforme Schaeff.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/871329>.
@@ -18941,6 +21824,8 @@ Reference:
 
 ###### Species Amanita muscaria
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/877727>.
 
@@ -18950,12 +21835,16 @@ Reference:
 
 ###### Species Clavaria rosea Fr.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/3962205>.
 
 ###### Genus taxon name missing
 
 ###### Species Clavulinopsis laeticolor
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/56861660>.
@@ -18966,15 +21855,21 @@ Reference:
 
 ###### Species Cortinarius caperatus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8949>.
 
 ###### Species Cortinarius huronensis
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/31184013>.
 
 ###### Species Cortinarius lucorum (Fr.) Berger, 1846
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/31183152>.
@@ -18984,6 +21879,8 @@ Reference:
 ###### Genus Leucopaxillus
 
 ###### Species <em>Leucopaxillus</em> <em>gentianeus</em> (QuÃ©let) Kotlaba
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10340>.
@@ -18996,6 +21893,8 @@ Reference:
 
 ###### Species Boletus edulis
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/18726089>.
 
@@ -19003,12 +21902,16 @@ Reference:
 
 ###### Species Chalciporus piperatus
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/868967>.
 
 ###### Genus Leccinum
 
 ###### Species Leccinum holopus
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8955>.
@@ -19018,6 +21921,8 @@ Reference:
 ###### Genus Hygrophoropsis
 
 ###### Species Hygrophoropsis aurantiaca
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/33449595>.
@@ -19030,6 +21935,8 @@ Reference:
 
 ###### Species Craterellus lutescens (Fr.) Fr.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/17942629>.
 
@@ -19041,6 +21948,8 @@ Reference:
 
 ###### Species Inonotus obliquus (Ach. ex Pers.) PilÃ¡t
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8832>.
 
@@ -19048,12 +21957,16 @@ Reference:
 
 ###### Species Onnia tomentosa (Fr.) P. Karst.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/30460056>.
 
 ###### Genus Phellinus
 
 ###### Species Phellinus igniarius
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/10454240>.
@@ -19066,6 +21979,8 @@ Reference:
 
 ###### Species Piptoporus betulinus
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/16265738>.
 
@@ -19077,6 +21992,8 @@ Reference:
 
 ###### Species Hericium coralloides
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8979>.
 
@@ -19085,6 +22002,8 @@ Reference:
 ###### Genus Russula
 
 ###### Species Russula xerampelina
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/871319>.
@@ -19096,6 +22015,8 @@ Reference:
 ###### Genus Hydnellum
 
 ###### Species Hydnellum peckii
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/211126>.
@@ -19110,6 +22031,8 @@ Reference:
 
 ###### Species Dacrymyces chrysospermus
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10336>.
 
@@ -19123,6 +22046,8 @@ Reference:
 
 ###### Species Chrysomyxa arctostaphyli
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/6413791>.
 
@@ -19131,6 +22056,8 @@ Reference:
 ###### Genus Puccinia
 
 ###### Species Puccinia linkii
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/3746023>.
@@ -19147,6 +22074,8 @@ Reference:
 
 ###### Species Lycogala epidendrum (J.C. Buxb. ex L.) Fr.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/51006945>.
 
@@ -19157,6 +22086,8 @@ Reference:
 ###### Genus Mucilago
 
 ###### Species Mucilago crustacea F.H. Wigg.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/871014>.
@@ -19175,9 +22106,13 @@ Reference:
 
 ###### Species Bartramia pomiformis Hedw.
 
+Establishment means: native
+
 ###### Genus Conostomum
 
 ###### Species Conostomum tetragonum (Hedw.) Lindb.
+
+Establishment means: native
 
 ##### Order Bryales
 
@@ -19187,11 +22122,17 @@ Reference:
 
 ###### Species Bryum caespiticium Hedw.
 
+Establishment means: native
+
 ###### Species Bryum weigelii Spreng. in Biehler
+
+Establishment means: native
 
 ###### Genus Leptobryum
 
 ###### Species Leptobryum pyriforme (Hedw.) Wils.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=91446>.
@@ -19200,19 +22141,29 @@ Reference:
 
 ###### Species Pohlia cruda (Hedw.) Lindb.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=473517>.
 
 ###### Species Pohlia elongata Hedw.
 
+Establishment means: native
+
 ###### Species Pohlia nutans (Hedw.) Lindb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11787>.
 
 ###### Species Pohlia vexans (Limpr.) H. Lindb.
 
+Establishment means: native
+
 ###### Species Pohlia wahlenbergii (Web. & Mohr) Andrews
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=87272>.
@@ -19223,10 +22174,14 @@ Reference:
 
 ###### Species Cinclidium stygium Sw. in Schrad.
 
+Establishment means: native
+
 Reference: 
 <https://bryophyteportal.org/portal/collections/individual/index.php?occid=1788553>.
 
 ###### Species Cinclidium subrotundum Lindb.
+
+Establishment means: native
 
 Reference: 
 <http://www.ncbi.nlm.nih.gov/nuccore/JX843230.1>.
@@ -19235,6 +22190,8 @@ Reference:
 
 ###### Species Mnium spinulosum Bruch & Schimp. in B.S.G.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=694305>.
 
@@ -19242,34 +22199,52 @@ Reference:
 
 ###### Species Plagiomnium ciliare (C. MÃ¼ll.) T. Kop.
 
+Establishment means: native
+
 ###### Species Plagiomnium ellipticum (Brid.) T. Kop.
+
+Establishment means: native
 
 ###### Species Plagiomnium insigne (Mitt.) T. Kop.
 
+Establishment means: native
+
 ###### Species Plagiomnium medium (Bruch & Schimp. in B.S.G.) T. Kop.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11985>.
 
 ###### Species Plagiomnium rostratum (Schrad.) T. Kop.
 
+Establishment means: native
+
 ###### Genus Pseudobryum
 
 ###### Species Pseudobryum cinclidioides (HÃ¼b.) T. Kop.
 
+Establishment means: native
+
 ###### Genus Rhizomnium
 
 ###### Species Rhizomnium glabrescens (Kindb.) T. Kop.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12327>.
 
 ###### Species Rhizomnium magnifolium (Horik.) T. Kop.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=300326>.
 
 ###### Species Rhizomnium nudum (Britt. & Williams) T. Kop.
+
+Establishment means: native
 
 ##### Order Dicranales
 
@@ -19279,9 +22254,15 @@ Reference:
 
 ###### Species Cynodontium polycarpon (Hedw.) Schimp.
 
+Establishment means: native
+
 ###### Species Cynodontium strumiferum (Hedw.) Lindb.
 
+Establishment means: native
+
 ###### Species Cynodontium tenellum (Bruch & Schimp. in B.S.G.) Limpr.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11633>.
@@ -19290,13 +22271,19 @@ Reference:
 
 ###### Species Dichodontium pellucidum (Hedw.) Schimp.
 
+Establishment means: native
+
 ###### Genus Dicranella
 
 ###### Species Dicranella subulata (Hedw.) Schimp.
 
+Establishment means: native
+
 ###### Genus Dicranoweisia
 
 ###### Species Dicranoweisia crispula (Hedw.) Lindb. ex Milde
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=325919>.
@@ -19305,51 +22292,75 @@ Reference:
 
 ###### Species Dicranum acutifolium (Lindb. & Arnell) C. Jens. ex Weinm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12033>.
 
 ###### Species Dicranum brevifolium (Lindb.) Lindb.
 
+Establishment means: native
+
 ###### Species Dicranum elongatum Schleich. ex Schwaegr.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=192513>.
 
 ###### Species Dicranum fuscescens Turn.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11567>.
 
 ###### Species Dicranum howellii Ren. & Card.
 
+Establishment means: native
+
 ###### Species Dicranum leioneuron Kindb.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12284>.
 
 ###### Species Dicranum majus Sm.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=748306>.
 
 ###### Species Dicranum montanum Hedw.
 
+Establishment means: native
+
 ###### Species Dicranum pallidisetum (Bail. in Holz.) Irel.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12222>.
 
 ###### Species Dicranum polysetum Sw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11999>.
 
 ###### Species Dicranum scoparium Hedw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11605>.
 
 ###### Species Dicranum tauricum Sapeh.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12148>.
@@ -19358,7 +22369,11 @@ Reference:
 
 ###### Species Oncophorus virens (Hedw.) Brid.
 
+Establishment means: native
+
 ###### Species Oncophorus wahlenbergii Brid.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=297822>.
@@ -19366,6 +22381,8 @@ Reference:
 ###### Genus Paraleucobryum
 
 ###### Species Paraleucobryum enerve (Thed. in Hartm.) Loeske
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11615>.
@@ -19376,9 +22393,13 @@ Reference:
 
 ###### Species Ceratodon purpureus (Hedw.) Brid.
 
+Establishment means: native
+
 ###### Genus Distichium
 
 ###### Species Distichium capillaceum (Hedw.) Bruch & Schimp. in B.S.G.
+
+Establishment means: native
 
 ##### Order Grimmiales
 
@@ -19388,29 +22409,47 @@ Reference:
 
 ###### Species Grimmia anodon Bruch & Schimp. in B.S.G.
 
+Establishment means: native
+
 ###### Species Grimmia donniana Sm.
+
+Establishment means: native
 
 ###### Genus Racomitrium
 
 ###### Species Racomitrium affine (Schleich. ex Web. & Mohr) Lindb.
 
+Establishment means: native
+
 ###### Species Racomitrium canescens (Hedw.) Brid.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=512797>.
 
 ###### Species Racomitrium ericoides (Web. ex Brid.) Brid.
 
+Establishment means: native
+
 ###### Species Racomitrium heterostichum (Hedw.) Brid.
 
+Establishment means: native
+
 ###### Species Racomitrium lanuginosum (Hedw.) Brid.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=24938>.
 
 ###### Species Racomitrium microcarpon (Hedw.) Brid.
 
+Establishment means: native
+
 ###### Species Racomitrium sudeticum (Funck) Bruch & Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=478703>.
@@ -19418,6 +22457,8 @@ Reference:
 ###### Genus Schistidium
 
 ###### Species Schistidium apocarpum (Hedw.) Bruch & Schimp. in B.S.G.
+
+Establishment means: native
 
 ##### Order Hypnales
 
@@ -19427,9 +22468,13 @@ Reference:
 
 ###### Species Amblystegium serpens (Hedw.) Schimp. in B.S.G.
 
+Establishment means: native
+
 ###### Genus Calliergonella
 
 ###### Species Calliergonella cuspidata (Hedw.) Loeske
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11736>.
@@ -19438,7 +22483,11 @@ Reference:
 
 ###### Species Campylium hispidulum (Brid.) Mitt.
 
+Establishment means: native
+
 ###### Species Campylium stellatum (Hedw.) C. Jens.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11838>.
@@ -19447,25 +22496,37 @@ Reference:
 
 ###### Species Drepanocladus sendtneri (Schimp.) Warnst.
 
+Establishment means: native
+
 ###### Genus Leptodictyum
 
 ###### Species Leptodictyum humile (P. Beauv.) Ochyra
+
+Establishment means: native
 
 ###### Genus Limprichtia
 
 ###### Species Limprichtia revolvens (Sw.) Loeske
 
+Establishment means: native
+
 ###### Genus Palustriella
 
 ###### Species Palustriella commutata (Brid.) Ochyra
+
+Establishment means: native
 
 ###### Genus Pseudocalliergon
 
 ###### Species Pseudocalliergon turgescens (T. Jens.) Loeske
 
+Establishment means: native
+
 ###### Genus Sanionia
 
 ###### Species Sanionia uncinata (Hedw.) Loeske
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12013>.
@@ -19474,15 +22535,21 @@ Reference:
 
 ###### Species Sarmenthypnum sarmentosum (Wahlenb.) Tuom. & T. Kop.
 
+Establishment means: native
+
 ###### Genus Scorpidium
 
 ###### Species Scorpidium scorpioides (Hedw.) Limpr.
+
+Establishment means: native
 
 ###### Family Brachytheciaceae
 
 ###### Genus Sciuro-hypnum
 
 ###### Species <em>Sciuro-hypnum</em> <em>latifolium</em> (Kindberg) Ignatov & Huttunen
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11990>.
@@ -19491,49 +22558,75 @@ Reference:
 
 ###### Species Brachythecium acutum (Mitt.) Sull.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11972>.
 
 ###### Species Brachythecium albicans (Hedw.) Schimp. in B.S.G.
 
+Establishment means: native
+
 ###### Species Brachythecium calcareum Kindb.
 
+Establishment means: native
+
 ###### Species Brachythecium erythrorrhizon Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11863>.
 
 ###### Species Brachythecium frigidum (C. MÃ¼ll.) Besch.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11745>.
 
 ###### Species Brachythecium oedipodium (Mitt.) Jaeg.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=204633>.
 
 ###### Species Brachythecium oxycladon (Brid.) Jaeg.
 
+Establishment means: native
+
 ###### Species Brachythecium reflexum (Starke in Web. & Mohr) Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=758163>.
 
 ###### Species Brachythecium rutabulum (Hedw.) Schimp. in B.S.G.
 
+Establishment means: native
+
 ###### Species Brachythecium salebrosum (Web. & Mohr) Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11625>.
 
 ###### Species Brachythecium velutinum (Hedw.) Schimp. in B.S.G.
 
+Establishment means: native
+
 ###### Genus Eurhynchium
 
 ###### Species Eurhynchium oreganum (Sull.) Jaeg.
 
+Establishment means: native
+
 ###### Species Eurhynchium pulchellum (Hedw.) Jenn.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=487667>.
@@ -19542,13 +22635,19 @@ Reference:
 
 ###### Species Pseudoscleropodium purum (Hedw.) Fleisch. in Broth.
 
+Establishment means: native
+
 ###### Genus Tomenthypnum
 
 ###### Species Tomenthypnum nitens (Hedw.) Loeske
 
+Establishment means: native
+
 ###### Genus Tomentypnum
 
 ###### Species Tomentypnum nitens (Hedw.) Loeske
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12173>.
@@ -19559,22 +22658,32 @@ Reference:
 
 ###### Species Calliergon cordifolium (Hedw.) Kindb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12326>.
 
 ###### Species Calliergon giganteum (Schimp.) Kindb.
 
+Establishment means: native
+
 ###### Species Calliergon stramineum (Brid.) Kindb.
+
+Establishment means: native
 
 ###### Genus Hamatocaulis
 
 ###### Species Hamatocaulis vernicosus (Mitt.) HedenÃ¤s
+
+Establishment means: native
 
 ###### Family Climaciaceae
 
 ###### Genus Climacium
 
 ###### Species Climacium dendroides (Hedw.) Web. & Mohr
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=507902>.
@@ -19585,15 +22694,21 @@ Reference:
 
 ###### Species Helodium blandowii (Web. & Mohr) Warnst.
 
+Establishment means: native
+
 ###### Family Hylocomiaceae
 
 ###### Genus Hylocomiastrum
 
 ###### Species Hylocomiastrum umbratum (Hedw.) Fleisch. in Broth.
 
+Establishment means: native
+
 ###### Genus Hylocomium
 
 ###### Species Hylocomium splendens (Hedw.) Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11697>.
@@ -19602,6 +22717,8 @@ Reference:
 
 ###### Species Pleurozium schreberi (Brid.) Mitt.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11719>.
 
@@ -19609,12 +22726,18 @@ Reference:
 
 ###### Species Rhytidiadelphus loreus (Hedw.) Warnst.
 
+Establishment means: native
+
 ###### Species Rhytidiadelphus squarrosus (Hedw.) Warnst.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11676>.
 
 ###### Species Rhytidiadelphus triquetrus (Hedw.) Warnst.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=113661>.
@@ -19625,16 +22748,24 @@ Reference:
 
 ###### Species Hypnum circinale Hook.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12224>.
 
 ###### Species Hypnum revolutum (Mitt.) Lindb.
 
+Establishment means: native
+
 ###### Species Hypnum subimponens Lesq.
+
+Establishment means: native
 
 ###### Genus Isopterygiopsis
 
 ###### Species Isopterygiopsis muelleriana (Schimp.) Iwats.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11760>.
@@ -19643,9 +22774,13 @@ Reference:
 
 ###### Species Pseudotaxiphyllum elegans (Brid.) Iwats.
 
+Establishment means: native
+
 ###### Genus Ptilium
 
 ###### Species Ptilium crista-castrensis (Hedw.) De Not.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12009>.
@@ -19653,6 +22788,8 @@ Reference:
 ###### Genus Pylaisiella
 
 ###### Species Pylaisiella polyantha (Hedw.) Grout
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11988>.
@@ -19663,21 +22800,29 @@ Reference:
 
 ###### Species Pseudoleskea incurvata (Hedw.) Loeske
 
+Establishment means: native
+
 ###### Family Plagiotheciaceae
 
 ###### Genus Plagiothecium
 
 ###### Species Isopterygium piliferum (Sw. ex Hartm.) Loeske
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11591>.
 
 ###### Species Plagiothecium denticulatum (Hedw.) Schimp. in B.S.G.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=274801>.
 
 ###### Species Plagiothecium laetum Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12042>.
@@ -19688,11 +22833,15 @@ Reference:
 
 ###### Species Myurella sibirica (C. MÃ¼ll.) Reim.
 
+Establishment means: native
+
 ###### Family Rhytidiaceae
 
 ###### Genus Rhytidium
 
 ###### Species Rhytidium rugosum (Hedw.) Kindb.
+
+Establishment means: native
 
 ##### Order Orthotrichales
 
@@ -19702,10 +22851,14 @@ Reference:
 
 ###### Species Orthotrichum obtusifolium Brid.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12221>.
 
 ###### Species Orthotrichum rupestre Schleich. ex Schwaegr.
+
+Establishment means: native
 
 ##### Order Pottiales
 
@@ -19715,15 +22868,23 @@ Reference:
 
 ###### Species Desmatodon latifolius (Hedw.) Brid.
 
+Establishment means: native
+
 ###### Genus Tortella
 
 ###### Species Tortella tortuosa (Hedw.) Limpr.
+
+Establishment means: native
 
 ###### Genus Tortula
 
 ###### Species Tortula norvegica (Web.) Wahlenb. ex Lindb.
 
+Establishment means: native
+
 ###### Species Tortula ruralis (Hedw.) Gaertn. et al.
+
+Establishment means: native
 
 ##### Order Rhizogoniales
 
@@ -19733,15 +22894,21 @@ Reference:
 
 ###### Species Aulacomnium androgynum (Hedw.) Schwaegr.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=361942>.
 
 ###### Species Aulacomnium palustre (Hedw.) Schwaegr.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11830>.
 
 ###### Species Aulacomnium turgidum (Wahlenb.) Schwaegr.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=162570>.
@@ -19754,10 +22921,14 @@ Reference:
 
 ###### Species Meesia longiseta Hedw.
 
+Establishment means: native
+
 Reference: 
 <http://www.ncbi.nlm.nih.gov/nuccore/KC333337.1>.
 
 ###### Species Meesia uliginosa Hedw.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=327360>.
@@ -19765,6 +22936,8 @@ Reference:
 ###### Genus Paludella
 
 ###### Species Paludella squarrosa (Hedw.) Brid.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=246512>.
@@ -19775,10 +22948,14 @@ Reference:
 
 ###### Species Splachnum luteum Hedw.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Herb:373>.
 
 ###### Species Splachnum sphaericum Hedw.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/806448>.
@@ -19787,10 +22964,14 @@ Reference:
 
 ###### Species Tetraplodon angustatus (Hedw.) Bruch & Schimp. in B.S.G.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12128>.
 
 ###### Species Tetraplodon mnioides (Hedw.) Bruch & Schimp. in B.S.G.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=324517>.
@@ -19802,6 +22983,8 @@ Reference:
 ###### Genus Timmia
 
 ###### Species Timmia austriaca Hedw.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=726036>.
@@ -19816,11 +22999,17 @@ Reference:
 
 ###### Species Pogonatum contortum (Brid.) Lesq.
 
+Establishment means: native
+
 ###### Species Pogonatum urnigerum (Hedw.) P. Beauv.
+
+Establishment means: native
 
 ###### Genus Polytrichastrum
 
 ###### Species Polytrichastrum alpinum (Hedw.) G.L. Sm.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=147217>.
@@ -19829,23 +23018,37 @@ Reference:
 
 ###### Species Polytrichum commune Hedw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12044>.
 
 ###### Species Polytrichum juniperinum Hedw.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=728728>.
 
 ###### Species Polytrichum longisetum Brid.
 
+Establishment means: native
+
 ###### Species Polytrichum lyallii (Mitt.) Kindb.
+
+Establishment means: native
 
 ###### Species Polytrichum piliferum Hedw.
 
+Establishment means: native
+
 ###### Species Polytrichum sexangulare Brid.
 
+Establishment means: native
+
 ###### Species Polytrichum strictum Brid.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12196>.
@@ -19860,86 +23063,124 @@ Reference:
 
 ###### Species Sphagnum angustifolium (C. Jens. ex Russ.) C. Jens. in Tolf
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11725>.
 
 ###### Species Sphagnum balticum (Russ.) C. Jens.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=1189745>.
 
 ###### Species Sphagnum capillifolium (Ehrh.) Hedw.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11855>.
 
 ###### Species Sphagnum compactum DC. in Lam. & DC.
 
+Establishment means: native
+
 ###### Species Sphagnum contortum Schultz
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12286>.
 
 ###### Species Sphagnum fuscum (Schimp.) Klinggr.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11728>.
 
 ###### Species Sphagnum girgensohnii Russ.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=66755>.
 
 ###### Species Sphagnum jensenii H. Lindb.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11729>.
 
 ###### Species Sphagnum magellanicum Brid.
+
+Establishment means: native
 
 Reference: 
 <https://biocache.ala.org.au/occurrences/c528879d-f3ef-4b0d-800e-bf63b20f8f31>.
 
 ###### Species Sphagnum nitidum Warnst.
 
+Establishment means: native
+
 ###### Species Sphagnum papillosum Lindb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11730>.
 
 ###### Species Sphagnum riparium Ã…ngstr.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=662107>.
 
 ###### Species Sphagnum rubellum Wils.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11827>.
 
 ###### Species Sphagnum russowii Warnst.
 
+Establishment means: native
+
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=221133>.
 
 ###### Species Sphagnum squarrosum Crome
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11741>.
 
 ###### Species Sphagnum steerei Andrus
 
+Establishment means: native
+
 ###### Species Sphagnum subsecundum Nees in Sturm
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=1192725>.
 
 ###### Species Sphagnum teres (Schimp.) Ã…ngstr. in Hartm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11742>.
 
 ###### Species Sphagnum warnstorfii Russ.
+
+Establishment means: native
 
 #### Class Tetraphidopsida
 
@@ -19950,6 +23191,8 @@ Reference:
 ###### Genus Tetraphis
 
 ###### Species Tetraphis pellucida Hedw.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11991>.
@@ -19966,6 +23209,8 @@ Reference:
 
 ###### Species Elakatothrix gelatinosa Wille, 1898
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1008>.
 
@@ -19981,6 +23226,8 @@ Reference:
 
 ###### Species Chlamydomonas dinobryonii G. M. Smith, 1920
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1005>.
 
@@ -19993,6 +23240,8 @@ Reference:
 ###### Genus Enteromorpha
 
 ###### Species Enteromorpha intestinalis (Linnaeus) Link
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/6612361>.
@@ -20009,15 +23258,23 @@ Reference:
 
 ###### Species Anastrophyllum minutum (Schreb.) R.M. Schust.
 
+Establishment means: native
+
 ###### Genus Neoorthocaulis
 
 ###### Species Barbilophozia attenuata (Mart.) Loeske
+
+Establishment means: native
 
 ###### Genus Barbilophozia
 
 ###### Species Barbilophozia barbata (Schmidel ex Schreb.) Loeske
 
+Establishment means: native
+
 ###### Species Barbilophozia hatcheri (A. Evans) Loeske
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=262131>.
@@ -20026,21 +23283,31 @@ Reference:
 
 ###### Species Barbilophozia kunzeana (Huebener) MÃ¼ll. Frib.
 
+Establishment means: native
+
 ###### Genus Barbilophozia
 
 ###### Species Barbilophozia lycopodioides (Wallr.) Loeske
+
+Establishment means: native
 
 ###### Genus Schljakovianthus
 
 ###### Species Barbilophozia quadriloba (Lindb.) Loeske
 
+Establishment means: native
+
 ###### Genus Tetralophozia
 
 ###### Species Chandonanthus setiformis (Ehrh.) Lindb.
 
+Establishment means: native
+
 ###### Genus Gymnocolea
 
 ###### Species Gymnocolea inflata (Huds.) Dumort.
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=493000>.
@@ -20049,13 +23316,19 @@ Reference:
 
 ###### Species Lophozia bicrenata (Schmidel ex Hoffm.) Dumort.
 
+Establishment means: native
+
 ###### Genus Barbilophozia
 
 ###### Species Lophozia sudetica (Nees ex Huebener) Grolle
 
+Establishment means: native
+
 ###### Genus Tetralophozia
 
 ###### Species Tetralophozia setiformis (Ehrh.) Schljakov
+
+Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=461062>.
@@ -20066,13 +23339,19 @@ Reference:
 
 ###### Species Blepharostoma trichophyllum (L.) Dumort.
 
+Establishment means: native
+
 ###### Family Calypogeiaceae
 
 ###### Genus Calypogeia
 
 ###### Species Calypogeia neesiana (C. Massal. & Carestia) MÃ¼ll. Frib.
 
+Establishment means: native
+
 ###### Species Calypogeia sphagnicola (Arnell & J. Perss.) Warnst. & Loeske
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11653>.
@@ -20083,6 +23362,8 @@ Reference:
 
 ###### Species Cephalozia bicuspidata (L.) Dumort.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12178>.
 
@@ -20090,13 +23371,19 @@ Reference:
 
 ###### Species Cephalozia lunulifolia (Dumort.) Dumort.
 
+Establishment means: native
+
 ###### Species Pleurocladula albescens (Hook.) Grolle
+
+Establishment means: native
 
 ###### Family Cephaloziellaceae
 
 ###### Genus Cephaloziella
 
 ###### Species Cephaloziella divaricata (Sm.) Schiffn.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11578>.
@@ -20105,27 +23392,39 @@ Reference:
 
 ###### Species Lophozia obtusa (Lindb.) A. Evans
 
+Establishment means: native
+
 ###### Family Gymnomitriaceae
 
 ###### Genus Gymnomitrion
 
 ###### Species Gymnomitrion corralioides Nees
 
+Establishment means: native
+
 ###### Species Gymnomitrion pacificum Grolle
+
+Establishment means: native
 
 ###### Genus Marsupella
 
 ###### Species Marsupella condensata (Ã…ngstr. ex C. Hartm.) Lindb. ex Kaal.
 
+Establishment means: native
+
 ###### Genus Nardia
 
 ###### Species Nardia scalaris Gray
+
+Establishment means: native
 
 ###### Family Jungermanniaceae
 
 ###### Genus Mesoptychia
 
 ###### Species Leiocolea badensis (Gottsche ex Rabenh.) JÃ¸rg.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12249>.
@@ -20136,17 +23435,23 @@ Reference:
 
 ###### Species Lepidozia reptans (L.) Dumort.
 
+Establishment means: native
+
 ###### Family Lophocoleaceae
 
 ###### Genus Lophocolea
 
 ###### Species Lophocolea heterophylla (Schrad.) Dumort.
 
+Establishment means: native
+
 ###### Family Lophoziaceae
 
 ###### Genus Lophoziopsis
 
 ###### Species Lophozia longidens (Lindb.) Macoun
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11610>.
@@ -20155,6 +23460,8 @@ Reference:
 
 ###### Species Lophozia ventricosa (Dicks.) Dumort.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11570>.
 
@@ -20162,12 +23469,16 @@ Reference:
 
 ###### Species Tritomaria exsectiformis (Breidl.) Schiffn. ex Loeske
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:12174>.
 
 ###### Genus Trilophozia
 
 ###### Species Tritomaria quinquedentata (Huds.) H. Buch
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11623>.
@@ -20178,10 +23489,14 @@ Reference:
 
 ###### Species Mylia anomala (Hook.) Gray
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11712>.
 
 ###### Species Mylia taylorii (Hook.) Gray
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11714>.
@@ -20192,17 +23507,27 @@ Reference:
 
 ###### Species Diplophyllum obtusifolium (Hook.) Dumort.
 
+Establishment means: native
+
 ###### Species Diplophyllum taxifolium (Wahlenb.) Dumort.
+
+Establishment means: native
 
 ###### Genus Schistochilopsis
 
 ###### Species Lophozia incisa (Schrad.) Dumort.
 
+Establishment means: native
+
 ###### Genus Scapania
 
 ###### Species Scapania hyperborea JÃ¸rg.
 
+Establishment means: native
+
 ###### Species Scapania scandica (Arnell & H. Buch) Macvicar
+
+Establishment means: native
 
 ##### Order Metzgeriales
 
@@ -20212,6 +23537,8 @@ Reference:
 
 ###### Species Aneura pinguis (L.) Dumort.
 
+Establishment means: native
+
 ##### Order Porellales
 
 ###### Family Porellaceae
@@ -20219,6 +23546,8 @@ Reference:
 ###### Genus Porella
 
 ###### Species Porella cordaeana (Huebener) Moore
+
+Establishment means: native
 
 ##### Order Ptilidiales
 
@@ -20228,10 +23557,14 @@ Reference:
 
 ###### Species Ptilidium ciliare (L.) Hampe
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11687>.
 
 ###### Species Ptilidium pulcherrimum (Weber) Vain.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12051>.
@@ -20246,11 +23579,15 @@ Reference:
 
 ###### Species Conocephalum conicum (L.) Dumort.
 
+Establishment means: native
+
 ###### Family Marchantiaceae
 
 ###### Genus Marchantia
 
 ###### Species Marchantia polymorpha L.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/47421037>.
@@ -20267,12 +23604,16 @@ Reference:
 
 ###### Species Isoetes echinospora Durieu
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:4657>, 
 <http://arctos.database.museum/guid/UAM:Herb:5391>, 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Isoetes maritima Underw.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:4655>.
@@ -20285,6 +23626,8 @@ Reference:
 
 ###### Species Huperzia selago (L.) Bernh. ex Schrank & Mart.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11295>.
 
@@ -20292,25 +23635,35 @@ Reference:
 
 ###### Species Lycopodium alpinum L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1459>.
 
 ###### Species Lycopodium annotinum L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10813>.
 
 ###### Species Lycopodium clavatum L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11484>.
 
 ###### Species Lycopodium complanatum L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/1290853>.
 
 ###### Species Lycopodium lagopus (Laest. ex Hartm.) G. Zinserl. ex Kuzen.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10809>.
@@ -20325,6 +23678,8 @@ Reference:
 
 ###### Species Sagittaria cuneata E. Sheld.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/33451572>.
 
@@ -20333,6 +23688,8 @@ Reference:
 ###### Genus Calla
 
 ###### Species Calla palustris L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10420>, 
@@ -20344,11 +23701,15 @@ References:
 
 ###### Species Lemna minor L.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:20823>, 
 <http://www.inaturalist.org/observations/6903405>.
 
 ###### Species Lemna trisulca L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:20824>, 
@@ -20357,6 +23718,8 @@ References:
 ###### Genus Spirodela
 
 ###### Species Spirodela polyrhiza (L.) Schleid.
+
+Establishment means: uncertain
 
 Reference: 
 <https://www.inaturalist.org/observations/59163202>.
@@ -20367,10 +23730,14 @@ Reference:
 
 ###### Species Triglochin maritima L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11288>.
 
 ###### Species Triglochin palustris L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:25616>.
@@ -20381,10 +23748,14 @@ Reference:
 
 ###### Species Potamogeton gramineus L.
 
+Establishment means: native
+
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Potamogeton natans L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:7021>, 
@@ -20392,15 +23763,21 @@ References:
 
 ###### Species Potamogeton obtusifolius Mert. & W.D.J. Koch
 
+Establishment means: native
+
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Potamogeton praelongus Wulfen
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/33452912>.
 
 ###### Species Potamogeton pusillus L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:7015>, 
@@ -20408,10 +23785,14 @@ References:
 
 ###### Species Potamogeton richardsonii (A. Benn.) Rydb.
 
+Establishment means: native
+
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Potamogeton robbinsii Oakes
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10395>, 
@@ -20420,12 +23801,16 @@ References:
 
 ###### Species Potamogeton zosteriformis Fernald
 
+Establishment means: native
+
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Genus Stuckenia
 
 ###### Species Stuckenia filiformis (Pers.) BÃ¶rner
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10957>.
@@ -20436,6 +23821,8 @@ Reference:
 
 ###### Species Scheuchzeria palustris L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:1476>.
 
@@ -20445,12 +23832,16 @@ Reference:
 
 ###### Species Tofieldia coccinea Richardson
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11516>.
 
 ###### Genus Triantha
 
 ###### Species Triantha glutinosa (Michx.) Baker
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/3744065>.
@@ -20463,7 +23854,11 @@ Reference:
 
 ###### Species Angelica genuflexa Nutt.
 
+Establishment means: native
+
 ###### Species Angelica lucida L.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/6633100>.
@@ -20472,10 +23867,14 @@ Reference:
 
 ###### Species Cicuta douglasii (DC.) J.M. Coult. & Rose
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:21623>.
 
 ###### Species Cicuta virosa L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10408>.
@@ -20484,12 +23883,16 @@ Reference:
 
 ###### Species Conioselinum chinense (L.) Britton, Sterns & Poggenb.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/6613441>.
 
 ###### Genus Heracleum
 
 ###### Species Heracleum sphondylium L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114270>.
@@ -20498,6 +23901,8 @@ Reference:
 
 ###### Species Ligusticum scoticum L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/6614061>.
 
@@ -20505,11 +23910,15 @@ Reference:
 
 ###### Species Osmorhiza depauperata Phil.
 
+Establishment means: native
+
 ###### Family Araliaceae
 
 ###### Genus Oplopanax
 
 ###### Species Oplopanax horridus (Sm.) Miq.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/115156>.
@@ -20522,6 +23931,8 @@ Reference:
 
 ###### Species Allium schoenoprasum L.
 
+Establishment means: exotic
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1470>, 
 <http://arctos.database.museum/guid/KNWR:Herb:666>.
@@ -20532,11 +23943,15 @@ References:
 
 ###### Species Maianthemum stellatum (L.) Link
 
+Establishment means: native
+
 ###### Family Iridaceae
 
 ###### Genus Iris
 
 ###### Species Iris setosa Pall. ex Link
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1755002>.
@@ -20547,6 +23962,8 @@ Reference:
 
 ###### Species Goodyera repens (L.) R. Br.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/877795>.
 
@@ -20554,12 +23971,16 @@ Reference:
 
 ###### Species Listera cordata (L.) R. Br.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Herb:820>.
 
 ###### Genus Malaxis
 
 ###### Species Malaxis paludosa (L.) Sw.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:20834>, 
@@ -20569,6 +23990,8 @@ References:
 
 ###### Species Neottia cordata (L.) Rich.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Herb:105>.
 
@@ -20576,14 +23999,20 @@ Reference:
 
 ###### Species Platanthera dilatata (Pursh) Lindl. ex L.C. Beck
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/3744426>.
 
 ###### Species Platanthera obtusata (Banks ex Pursh) Lindl.
 
+Establishment means: native
+
 ###### Genus Spiranthes
 
 ###### Species Spiranthes romanzoffiana Cham.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1754992>.
@@ -20596,11 +24025,15 @@ Reference:
 
 ###### Species Achillea millefolium L.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:735>, 
 <http://arctos.database.museum/guid/KNWR:Herb:8937>.
 
 ###### Species Achillea ptarmica L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10508>.
@@ -20609,15 +24042,21 @@ Reference:
 
 ###### Species Antennaria alpina (L.) Gaertn.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:734>.
 
 ###### Species Antennaria monocephala DC.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:733>.
 
 ###### Species Antennaria rosea Greene
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:58230>.
@@ -20626,16 +24065,22 @@ Reference:
 
 ###### Species Arnica chamissonis Less.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10517>.
 
 ###### Species Arnica latifolia Bong.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10379>, 
 <http://www.inaturalist.org/observations/114285>.
 
 ###### Species Arnica lessingii Greene
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57297>.
@@ -20644,10 +24089,14 @@ Reference:
 
 ###### Species Artemisia norvegica Fr.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10377>.
 
 ###### Species Artemisia tilesii Ledeb.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/2138363>.
@@ -20656,12 +24105,16 @@ Reference:
 
 ###### Species Centaurea cyanus L.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/4051562>.
 
 ###### Genus Chrysanthemum
 
 ###### Species Chrysanthemum arcticum L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:58108>.
@@ -20670,9 +24123,13 @@ Reference:
 
 ###### Species Cirsium arvense (L.) Scop.
 
+Establishment means: exotic
+
 ###### Genus Cosmos
 
 ###### Species Cosmos bipinnatus Cav.
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/4051570>.
@@ -20681,6 +24138,8 @@ Reference:
 
 ###### Species Crepis tectorum L.
 
+Establishment means: exotic
+
 Reference: 
 <https://www.inaturalist.org/observations/1831836>.
 
@@ -20688,20 +24147,28 @@ Reference:
 
 ###### Species Erigeron acris L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10526>.
 
 ###### Species Erigeron compositus Pursh
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10344>.
 
 ###### Species Erigeron humilis Graham
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:732>.
 
 ###### Species Erigeron peregrinus (Banks ex Pursh) Greene
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11507>.
@@ -20710,6 +24177,8 @@ Reference:
 
 ###### Species Eurybia sibirica (L.) G.L. Nesom
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/114298>.
 
@@ -20717,18 +24186,28 @@ Reference:
 
 ###### Species Helianthus annuus L.
 
+Establishment means: exotic
+
 ###### Genus Hieracium
 
 ###### Species Hieracium aurantiacum L.
 
+Establishment means: exotic
+
 ###### Species Hieracium caespitosum Dumort.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10435>.
 
 ###### Species Hieracium triste Willd. ex Spreng.
 
+Establishment means: native
+
 ###### Species Hieracium umbellatum L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10434>.
@@ -20737,6 +24216,8 @@ Reference:
 
 ###### Species Leontodon autumnalis L.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/3893773>.
 
@@ -20744,10 +24225,14 @@ Reference:
 
 ###### Species Leucanthemum maximum (Ramond) DC.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/8157380>.
 
 ###### Species Leucanthemum vulgare Lam.
+
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/50060518>.
@@ -20755,6 +24240,8 @@ Reference:
 ###### Genus Matricaria
 
 ###### Species Matricaria discoidea DC.
+
+Establishment means: exotic
 
 References: 
 <http://www.inaturalist.org/observations/1790237>, 
@@ -20765,7 +24252,11 @@ References:
 
 ###### Species Packera cymbalaria (Pursh) W.A. Weber & Ã. LÃ¶ve
 
+Establishment means: native
+
 ###### Species Packera indecora (Greene) Ã. LÃ¶ve & D. LÃ¶ve
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10532>, 
@@ -20776,12 +24267,16 @@ References:
 
 ###### Species Petasites frigidus (L.) Fr.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10574>.
 
 ###### Genus Psilocarphus
 
 ###### Species Psilocarphus elatior (A. Gray) A. Gray
+
+Establishment means: exotic
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10560>.
@@ -20790,23 +24285,35 @@ Reference:
 
 ###### Species Senecio integerrimus Nutt.
 
+Establishment means: exotic
+
 ###### Species Senecio lugens Richardson
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11493>.
 
 ###### Species Senecio triangularis Hook.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:736>.
 
 ###### Species Senecio vulgaris L.
 
+Establishment means: exotic
+
 ###### Genus Solidago
 
 ###### Species Solidago canadensis L.
 
+Establishment means: native
+
 ###### Species Solidago multiradiata Aiton
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:731>, 
@@ -20819,13 +24326,19 @@ References:
 
 ###### Species Sonchus arvensis L.
 
+Establishment means: exotic
+
 ###### Genus Tanacetum
 
 ###### Species Tanacetum vulgare L.
 
+Establishment means: exotic
+
 ###### Genus Taraxacum
 
 ###### Species Taraxacum ceratophorum (Ledeb.) DC.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10448>, 
@@ -20838,10 +24351,14 @@ References:
 
 ###### Species Taraxacum erythrospermum Andrz. ex Besser
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6664>.
 
 ###### Species Taraxacum officinale F.H. Wigg.
+
+Establishment means: exotic
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:726>, 
@@ -20854,6 +24371,8 @@ References:
 
 ###### Species Taraxacum phymatocarpum J. Vahl
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:738>.
 
@@ -20861,16 +24380,22 @@ Reference:
 
 ###### Species Tripleurospermum inodorum (L.) Sch. Bip.
 
+Establishment means: exotic
+
 ###### Family Campanulaceae
 
 ###### Genus Campanula
 
 ###### Species Campanula lasiocarpa Cham.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11534>.
 
 ###### Species Campanula rotundifolia L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10347>, 
@@ -20881,6 +24406,8 @@ References:
 ###### Genus Menyanthes
 
 ###### Species Menyanthes trifoliata L.
+
+Establishment means: native
 
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
@@ -20893,13 +24420,19 @@ Reference:
 
 ###### Species Asperugo procumbens L.
 
+Establishment means: exotic
+
 ###### Genus Cryptantha
 
 ###### Species Cryptantha torreyana (A. Gray) Greene
 
+Establishment means: exotic
+
 ###### Genus Mertensia
 
 ###### Species Mertensia paniculata (Aiton) G. Don
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10561>.
@@ -20908,12 +24441,16 @@ Reference:
 
 ###### Species Myosotis asiatica (Vestergr.) Schischk. & Serg.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10371>, 
 <http://arctos.database.museum/guid/KNWR:Herb:742>, 
 <http://arctos.database.museum/guid/KNWR:Herb:743>.
 
 ###### Species Myosotis scorpioides L.
+
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/52625632>.
@@ -20922,11 +24459,15 @@ Reference:
 
 ###### Species Symphytum officinale L.
 
+Establishment means: exotic
+
 ###### Family Hydrophyllaceae
 
 ###### Genus Nemophila
 
 ###### Species Nemophila menziesii Hook. & Arn.
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/4055531>.
@@ -20939,12 +24480,16 @@ Reference:
 
 ###### Species Arabidopsis lyrata (L.) O'Kane & Al-Shehbaz
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10563>.
 
 ###### Genus Arabis
 
 ###### Species Arabis hirsuta (L.) Scop.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1467>, 
@@ -20954,12 +24499,16 @@ References:
 
 ###### Species Barbarea orthoceras Ledeb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10564>.
 
 ###### Genus Brassica
 
 ###### Species Brassica rapa L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10565>.
@@ -20968,6 +24517,8 @@ Reference:
 
 ###### Species Capsella bursa-pastoris (L.) Medik.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10566>.
 
@@ -20975,15 +24526,21 @@ Reference:
 
 ###### Species Cardamine bellidifolia L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11541>.
 
 ###### Species Cardamine pratensis L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:58228>.
 
 ###### Species Cardamine umbellata Greene
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:681>.
@@ -20992,23 +24549,33 @@ Reference:
 
 ###### Species Draba borealis DC.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10577>.
 
 ###### Species Draba incerta Payson
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10366>.
 
 ###### Species Draba juvenilis Kom.
 
+Establishment means: native
+
 ###### Species Draba nivalis Lilj.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10345>, 
 <http://arctos.database.museum/guid/KNWR:Herb:10368>.
 
 ###### Species Draba stenoloba Ledeb.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:683>.
@@ -21017,10 +24584,14 @@ Reference:
 
 ###### Species Erysimum cheiranthoides L.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10569>.
 
 ###### Species Erysimum X marshallii (Henfr.) Bois
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/4050320>.
@@ -21029,15 +24600,23 @@ Reference:
 
 ###### Species Lepidium densiflorum Schrad.
 
+Establishment means: exotic
+
 ###### Species Lepidium ramosissimum A. Nelson
+
+Establishment means: exotic
 
 ###### Genus Rorippa
 
 ###### Species Rorippa palustris (L.) Besser
 
+Establishment means: native
+
 ###### Genus Sinapis
 
 ###### Species Sinapis arvensis L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10571>.
@@ -21046,6 +24625,8 @@ Reference:
 
 ###### Species Subularia aquatica L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:20784>.
 
@@ -21053,9 +24634,13 @@ Reference:
 
 ###### Species Thlaspi arvense L.
 
+Establishment means: exotic
+
 ###### Genus Turritis
 
 ###### Species Turritis glabra L.
+
+Establishment means: exotic
 
 ##### Order Caryophyllales
 
@@ -21065,15 +24650,21 @@ Reference:
 
 ###### Species Chenopodium album L.
 
+Establishment means: exotic
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8868>, 
 <http://arctos.database.museum/guid/KNWR:Herb:8869>.
 
 ###### Species Chenopodium berlandieri Moq.
 
+Establishment means: exotic
+
 ###### Genus Salicornia
 
 ###### Species Salicornia maritima S.L. Wolff & Jefferies
+
+Establishment means: native
 
 ###### Family Caryophyllaceae
 
@@ -21081,20 +24672,28 @@ References:
 
 ###### Species Cerastium arvense L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10346>.
 
 ###### Species Cerastium beeringianum Cham. & Schltdl.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10349>.
 
 ###### Species Cerastium fischerianum Ser.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10606>.
 
 ###### Species Cerastium fontanum Baumg.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10611>.
@@ -21103,7 +24702,11 @@ Reference:
 
 ###### Species Dianthus deltoides L.
 
+Establishment means: exotic
+
 ###### Species Dianthus repens Willd.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:673>.
@@ -21112,6 +24715,8 @@ Reference:
 
 ###### Species Gypsophila elegans M. Bieb.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/4051613>.
 
@@ -21119,15 +24724,21 @@ Reference:
 
 ###### Species Minuartia arctica (Steven ex Ser.) Graebn.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11227>.
 
 ###### Species Minuartia macrocarpa (Pursh) Ostenf.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11408>.
 
 ###### Species Minuartia rubella (Wahlenb.) Hiern
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:670>.
@@ -21136,6 +24747,8 @@ Reference:
 
 ###### Species Moehringia lateriflora (L.) Fenzl
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:671>.
 
@@ -21143,25 +24756,35 @@ Reference:
 
 ###### Species Silene acaulis (L.) Jacq.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10369>, 
 <http://arctos.database.museum/guid/KNWR:Herb:672>.
 
 ###### Species Silene armeria L.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/4051463>.
 
 ###### Species Silene latifolia Poir.
+
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/1789902>.
 
 ###### Species Silene noctiflora L.
 
+Establishment means: exotic
+
 ###### Genus Spergula
 
 ###### Species Spergula arvensis L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10619>.
@@ -21170,6 +24793,8 @@ Reference:
 
 ###### Species Spergularia rubra (L.) J. Presl & C. Presl
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10610>.
 
@@ -21177,22 +24802,32 @@ Reference:
 
 ###### Species Stellaria calycantha (Ledeb.) Bong.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10603>.
 
 ###### Species Stellaria crispa Cham. & Schltdl.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:668>.
 
 ###### Species Stellaria humifusa Rottb.
 
+Establishment means: native
+
 ###### Species Stellaria longipes Goldie
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:669>.
 
 ###### Species Stellaria media (L.) Vill.
+
+Establishment means: exotic
 
 References: 
 <http://www.inaturalist.org/observations/1788034>, 
@@ -21204,10 +24839,14 @@ References:
 
 ###### Species Drosera anglica Huds.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/115164>.
 
 ###### Species Drosera rotundifolia L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:688>.
@@ -21218,6 +24857,8 @@ Reference:
 
 ###### Species Claytonia sarmentosa C.A. Mey.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:57303>.
 
@@ -21227,6 +24868,8 @@ Reference:
 
 ###### Species Bistorta vivipara (L.) Gray
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10363>.
 
@@ -21234,9 +24877,13 @@ Reference:
 
 ###### Species Fallopia convolvulus (L.) Ã. LÃ¶ve
 
+Establishment means: exotic
+
 ###### Genus Oxyria
 
 ###### Species Oxyria digyna (L.) Hill
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10941>.
@@ -21245,12 +24892,16 @@ Reference:
 
 ###### Species Persicaria amphibia (L.) Delarbre
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10404>, 
 <http://arctos.database.museum/guid/UAM:Herb:57364>, 
 <http://www.inaturalist.org/observations/117218>.
 
 ###### Species Persicaria maculosa Gray
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/1639207>.
@@ -21259,29 +24910,41 @@ Reference:
 
 ###### Species Polygonum aviculare L.
 
+Establishment means: exotic
+
 ###### Genus Rumex
 
 ###### Species Rumex acetosella L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10949>.
 
 ###### Species Rumex arcticus Trautv.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11304>.
 
 ###### Species Rumex crispus L.
+
+Establishment means: exotic
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6752>.
 
 ###### Species Rumex longifolius DC.
 
+Establishment means: exotic
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6751>.
 
 ###### Species Rumex occidentalis S. Watson
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10491>.
@@ -21294,6 +24957,8 @@ Reference:
 
 ###### Species Parnassia palustris L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11144>.
 
@@ -21305,10 +24970,14 @@ Reference:
 
 ###### Species Cornus canadensis L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10626>.
 
 ###### Species Cornus suecica L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:718>.
@@ -21321,12 +24990,16 @@ Reference:
 
 ###### Species Adoxa moschatellina L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/3467705>.
 
 ###### Genus Sambucus
 
 ###### Species Sambucus racemosa L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114305>.
@@ -21335,16 +25008,22 @@ Reference:
 
 ###### Species Viburnum edule (Michx.) Raf.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10589>.
 
 ###### Species Viburnum opulus L.
+
+Establishment means: exotic
 
 ###### Family Linnaeaceae
 
 ###### Genus Linnaea
 
 ###### Species Linnaea borealis L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114278>.
@@ -21355,10 +25034,14 @@ Reference:
 
 ###### Species Valeriana capitata Pall. ex Link
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:730>.
 
 ###### Species Valeriana sitchensis Bong.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114297>.
@@ -21371,6 +25054,8 @@ Reference:
 
 ###### Species Impatiens noli-tangere L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/3893699>.
 
@@ -21379,6 +25064,8 @@ Reference:
 ###### Genus Diapensia
 
 ###### Species Diapensia lapponica L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11221>.
@@ -21389,6 +25076,8 @@ Reference:
 
 ###### Species Andromeda polifolia L.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:722>, 
 <http://www.inaturalist.org/observations/1790134>.
@@ -21397,6 +25086,8 @@ References:
 
 ###### Species Arctostaphylos uva-ursi (L.) Spreng.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:723>.
 
@@ -21404,19 +25095,27 @@ Reference:
 
 ###### Species Arctous alpina (L.) Nied.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:57313>.
 
 ###### Species Arctous rubra (Rehder & Wilson) Nakai
 
+Establishment means: native
+
 ###### Genus Cassiope
 
 ###### Species Cassiope lycopodioides (Pall.) D. Don
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10710>.
 
 ###### Species Cassiope tetragona (L.) D. Don
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11333>.
@@ -21425,12 +25124,16 @@ Reference:
 
 ###### Species Chamaedaphne calyculata (L.) Moench
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/12968342>.
 
 ###### Genus Empetrum
 
 ###### Species Empetrum nigrum L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:720>.
@@ -21439,7 +25142,11 @@ Reference:
 
 ###### Species Harrimanella hypnoides (L.) Coville
 
+Establishment means: native
+
 ###### Species Harrimanella stelleriana (Pall.) Coville
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10357>, 
@@ -21449,12 +25156,16 @@ References:
 
 ###### Species Kalmia procumbens (L.) Gift, Kron & P.F. Stevens ex Galasso, Banfi & F. Conti
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/7028180>.
 
 ###### Genus Menziesia
 
 ###### Species Menziesia ferruginea Sm.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:88>.
@@ -21463,12 +25174,16 @@ Reference:
 
 ###### Species Moneses uniflora (L.) A. Gray
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57411>.
 
 ###### Genus Orthilia
 
 ###### Species Orthilia secunda (L.) House
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:110>.
@@ -21477,6 +25192,8 @@ Reference:
 
 ###### Species Phyllodoce aleutica (Spreng.) Heller
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11292>.
 
@@ -21484,20 +25201,28 @@ Reference:
 
 ###### Species Pyrola asarifolia Michx.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10979>.
 
 ###### Species Pyrola chlorantha Sw.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57414>.
 
 ###### Species Pyrola grandiflora Radius
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57284>.
 
 ###### Species Pyrola minor L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11247>.
@@ -21506,10 +25231,14 @@ Reference:
 
 ###### Species Rhododendron groenlandicum (Oeder) Kron & Judd
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/7152587>.
 
 ###### Species Rhododendron tomentosum Harmaja
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11225>.
@@ -21518,20 +25247,28 @@ Reference:
 
 ###### Species Vaccinium cespitosum Michx.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11451>.
 
 ###### Species Vaccinium ovalifolium Sm.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11434>.
 
 ###### Species Vaccinium oxycoccos L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/1371259>.
 
 ###### Species Vaccinium uliginosum L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10359>, 
@@ -21540,6 +25277,8 @@ References:
 <http://www.inaturalist.org/observations/115168>.
 
 ###### Species Vaccinium vitis-idaea L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1341671>.
@@ -21550,12 +25289,18 @@ Reference:
 
 ###### Species Polemonium boreale Adams
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:740>.
 
 ###### Species Polemonium caeruleum L.
 
+Establishment means: native
+
 ###### Species Polemonium pulcherrimum Hook.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:741>.
@@ -21566,6 +25311,8 @@ Reference:
 
 ###### Species Androsace alaskana Coville & Standl. ex HultÃ©n
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10365>.
 
@@ -21573,12 +25320,16 @@ Reference:
 
 ###### Species Primula cuneifolia Ledeb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11296>.
 
 ###### Genus Trientalis
 
 ###### Species Trientalis europaea L.
+
+Establishment means: native
 
 ##### Order Fabales
 
@@ -21588,6 +25339,8 @@ Reference:
 
 ###### Species Astragalus alpinus L.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:708>, 
 <http://arctos.database.museum/guid/UAM:Herb:57283>, 
@@ -21596,10 +25349,14 @@ References:
 
 ###### Species Astragalus polaris (Seem.) Benth. ex Hook. f.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11354>.
 
 ###### Species Astragalus umbellatus Bunge
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/7024765>.
@@ -21608,9 +25365,13 @@ Reference:
 
 ###### Species Cytisus scoparius (L.) Link
 
+Establishment means: exotic
+
 ###### Genus Hedysarum
 
 ###### Species Hedysarum alpinum L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10738>.
@@ -21619,10 +25380,14 @@ Reference:
 
 ###### Species Lathyrus japonicus Willd.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/1790133>.
 
 ###### Species Lathyrus palustris L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:57285>, 
@@ -21633,6 +25398,8 @@ References:
 
 ###### Species Lotus corniculatus L.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/15434464>.
 
@@ -21640,15 +25407,21 @@ Reference:
 
 ###### Species Lupinus arcticus S. Watson
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:20816>.
 
 ###### Species Lupinus nootkatensis Donn ex Sims
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57339>.
 
 ###### Species Lupinus polyphyllus Lindl.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/14021495>.
@@ -21657,6 +25430,8 @@ Reference:
 
 ###### Species Medicago lupulina L.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/6932716>.
 
@@ -21664,10 +25439,14 @@ Reference:
 
 ###### Species Melilotus alba Medik.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10744>.
 
 ###### Species Melilotus officinalis (L.) Lam.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10741>.
@@ -21676,6 +25455,8 @@ Reference:
 
 ###### Species Oxytropis campestris (L.) DC.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:709>, 
 <http://arctos.database.museum/guid/KNWR:Herb:710>, 
@@ -21683,10 +25464,14 @@ References:
 
 ###### Species Oxytropis nigrescens (Pall.) Fisch. ex DC.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10351>.
 
 ###### Species Oxytropis splendens Douglas ex Hook.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10731>.
@@ -21695,15 +25480,21 @@ Reference:
 
 ###### Species Trifolium hybridum L.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10742>.
 
 ###### Species Trifolium pratense L.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/1819748>.
 
 ###### Species Trifolium repens L.
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/1789891>.
@@ -21711,6 +25502,8 @@ Reference:
 ###### Genus Vicia
 
 ###### Species Vicia cracca L.
+
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/33728931>.
@@ -21723,11 +25516,15 @@ Reference:
 
 ###### Species Alnus incana (L.) Moench
 
+Establishment means: native
+
 References: 
 <https://arctos.database.museum/guid/KNWR:Herb:10556>, 
 <https://arctos.database.museum/guid/UAM:Herb:20781>.
 
 ###### Species Alnus viridis (Chaix) DC.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Herb:749>.
@@ -21736,15 +25533,21 @@ Reference:
 
 ###### Species Betula glandulosa Michx.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11198>.
 
 ###### Species Betula kenaica W.H. Evans
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:57444>.
 
 ###### Species Betula nana L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:664>, 
@@ -21752,12 +25555,16 @@ References:
 
 ###### Species Betula neoalaskana Sarg.
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/6153789>, 
 <http://www.inaturalist.org/observations/6413787>, 
 <http://www.inaturalist.org/observations/6826733>.
 
 ###### Species Betula pendula Roth
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11556>.
@@ -21767,6 +25574,8 @@ Reference:
 ###### Genus Myrica
 
 ###### Species Myrica gale L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10805>.
@@ -21779,11 +25588,15 @@ Reference:
 
 ###### Species Gentiana douglasiana Bong.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:589>, 
 <http://arctos.database.museum/guid/KNWR:Herb:626>.
 
 ###### Species Gentiana glauca Pall.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114290>.
@@ -21792,12 +25605,16 @@ Reference:
 
 ###### Species Gentianella amarella (L.) BÃ¶rner
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/1790119>.
 
 ###### Genus Swertia
 
 ###### Species Swertia perennis L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/799853>.
@@ -21808,15 +25625,21 @@ Reference:
 
 ###### Species Galium boreale L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:747>.
 
 ###### Species Galium trifidum L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:1463>.
 
 ###### Species Galium triflorum Michx.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:101>.
@@ -21828,6 +25651,8 @@ Reference:
 ###### Genus Geranium
 
 ###### Species Geranium erianthum DC.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:712>, 
@@ -21841,7 +25666,11 @@ References:
 
 ###### Species Galeopsis bifida Boenn.
 
+Establishment means: exotic
+
 ###### Species Galeopsis tetrahit L.
+
+Establishment means: exotic
 
 ###### Family Lentibulariaceae
 
@@ -21849,10 +25678,14 @@ References:
 
 ###### Species Pinguicula villosa L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10403>.
 
 ###### Species Pinguicula vulgaris L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:57312>.
@@ -21861,11 +25694,15 @@ Reference:
 
 ###### Species Utricularia intermedia Hayne
 
+Establishment means: native
+
 References: 
 <http://www.inaturalist.org/observations/1620785>, 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Utricularia vulgaris L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1616552>.
@@ -21876,6 +25713,8 @@ Reference:
 
 ###### Species Boschniakia rossica (Cham. & Schltdl.) B. Fedtsch.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10339>, 
 <http://www.inaturalist.org/observations/799867>.
@@ -21883,6 +25722,8 @@ References:
 ###### Genus Castilleja
 
 ###### Species Castilleja unalaschcensis (Cham. & Schltdl.) Malte
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:744>, 
@@ -21893,6 +25734,8 @@ References:
 
 ###### Species Euphrasia mollis (Ledeb.) Wettst.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8829>.
 
@@ -21900,20 +25743,28 @@ Reference:
 
 ###### Species Pedicularis capitata M.F. Adams
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11190>.
 
 ###### Species Pedicularis labradorica Wirsing
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11488>.
 
 ###### Species Pedicularis lanata Cham. & Schltdl.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10342>.
 
 ###### Species Pedicularis macrodonta Richardson
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:610>, 
@@ -21921,10 +25772,14 @@ References:
 
 ###### Species Pedicularis parviflora Sm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:156970>.
 
 ###### Species Pedicularis verticillata L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:745>, 
@@ -21933,6 +25788,8 @@ References:
 ###### Genus Rhinanthus
 
 ###### Species Rhinanthus minor L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114303>.
@@ -21943,6 +25800,8 @@ Reference:
 
 ###### Species Mimulus guttatus DC.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/799839>.
 
@@ -21952,6 +25811,8 @@ Reference:
 
 ###### Species Callitriche palustris L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:129862>.
 
@@ -21959,11 +25820,15 @@ Reference:
 
 ###### Species Hippuris tetraphylla L. f.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:25530>, 
 <http://arctos.database.museum/guid/UAM:Herb:58238>.
 
 ###### Species Hippuris vulgaris L.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/799863>.
@@ -21972,6 +25837,8 @@ Reference:
 
 ###### Species Linaria vulgaris Mill.
 
+Establishment means: exotic
+
 Reference: 
 <https://www.inaturalist.org/observations/1790120>.
 
@@ -21979,11 +25846,15 @@ Reference:
 
 ###### Species Plantago major L.
 
+Establishment means: exotic
+
 References: 
 <http://www.inaturalist.org/observations/1790240>, 
 <http://www.inaturalist.org/observations/1832158>.
 
 ###### Species Plantago maritima L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:27732>.
@@ -21992,16 +25863,22 @@ Reference:
 
 ###### Species Veronica americana Schwein. ex Benth.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:613>, 
 <http://arctos.database.museum/guid/KNWR:Herb:650>.
 
 ###### Species Veronica peregrina L.
 
+Establishment means: exotic
+
 Reference: 
 <https://www.inaturalist.org/observations/57466121>.
 
 ###### Species Veronica wormskjoldii Roem. & Schult.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11438>.
@@ -22014,6 +25891,8 @@ Reference:
 
 ###### Species Fritillaria camschatcensis (L.) Ker Gawl.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1472>, 
 <http://www.inaturalist.org/observations/1780052>.
@@ -22022,12 +25901,16 @@ References:
 
 ###### Species Lloydia serotina (L.) Salisb. ex Rchb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11222>.
 
 ###### Genus Streptopus
 
 ###### Species Streptopus amplexifolius (L.) DC.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10798>.
@@ -22038,12 +25921,16 @@ Reference:
 
 ###### Species Anticlea elegans (Pursh) Rydb.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/7028695>.
 
 ###### Genus Veratrum
 
 ###### Species Veratrum viride Aiton
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114302>.
@@ -22056,10 +25943,14 @@ Reference:
 
 ###### Species Linum grandiflorum Desf.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/4050351>.
 
 ###### Species Linum perenne L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10539>.
@@ -22070,19 +25961,27 @@ Reference:
 
 ###### Species Populus hastata Dode
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Herb:759>.
 
 ###### Species Populus tremuloides Michx.
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/117206>.
 
 ###### Species Populus trichocarpa Torr. & A. Gray ex Hook.
 
+Establishment means: native
+
 ###### Genus Salix
 
 ###### Species Salix alaxensis (Andersson) Coville
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:630>, 
@@ -22090,10 +25989,14 @@ References:
 
 ###### Species Salix arctica Liebm.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11213>.
 
 ###### Species Salix barclayi Andersson
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:586>, 
@@ -22104,20 +26007,28 @@ References:
 
 ###### Species Salix bebbiana Sarg.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11058>.
 
 ###### Species Salix commutata Bebb
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11314>.
 
 ###### Species Salix fuscescens Andersson
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57387>.
 
 ###### Species Salix glauca L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:587>, 
@@ -22128,34 +26039,50 @@ References:
 
 ###### Species Salix lasiandra Benth.
 
+Establishment means: native
+
 ###### Species Salix myrtillifolia Andersson
+
+Establishment means: native
 
 Reference: 
 <https://plant.depo.msu.ru/open/public/item/MW0573339>.
 
 ###### Species Salix niphoclada Rydb.
 
+Establishment means: native
+
 ###### Species Salix ovalifolia Trautv.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11214>.
 
 ###### Species Salix pulchra Cham.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:20860>.
 
 ###### Species Salix reticulata L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10343>.
 
 ###### Species Salix scouleriana Barratt ex Hook.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:58127>.
 
 ###### Species Salix sitchensis Sanson ex Bong.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:8745>, 
@@ -22171,33 +26098,47 @@ References:
 
 ###### Species Salix stolonifera Coville
 
+Establishment means: native
+
 ###### Family Violaceae
 
 ###### Genus Viola
 
 ###### Species Viola adunca Sm.
 
+Establishment means: native
+
 ###### Species Viola epipsila Ledeb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11323>.
 
 ###### Species Viola glabella Nutt.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:713>.
 
 ###### Species Viola langsdorffii Fisch. ex Ging.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/13564250>.
 
 ###### Species Viola renifolia A. Gray
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/13564981>.
 
 ###### Species Viola selkirkii Pursh ex Goldie
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/13565077>.
@@ -22210,10 +26151,14 @@ Reference:
 
 ###### Species Chamerion angustifolium (L.) Holub
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/1790157>.
 
 ###### Species Chamerion latifolium (L.) Holub
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/1790218>, 
@@ -22223,6 +26168,8 @@ References:
 
 ###### Species Circaea alpina L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10533>.
 
@@ -22230,22 +26177,32 @@ Reference:
 
 ###### Species Epilobium anagallidifolium Lam.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57229>.
 
 ###### Species Epilobium ciliatum Raf.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/13895381>.
 
 ###### Species Epilobium hornemannii Rchb.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:717>.
 
 ###### Species Epilobium lactiflorum Hausskn.
 
+Establishment means: native
+
 ###### Species Epilobium palustre L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:716>.
@@ -22258,12 +26215,16 @@ Reference:
 
 ###### Species Nuphar lutea (L.) Sm.
 
+Establishment means: native
+
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Genus Nymphaea
 
 ###### Species Nymphaea tetragona Georgi
+
+Establishment means: native
 
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
@@ -22276,6 +26237,8 @@ Reference:
 
 ###### Species Carex aquatilis Wahlenb.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:593>, 
 <http://arctos.database.museum/guid/KNWR:Herb:624>, 
@@ -22283,72 +26246,108 @@ References:
 
 ###### Species Carex bigelowii Torr. ex Schwein.
 
+Establishment means: native
+
 ###### Species Carex brunnescens (Pers.) Poir.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:1151>.
 
 ###### Species Carex canescens L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11260>.
 
 ###### Species Carex chordorrhiza Ehrh. ex L. f.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:20789>.
 
 ###### Species Carex deflexa Hornem.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:641>.
 
 ###### Species Carex deweyana Schwein.
 
+Establishment means: native
+
 ###### Species Carex dioica L.
 
+Establishment means: native
+
 ###### Species Carex disperma Dewey
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11278>.
 
 ###### Species Carex gynocrates Wormsk. ex Drejer
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:690>.
 
 ###### Species Carex interior L.H. Bailey
 
+Establishment means: native
+
 ###### Species Carex laeviculmis Meinsh.
 
+Establishment means: native
+
 ###### Species Carex lasiocarpa Ehrh.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10654>.
 
 ###### Species Carex leptalea Wahlenb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11270>.
 
 ###### Species Carex limosa L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11245>.
 
 ###### Species Carex livida (Wahlenb.) Willd.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11267>.
 
 ###### Species Carex loliacea L.
 
+Establishment means: native
+
 ###### Species Carex lyngbyei Hornem.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11285>.
 
 ###### Species Carex macrochaeta C.A. Mey.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:639>, 
@@ -22356,15 +26355,21 @@ References:
 
 ###### Species Carex magellanica Lam.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:615>.
 
 ###### Species Carex membranacea Hook.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:614>.
 
 ###### Species Carex mertensii J.D. Prescott ex Bong.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:591>, 
@@ -22372,22 +26377,32 @@ References:
 
 ###### Species Carex microchaeta T. Holm
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10362>.
 
 ###### Species Carex norvegica Retz.
 
+Establishment means: native
+
 ###### Species Carex pachystachya Cham. ex Steud.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10658>.
 
 ###### Species Carex pauciflora Lightf.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/1341675>.
 
 ###### Species Carex phaeocephala Piper
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1462>, 
@@ -22395,27 +26410,39 @@ References:
 
 ###### Species Carex pluriflora HultÃ©n
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:20799>.
 
 ###### Species Carex podocarpa R. Br.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/13435370>.
 
 ###### Species Carex preslii Steud.
 
+Establishment means: native
+
 ###### Species Carex pyrenaica Wahlenb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11365>.
 
 ###### Species Carex ramenskii Kom.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11286>.
 
 ###### Species Carex rotundata Wahlenb.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:595>, 
@@ -22423,34 +26450,48 @@ References:
 
 ###### Species Carex saxatilis L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:604>.
 
 ###### Species Carex scirpoidea Michx.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11383>.
 
 ###### Species Carex spectabilis Dewey
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11326>.
 
 ###### Species Carex tenuiflora Wahlenb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11243>.
 
 ###### Species Carex utriculata Boott
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/1358064>.
 
 ###### Species Carex viridula Michx.
 
+Establishment means: native
+
 ###### Genus Eleocharis
 
 ###### Species Eleocharis palustris (L.) Roem. & Schult.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10637>.
@@ -22459,38 +26500,56 @@ Reference:
 
 ###### Species Eriophorum angustifolium Honck.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1473>, 
 <http://arctos.database.museum/guid/KNWR:Herb:636>.
 
 ###### Species Eriophorum callitrix Cham. ex C.A. Mey.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10638>.
 
 ###### Species Eriophorum russeolum Fr.
 
+Establishment means: native
+
 ###### Species Eriophorum scheuchzeri Hoppe
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:475>.
 
 ###### Species Eriophorum vaginatum L.
 
+Establishment means: native
+
 ###### Species Eriophorum viridicarinatum (Engelm.) Fernald
+
+Establishment means: native
 
 ###### Genus Schoenoplectus
 
 ###### Species Schoenoplectus acutus (Muhl. ex Bigelow) Ã. LÃ¶ve & D. LÃ¶ve
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/15021721>.
 
 ###### Species Schoenoplectus tabernaemontani (C.C. Gmel.) Palla
 
+Establishment means: native
+
 ###### Genus Scirpus
 
 ###### Species Scirpus microcarpus J. Presl & C. Presl
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6665>.
@@ -22498,6 +26557,8 @@ Reference:
 ###### Genus Trichophorum
 
 ###### Species Trichophorum cespitosum (L.) Hartm.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWRObs:Herb:476>.
@@ -22508,10 +26569,14 @@ Reference:
 
 ###### Species Juncus alpinoarticulatus Chaix
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10780>.
 
 ###### Species Juncus bufonius L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:594>, 
@@ -22519,21 +26584,29 @@ References:
 
 ###### Species Juncus castaneus Sm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10778>.
 
 ###### Species Juncus filiformis L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:609>.
 
 ###### Species Juncus mertensianus Bong.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:608>, 
 <http://arctos.database.museum/guid/KNWR:Herb:643>.
 
 ###### Species Juncus triglumis L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:467>.
@@ -22542,15 +26615,21 @@ Reference:
 
 ###### Species Luzula arcuata (Wahlenb.) Sw.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10348>.
 
 ###### Species Luzula multiflora (Ehrh.) Lej.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11454>.
 
 ###### Species Luzula parviflora (Ehrh.) Desv.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1474>, 
@@ -22560,12 +26639,18 @@ References:
 
 ###### Species Luzula piperi (Coville) M.E. Jones
 
+Establishment means: native
+
 ###### Species Luzula spicata (L.) DC.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11464>.
 
 ###### Species Luzula wahlenbergii Rupr.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11399>.
@@ -22576,12 +26661,18 @@ Reference:
 
 ###### Species Agrostis capillaris L.
 
+Establishment means: exotic
+
 ###### Species Agrostis mertensii Trin.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11468>.
 
 ###### Species Agrostis scabra Willd.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10854>.
@@ -22590,10 +26681,14 @@ Reference:
 
 ###### Species Alopecurus geniculatus L.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10909>.
 
 ###### Species Alopecurus pratensis L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10900>.
@@ -22602,22 +26697,32 @@ Reference:
 
 ###### Species Anthoxanthum monticola (Bigelow) Veldkamp
 
+Establishment means: native
+
 ###### Genus Arctagrostis
 
 ###### Species Arctagrostis arundinacea (Trin.) Beal
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:11384>.
 
 ###### Species Arctagrostis latifolia (R. Br.) Griseb.
 
+Establishment means: native
+
 ###### Genus Arctophila
 
 ###### Species Arctophila fulva (Trin.) Andersson
 
+Establishment means: native
+
 ###### Genus Arctopoa
 
 ###### Species Arctopoa eminens (J. Presl) Prob.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11290>.
@@ -22626,10 +26731,14 @@ Reference:
 
 ###### Species Bromus inermis Leyss.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10908>.
 
 ###### Species Bromus tectorum L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10848>.
@@ -22638,15 +26747,21 @@ Reference:
 
 ###### Species Calamagrostis canadensis (Michx.) P. Beauv.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10849>.
 
 ###### Species Calamagrostis lapponica (Wahlenb.) Hartm.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:606>.
 
 ###### Species Calamagrostis stricta (Timm) Koeler
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10490>.
@@ -22655,9 +26770,13 @@ Reference:
 
 ###### Species Dactylis glomerata L.
 
+Establishment means: exotic
+
 ###### Genus Danthonia
 
 ###### Species Danthonia intermedia Vasey
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11517>.
@@ -22666,11 +26785,15 @@ Reference:
 
 ###### Species Deschampsia beringensis HultÃ©n
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:26940>, 
 <http://arctos.database.museum/guid/UAM:Herb:57429>.
 
 ###### Species Deschampsia caespitosa (L.) P. Beauv.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1481>.
@@ -22679,36 +26802,52 @@ Reference:
 
 ###### Species Elymus alaskanus (Scribn. & Merr.) Ã. LÃ¶ve
 
+Establishment means: native
+
 ###### Species Elymus repens (L.) Gould
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10901>.
 
 ###### Species Elymus sibiricus L.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10493>.
 
 ###### Species Elymus trachycaulus (Link) Gould ex Shinners
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/1831852>.
 
 ###### Species Elymus violaceus (Hornem.) Feilberg
 
+Establishment means: native
+
 ###### Genus Festuca
 
 ###### Species Festuca altaica Trin.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11514>.
 
 ###### Species Festuca brachyphylla Schult. & Schult. f.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11470>.
 
 ###### Species Festuca brevissima Jurtzev
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10356>, 
@@ -22716,10 +26855,14 @@ References:
 
 ###### Species Festuca rubra L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11191>.
 
 ###### Species Festuca saximontana Rydb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11448>.
@@ -22728,6 +26871,8 @@ Reference:
 
 ###### Species Glyceria borealis (Nash) Batch.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10877>.
 
@@ -22735,19 +26880,27 @@ Reference:
 
 ###### Species Hordeum brachyantherum Nevski
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/1787876>.
 
 ###### Species Hordeum jubatum L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10851>.
 
 ###### Species Hordeum vulgare L.
 
+Establishment means: exotic
+
 ###### Genus Leymus
 
 ###### Species Leymus mollis (Trin.) Pilg.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/9083673>.
@@ -22756,10 +26909,14 @@ Reference:
 
 ###### Species Lolium multiflorum Lam.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/1819804>.
 
 ###### Species Lolium perenne L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10906>.
@@ -22768,6 +26925,8 @@ Reference:
 
 ###### Species Phalaris arundinacea L.
 
+Establishment means: exotic
+
 Reference: 
 <https://www.inaturalist.org/observations/9149177>.
 
@@ -22775,10 +26934,14 @@ Reference:
 
 ###### Species Phleum alpinum L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1452>.
 
 ###### Species Phleum pratense L.
+
+Establishment means: exotic
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1451>, 
@@ -22788,22 +26951,32 @@ References:
 
 ###### Species Poa alpina L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10612>.
 
 ###### Species Poa annua L.
+
+Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10897>.
 
 ###### Species Poa arctica R. Br.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10847>.
 
 ###### Species Poa compressa L.
 
+Establishment means: exotic
+
 ###### Species Poa glauca Vahl
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1447>, 
@@ -22812,18 +26985,28 @@ References:
 
 ###### Species Poa macrocalyx Trautv. & C.A. Mey.
 
+Establishment means: native
+
 ###### Species Poa pratensis L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11466>.
 
 ###### Species Poa stenantha Trin.
 
+Establishment means: native
+
 ###### Species Poa trivialis L.
+
+Establishment means: exotic
 
 ###### Genus Puccinellia
 
 ###### Species Puccinellia nutkaensis (J. Presl) Fernald & Weath.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:1482>.
@@ -22832,12 +27015,16 @@ Reference:
 
 ###### Species Secale cereale L.
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57443>.
 
 ###### Genus Trisetum
 
 ###### Species Trisetum spicatum (L.) K. Richt.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1449>.
@@ -22846,12 +27033,16 @@ Reference:
 
 ###### Species Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11520>.
 
 ###### Genus Zizania
 
 ###### Species Zizania palustris L.
+
+Establishment means: exotic
 
 Reference: 
 <https://ecos.fws.gov/ServCat/Reference/Profile/1994>.
@@ -22862,15 +27053,21 @@ Reference:
 
 ###### Species Sparganium angustifolium Michx.
 
+Establishment means: native
+
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Sparganium hyperboreum Beurl. ex Laest.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:833>.
 
 ###### Species Sparganium natans L.
+
+Establishment means: native
 
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
@@ -22878,6 +27075,8 @@ Reference:
 ###### Genus Typha
 
 ###### Species Typha latifolia L.
+
+Establishment means: native
 
 ##### Order Ranunculales
 
@@ -22887,10 +27086,14 @@ Reference:
 
 ###### Species Corydalis pauciflora (Stephan) Pers.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6759>.
 
 ###### Species Corydalis sempervirens (L.) Pers.
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/1596288>, 
@@ -22900,6 +27103,8 @@ References:
 
 ###### Species Eschscholzia californica Cham.
 
+Establishment means: exotic
+
 Reference: 
 <http://www.inaturalist.org/observations/4050237>.
 
@@ -22907,10 +27112,14 @@ Reference:
 
 ###### Species Papaver alboroseum HultÃ©n
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10350>.
 
 ###### Species Papaver nudicaule L.
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/4050288>.
@@ -22921,6 +27130,8 @@ Reference:
 
 ###### Species Aconitum delphiniifolium DC.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/23857>.
 
@@ -22928,19 +27139,27 @@ Reference:
 
 ###### Species Actaea rubra (Aiton) Willd.
 
+Establishment means: native
+
 ###### Genus Anemone
 
 ###### Species Anemone narcissiflora L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11496>.
 
 ###### Species Anemone parviflora Michx.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10996>.
 
 ###### Species Anemone richardsonii Hook.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:676>, 
@@ -22951,6 +27170,8 @@ References:
 
 ###### Species Aquilegia formosa Fisch. ex DC.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:675>, 
 <http://www.inaturalist.org/observations/21157>, 
@@ -22960,15 +27181,21 @@ References:
 
 ###### Species Caltha leptosepala DC.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:674>.
 
 ###### Species Caltha natans Pall.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/57584513>.
 
 ###### Species Caltha palustris L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10995>.
@@ -22977,12 +27204,16 @@ Reference:
 
 ###### Species Coptis trifolia (L.) Salisb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57415>.
 
 ###### Genus Delphinium
 
 ###### Species Delphinium glaucum S. Watson
+
+Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/114307>.
@@ -22991,31 +27222,45 @@ Reference:
 
 ###### Species Ranunculus aquatilis L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10980>.
 
 ###### Species Ranunculus eschscholtzii Schltdl.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10987>.
 
 ###### Species Ranunculus hyperboreus Rottb.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:20853>.
 
 ###### Species Ranunculus lapponicus L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11308>.
 
 ###### Species Ranunculus nivalis L.
 
+Establishment means: native
+
 ###### Species Ranunculus occidentalis Nutt.
+
+Establishment means: native
 
 ###### Genus Thalictrum
 
 ###### Species Thalictrum sparsiflorum Turcz. ex Fisch. & C.A. Mey.
+
+Establishment means: native
 
 ##### Order Rosales
 
@@ -23024,6 +27269,8 @@ Reference:
 ###### Genus Shepherdia
 
 ###### Species Shepherdia canadensis (L.) Nutt.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:57346>.
@@ -23034,12 +27281,16 @@ Reference:
 
 ###### Species Amelanchier alnifolia (Nutt.) Nutt. ex M. Roem.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:700>.
 
 ###### Genus Aruncus
 
 ###### Species Aruncus dioicus (Walter) Fernald
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:699>, 
@@ -23049,12 +27300,16 @@ References:
 
 ###### Species Comarum palustre L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/503264>.
 
 ###### Genus Dasiphora
 
 ###### Species Dasiphora fruticosa (L.) Rydb.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/14503251>.
@@ -23063,12 +27318,18 @@ Reference:
 
 ###### Species Dryas drummondii Richardson ex Hook.
 
+Establishment means: native
+
 ###### Species Dryas integrifolia Vahl
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:705>.
 
 ###### Species Dryas octopetala L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10376>.
@@ -23077,21 +27338,31 @@ Reference:
 
 ###### Species Fragaria vesca L.
 
+Establishment means: exotic
+
 ###### Species Fragaria X ananassa (Weston) Duchesne ex Rozier (pro sp.)
+
+Establishment means: exotic
 
 ###### Genus Geum
 
 ###### Species Geum calthifolium Menzies ex Sm.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:704>.
 
 ###### Species Geum macrophyllum Willd.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:754>.
 
 ###### Species Geum rossii (R. Br.) Ser.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11532>.
@@ -23099,6 +27370,8 @@ Reference:
 ###### Genus Luetkea
 
 ###### Species Luetkea pectinata (Pursh) Kuntze
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:698>, 
@@ -23108,36 +27381,54 @@ References:
 
 ###### Species Potentilla anserina L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:28489>.
 
 ###### Species Potentilla furcata A.E. Porsild
 
+Establishment means: native
+
 ###### Species Potentilla gracilis Douglas ex Hook.
+
+Establishment means: native
 
 ###### Species Potentilla nana Willd. ex Schltdl.
 
+Establishment means: native
+
 ###### Species Potentilla norvegica L.
+
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/8404032>.
 
 ###### Species Potentilla pensylvanica L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57232>.
 
 ###### Species Potentilla uniflora Ledeb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11216>.
 
 ###### Species Potentilla vahliana Lehm.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:751>.
 
 ###### Species Potentilla villosa Pall. ex Pursh
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10355>, 
@@ -23149,11 +27440,15 @@ References:
 
 ###### Species Rosa acicularis Lindl.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:706>, 
 <http://www.inaturalist.org/observations/125340>.
 
 ###### Species Rosa nutkana C. Presl
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/18618928>.
@@ -23162,10 +27457,14 @@ Reference:
 
 ###### Species Rubus arcticus L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:702>.
 
 ###### Species Rubus chamaemorus L.
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/1754995>, 
@@ -23173,15 +27472,21 @@ References:
 
 ###### Species Rubus idaeus L.
 
+Establishment means: native
+
 Reference: 
 <https://www.inaturalist.org/observations/6633092>.
 
 ###### Species Rubus pedatus Sm.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:701>.
 
 ###### Species Rubus spectabilis Pursh
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:703>.
@@ -23190,12 +27495,16 @@ Reference:
 
 ###### Species Sanguisorba canadensis L.
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/114301>.
 
 ###### Genus Sibbaldia
 
 ###### Species Sibbaldia procumbens L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:753>.
@@ -23204,6 +27513,8 @@ Reference:
 
 ###### Species Sorbaria sorbifolia (L.) A. Braun
 
+Establishment means: exotic
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11041>.
 
@@ -23211,10 +27522,14 @@ Reference:
 
 ###### Species Sorbus scopulina Greene
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11321>.
 
 ###### Species Sorbus sitchensis M. Roem.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11435>.
@@ -23223,7 +27538,11 @@ Reference:
 
 ###### Species Spiraea douglasii Hook.
 
+Establishment means: native
+
 ###### Species Spiraea stevenii (C.K. Schneid.) Rydb.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/3541169>.
@@ -23233,6 +27552,8 @@ Reference:
 ###### Genus Urtica
 
 ###### Species Urtica dioica L.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/13433061>.
@@ -23245,6 +27566,8 @@ Reference:
 
 ###### Species Geocaulon lividum (Richardson) Fernald
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11132>.
 
@@ -23255,6 +27578,8 @@ Reference:
 ###### Genus Rhodiola
 
 ###### Species Rhodiola integrifolia Raf.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1464>, 
@@ -23268,25 +27593,37 @@ References:
 
 ###### Species Ribes bracteosum Douglas ex Hook.
 
+Establishment means: native
+
 ###### Species Ribes glandulosum Grauer
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11320>.
 
 ###### Species Ribes hudsonianum Richardson
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11283>.
 
 ###### Species Ribes lacustre (Pers.) Poir.
 
+Establishment means: native
+
 ###### Species Ribes laxiflorum Pursh
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:694>, 
 <http://arctos.database.museum/guid/KNWR:Herb:695>.
 
 ###### Species Ribes triste Pall.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11319>.
@@ -23297,12 +27634,18 @@ Reference:
 
 ###### Species Myriophyllum farwellii Morong
 
+Establishment means: native
+
 ###### Species Myriophyllum sibiricum Kom.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:5187>.
 
 ###### Species Myriophyllum verticillatum L.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:4658>, 
@@ -23314,6 +27657,8 @@ References:
 
 ###### Species Chrysosplenium tetrandrum Th. Fr.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:693>, 
 <http://www.inaturalist.org/observations/4050176>.
@@ -23322,6 +27667,8 @@ References:
 
 ###### Species Heuchera glabra Willd. ex Roem. & Schult.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:692>.
 
@@ -23329,9 +27676,13 @@ Reference:
 
 ###### Species Leptarrhena pyrolifolia (D. Don) R. Br. ex Ser.
 
+Establishment means: native
+
 ###### Genus Micranthes
 
 ###### Species Micranthes nelsoniana (D. Don) Small
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/4050170>.
@@ -23340,6 +27691,8 @@ Reference:
 
 ###### Species Saxifraga bronchialis L.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1468>, 
 <http://arctos.database.museum/guid/KNWR:Herb:690>, 
@@ -23347,11 +27700,15 @@ References:
 
 ###### Species Saxifraga oppositifolia L.
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10353>, 
 <http://arctos.database.museum/guid/KNWR:Herb:10373>.
 
 ###### Species Saxifraga tricuspidata Rottb.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:10352>, 
@@ -23360,6 +27717,8 @@ References:
 ###### Genus Tiarella
 
 ###### Species Tiarella trifoliata L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11143>.
@@ -23374,6 +27733,8 @@ Reference:
 
 ###### Species Juniperus communis L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1460>.
 
@@ -23383,19 +27744,27 @@ Reference:
 
 ###### Species Picea glauca (Moench) Voss
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11490>.
 
 ###### Species Picea mariana (Mill.) Britton, Sterns & Poggenb.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:127>.
 
 ###### Species Picea X lutzii Little
 
+Establishment means: native
+
 ###### Genus Pinus
 
 ###### Species Pinus contorta Douglas ex Loudon
+
+Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/3672943>.
@@ -23403,6 +27772,8 @@ Reference:
 ###### Genus Tsuga
 
 ###### Species Tsuga mertensiana (Bong.) CarriÃ¨re
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/114286>, 
@@ -23419,32 +27790,46 @@ References:
 
 ###### Species Equisetum arvense L.
 
+Establishment means: native
+
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1455>.
 
 ###### Species Equisetum fluviatile L.
+
+Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1454>.
 
 ###### Species Equisetum hyemale L.
 
+Establishment means: native
+
 ###### Species Equisetum palustre L.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11275>.
 
 ###### Species Equisetum pratense Ehrh.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:20>.
 
 ###### Species Equisetum sylvaticum L.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:293>.
 
 ###### Species Equisetum variegatum Schleich. ex F. Weber & D. Mohr
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/UAM:Herb:57363>, 
@@ -23458,7 +27843,11 @@ References:
 
 ###### Species Botrychium boreale Milde
 
+Establishment means: native
+
 ###### Species Botrychium lunaria (L.) Sw.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/1521800>.
@@ -23471,11 +27860,15 @@ Reference:
 
 ###### Species Dryopteris expansa (C. Presl) Fraser-Jenk. & Jermy
 
+Establishment means: native
+
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1461>, 
 <http://www.inaturalist.org/observations/125365>.
 
 ###### Species Dryopteris fragrans (L.) Schott
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10664>.
@@ -23483,6 +27876,8 @@ Reference:
 ###### Genus Polystichum
 
 ###### Species Polystichum lonchitis (L.) Roth
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:7170>.
@@ -23492,6 +27887,8 @@ Reference:
 ###### Genus Matteuccia
 
 ###### Species Matteuccia struthiopteris (L.) Tod.
+
+Establishment means: native
 
 References: 
 <http://www.inaturalist.org/observations/7524661>, 
@@ -23503,7 +27900,11 @@ References:
 
 ###### Species Cryptogramma acrostichoides R. Br.
 
+Establishment means: native
+
 ###### Species Cryptogramma crispa (L.) R. Br.
+
+Establishment means: native
 
 References: 
 <http://arctos.database.museum/guid/KNWR:Herb:1457>, 
@@ -23515,6 +27916,8 @@ References:
 
 ###### Species Phegopteris connectilis (Michx.) Watt
 
+Establishment means: native
+
 Reference: 
 <http://www.inaturalist.org/observations/1558344>.
 
@@ -23524,12 +27927,16 @@ Reference:
 
 ###### Species Athyrium filix-femina (L.) Roth
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10538>.
 
 ###### Genus Cystopteris
 
 ###### Species Cystopteris fragilis (L.) Bernh.
+
+Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/6614559>.
@@ -23538,12 +27945,16 @@ Reference:
 
 ###### Species Gymnocarpium dryopteris (L.) Newman
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:221>.
 
 ###### Genus Woodsia
 
 ###### Species Woodsia ilvensis (L.) R. Br.
+
+Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11380>.
@@ -23562,6 +27973,8 @@ Reference:
 
 ###### Species Salpingoeca frequentissima Zach. Lemm.
 
+Establishment means: native
+
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:993>.
 
@@ -23577,6 +27990,8 @@ Reference:
 
 ###### Species Euglypha ciliata
 
+Establishment means: native
+
 #### Class Lobosa
 
 ##### Order Arcellinida
@@ -23587,9 +28002,13 @@ Reference:
 
 ###### Species Arcella arenaria Greeff
 
+Establishment means: native
+
 ###### Family Centropyxidae
 
 ###### Genus Centropyxis
 
 ###### Species Centropyxis aculeata
+
+Establishment means: native
 

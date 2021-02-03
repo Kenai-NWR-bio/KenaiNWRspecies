@@ -7,6 +7,7 @@ dirdata <- "../data/final_data/DwC-A/"
 dirdoc <- "../documents/checklist_document/"
 
 ## Load libraries and functions.
+library(knitr)
 library("zip")
 source("functions.R")
 
@@ -16,7 +17,12 @@ simpleCap <- function(x) {
       sep="", collapse=" ")
 }
 
-print_taxon <- function(outfile, name="", rank="", prefix="######")
+print_taxon <- function(outfile,
+ name="",
+ rank="",
+ prefix="######",
+ establishmentMeans=""
+ )
  {
  if (name=="")
   {
@@ -24,19 +30,29 @@ print_taxon <- function(outfile, name="", rank="", prefix="######")
   }
  rank <- simpleCap(rank)
  write(paste0(prefix, " ", rank, " ", name, "\n"), file=outfile, append=TRUE)
+ if (!establishmentMeans=="")
+  {
+  write(paste0("Establishment means: ", establishmentMeans, "\n"), file=outfile, append=TRUE)
+  }
  }
 
 ## First load data.
 unzip(paste0(dirdata, "dwca-kenainationalwildliferefuge.zip"), exdir=dirdata)
 cl1 <- read.delim(paste0(dirdata, "taxon.txt"))
 rf1 <- read.delim(paste0(dirdata, "reference.txt"))
+ds1 <- read.delim(paste0(dirdata, "distribution.txt"))
+cl1 <- merge(cl1, ds1)
 
 ## Sorting.
 cl1 <- cl1[order(cl1$kingdom, cl1$phylum, cl1$class, cl1$order, cl1$family, cl1$scientificName),]
 
-## How many species?
+## Prepare summary data for the document.
 
 nspecies <- sum(cl1$taxonRank=="species")
+
+tblem <- aggregate(cl1$scientificName, by=list(cl1$establishmentMeans), length)
+names(tblem) <- c("Establishment means", "Count")
+
 
 ## Now start assembling the document.
 
@@ -80,11 +96,13 @@ write(wline, file=outfile, append=TRUE)
 
 wline <- paste0("## About the list
 
-The present list includes a total of ", nspecies, " species.
+The present list includes a total of ", nspecies, " species, of which ", tblem$Count[tblem[,1]=="native"], " are native, ", tblem$Count[tblem[,1]=="native"], " are exotic, and ", tblem$Count[tblem[,1]=="uncertain"], " is of uncertain origin.
 
 ")
 
 write(wline, file=outfile, append=TRUE)
+
+write(kable(tblem, caption="Counts of species by establisment means."), file=outfile, append=TRUE)
 
 write("# Checklist\n", file=outfile, append=TRUE) 
 
@@ -134,7 +152,7 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
   gns <- cl1$genus[this_record]
   }
  
- print_taxon(outfile=outfile, name=cl1$scientificName[this_record], rank="Species")
+ print_taxon(outfile=outfile, name=cl1$scientificName[this_record], rank="Species", establishmentMeans=cl1$establishmentMeans[this_record])
  
  ## If there are any references, print them.
  rfs <- rf1[rf1$ID==cl1$ID[this_record],]
