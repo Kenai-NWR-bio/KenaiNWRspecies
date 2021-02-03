@@ -12,7 +12,25 @@ USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
 A primary purpose for which the Kenai National Wildlife Refuge was established in the Alaska National Interest Lands Conservation Act of 1980 was, “to conserve fish and wildlife populations and habitats in their natural diversity…,” where the term “fish and wildlife” was defined as “any member of the animal kingdom, including without limitation any mammal, fish, bird…, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate.”  An obvious first step toward fulfilling this purpose is to know what fish and wildlife, habitats, and natural diversity are to be conserved.  This checklist is intended to be a frequently-updated document reflecting our current knowledge of which living things call the Kenai National Wildlife Refuge home.
 
-## About the list
+# Acknowledgments
+
+Thanks and credit are due to many people who have reviewed this list, provided identifications, and helped in other ways.  The list below is by no means exhaustive.
+
+* James Bergdahl (Conservation Biology Center, Spokane, Washington) reviewed and made helpful comments on the Refuge's list of Carabidae.
+* Peter Hovingh provided a list of leeches (Hirudinea}) collected on the Refuge.
+* John Hudson (USFWS, Juneau, Alaska) provided lists of Odonata observed on the Refuge.  
+* Richard Payne (University of York, Heslington, UK) provided a list of protists from Jigsaw Lake.  
+* David Wartinbee (retired from Kenai Peninsula College, Soldotna, Alaska) shared a list of Chironomidae he had collected on the Refuge.
+
+# Methods
+
+Occurrence records were gathered over many years from various sources. The Kenai National Wildlife Refuge's species list was previously maintained as a set of data tables from which a checklist document was generated [@KenaiNWRbio2018]. In April 2019, most of these data were uploaded to FWSpecies [@NRPC2019], where these data are currently maintained.  
+
+The directory structure of the project was conformed to the recommended file structure of @Alaska_Region_Data_Stewardship_Team_2020. As of this writing, an current version of the archive, including all raw data, is being maintained on GitHub at <https://github.com/Kenai-NWR-bio/KenaiNWRspecies>.
+
+Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.02 [@RCoreTeam2020] that calls the packages knitr, version 1.29 [@Xie2014; @Xie2015; @Xie2020] and zip, version 2.0.4 [@Csardietal2019], generating a document in markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
+
+# Checklist summary
 
 The present list includes a total of 2206 species, of which 2085 are native, 2085 are exotic, and 1 is of uncertain origin.
 
@@ -24,16 +42,6 @@ Table: Counts of species by establisment means.
 |exotic              |   120|
 |native              |  2085|
 |uncertain           |     1|
-# Acknowledgments
-
-Thanks and credit are due to many people who have reviewed this list, provided identifications, and helped in other ways.  The list below is by no means exhaustive.
-
-* James Bergdahl (Conservation Biology Center, Spokane, Washington) reviewed and made helpful comments on the Refuge's list of Carabidae.
-* Peter Hovingh provided a list of leeches (Hirudinea}) collected on the Refuge.
-* John Hudson (USFWS, Juneau, Alaska) provided lists of Odonata observed on the Refuge.  
-* Richard Payne (University of York, Heslington, UK) provided a list of protists from Jigsaw Lake.  
-* David Wartinbee (retired from Kenai Peninsula College, Soldotna, Alaska) shared a list of Chironomidae he had collected on the Refuge.
-
 # Checklist
 
 ## Kingdom Animalia
@@ -30335,4 +30343,6 @@ Establishment means: native
 ###### Species Centropyxis aculeata
 
 Establishment means: native
+
+# References
 

@@ -11,5 +11,9 @@ publisher: USFWS Kenai National Wildlife Refuge
 rights: CC0
 language: en-US
 toc-title: 'Contents'
+bibliography: ../data/raw_data/bibliographic_data/bibliography.bib
+toc-title: 'Contents'
+link-citations: true
+csl: ../source_data/citation_styles/canadian-journal-of-fisheries-and-aquatic-sciences.csl
 ...
 

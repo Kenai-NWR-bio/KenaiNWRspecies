@@ -83,6 +83,10 @@ publisher: USFWS Kenai National Wildlife Refuge
 rights: CC0
 language: en-US
 toc-title: 'Contents'
+bibliography: ../data/raw_data/bibliographic_data/bibliography.bib
+toc-title: 'Contents'
+link-citations: true
+csl: ../source_data/citation_styles/canadian-journal-of-fisheries-and-aquatic-sciences.csl
 ...", "\n"), file=metafile, append=TRUE)
 
 ## Start main document.
@@ -99,16 +103,6 @@ A primary purpose for which the Kenai National Wildlife Refuge was established i
 '
 write(wline, file=outfile, append=TRUE)
 
-wline <- paste0("## About the list
-
-The present list includes a total of ", nspecies, " species, of which ", tblem$Count[tblem[,1]=="native"], " are native, ", tblem$Count[tblem[,1]=="native"], " are exotic, and ", tblem$Count[tblem[,1]=="uncertain"], " is of uncertain origin.
-
-")
-
-write(wline, file=outfile, append=TRUE)
-
-write(kable(tblem, caption="Counts of species by establisment means."), file=outfile, append=TRUE)
-
 wline <- "# Acknowledgments
 
 Thanks and credit are due to many people who have reviewed this list, provided identifications, and helped in other ways.  The list below is by no means exhaustive.
@@ -121,6 +115,27 @@ Thanks and credit are due to many people who have reviewed this list, provided i
 "
 
 write(wline, file=outfile, append=TRUE)
+
+wline="# Methods
+
+Occurrence records were gathered over many years from various sources. The Kenai National Wildlife Refuge's species list was previously maintained as a set of data tables from which a checklist document was generated [@KenaiNWRbio2018]. In April 2019, most of these data were uploaded to FWSpecies [@NRPC2019], where these data are currently maintained.  
+
+The directory structure of the project was conformed to the recommended file structure of @Alaska_Region_Data_Stewardship_Team_2020. As of this writing, an current version of the archive, including all raw data, is being maintained on GitHub at <https://github.com/Kenai-NWR-bio/KenaiNWRspecies>.
+
+Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.02 [@RCoreTeam2020] that calls the packages knitr, version 1.29 [@Xie2014; @Xie2015; @Xie2020] and zip, version 2.0.4 [@Csardietal2019], generating a document in markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
+"
+
+write(wline, file=outfile, append=TRUE)
+
+wline <- paste0("# Checklist summary
+
+The present list includes a total of ", nspecies, " species, of which ", tblem$Count[tblem[,1]=="native"], " are native, ", tblem$Count[tblem[,1]=="native"], " are exotic, and ", tblem$Count[tblem[,1]=="uncertain"], " is of uncertain origin.
+
+")
+
+write(wline, file=outfile, append=TRUE)
+
+write(kable(tblem, caption="Counts of species by establisment means."), file=outfile, append=TRUE)
 
 write("# Checklist\n", file=outfile, append=TRUE) 
 
@@ -212,3 +227,6 @@ unlink(paste0(dirdata, "meta.xml"))
 unlink(paste0(dirdata, "taxon.txt"))
 unlink(paste0(dirdata, "distribution.txt"))
 unlink(paste0(dirdata, "reference.txt"))
+
+write("# References
+", outfile, append=TRUE)
