@@ -109,6 +109,19 @@ write(wline, file=outfile, append=TRUE)
 
 write(kable(tblem, caption="Counts of species by establisment means."), file=outfile, append=TRUE)
 
+wline <- "# Acknowledgments
+
+Thanks and credit are due to many people who have reviewed this list, provided identifications, and helped in other ways.  The list below is by no means exhaustive.
+
+* James Bergdahl (Conservation Biology Center, Spokane, Washington) reviewed and made helpful comments on the Refuge's list of Carabidae.
+* Peter Hovingh provided a list of leeches (Hirudinea}) collected on the Refuge.
+* John Hudson (USFWS, Juneau, Alaska) provided lists of Odonata observed on the Refuge.  
+* Richard Payne (University of York, Heslington, UK) provided a list of protists from Jigsaw Lake.  
+* David Wartinbee (retired from Kenai Peninsula College, Soldotna, Alaska) shared a list of Chironomidae he had collected on the Refuge.
+"
+
+write(wline, file=outfile, append=TRUE)
+
 write("# Checklist\n", file=outfile, append=TRUE) 
 
 kdm <- "NA"
