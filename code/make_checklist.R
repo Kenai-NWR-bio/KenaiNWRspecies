@@ -21,6 +21,7 @@ print_taxon <- function(outfile,
  name="",
  rank="",
  prefix="######",
+ vernacularName="",
  establishmentMeans=""
  )
  {
@@ -30,6 +31,10 @@ print_taxon <- function(outfile,
   }
  rank <- simpleCap(rank)
  write(paste0(prefix, " ", rank, " ", name, "\n"), file=outfile, append=TRUE)
+ if (!vernacularName=="")
+  {
+  write(paste0("Vernacular name(s): ", vernacularName, "\n"), file=outfile, append=TRUE)
+  }
  if (!establishmentMeans=="")
   {
   write(paste0("Establishment means: ", establishmentMeans, "\n"), file=outfile, append=TRUE)
@@ -152,7 +157,12 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
   gns <- cl1$genus[this_record]
   }
  
- print_taxon(outfile=outfile, name=cl1$scientificName[this_record], rank="Species", establishmentMeans=cl1$establishmentMeans[this_record])
+ print_taxon(outfile=outfile,
+ name=cl1$scientificName[this_record],
+ rank="Species",
+ establishmentMeans=cl1$establishmentMeans[this_record],
+ vernacularName=cl1$vernacularName[this_record]
+ )
  
  ## If there are any references, print them.
  rfs <- rf1[rf1$ID==cl1$ID[this_record],]

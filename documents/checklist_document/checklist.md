@@ -73,6 +73,8 @@ Establishment means: native
 
 ###### Species Haemopis lateromaculata Mathers, 1963
 
+Vernacular name(s): A horse leach
+
 Establishment means: native
 
 Reference: 
@@ -85,6 +87,8 @@ Reference:
 ###### Genus Dendrobaena
 
 ###### Species Dendrobaena octaedra (Savigny, 1826)
+
+Vernacular name(s): Octagonal-tailed worm
 
 Establishment means: exotic
 
@@ -132,12 +136,16 @@ Reference:
 
 ###### Species Lumbricus rubellus Hoffmeister, 1843
 
+Vernacular name(s): Red marsh worm
+
 Establishment means: exotic
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:6755>.
 
 ###### Species Lumbricus terrestris Linnaeus, 1758
+
+Vernacular name(s): Nightcrawler
 
 Establishment means: exotic
 
@@ -258,6 +266,8 @@ Reference:
 
 ###### Species Weberacantha octa Christiansen, 1951
 
+Vernacular name(s): A springtail
+
 Establishment means: native
 
 Reference: 
@@ -268,6 +278,8 @@ Reference:
 ###### Genus Megalothorax
 
 ###### Species Megalothorax minimus Willem, 1900
+
+Vernacular name(s): A minute springtail
 
 Establishment means: native
 
@@ -292,6 +304,8 @@ Reference:
 
 ###### Species Agelenopsis utahana (Chamberlin & Ivie, 1933)
 
+Vernacular name(s): A funnel weaver
+
 Establishment means: native
 
 Reference: 
@@ -309,6 +323,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Ento:10328>.
 
 ###### Species Araneus marmoreus Clerck, 1757
+
+Vernacular name(s): Marbled orbweaver
 
 Establishment means: native
 
@@ -339,6 +355,8 @@ Reference:
 ###### Genus Araniella
 
 ###### Species Araniella displicata (Hentz, 1847)
+
+Vernacular name(s): Sixspotted orbweaver
 
 Establishment means: native
 
@@ -374,6 +392,8 @@ References:
 ###### Genus Hypsosinga
 
 ###### Species Hypsosinga pygmaea (Sundevall, 1831)
+
+Vernacular name(s): An orb spider
 
 Establishment means: native
 
@@ -420,6 +440,8 @@ Reference:
 
 ###### Species Dictyna alaskae Chamberlin & Ivie, 1947
 
+Vernacular name(s): A meshweaver spider
+
 Establishment means: native
 
 References: 
@@ -454,6 +476,8 @@ References:
 
 ###### Species Dictyna arundinacea (Linnaeus, 1758)
 
+Vernacular name(s): A meshweaver spider
+
 Establishment means: native
 
 References: 
@@ -475,6 +499,8 @@ Reference:
 
 ###### Species Dictyna major Menge, 1869
 
+Vernacular name(s): A meshweaver spider
+
 Establishment means: native
 
 Reference: 
@@ -490,6 +516,8 @@ Reference:
 ###### Genus Emblyna
 
 ###### Species Emblyna annulipes (Blackwall, 1846)
+
+Vernacular name(s): A meashweaver spider
 
 Establishment means: native
 
@@ -533,6 +561,8 @@ References:
 
 ###### Species Baryphyma trifrons (O. P.-Cambridge, 1863)
 
+Vernacular name(s): A dwarf sheetweb weaver
+
 Establishment means: native
 
 References: 
@@ -546,6 +576,8 @@ References:
 ###### Genus Ceraticelus
 
 ###### Species Ceraticelus atriceps (O. P.-Cambridge, 1874)
+
+Vernacular name(s): A dwarf sheet-web spider
 
 Establishment means: native
 
@@ -612,6 +644,8 @@ References:
 
 ###### Species Dismodicus alticeps Chamberlin & Ivie, 1947
 
+Vernacular name(s): A dwarf sheetweb weaver
+
 Establishment means: native
 
 References: 
@@ -620,6 +654,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Ento:6672>.
 
 ###### Species Dismodicus modicus Chamberlin & Ivie, 1947
+
+Vernacular name(s): A dwarf sheetweb spider
 
 Establishment means: native
 
@@ -646,6 +682,8 @@ Reference:
 
 ###### Species Erigone tirolensis L. Koch, 1872
 
+Vernacular name(s): A dwarf sheetweb spider
+
 Establishment means: native
 
 References: 
@@ -655,6 +693,8 @@ References:
 ###### Genus Estrandia
 
 ###### Species Estrandia grandaeva (Keyserling, 1886)
+
+Vernacular name(s): A sheet-web spider
 
 Establishment means: native
 
@@ -705,6 +745,8 @@ References:
 
 ###### Species Grammonota vittata Barrows, 1919
 
+Vernacular name(s): A dwarf sheetweb spider
+
 Establishment means: native
 
 Reference: 
@@ -732,6 +774,8 @@ Reference:
 
 ###### Species Hypselistes florens (O. P.-Cambridge, 1875)
 
+Vernacular name(s): A dwarf sheetweb weaver
+
 Establishment means: native
 
 References: 
@@ -757,6 +801,8 @@ Reference:
 
 ###### Species Lepthyphantes alpinus (Emerton, 1882)
 
+Vernacular name(s): A sheet-web spider
+
 Establishment means: native
 
 References: 
@@ -766,6 +812,8 @@ References:
 ###### Genus Megalepthyphantes
 
 ###### Species Megalepthyphantes nebulosus (Sundevall, 1830)
+
+Vernacular name(s): A sheet-web spider
 
 Establishment means: native
 
@@ -791,6 +839,8 @@ References:
 ###### Genus Neriene
 
 ###### Species Neriene radiata (Walckenaer, 1841)
+
+Vernacular name(s): Filmy dome spider
 
 Establishment means: native
 
@@ -860,6 +910,8 @@ Reference:
 
 ###### Species Walckenaeria directa (O. P.-Cambridge, 1874)
 
+Vernacular name(s): A dwarf sheetweb spider
+
 Establishment means: native
 
 Reference: 
@@ -870,6 +922,8 @@ Reference:
 ###### Genus Alopecosa
 
 ###### Species Alopecosa aculeata (Clerck, 1757)
+
+Vernacular name(s): A wolf spider
 
 Establishment means: native
 
@@ -896,6 +950,8 @@ Reference:
 
 ###### Species Pardosa albomaculata Emerton, 1885
 
+Vernacular name(s): A wolf spider
+
 Establishment means: native
 
 References: 
@@ -904,9 +960,13 @@ References:
 
 ###### Species Pardosa diuturna Fox, 1937
 
+Vernacular name(s): A wolf spider
+
 Establishment means: native
 
 ###### Species Pardosa groenlandica (Thorell, 1872)
+
+Vernacular name(s): A wolf spider
 
 Establishment means: native
 
@@ -924,6 +984,8 @@ Reference:
 
 ###### Species Trochosa terricola Thorell, 1856
 
+Vernacular name(s): A wolf spider
+
 Establishment means: native
 
 Reference: 
@@ -934,6 +996,8 @@ Reference:
 ###### Genus Philodromus
 
 ###### Species Philodromus rufus Walckenaer, 1826
+
+Vernacular name(s): A crab spider
 
 Establishment means: native
 
@@ -975,6 +1039,8 @@ Reference:
 
 ###### Species Evarcha proszynskii Marusik & Logunov, 1998
 
+Vernacular name(s): A jumping spider
+
 Establishment means: native
 
 ###### Genus Pelegrina
@@ -991,6 +1057,8 @@ Reference:
 ###### Genus Tetragnatha
 
 ###### Species Tetragnatha extensa (Linnaeus, 1758)
+
+Vernacular name(s): A long-jawed orb weaver
 
 Establishment means: native
 
@@ -1023,6 +1091,8 @@ Reference:
 
 ###### Species Enoplognatha intrepida (SÃ¸rensen, 1898)
 
+Vernacular name(s): A cobweb spider
+
 Establishment means: native
 
 ###### Genus Ohlertidion
@@ -1047,6 +1117,8 @@ Reference:
 
 ###### Species Robertus crosbyi (Kaston, 1946)
 
+Vernacular name(s): A cobweb spider
+
 Establishment means: native
 
 Reference: 
@@ -1055,6 +1127,8 @@ Reference:
 ###### Genus Rugathodes
 
 ###### Species Rugathodes aurantius (Emerton, 1915)
+
+Vernacular name(s): A cobweb spider
 
 Establishment means: native
 
@@ -1082,6 +1156,8 @@ References:
 
 ###### Species Steatoda borealis (Hentz, 1850)
 
+Vernacular name(s): A cobweb spider
+
 Establishment means: native
 
 Reference: 
@@ -1090,6 +1166,8 @@ Reference:
 ###### Genus Theridion
 
 ###### Species Theridion pictum (Walckenaer, 1802)
+
+Vernacular name(s): A cobweb spider
 
 Establishment means: native
 
@@ -1205,6 +1283,8 @@ Reference:
 
 ###### Species Halobisium occidentale Beier, 1931
 
+Vernacular name(s): Intertidal pseudoscorpion
+
 Establishment means: native
 
 References: 
@@ -1238,6 +1318,8 @@ Reference:
 ###### Genus Eremaeus
 
 ###### Species Eremaeus translamellatus Hammer, 1952
+
+Vernacular name(s): An oribatid mite
 
 Establishment means: native
 
@@ -1458,6 +1540,8 @@ Reference:
 
 ###### Species Notiophilus aquaticus (Linnaeus, 1758)
 
+Vernacular name(s): A ground beetle
+
 Establishment means: native
 
 Reference: 
@@ -1495,6 +1579,8 @@ References:
 
 ###### Species Pterostichus brevicornis (Kirby, 1837)
 
+Vernacular name(s): A ground beetle
+
 Establishment means: native
 
 References: 
@@ -1503,6 +1589,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Ento:1406>.
 
 ###### Species Pterostichus riparius (Dejean, 1828)
+
+Vernacular name(s): A ground beetle
 
 Establishment means: native
 
@@ -1704,6 +1792,8 @@ Reference:
 
 ###### Species Monochamus scutellatus (Say, 1824)
 
+Vernacular name(s): White-spotted pine sawyer
+
 Establishment means: native
 
 Reference: 
@@ -1724,6 +1814,8 @@ Establishment means: native
 ###### Genus Xylotrechus
 
 ###### Species Xylotrechus undulatus (Say, 1824)
+
+Vernacular name(s): Spruce zebra beetle
 
 Establishment means: native
 
@@ -1760,6 +1852,8 @@ Reference:
 
 ###### Species Galerucella nymphaeae (Linnaeus, 1758)
 
+Vernacular name(s): Waterlily leaf beetle
+
 Establishment means: native
 
 References: 
@@ -1788,12 +1882,16 @@ Reference:
 
 ###### Species Plateumaris flavipes (Kirby, 1837)
 
+Vernacular name(s): A leaf beetle
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:5342>.
 
 ###### Species Plateumaris germari (Mannerheim, 1843)
+
+Vernacular name(s): A leaf beetle
 
 Establishment means: native
 
@@ -1842,6 +1940,8 @@ Reference:
 
 ###### Species Coccinella trifasciata Linnaeus, 1758
 
+Vernacular name(s): Ladybird beetle
+
 Establishment means: native
 
 References: 
@@ -1851,6 +1951,8 @@ References:
 ###### Genus Hippodamia
 
 ###### Species Hippodamia falcigera Crotch, 1873
+
+Vernacular name(s): Waterside ladybug
 
 Establishment means: native
 
@@ -1882,6 +1984,8 @@ Reference:
 
 ###### Species Cucujus clavipes Fabricius, 1781
 
+Vernacular name(s): Red flat bark beetle
+
 Establishment means: native
 
 Reference: 
@@ -1899,6 +2003,8 @@ Establishment means: native
 
 ###### Species Dendroctonus rufipennis (Kirby, 1837)
 
+Vernacular name(s): Spruce beetle
+
 Establishment means: native
 
 Reference: 
@@ -1915,6 +2021,8 @@ Reference:
 
 ###### Species Dorytomus luridus (Mannerheim, 1853)
 
+Vernacular name(s): A weevil
+
 Establishment means: native
 
 References: 
@@ -1923,6 +2031,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Ento:4525>.
 
 ###### Species Dorytomus mannerheimi (Gemminger, 1871)
+
+Vernacular name(s): A weevil
 
 Establishment means: native
 
@@ -1996,6 +2106,8 @@ Reference:
 
 ###### Species Otiorhynchus ovatus (Linnaeus, 1758)
 
+Vernacular name(s): Strawberry Root Weevil
+
 Establishment means: exotic
 
 Reference: 
@@ -2052,6 +2164,8 @@ References:
 
 ###### Species Trypodendron lineatum (Olivier, 1795)
 
+Vernacular name(s): Striped ambrosia beetle
+
 Establishment means: native
 
 ###### Species Trypodendron retusum (LeConte, 1868)
@@ -2079,6 +2193,8 @@ Establishment means: native
 ###### Genus Dermestes
 
 ###### Species Dermestes lardarius Linnaeus, 1758
+
+Vernacular name(s): Larder beetle
 
 Establishment means: exotic
 
@@ -2513,6 +2629,8 @@ References:
 
 ###### Species Ptinus raptor Sturm, 1837
 
+Vernacular name(s): Eastern spider beetle
+
 Establishment means: exotic
 
 Reference: 
@@ -2799,6 +2917,8 @@ Reference:
 
 ###### Species Sylvicola fuscatus (Fabricius, 1775)
 
+Vernacular name(s): A window gnat
+
 Establishment means: native
 
 References: 
@@ -3027,6 +3147,8 @@ Reference:
 
 ###### Species Leiomyza curvinervis (Zetterstedt, 1838)
 
+Vernacular name(s): An asteiid fly
+
 Establishment means: native
 
 References: 
@@ -3102,6 +3224,8 @@ Reference:
 
 ###### Species Calliphora vomitoria (Linnaeus, 1758)
 
+Vernacular name(s): Blue bottle fly
+
 Establishment means: native
 
 Reference: 
@@ -3110,6 +3234,8 @@ Reference:
 ###### Genus Cynomya
 
 ###### Species Cynomya cadaverina Robineau-Desvoidy, 1830
+
+Vernacular name(s): Shiny blue bottle fly
 
 Establishment means: native
 
@@ -3182,6 +3308,8 @@ References:
 
 ###### Species Protophormia terraenovae (Robineau-desvoidy, 1830)
 
+Vernacular name(s): Northern blowfly
+
 Establishment means: native
 
 References: 
@@ -3211,6 +3339,8 @@ Reference:
 ###### Genus Kaltenbachiola
 
 ###### Species Kaltenbachiola rachiphaga (Tripp, 1955)
+
+Vernacular name(s): Spruce cone axis midge
 
 Establishment means: native
 
@@ -3858,11 +3988,15 @@ Reference:
 
 ###### Species Clinocera fuscipennis Loew, 1876
 
+Vernacular name(s): A dance fly
+
 Establishment means: native
 
 ###### Genus Iteaphila
 
 ###### Species Iteaphila macquarti Zetterstedt, 1838
+
+Vernacular name(s): A dance fly
 
 Establishment means: native
 
@@ -3881,12 +4015,16 @@ References:
 
 ###### Species Iteaphila testacea Melander, 1946
 
+Vernacular name(s): A dance fly
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:3279>.
 
 ###### Species Iteaphila triangula (Coquillett, 1900)
+
+Vernacular name(s): A dance fly
 
 Establishment means: native
 
@@ -3898,12 +4036,16 @@ References:
 
 ###### Species Rhamphomyia anthracodes Coquillett, 1900
 
+Vernacular name(s): A dance fly
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7859>.
 
 ###### Species Rhamphomyia atrata Coquillett, 1900
+
+Vernacular name(s): A dance fly
 
 Establishment means: native
 
@@ -4694,6 +4836,8 @@ Reference:
 
 ###### Species Ocydromia glabricula (Fallen, 1816)
 
+Vernacular name(s): A dance fly
+
 Establishment means: native
 
 References: 
@@ -4859,6 +5003,8 @@ Reference:
 ###### Genus Haematobosca
 
 ###### Species Haematobosca alcis (Snow, 1891)
+
+Vernacular name(s): Moose fly
 
 Establishment means: native
 
@@ -5370,6 +5516,8 @@ Reference:
 
 ###### Species Sepedon borealis Steyskal, 1951
 
+Vernacular name(s): Marsh fly
+
 Establishment means: native
 
 Reference: 
@@ -5436,6 +5584,8 @@ Reference:
 
 ###### Species Themira putris (Linnaeus, 1758)
 
+Vernacular name(s): A sepsid fly
+
 Establishment means: native
 
 ###### Family Simuliidae
@@ -5478,6 +5628,8 @@ Reference:
 <http://arctos.database.museum/guid/UAMObs:Ento:240150>.
 
 ###### Species Simulium vittatum (Zetterstedt, 1838)
+
+Vernacular name(s): Striped black fly
 
 Establishment means: native
 
@@ -5549,6 +5701,8 @@ Reference:
 ###### Genus Brachyopa
 
 ###### Species Brachyopa ferruginea (Fallen, 1817)
+
+Vernacular name(s): Aspen hoverfly
 
 Establishment means: native
 
@@ -6169,6 +6323,8 @@ Reference:
 
 ###### Species Philaenus spumarius (Linnaeus, 1758)
 
+Vernacular name(s): meadow spittlebug
+
 Establishment means: exotic
 
 Reference: 
@@ -6493,6 +6649,8 @@ References:
 
 ###### Species Geocoris bullatus (Say, 1832)
 
+Vernacular name(s): Large Big-eyed Bug
+
 Establishment means: native
 
 Reference: 
@@ -6503,6 +6661,8 @@ Reference:
 ###### Genus Gerris
 
 ###### Species Gerris buenoi Kirkaldy, 1911
+
+Vernacular name(s): A water strider
 
 Establishment means: native
 
@@ -6750,6 +6910,8 @@ Reference:
 
 ###### Species Eremocoris borealis (Dallas, 1852)
 
+Vernacular name(s): Dirt-colored seed bug
+
 Establishment means: native
 
 ###### Genus Ligyrocoris
@@ -6785,6 +6947,8 @@ Reference:
 
 ###### Species Homaemus aeneifrons (Say, 1824)
 
+Vernacular name(s): A shield-backed bug
+
 Establishment means: native
 
 ##### Order Hymenoptera
@@ -6806,6 +6970,8 @@ Reference:
 
 ###### Species Apis mellifera Linnaeus, 1758
 
+Vernacular name(s): European honey bee
+
 Establishment means: exotic
 
 Reference: 
@@ -6822,12 +6988,16 @@ Reference:
 
 ###### Species Bombus occidentalis Greene, 1858
 
+Vernacular name(s): Western bumble bee
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:2800>.
 
 ###### Species Bombus sylvicola Kirby, 1837
+
+Vernacular name(s): Forest Bumble Bee
 
 Establishment means: native
 
@@ -6932,6 +7102,8 @@ Reference:
 ###### Genus Cimbex
 
 ###### Species Cimbex americana Leach
+
+Vernacular name(s): Elm sawfly
 
 Establishment means: native
 
@@ -7325,6 +7497,8 @@ Reference:
 
 ###### Species Cladius difformis (Panzer)
 
+Vernacular name(s): Bristly roseslug sawfly
+
 Establishment means: native
 
 Reference: 
@@ -7473,6 +7647,8 @@ Reference:
 
 ###### Species Dolichovespula arenaria (Fabricius)
 
+Vernacular name(s): Aerial yellowjacket
+
 Establishment means: native
 
 Reference: 
@@ -7551,6 +7727,8 @@ Reference:
 
 ###### Species Platarctia parthenos (Harris, 1850)
 
+Vernacular name(s): St. Lawrence Tiger Moth
+
 Establishment means: native
 
 Reference: 
@@ -7600,6 +7778,8 @@ Reference:
 
 ###### Species Archiearis infans (MÃ¶schler, 1862)
 
+Vernacular name(s): Infant geometer
+
 Establishment means: native
 
 ###### Genus Aspitates
@@ -7624,6 +7804,8 @@ References:
 ###### Genus Campaea
 
 ###### Species Campaea perlata (GuenÃ©e in Boisduval and GuenÃ©e, 1858)
+
+Vernacular name(s): Fringed looper
 
 Establishment means: native
 
@@ -7742,12 +7924,16 @@ Reference:
 
 ###### Species Operophtera bruceata (Hulst, 1886)
 
+Vernacular name(s): Bruce spanworm
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7353>.
 
 ###### Species Operophtera occidentalis
+
+Vernacular name(s): Kodiak looper
 
 Establishment means: native
 
@@ -7759,6 +7945,8 @@ References:
 
 ###### Species Plemyria georgii Hulst, 1896
 
+Vernacular name(s): George's carpet moth
+
 Establishment means: native
 
 References: 
@@ -7768,6 +7956,8 @@ References:
 ###### Genus Rheumaptera
 
 ###### Species Rheumaptera hastata (Linnaeus, 1758)
+
+Vernacular name(s): Spearmarked black moth
 
 Establishment means: native
 
@@ -7792,6 +7982,8 @@ Reference:
 
 ###### Species Spargania luctuata ([Denis and SchiffermÃ¼ller], 1775)
 
+Vernacular name(s): White-banded carpet
+
 Establishment means: native
 
 Reference: 
@@ -7800,6 +7992,8 @@ Reference:
 ###### Genus Trichodezia
 
 ###### Species Trichodezia albovittata (GuenÃ©e in Boisduval and GuenÃ©e, 1858)
+
+Vernacular name(s): White-striped black
 
 Establishment means: native
 
@@ -7822,6 +8016,8 @@ Reference:
 Establishment means: native
 
 ###### Species Xanthorhoe ferrugata (Clerck, 1759)
+
+Vernacular name(s): Dark-barred twin-spot carpet
 
 Establishment means: native
 
@@ -7859,6 +8055,8 @@ Reference:
 ###### Genus Carterocephalus
 
 ###### Species Carterocephalus palaemon (Pallas, 1771)
+
+Vernacular name(s): Arctic skipper
 
 Establishment means: native
 
@@ -7898,6 +8096,8 @@ References:
 
 ###### Species Glaucopsyche lygdamus (E. Doubleday, 1841)
 
+Vernacular name(s): Silvery blue
+
 Establishment means: native
 
 References: 
@@ -7917,6 +8117,8 @@ References:
 ###### Genus Plebejus
 
 ###### Species Plebejus idas (Linnaeus, 1761)
+
+Vernacular name(s): Northern Blue
 
 Establishment means: native
 
@@ -7962,6 +8164,8 @@ Reference:
 ###### Genus Apamea
 
 ###### Species Apamea cogitata (Smith, 1891)
+
+Vernacular name(s): Thoughtful Apamea
 
 Establishment means: native
 
@@ -8041,6 +8245,8 @@ Reference:
 
 ###### Species Noctua pronuba (Linnaeus, 1758)
 
+Vernacular name(s): Large yellow underwing
+
 Establishment means: exotic
 
 Reference: 
@@ -8059,12 +8265,16 @@ Reference:
 
 ###### Species Sunira bicolorago (GuenÃ©e, 1852)
 
+Vernacular name(s): bicolored sallow
+
 Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/15768287>.
 
 ###### Species Sunira verberata (Smith, 1904)
+
+Vernacular name(s): Battered Sallow Moth
 
 Establishment means: native
 
@@ -8102,6 +8312,8 @@ References:
 
 ###### Species Xestia c-nigrum (Linnaeus, 1758)
 
+Vernacular name(s): Spotted cutworm
+
 Establishment means: native
 
 Reference: 
@@ -8133,6 +8345,8 @@ Reference:
 
 ###### Species Xylena thoracica (Putnam-Cramer, 1886)
 
+Vernacular name(s): A swordgrass moth
+
 Establishment means: native
 
 Reference: 
@@ -8153,6 +8367,8 @@ Reference:
 
 ###### Species Pheosia rimosa Packard, 1864
 
+Vernacular name(s): Black-rimmed Prominent Moth
+
 Establishment means: native
 
 References: 
@@ -8164,6 +8380,8 @@ References:
 ###### Genus Aglais
 
 ###### Species Aglais milberti (Godart, 1819)
+
+Vernacular name(s): Milbert's Tortoiseshell
 
 Establishment means: native
 
@@ -8186,6 +8404,8 @@ References:
 
 ###### Species Boloria chariclea (Schneider, 1794)
 
+Vernacular name(s): Arctic fritillary
+
 Establishment means: native
 
 References: 
@@ -8200,6 +8420,8 @@ References:
 
 ###### Species Boloria freija (Thunberg, 1791)
 
+Vernacular name(s): Freija fritillary
+
 Establishment means: native
 
 References: 
@@ -8209,6 +8431,8 @@ References:
 <http://arctos.database.museum/guid/KWP:Ento:57392>.
 
 ###### Species Boloria selene ([SchiffermÃ¼ller], 1775)
+
+Vernacular name(s): Silverbordered fritillary
 
 Establishment means: native
 
@@ -8232,6 +8456,8 @@ References:
 
 ###### Species Erebia discoidalis (W. Kirby, 1837)
 
+Vernacular name(s): Red-disked alpine
+
 Establishment means: native
 
 References: 
@@ -8241,6 +8467,8 @@ References:
 ###### Genus Nymphalis
 
 ###### Species Nymphalis antiopa (Linnaeus, 1758)
+
+Vernacular name(s): Mourningcloak butterfly
 
 Establishment means: native
 
@@ -8259,6 +8487,8 @@ References:
 
 ###### Species Oeneis bore (Esper, 1789)
 
+Vernacular name(s): Bore artic
+
 Establishment means: native
 
 References: 
@@ -8268,6 +8498,8 @@ References:
 <http://arctos.database.museum/guid/KWP:Ento:56317>.
 
 ###### Species Oeneis polixenes (Fabricius, 1775)
+
+Vernacular name(s): Polixenes arctic
 
 Establishment means: native
 
@@ -8279,6 +8511,8 @@ References:
 ###### Genus Polygonia
 
 ###### Species Polygonia faunus (W. H. Edwards, 1862)
+
+Vernacular name(s): Green comma
 
 Establishment means: native
 
@@ -8308,6 +8542,8 @@ References:
 
 ###### Species Speyeria mormonia (Boisduval, 1869)
 
+Vernacular name(s): Mormon fritillary
+
 Establishment means: native
 
 References: 
@@ -8321,6 +8557,8 @@ References:
 
 ###### Species Papilio canadensis Rothschild and Jordan, 1906
 
+Vernacular name(s): Canadian tiger swallowtail
+
 Establishment means: native
 
 References: 
@@ -8332,6 +8570,8 @@ References:
 <http://arctos.database.museum/guid/KWP:Ento:56861>.
 
 ###### Species Papilio machaon Linnaeus, 1758
+
+Vernacular name(s): Old world swallowtail
 
 Establishment means: native
 
@@ -8354,6 +8594,8 @@ Reference:
 
 ###### Species Colias nastes Boisduval, 1832
 
+Vernacular name(s): Labrador sulphur
+
 Establishment means: native
 
 References: 
@@ -8362,6 +8604,8 @@ References:
 <http://arctos.database.museum/guid/KWP:Ento:56989>.
 
 ###### Species Colias philodice Godart, 1819
+
+Vernacular name(s): Clouded sulphur
 
 Establishment means: native
 
@@ -8726,12 +8970,16 @@ Reference:
 
 ###### Species Aeshna eremita Scudder, 1866
 
+Vernacular name(s): Lake darner
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:8948>.
 
 ###### Species Aeshna interrupta Walker, 1908
+
+Vernacular name(s): Variable darner
 
 Establishment means: native
 
@@ -8740,9 +8988,13 @@ Reference:
 
 ###### Species Aeshna juncea (Linnaeus, 1758)
 
+Vernacular name(s): Sedge darner
+
 Establishment means: native
 
 ###### Species Aeshna palmata Hagen, 1856
+
+Vernacular name(s): Paddle-tailed darner
 
 Establishment means: native
 
@@ -8751,6 +9003,8 @@ Reference:
 
 ###### Species Aeshna septentrionalis Burmeister, 1839
 
+Vernacular name(s): Azure darner
+
 Establishment means: native
 
 Reference: 
@@ -8758,12 +9012,16 @@ Reference:
 
 ###### Species Aeshna sitchensis Hagen, 1861
 
+Vernacular name(s): Zigzag darner
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/115153>.
 
 ###### Species Aeshna subarctica Walker, 1908
+
+Vernacular name(s): Subarctic darner
 
 Establishment means: native
 
@@ -8776,6 +9034,8 @@ Reference:
 
 ###### Species Coenagrion resolutum (Hagen in Selys, 1876)
 
+Vernacular name(s): Taiga bluet
+
 Establishment means: native
 
 Reference: 
@@ -8784,6 +9044,8 @@ Reference:
 ###### Genus Enallagma
 
 ###### Species Enallagma annexum (Hagen, 1861)
+
+Vernacular name(s): Northern bluet
 
 Establishment means: native
 
@@ -8794,6 +9056,8 @@ References:
 
 ###### Species Enallagma boreale Selys, 1875
 
+Vernacular name(s): Boreal bluet
+
 Establishment means: native
 
 ###### Family Corduliidae
@@ -8801,6 +9065,8 @@ Establishment means: native
 ###### Genus Cordulia
 
 ###### Species Cordulia shurtleffii Scudder, 1866
+
+Vernacular name(s): American emerald
 
 Establishment means: native
 
@@ -8812,6 +9078,8 @@ References:
 ###### Genus Somatochlora
 
 ###### Species Somatochlora albicincta (Burmeister, 1839)
+
+Vernacular name(s): Ringed emerald
 
 Establishment means: native
 
@@ -8825,6 +9093,8 @@ References:
 
 ###### Species Lestes disjunctus Selys, 1862
 
+Vernacular name(s): Common spreadwing
+
 Establishment means: native
 
 Reference: 
@@ -8836,6 +9106,8 @@ Reference:
 
 ###### Species Leucorrhinia hudsonica (Selys, 1850)
 
+Vernacular name(s): Hudsonian whiteface
+
 Establishment means: native
 
 Reference: 
@@ -8843,12 +9115,16 @@ Reference:
 
 ###### Species Leucorrhinia patricia Walker, 1940
 
+Vernacular name(s): Canada whiteface
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Ento:7005>.
 
 ###### Species Leucorrhinia proxima Calvert, 1890
+
+Vernacular name(s): Red-waisted whiteface
 
 Establishment means: native
 
@@ -8859,6 +9135,8 @@ Reference:
 
 ###### Species Libellula quadrimaculata Linnaeus, 1758
 
+Vernacular name(s): Four-spotted skimmer
+
 Establishment means: native
 
 References: 
@@ -8868,6 +9146,8 @@ References:
 ###### Genus Sympetrum
 
 ###### Species Sympetrum danae (Sulzer, 1776)
+
+Vernacular name(s): Black meadowhawk
 
 Establishment means: native
 
@@ -8930,6 +9210,8 @@ References:
 
 ###### Species Utacapnia columbiana (Claassen, 1924)
 
+Vernacular name(s): A winter stonefly
+
 Establishment means: native
 
 References: 
@@ -8942,6 +9224,8 @@ References:
 ###### Genus Alloperla
 
 ###### Species Alloperla severa (Hagen, 1861)
+
+Vernacular name(s): Western Sallfly
 
 Establishment means: native
 
@@ -8997,6 +9281,8 @@ References:
 
 ###### Species Valenzuela flavidus (Stephens, 1836)
 
+Vernacular name(s): A bark louse
+
 Establishment means: native
 
 References: 
@@ -9019,6 +9305,8 @@ Reference:
 ###### Genus Liposcelis
 
 ###### Species Liposcelis corrodens (Heymons, 1909)
+
+Vernacular name(s): A book louse
 
 Establishment means: native
 
@@ -9350,6 +9638,8 @@ Reference:
 
 ###### Species Lithobates sylvaticus (LeConte, 1825)
 
+Vernacular name(s): Wood frog
+
 Establishment means: native
 
 References: 
@@ -9367,6 +9657,8 @@ References:
 ###### Genus Accipiter
 
 ###### Species Accipiter gentilis (Linnaeus, 1758)
+
+Vernacular name(s): Northern goshawk
 
 Establishment means: native
 
@@ -9407,6 +9699,8 @@ References:
 
 ###### Species Accipiter striatus Vieillot, 1808
 
+Vernacular name(s): Sharp-shinned hawk
+
 Establishment means: native
 
 Reference: 
@@ -9415,6 +9709,8 @@ Reference:
 ###### Genus Aquila
 
 ###### Species Aquila chrysaetos (Linnaeus, 1758)
+
+Vernacular name(s): Golden eagle
 
 Establishment means: native
 
@@ -9428,6 +9724,8 @@ References:
 ###### Genus Buteo
 
 ###### Species Buteo jamaicensis (Gmelin, 1788)
+
+Vernacular name(s): Red-tailed hawk
 
 Establishment means: native
 
@@ -9482,6 +9780,8 @@ References:
 
 ###### Species Buteo lagopus (Pontoppidan, 1763)
 
+Vernacular name(s): Rough-legged hawk
+
 Establishment means: native
 
 Reference: 
@@ -9490,6 +9790,8 @@ Reference:
 ###### Genus Circus
 
 ###### Species Circus cyaneus (Linnaeus, 1766)
+
+Vernacular name(s): Northern harrier
 
 Establishment means: native
 
@@ -9627,6 +9929,8 @@ References:
 ###### Genus Haliaeetus
 
 ###### Species Haliaeetus leucocephalus (Linnaeus, 1766)
+
+Vernacular name(s): Bald eagle
 
 Establishment means: native
 
@@ -9923,6 +10227,8 @@ References:
 
 ###### Species Pandion haliaetus (Linnaeus, 1758)
 
+Vernacular name(s): Osprey
+
 Establishment means: native
 
 References: 
@@ -9947,6 +10253,8 @@ References:
 ###### Genus Anas
 
 ###### Species Anas acuta Linnaeus, 1758
+
+Vernacular name(s): Northern pintail
 
 Establishment means: native
 
@@ -10132,6 +10440,8 @@ References:
 
 ###### Species Anas americana Gmelin, 1789
 
+Vernacular name(s): American wigeon
+
 Establishment means: native
 
 References: 
@@ -10269,6 +10579,8 @@ References:
 <http://www.inaturalist.org/observations/38971>.
 
 ###### Species Anas clypeata Linnaeus, 1758
+
+Vernacular name(s): Northern shoveler
 
 Establishment means: native
 
@@ -10425,6 +10737,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980359>.
 
 ###### Species Anas crecca Linnaeus, 1758
+
+Vernacular name(s): Green-winged teal
 
 Establishment means: native
 
@@ -10618,6 +10932,8 @@ References:
 
 ###### Species Anas discors Linnaeus, 1766
 
+Vernacular name(s): Blue-winged teal
+
 Establishment means: native
 
 References: 
@@ -10631,6 +10947,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S7273837>.
 
 ###### Species Anas platyrhynchos Linnaeus, 1758
+
+Vernacular name(s): Mallard
 
 Establishment means: native
 
@@ -10886,6 +11204,8 @@ References:
 
 ###### Species Anas strepera Linnaeus, 1758
 
+Vernacular name(s): Gadwall
+
 Establishment means: native
 
 References: 
@@ -10914,6 +11234,8 @@ References:
 ###### Genus Anser
 
 ###### Species Anser albifrons (Scopoli, 1769)
+
+Vernacular name(s): Greater white-fronted goose
 
 Establishment means: native
 
@@ -10984,15 +11306,21 @@ References:
 
 ###### Species Anser cygnoides (Linnaeus, 1758)
 
+Vernacular name(s): Chinese goose
+
 Establishment means: exotic
 
 ###### Genus Aythya
 
 ###### Species Aythya americana (Eyton, 1838)
 
+Vernacular name(s): Redhead
+
 Establishment means: native
 
 ###### Species Aythya collaris (Donovan, 1809)
+
+Vernacular name(s): Ring-necked duck
 
 Establishment means: native
 
@@ -11004,6 +11332,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980247>.
 
 ###### Species Aythya marila (Linnaeus, 1761)
+
+Vernacular name(s): Greater scaup
 
 Establishment means: native
 
@@ -11037,6 +11367,8 @@ References:
 
 ###### Species Aythya valisineria (A. Wilson, 1814)
 
+Vernacular name(s): Canvasback
+
 Establishment means: native
 
 References: 
@@ -11050,6 +11382,8 @@ References:
 ###### Genus Branta
 
 ###### Species Branta canadensis (Linnaeus, 1758)
+
+Vernacular name(s): Canada goose
 
 Establishment means: native
 
@@ -11131,6 +11465,8 @@ References:
 
 ###### Species Branta hutchinsii (Richardson, 1832)
 
+Vernacular name(s): Cackling goose
+
 Establishment means: native
 
 References: 
@@ -11174,6 +11510,8 @@ References:
 
 ###### Species Bucephala albeola (Linnaeus, 1758)
 
+Vernacular name(s): Bufflehead
+
 Establishment means: native
 
 References: 
@@ -11195,6 +11533,8 @@ References:
 <http://www.inaturalist.org/observations/2097731>.
 
 ###### Species Bucephala clangula (Linnaeus, 1758)
+
+Vernacular name(s): Common goldeneye
 
 Establishment means: native
 
@@ -11225,6 +11565,8 @@ References:
 <http://www.inaturalist.org/observations/14378>.
 
 ###### Species Bucephala islandica (Gmelin, 1789)
+
+Vernacular name(s): Barrow's goldeneye
 
 Establishment means: native
 
@@ -11263,6 +11605,8 @@ References:
 
 ###### Species Chen caerulescens (Linnaeus, 1758)
 
+Vernacular name(s): Snow goose
+
 Establishment means: native
 
 References: 
@@ -11293,6 +11637,8 @@ References:
 
 ###### Species Clangula hyemalis (Linnaeus, 1758)
 
+Vernacular name(s): Long-tailed duck
+
 Establishment means: native
 
 Reference: 
@@ -11301,6 +11647,8 @@ Reference:
 ###### Genus Cygnus
 
 ###### Species Cygnus buccinator Richardson, 1831
+
+Vernacular name(s): Trumpeter swan
 
 Establishment means: native
 
@@ -11474,11 +11822,15 @@ References:
 
 ###### Species Cygnus columbianus (Ord, 1815)
 
+Vernacular name(s): Tundra swan
+
 Establishment means: native
 
 ###### Genus Histrionicus
 
 ###### Species Histrionicus histrionicus (Linnaeus, 1758)
+
+Vernacular name(s): Harlequin duck
 
 Establishment means: native
 
@@ -11497,6 +11849,8 @@ References:
 
 ###### Species Melanitta fusca (Linnaeus, 1758)
 
+Vernacular name(s): White-winged scoter
+
 Establishment means: native
 
 References: 
@@ -11512,9 +11866,13 @@ References:
 
 ###### Species Melanitta nigra (Linnaeus, 1758)
 
+Vernacular name(s): Black scoter
+
 Establishment means: native
 
 ###### Species Melanitta perspicillata (Linnaeus, 1758)
+
+Vernacular name(s): Surf scoter
 
 Establishment means: native
 
@@ -11544,6 +11902,8 @@ References:
 ###### Genus Mergus
 
 ###### Species Mergus merganser Linnaeus, 1758
+
+Vernacular name(s): Common merganser
 
 Establishment means: native
 
@@ -11611,6 +11971,8 @@ References:
 
 ###### Species Mergus serrator Linnaeus, 1758
 
+Vernacular name(s): Red-breasted merganser
+
 Establishment means: native
 
 References: 
@@ -11657,6 +12019,8 @@ References:
 
 ###### Species Selasphorus rufus (Gmelin, 1788)
 
+Vernacular name(s): Rufous hummingbird
+
 Establishment means: native
 
 Reference: 
@@ -11670,6 +12034,8 @@ Reference:
 
 ###### Species Brachyramphus marmoratus (Gmelin, 1789)
 
+Vernacular name(s): Marbled murrelet
+
 Establishment means: native
 
 ###### Family Charadriidae
@@ -11677,6 +12043,8 @@ Establishment means: native
 ###### Genus Charadrius
 
 ###### Species Charadrius semipalmatus Bonaparte, 1825
+
+Vernacular name(s): Semipalmated plover
 
 Establishment means: native
 
@@ -11756,6 +12124,8 @@ References:
 
 ###### Species Pluvialis dominica (Statius Muller, 1776)
 
+Vernacular name(s): American golden-plover
+
 Establishment means: native
 
 References: 
@@ -11766,9 +12136,13 @@ References:
 
 ###### Species Pluvialis fulva (Gmelin, 1789)
 
+Vernacular name(s): Pacific golden-plover
+
 Establishment means: native
 
 ###### Species Pluvialis squatarola (Linnaeus, 1758)
+
+Vernacular name(s): Black-bellied plover
 
 Establishment means: native
 
@@ -11832,6 +12206,8 @@ Reference:
 ###### Genus Larus
 
 ###### Species Larus argentatus Pontoppidan, 1763
+
+Vernacular name(s): Herring gull
 
 Establishment means: native
 
@@ -12074,6 +12450,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S8557471>.
 
 ###### Species Larus canus Linnaeus, 1758
+
+Vernacular name(s): Mew gull
 
 Establishment means: native
 
@@ -12329,6 +12707,8 @@ References:
 
 ###### Species Larus glaucescens J. F. Naumann, 1840
 
+Vernacular name(s): Glaucous-winged gull
+
 Establishment means: native
 
 References: 
@@ -12410,6 +12790,8 @@ Reference:
 
 ###### Species Rissa tridactyla (Linnaeus, 1758)
 
+Vernacular name(s): Black-legged kittiwake
+
 Establishment means: native
 
 References: 
@@ -12420,6 +12802,8 @@ References:
 ###### Genus Sterna
 
 ###### Species Sterna paradisaea Pontoppidan, 1763
+
+Vernacular name(s): Arctic tern
 
 Establishment means: native
 
@@ -12679,6 +13063,8 @@ References:
 
 ###### Species Actitis macularius (Linnaeus, 1766)
 
+Vernacular name(s): Spotted sandpiper
+
 Establishment means: native
 
 References: 
@@ -12713,12 +13099,16 @@ References:
 
 ###### Species Arenaria interpres (Linnaeus, 1758)
 
+Vernacular name(s): Ruddy turnstone
+
 Establishment means: native
 
 Reference: 
 <http://ebird.org/ebird/view/checklist/S5866267>.
 
 ###### Species Arenaria melanocephala (Vigors, 1829)
+
+Vernacular name(s): Black turnstone
 
 Establishment means: native
 
@@ -12738,11 +13128,15 @@ References:
 
 ###### Species Bartramia longicauda (Bechstein, 1812)
 
+Vernacular name(s): Upland sandpiper
+
 Establishment means: native
 
 ###### Genus Calidris
 
 ###### Species Calidris bairdii (Coues, 1861)
+
+Vernacular name(s): Baird's sandpiper
 
 Establishment means: native
 
@@ -12750,6 +13144,8 @@ Reference:
 <http://ebird.org/ebird/view/checklist/S8542506>.
 
 ###### Species Calidris mauri (Cabanis, 1857)
+
+Vernacular name(s): Western sandpiper
 
 Establishment means: native
 
@@ -12769,6 +13165,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980353>.
 
 ###### Species Calidris melanotos (Vieillot, 1819)
+
+Vernacular name(s): Pectoral sandpiper
 
 Establishment means: native
 
@@ -12838,6 +13236,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6980356>.
 
 ###### Species Calidris minutilla (Vieillot, 1819)
+
+Vernacular name(s): Least sandpiper
 
 Establishment means: native
 
@@ -13058,6 +13458,8 @@ References:
 
 ###### Species Calidris pusilla (Linnaeus, 1766)
 
+Vernacular name(s): Semipalmated sandpiper
+
 Establishment means: native
 
 References: 
@@ -13101,6 +13503,8 @@ References:
 ###### Genus Gallinago
 
 ###### Species Gallinago delicata (Ord, 1825)
+
+Vernacular name(s): Wilson's snipe
 
 Establishment means: native
 
@@ -13321,6 +13725,8 @@ References:
 
 ###### Species Limnodromus griseus (Gmelin, 1789)
 
+Vernacular name(s): Short-billed dowitcher
+
 Establishment means: native
 
 References: 
@@ -13499,6 +13905,8 @@ References:
 
 ###### Species Limnodromus scolopaceus (Say, 1822)
 
+Vernacular name(s): Long-billed dowitcher
+
 Establishment means: native
 
 References: 
@@ -13530,6 +13938,8 @@ References:
 ###### Genus Limosa
 
 ###### Species Limosa haemastica (Linnaeus, 1758)
+
+Vernacular name(s): Hudsonian godwit
 
 Establishment means: native
 
@@ -13624,6 +14034,8 @@ References:
 
 ###### Species Numenius phaeopus (Linnaeus, 1758)
 
+Vernacular name(s): Whimbrel
+
 Establishment means: native
 
 References: 
@@ -13672,6 +14084,8 @@ References:
 ###### Genus Phalaropus
 
 ###### Species Phalaropus lobatus (Linnaeus, 1758)
+
+Vernacular name(s): Red-necked phalarope
 
 Establishment means: native
 
@@ -13794,6 +14208,8 @@ References:
 ###### Genus Tringa
 
 ###### Species Tringa flavipes (Gmelin, 1789)
+
+Vernacular name(s): Lesser yellowlegs
 
 Establishment means: native
 
@@ -14042,6 +14458,8 @@ References:
 <http://www.inaturalist.org/observations/14388>.
 
 ###### Species Tringa melanoleuca (Gmelin, 1789)
+
+Vernacular name(s): Greater yellowlegs
 
 Establishment means: native
 
@@ -14312,6 +14730,8 @@ References:
 
 ###### Species Tringa solitaria A. Wilson, 1813
 
+Vernacular name(s): Solitary sandpiper
+
 Establishment means: native
 
 References: 
@@ -14374,6 +14794,8 @@ References:
 
 ###### Species Megaceryle alcyon (Linnaeus, 1758)
 
+Vernacular name(s): Belted kingfisher
+
 Establishment means: native
 
 References: 
@@ -14408,6 +14830,8 @@ References:
 ###### Genus Falco
 
 ###### Species Falco columbarius Linnaeus, 1758
+
+Vernacular name(s): Merlin
 
 Establishment means: native
 
@@ -14568,6 +14992,8 @@ References:
 
 ###### Species Falco peregrinus Tunstall, 1771
 
+Vernacular name(s): Peregrine falcon
+
 Establishment means: native
 
 References: 
@@ -14599,9 +15025,13 @@ References:
 
 ###### Species Falco rusticolus Linnaeus, 1758
 
+Vernacular name(s): Gyrfalcon
+
 Establishment means: native
 
 ###### Species Falco sparverius Linnaeus, 1758
+
+Vernacular name(s): American kestrel
 
 Establishment means: native
 
@@ -14613,6 +15043,8 @@ Establishment means: native
 
 ###### Species Bonasa umbellus (Linnaeus, 1766)
 
+Vernacular name(s): Ruffed grouse
+
 Establishment means: exotic
 
 References: 
@@ -14623,6 +15055,8 @@ References:
 ###### Genus Falcipennis
 
 ###### Species Falcipennis canadensis (Linnaeus, 1758)
+
+Vernacular name(s): Spruce grouse
 
 Establishment means: native
 
@@ -14697,6 +15131,8 @@ References:
 
 ###### Species Lagopus lagopus (Linnaeus, 1758)
 
+Vernacular name(s): Willow ptarmigan
+
 Establishment means: native
 
 References: 
@@ -14705,6 +15141,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6495919>.
 
 ###### Species Lagopus leucura (Richardson, 1831)
+
+Vernacular name(s): White-tailed ptarmigan
 
 Establishment means: native
 
@@ -14724,6 +15162,8 @@ References:
 
 ###### Species Lagopus muta (Montin, 1781)
 
+Vernacular name(s): Rock ptarmigan
+
 Establishment means: native
 
 References: 
@@ -14741,11 +15181,15 @@ References:
 
 ###### Species Meleagris gallopavo Linnaeus, 1758
 
+Vernacular name(s): Wild turkey
+
 Establishment means: exotic
 
 ###### Genus Phasianus
 
 ###### Species Phasianus colchicus Linnaeus, 1758
+
+Vernacular name(s): Ring-necked pheasant
 
 Establishment means: exotic
 
@@ -14756,6 +15200,8 @@ Establishment means: exotic
 ###### Genus Gavia
 
 ###### Species Gavia immer (Brunnich, 1764)
+
+Vernacular name(s): Common loon
 
 Establishment means: native
 
@@ -14925,6 +15371,8 @@ References:
 
 ###### Species Gavia pacifica (Lawrence, 1858)
 
+Vernacular name(s): Pacific loon
+
 Establishment means: native
 
 References: 
@@ -14990,6 +15438,8 @@ References:
 
 ###### Species Gavia stellata (Pontoppidan, 1763)
 
+Vernacular name(s): Red-throated loon
+
 Establishment means: native
 
 References: 
@@ -15005,6 +15455,8 @@ References:
 ###### Genus Grus
 
 ###### Species Grus canadensis (Linnaeus, 1758)
+
+Vernacular name(s): Sandhill crane
 
 Establishment means: native
 
@@ -15290,6 +15742,8 @@ References:
 
 ###### Species Eremophila alpestris (Linnaeus, 1758)
 
+Vernacular name(s): Horned lark
+
 Establishment means: native
 
 References: 
@@ -15302,6 +15756,8 @@ References:
 ###### Genus Bombycilla
 
 ###### Species Bombycilla garrulus (Linnaeus, 1758)
+
+Vernacular name(s): Bohemian waxwing
 
 Establishment means: native
 
@@ -15323,6 +15779,8 @@ References:
 ###### Genus Calcarius
 
 ###### Species Calcarius lapponicus (Linnaeus, 1758)
+
+Vernacular name(s): Lapland longspur
 
 Establishment means: native
 
@@ -15363,6 +15821,8 @@ References:
 
 ###### Species Plectrophenax nivalis (Linnaeus, 1758)
 
+Vernacular name(s): Snow bunting
+
 Establishment means: native
 
 References: 
@@ -15374,6 +15834,8 @@ References:
 ###### Genus Certhia
 
 ###### Species Certhia americana Bonaparte, 1838
+
+Vernacular name(s): Brown creeper
 
 Establishment means: native
 
@@ -15406,6 +15868,8 @@ References:
 
 ###### Species Cinclus mexicanus Swainson, 1827
 
+Vernacular name(s): American dipper
+
 Establishment means: native
 
 References: 
@@ -15421,6 +15885,8 @@ References:
 ###### Genus Corvus
 
 ###### Species Corvus caurinus S. F. Baird, 1858
+
+Vernacular name(s): Northwestern crow
 
 Establishment means: native
 
@@ -15438,6 +15904,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6529816>.
 
 ###### Species Corvus corax Linnaeus, 1758
+
+Vernacular name(s): Common raven
 
 Establishment means: native
 
@@ -15734,6 +16202,8 @@ References:
 
 ###### Species Cyanocitta stelleri (Gmelin, 1788)
 
+Vernacular name(s): Steller's jay
+
 Establishment means: native
 
 References: 
@@ -15753,6 +16223,8 @@ References:
 ###### Genus Perisoreus
 
 ###### Species Perisoreus canadensis (Linnaeus, 1766)
+
+Vernacular name(s): Gray jay
 
 Establishment means: native
 
@@ -15901,6 +16373,8 @@ Reference:
 
 ###### Species Pica pica (Linnaeus, 1758)
 
+Vernacular name(s): Black-billed magpie
+
 Establishment means: native
 
 ###### Family Emberizidae
@@ -15908,6 +16382,8 @@ Establishment means: native
 ###### Genus Junco
 
 ###### Species Junco hyemalis (Linnaeus, 1758)
+
+Vernacular name(s): Dark-eyed junco
 
 Establishment means: native
 
@@ -16119,6 +16595,8 @@ References:
 
 ###### Species Melospiza lincolnii (Audubon, 1834)
 
+Vernacular name(s): Lincoln's sparrow
+
 Establishment means: native
 
 References: 
@@ -16160,6 +16638,8 @@ References:
 
 ###### Species Melospiza melodia (A. Wilson, 1810)
 
+Vernacular name(s): Song sparrow
+
 Establishment means: native
 
 References: 
@@ -16170,6 +16650,8 @@ References:
 ###### Genus Passerculus
 
 ###### Species Passerculus sandwichensis (J. F. Gmelin, 1789)
+
+Vernacular name(s): Savannah sparrow
 
 Establishment means: native
 
@@ -16405,6 +16887,8 @@ References:
 
 ###### Species Passerella iliaca (Merrem, 1786)
 
+Vernacular name(s): Fox sparrow
+
 Establishment means: native
 
 References: 
@@ -16435,6 +16919,8 @@ References:
 
 ###### Species Zonotrichia atricapilla (J. F. Gmelin, 1789)
 
+Vernacular name(s): Golden-crowned sparrow
+
 Establishment means: native
 
 References: 
@@ -16460,6 +16946,8 @@ References:
 <http://www.inaturalist.org/observations/799858>.
 
 ###### Species Zonotrichia leucophrys (J. R. Forster, 1772)
+
+Vernacular name(s): White-crowned sparrow
 
 Establishment means: native
 
@@ -16517,6 +17005,8 @@ Reference:
 
 ###### Species Leucosticte tephrocotis (Swainson, 1832)
 
+Vernacular name(s): Gray-crowned rosy-finch
+
 Establishment means: native
 
 References: 
@@ -16530,12 +17020,16 @@ References:
 
 ###### Species Loxia curvirostra Linnaeus, 1758
 
+Vernacular name(s): Red crossbill
+
 Establishment means: native
 
 Reference: 
 <http://ebird.org/ebird/view/checklist/S5012464>.
 
 ###### Species Loxia leucoptera J. F. Gmelin, 1789
+
+Vernacular name(s): White-winged crossbill
 
 Establishment means: native
 
@@ -16570,6 +17064,8 @@ References:
 ###### Genus Pinicola
 
 ###### Species Pinicola enucleator (Linnaeus, 1758)
+
+Vernacular name(s): Pine grosbeak
 
 Establishment means: native
 
@@ -16627,6 +17123,8 @@ References:
 
 ###### Species Petrochelidon pyrrhonota (Vieillot, 1817)
 
+Vernacular name(s): Cliff swallow
+
 Establishment means: native
 
 References: 
@@ -16639,6 +17137,8 @@ References:
 ###### Genus Riparia
 
 ###### Species Riparia riparia (Linnaeus, 1758)
+
+Vernacular name(s): Bank swallow
 
 Establishment means: native
 
@@ -16665,6 +17165,8 @@ References:
 ###### Genus Tachycineta
 
 ###### Species Tachycineta bicolor (Vieillot, 1808)
+
+Vernacular name(s): Tree swallow
 
 Establishment means: native
 
@@ -16755,6 +17257,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S933765>.
 
 ###### Species Tachycineta thalassina (Swainson, 1827)
+
+Vernacular name(s): Violet-green swallow
 
 Establishment means: native
 
@@ -16860,6 +17364,8 @@ References:
 ###### Genus Euphagus
 
 ###### Species Euphagus carolinus (Statius Muller, 1776)
+
+Vernacular name(s): Rusty blackbird
 
 Establishment means: native
 
@@ -16969,6 +17475,8 @@ References:
 
 ###### Species Lanius excubitor Linnaeus, 1758
 
+Vernacular name(s): Northern shrike
+
 Establishment means: native
 
 References: 
@@ -16989,6 +17497,8 @@ References:
 ###### Genus Anthus
 
 ###### Species Anthus rubescens (Tunstall, 1771)
+
+Vernacular name(s): American pipit
 
 Establishment means: native
 
@@ -17015,6 +17525,8 @@ References:
 
 ###### Species Oenanthe oenanthe (Linnaeus, 1758)
 
+Vernacular name(s): Northern wheatear
+
 Establishment means: native
 
 ###### Family Paridae
@@ -17022,6 +17534,8 @@ Establishment means: native
 ###### Genus Poecile
 
 ###### Species Poecile atricapillus (Linnaeus, 1766)
+
+Vernacular name(s): Black-capped chickadee
 
 Establishment means: native
 
@@ -17111,6 +17625,8 @@ References:
 <http://www.inaturalist.org/observations/2318746>.
 
 ###### Species Poecile hudsonicus (J. R. Forster, 1772)
+
+Vernacular name(s): Boreal chickadee
 
 Establishment means: native
 
@@ -17293,6 +17809,8 @@ Reference:
 
 ###### Species Regulus calendula (Linnaeus, 1766)
 
+Vernacular name(s): Ruby-crowned kinglet
+
 Establishment means: native
 
 References: 
@@ -17406,6 +17924,8 @@ References:
 
 ###### Species Regulus satrapa Lichtenstein, 1823
 
+Vernacular name(s): Golden-crowned kinglet
+
 Establishment means: native
 
 References: 
@@ -17454,6 +17974,8 @@ References:
 
 ###### Species Sitta canadensis Linnaeus, 1766
 
+Vernacular name(s): Red-breasted nuthatch
+
 Establishment means: native
 
 References: 
@@ -17489,6 +18011,8 @@ References:
 
 ###### Species Troglodytes pacificus S. F. Baird, 1864
 
+Vernacular name(s): Pacific Wren
+
 Establishment means: native
 
 References: 
@@ -17500,6 +18024,8 @@ References:
 ###### Genus Catharus
 
 ###### Species Catharus guttatus (Pallas, 1811)
+
+Vernacular name(s): Hermit thrush
 
 Establishment means: native
 
@@ -17620,6 +18146,8 @@ References:
 
 ###### Species Catharus minimus (Lafresnaye, 1848)
 
+Vernacular name(s): Gray-cheeked thrush
+
 Establishment means: native
 
 References: 
@@ -17634,6 +18162,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S6582321>.
 
 ###### Species Catharus ustulatus (Nuttall, 1840)
+
+Vernacular name(s): Swainson's thrush
 
 Establishment means: native
 
@@ -17724,6 +18254,8 @@ References:
 ###### Genus Ixoreus
 
 ###### Species Ixoreus naevius (Gmelin, 1789)
+
+Vernacular name(s): Varied thrush
 
 Establishment means: native
 
@@ -17854,6 +18386,8 @@ References:
 
 ###### Species Myadestes townsendi (Audubon, 1838)
 
+Vernacular name(s): Townsend's solitaire
+
 Establishment means: native
 
 References: 
@@ -17864,6 +18398,8 @@ References:
 ###### Genus Turdus
 
 ###### Species Turdus migratorius Linnaeus, 1766
+
+Vernacular name(s): American robin
 
 Establishment means: native
 
@@ -18141,6 +18677,8 @@ References:
 
 ###### Species Contopus cooperi (Nuttall, 1831)
 
+Vernacular name(s): Olive-sided flycatcher
+
 Establishment means: native
 
 References: 
@@ -18224,6 +18762,8 @@ References:
 
 ###### Species Contopus sordidulus P. L. Sclater, 1859
 
+Vernacular name(s): Western wood-pewee
+
 Establishment means: native
 
 References: 
@@ -18283,6 +18823,8 @@ References:
 ###### Genus Empidonax
 
 ###### Species Empidonax alnorum Brewster, 1895
+
+Vernacular name(s): Alder flycatcher
 
 Establishment means: native
 
@@ -18344,6 +18886,8 @@ References:
 
 ###### Species Empidonax hammondii (Xantus de Vesey, 1858)
 
+Vernacular name(s): Hammond's flycatcher
+
 Establishment means: native
 
 Reference: 
@@ -18356,6 +18900,8 @@ Reference:
 ###### Genus Colaptes
 
 ###### Species Colaptes auratus (Linnaeus, 1758)
+
+Vernacular name(s): Northern flicker
 
 Establishment means: native
 
@@ -18386,6 +18932,8 @@ Reference:
 
 ###### Species Picoides arcticus (Swainson, 1832)
 
+Vernacular name(s): Black-backed woodpecker
+
 Establishment means: native
 
 References: 
@@ -18396,6 +18944,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S5205805>.
 
 ###### Species Picoides dorsalis S. F. Baird, 1858
+
+Vernacular name(s): American three-toed woodpecker
 
 Establishment means: native
 
@@ -18438,6 +18988,8 @@ References:
 
 ###### Species Picoides pubescens (Linnaeus, 1766)
 
+Vernacular name(s): Downy woodpecker
+
 Establishment means: native
 
 References: 
@@ -18468,6 +19020,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S7587890>.
 
 ###### Species Picoides villosus (Linnaeus, 1766)
+
+Vernacular name(s): Hairy woodpecker
 
 Establishment means: native
 
@@ -18519,6 +19073,8 @@ References:
 
 ###### Species Podiceps auritus (Linnaeus, 1758)
 
+Vernacular name(s): Horned grebe
+
 Establishment means: native
 
 References: 
@@ -18534,6 +19090,8 @@ References:
 <http://ebird.org/ebird/view/checklist/S7519310>.
 
 ###### Species Podiceps grisegena (Boddaert, 1783)
+
+Vernacular name(s): Red-necked grebe
 
 Establishment means: native
 
@@ -18633,6 +19191,8 @@ References:
 
 ###### Species Oceanodroma furcata (Gmelin, 1789)
 
+Vernacular name(s): Fork-tailed storm-petrel
+
 Establishment means: native
 
 References: 
@@ -18647,6 +19207,8 @@ References:
 
 ###### Species Aegolius acadicus (J. F. Gmelin, 1788)
 
+Vernacular name(s): Northern saw-whet owl
+
 Establishment means: native
 
 References: 
@@ -18660,6 +19222,8 @@ References:
 
 ###### Species Aegolius funereus (Linnaeus, 1758)
 
+Vernacular name(s): Boreal owl
+
 Establishment means: native
 
 Reference: 
@@ -18668,6 +19232,8 @@ Reference:
 ###### Genus Asio
 
 ###### Species Asio flammeus (Pontoppidan, 1763)
+
+Vernacular name(s): Short-eared owl
 
 Establishment means: native
 
@@ -18691,6 +19257,8 @@ References:
 ###### Genus Bubo
 
 ###### Species Bubo virginianus (J. F. Gmelin, 1788)
+
+Vernacular name(s): Great horned owl
 
 Establishment means: native
 
@@ -18730,6 +19298,8 @@ References:
 
 ###### Species Strix nebulosa J. R. Forster, 1772
 
+Vernacular name(s): Great gray owl
+
 Establishment means: native
 
 References: 
@@ -18739,6 +19309,8 @@ References:
 ###### Genus Surnia
 
 ###### Species Surnia ulula (Linnaeus, 1758)
+
+Vernacular name(s): Northern hawk owl
 
 Establishment means: native
 
@@ -18762,6 +19334,8 @@ References:
 ###### Genus Phalacrocorax
 
 ###### Species Phalacrocorax auritus (Lesson, 1831)
+
+Vernacular name(s): Double-crested cormorant
 
 Establishment means: native
 
@@ -18814,6 +19388,8 @@ Reference:
 
 ###### Species Oreamnos americanus (Blainville, 1816)
 
+Vernacular name(s): Mountain goat
+
 Establishment means: native
 
 Reference: 
@@ -18822,6 +19398,8 @@ Reference:
 ###### Genus Ovis
 
 ###### Species Ovis dalli Nelson, 1884
+
+Vernacular name(s): Dall's sheep
 
 Establishment means: native
 
@@ -18834,6 +19412,8 @@ Reference:
 
 ###### Species Alces alces (Linnaeus, 1758)
 
+Vernacular name(s): Moose
+
 Establishment means: native
 
 References: 
@@ -18844,11 +19424,15 @@ References:
 
 ###### Species Odocoileus hemionus (Rafinesque, 1817)
 
+Vernacular name(s): Sitka black-tailed deer
+
 Establishment means: exotic
 
 ###### Genus Rangifer
 
 ###### Species Rangifer tarandus (Linnaeus, 1758)
+
+Vernacular name(s): Caribou
 
 Establishment means: native
 
@@ -18863,12 +19447,16 @@ Reference:
 
 ###### Species Canis latrans Say, 1823
 
+Vernacular name(s): Coyote
+
 Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/14877>.
 
 ###### Species Canis lupus Linnaeus, 1758
+
+Vernacular name(s): Gray wolf
 
 Establishment means: native
 
@@ -18878,6 +19466,8 @@ Reference:
 ###### Genus Vulpes
 
 ###### Species Vulpes vulpes (Linnaeus, 1758)
+
+Vernacular name(s): Red fox
 
 Establishment means: native
 
@@ -18890,6 +19480,8 @@ Reference:
 
 ###### Species Felis catus Linnaeus, 1758
 
+Vernacular name(s): domestic cat
+
 Establishment means: exotic
 
 Reference: 
@@ -18899,6 +19491,8 @@ Reference:
 
 ###### Species Lynx lynx (Linnaeus, 1758)
 
+Vernacular name(s): Lynx
+
 Establishment means: native
 
 ###### Family Mustelidae
@@ -18906,6 +19500,8 @@ Establishment means: native
 ###### Genus Gulo
 
 ###### Species Gulo gulo (Linnaeus, 1758)
+
+Vernacular name(s): Wolverine
 
 Establishment means: native
 
@@ -18916,6 +19512,8 @@ Reference:
 
 ###### Species Lontra canadensis (Schreber, 1777)
 
+Vernacular name(s): Northern river otter
+
 Establishment means: native
 
 Reference: 
@@ -18924,6 +19522,8 @@ Reference:
 ###### Genus Martes
 
 ###### Species Martes americana (Turton, 1806)
+
+Vernacular name(s): American marten
 
 Establishment means: native
 
@@ -18934,12 +19534,16 @@ Reference:
 
 ###### Species Mustela erminea Linnaeus, 1758
 
+Vernacular name(s): Ermine
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:99495>.
 
 ###### Species Neovison vison (Schreber, 1777)
+
+Vernacular name(s): American mink
 
 Establishment means: native
 
@@ -18952,6 +19556,8 @@ Reference:
 
 ###### Species Phoca vitulina Linnaeus, 1758
 
+Vernacular name(s): Harbor seal
+
 Establishment means: native
 
 ###### Family Ursidae
@@ -18959,6 +19565,8 @@ Establishment means: native
 ###### Genus Ursus
 
 ###### Species Ursus americanus Pallas, 1780
+
+Vernacular name(s): Black bear
 
 Establishment means: native
 
@@ -18982,6 +19590,8 @@ References:
 
 ###### Species Delphinapterus leucas (Pallas, 1776)
 
+Vernacular name(s): Beluga
+
 Establishment means: native
 
 Reference: 
@@ -18995,6 +19605,8 @@ Reference:
 
 ###### Species Myotis lucifugus (Le Conte, 1831)
 
+Vernacular name(s): Little brown myotis
+
 Establishment means: native
 
 ##### Order Lagomorpha
@@ -19005,6 +19617,8 @@ Establishment means: native
 
 ###### Species Lepus americanus Erxleben, 1777
 
+Vernacular name(s): Snowshoe hare
+
 Establishment means: native
 
 References: 
@@ -19014,6 +19628,8 @@ References:
 ###### Genus Oryctolagus
 
 ###### Species Oryctolagus cuniculus (Linnaeus, 1758)
+
+Vernacular name(s): European rabbit
 
 Establishment means: exotic
 
@@ -19028,6 +19644,8 @@ Reference:
 
 ###### Species Homo sapiens Linnaeus, 1758
 
+Vernacular name(s): Human
+
 Establishment means: native
 
 ##### Order Rodentia
@@ -19037,6 +19655,8 @@ Establishment means: native
 ###### Genus Castor
 
 ###### Species Castor canadensis Kuhl, 1820
+
+Vernacular name(s): American beaver
 
 Establishment means: native
 
@@ -19049,12 +19669,16 @@ Reference:
 
 ###### Species Microtus miurus Osgood, 1901
 
+Vernacular name(s): Singing vole
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:86247>.
 
 ###### Species Microtus oeconomus (Pallas, 1776)
+
+Vernacular name(s): Tundra vole
 
 Establishment means: native
 
@@ -19081,6 +19705,8 @@ Reference:
 
 ###### Species Ondatra zibethicus (Linnaeus, 1766)
 
+Vernacular name(s): Muskrat
+
 Establishment means: native
 
 Reference: 
@@ -19089,6 +19715,8 @@ Reference:
 ###### Genus Synaptomys
 
 ###### Species Synaptomys borealis (Richardson, 1828)
+
+Vernacular name(s): Northern bog lemming
 
 Establishment means: native
 
@@ -19112,6 +19740,8 @@ Reference:
 
 ###### Species Marmota caligata (Eschscholtz, 1829)
 
+Vernacular name(s): hoary marmot
+
 Establishment means: native
 
 References: 
@@ -19123,6 +19753,8 @@ References:
 ###### Genus Tamiasciurus
 
 ###### Species Tamiasciurus hudsonicus (Erxleben, 1777)
+
+Vernacular name(s): Red squirrel
 
 Establishment means: native
 
@@ -19139,6 +19771,8 @@ References:
 
 ###### Species Sorex cinereus Kerr, 1792
 
+Vernacular name(s): Common shrew
+
 Establishment means: native
 
 Reference: 
@@ -19146,12 +19780,16 @@ Reference:
 
 ###### Species Sorex hoyi Baird, 1857
 
+Vernacular name(s): Pygmy shrew
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Mamm:99411>.
 
 ###### Species Sorex monticolus Merriam, 1890
+
+Vernacular name(s): Montane shrew
 
 Establishment means: native
 
@@ -19168,6 +19806,8 @@ Reference:
 
 ###### Species Catostomus catostomus (Forster, 1773)
 
+Vernacular name(s): Longnose sucker
+
 Establishment means: native
 
 References: 
@@ -19183,6 +19823,8 @@ References:
 
 ###### Species Esox lucius Linnaeus, 1758
 
+Vernacular name(s): Northern pike
+
 Establishment means: exotic
 
 Reference: 
@@ -19196,6 +19838,8 @@ Reference:
 
 ###### Species Lota lota (Linnaeus, 1758)
 
+Vernacular name(s): Burbot, Ellpout
+
 Establishment means: exotic
 
 ##### Order Gasterosteiformes
@@ -19205,6 +19849,8 @@ Establishment means: exotic
 ###### Genus Gasterosteus
 
 ###### Species Gasterosteus aculeatus Linnaeus, 1758
+
+Vernacular name(s): Threespine stickleback
 
 Establishment means: native
 
@@ -19216,6 +19862,8 @@ References:
 ###### Genus Pungitius
 
 ###### Species Pungitius pungitius (Linnaeus, 1758)
+
+Vernacular name(s): Tenspined stickleback
 
 Establishment means: native
 
@@ -19230,13 +19878,19 @@ Reference:
 
 ###### Species Oncorhynchus gorbuscha (Walbaum, 1792)
 
+Vernacular name(s): Humpbacked salmon
+
 Establishment means: native
 
 ###### Species Oncorhynchus keta (Walbaum in Artedi, 1792)
 
+Vernacular name(s): Chum salmon
+
 Establishment means: native
 
 ###### Species Oncorhynchus kisutch (Walbaum, 1792)
+
+Vernacular name(s): Coho salmon or silver salmon
 
 Establishment means: native
 
@@ -19245,6 +19899,8 @@ References:
 <http://www.inaturalist.org/observations/4891214>.
 
 ###### Species Oncorhynchus mykiss (Walbaum, 1792)
+
+Vernacular name(s): Steelhead
 
 Establishment means: native
 
@@ -19255,6 +19911,8 @@ References:
 
 ###### Species Oncorhynchus nerka (Walbaum in Artedi, 1792)
 
+Vernacular name(s): Sockeye salmon or kokanee
+
 Establishment means: native
 
 References: 
@@ -19262,6 +19920,8 @@ References:
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ###### Species Oncorhynchus tshawytscha (Walbaum in Artedi, 1792)
+
+Vernacular name(s): Chinook salmon or king salmon
 
 Establishment means: native
 
@@ -19272,6 +19932,8 @@ Reference:
 
 ###### Species Prosopium cylindraceum (Pennant, 1784)
 
+Vernacular name(s): Round whitefish
+
 Establishment means: native
 
 Reference: 
@@ -19281,9 +19943,13 @@ Reference:
 
 ###### Species Salvelinus alpinus (Linnaeus, 1758)
 
+Vernacular name(s): Arctic char
+
 Establishment means: native
 
 ###### Species Salvelinus malma (Walbaum in Artedi, 1792)
+
+Vernacular name(s): Dolly varden
 
 Establishment means: native
 
@@ -19293,6 +19959,8 @@ References:
 
 ###### Species Salvelinus namaycush (Walbaum in Artedi, 1792)
 
+Vernacular name(s): Lake trout
+
 Establishment means: native
 
 Reference: 
@@ -19301,6 +19969,8 @@ Reference:
 ###### Genus Thymallus
 
 ###### Species Thymallus arcticus (Pallas, 1776)
+
+Vernacular name(s): Arctic grayling
 
 Establishment means: exotic
 
@@ -19315,6 +19985,8 @@ Reference:
 
 ###### Species Cottus aleuticus Gilbert, 1896
 
+Vernacular name(s): Coastrange sculpin
+
 Establishment means: native
 
 References: 
@@ -19322,6 +19994,8 @@ References:
 <http://www.sf.adfg.state.ak.us/fedaidpdfs/fred.122.pdf>.
 
 ###### Species Cottus cognatus Richardson, 1836
+
+Vernacular name(s): Slimy sculpin
 
 Establishment means: native
 
@@ -19358,6 +20032,8 @@ Reference:
 
 ###### Species Anodonta beringiana Middendorff, 1851
 
+Vernacular name(s): Yukon floater
+
 Establishment means: native
 
 References: 
@@ -19372,6 +20048,8 @@ References:
 ###### Genus Macoma
 
 ###### Species Macoma balthica (Linnaeus, 1758)
+
+Vernacular name(s): Baltic Macoma
 
 Establishment means: native
 
@@ -19447,6 +20125,8 @@ Establishment means: native
 
 ###### Species Littorina subrotundata (Carpenter, 1864)
 
+Vernacular name(s): Salt Marsh Periwinkle
+
 Establishment means: native
 
 Reference: 
@@ -19459,6 +20139,8 @@ Reference:
 ###### Genus Discus
 
 ###### Species Discus whitneyi (Newcomb, 1864)
+
+Vernacular name(s): Forest snail
 
 Establishment means: native
 
@@ -19501,6 +20183,8 @@ Reference:
 
 ###### Species Columella columella (von Martens, 1830)
 
+Vernacular name(s): Mellow column
+
 Establishment means: native
 
 Reference: 
@@ -19528,6 +20212,8 @@ Reference:
 
 ###### Species Zoogenetes harpa (Say, 1824)
 
+Vernacular name(s): Boreal top
+
 Establishment means: native
 
 Reference: 
@@ -19544,6 +20230,8 @@ Reference:
 ###### Genus Mermis
 
 ###### Species Mermis nigrescens
+
+Vernacular name(s): grasshopper nematode
 
 Establishment means: native
 
@@ -19840,6 +20528,8 @@ References:
 
 ###### Species Fucus distichus Linnaeus, 1767
 
+Vernacular name(s): Rockweed
+
 Establishment means: native
 
 Reference: 
@@ -19876,6 +20566,8 @@ Reference:
 
 ###### Species Sarcodon imbricatus
 
+Vernacular name(s): Shingled Hedgehog
+
 Establishment means: native
 
 Reference: 
@@ -19886,6 +20578,8 @@ Reference:
 ###### Family Rhytismataceae
 
 ###### Species Lirula macrospora (R.Hartig) Darker
+
+Vernacular name(s): Lirula needle blight, Spruce needle cast
 
 Establishment means: native
 
@@ -19934,6 +20628,8 @@ Reference:
 
 ###### Species Acarospora smaragdula (Wahlenb.) A. Massal.
 
+Vernacular name(s): cracked lichen
+
 Establishment means: native
 
 ##### Order Agyriales
@@ -19953,11 +20649,15 @@ Reference:
 
 ###### Species Trapeliopsis granulosa (Hoffm.) Lumbsch
 
+Vernacular name(s): granular trapeliopsis lichen
+
 Establishment means: native
 
 ###### Genus Xylographa
 
 ###### Species Xylographa vitiligo (Ach.) J.R. Laundon
+
+Vernacular name(s): xylographa lichen
 
 Establishment means: native
 
@@ -19991,9 +20691,13 @@ Reference:
 
 ###### Species Candelariella terrigena
 
+Vernacular name(s): eggyolk lichen
+
 Establishment means: native
 
 ###### Species Candelariella xanthostigma (Ach.) Lettau
+
+Vernacular name(s): eggyolk lichen
 
 Establishment means: native
 
@@ -20035,6 +20739,8 @@ Reference:
 
 ###### Species Cladonia acuminata (Ach.) Norrl.
 
+Vernacular name(s): acutetip cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia albonigra
@@ -20046,6 +20752,8 @@ Reference:
 
 ###### Species Cladonia amaurocraea
 
+Vernacular name(s): Cup lichen
+
 Establishment means: native
 
 Reference: 
@@ -20053,13 +20761,19 @@ Reference:
 
 ###### Species Cladonia bacilliformis (Nyl.) GlÃ¼ck
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia bellidiflora (Ach.) Schaer.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia borealis S. Stenroos
+
+Vernacular name(s): Boreal cup lichen
 
 Establishment means: native
 
@@ -20072,9 +20786,13 @@ Reference:
 
 ###### Species Cladonia cariosa (Ach.) Spreng.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia carneola (Fr.) Fr.
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20083,12 +20801,16 @@ Reference:
 
 ###### Species Cladonia cenotea (Ach.) Schaer.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12019>.
 
 ###### Species Cladonia chlorophaea (FlÃ¶rke ex Sommerf.) Spreng.
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20097,9 +20819,13 @@ Reference:
 
 ###### Species Cladonia coccifera (L.) Willd.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia coniocraea (FlÃ¶rke) Spreng.
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20108,12 +20834,16 @@ Reference:
 
 ###### Species Cladonia cornuta (L.) Hoffm.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11700>.
 
 ###### Species Cladonia crispata
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20122,6 +20852,8 @@ Reference:
 
 ###### Species Cladonia deformis
 
+Vernacular name(s): deformed cup lichen
+
 Establishment means: native
 
 Reference: 
@@ -20129,9 +20861,13 @@ Reference:
 
 ###### Species Cladonia digitata (L.) Hoffm.
 
+Vernacular name(s): finger cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia ecmocyna
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20144,6 +20880,8 @@ Reference:
 
 ###### Species Cladonia fimbriata (L.) Fr.
 
+Vernacular name(s): Cup lichen
+
 Establishment means: native
 
 Reference: 
@@ -20154,6 +20892,8 @@ Reference:
 Establishment means: native
 
 ###### Species Cladonia gracilis (L.) Willd.
+
+Vernacular name(s): Cup lichen
 
 Establishment means: native
 
@@ -20173,33 +20913,49 @@ Establishment means: native
 
 ###### Species Cladonia kanewskii
 
+Vernacular name(s): Kanewsk's cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia macilenta Hoffm.
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
 ###### Species Cladonia macroceras (Delise) Ahti
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia macrophyllodes
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
 ###### Species Cladonia maxima (Asahina) Ahti
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia metacorallifera Asahina
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
 ###### Species Cladonia multiformis
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia ochrochlora FlÃ¶rke
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20208,37 +20964,55 @@ Reference:
 
 ###### Species Cladonia pleurota (FlÃ¶rke) Schaer.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia pyxidata (L.) Hoffm.
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
 ###### Species Cladonia rei Schaer.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia scabriuscula (Delise) Leight.
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
 ###### Species Cladonia squamosa (Scop.) Hoffm.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia stricta
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
 ###### Species Cladonia subfurcata (Nyl.) Arnold
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia subulata (L.) F.H. Wigg.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia sulphurina (Michx.) Fr.
+
+Vernacular name(s): Sulpher cup lichen
 
 Establishment means: native
 
@@ -20247,13 +21021,19 @@ Reference:
 
 ###### Species Cladonia symphycarpa (Ach.) Fr.
 
+Vernacular name(s): cup lichen
+
 Establishment means: native
 
 ###### Species Cladonia umbricola TÃ¸nsberg & Ahti
 
+Vernacular name(s): cup lichen, shaded cladonia
+
 Establishment means: native
 
 ###### Species Cladonia uncialis
+
+Vernacular name(s): cup lichen
 
 Establishment means: native
 
@@ -20277,9 +21057,13 @@ Reference:
 
 ###### Species Lopadium coralloideum (Nyl.) Lynge
 
+Vernacular name(s): coral granular lichen
+
 Establishment means: native
 
 ###### Species Lopadium pezizoideum
+
+Vernacular name(s): granular lichen
 
 Establishment means: native
 
@@ -20288,6 +21072,8 @@ Establishment means: native
 ###### Genus Aspicilia
 
 ###### Species Aspicilia myrinii (Fr.) Stein
+
+Vernacular name(s): Myrin's aspicilia
 
 Establishment means: native
 
@@ -20306,6 +21092,8 @@ Reference:
 
 ###### Species Lecanora boligera (Th. Fr.) Hedl.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 ###### Species Lecanora cadubriae (A. Massal.) Hedl.
@@ -20317,13 +21105,19 @@ Reference:
 
 ###### Species Lecanora chlarotera Nyl.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 ###### Species Lecanora circumborealis Brodo & Vitik.
 
+Vernacular name(s): arctic rim lichen
+
 Establishment means: native
 
 ###### Species Lecanora farinaria
+
+Vernacular name(s): rim lichen
 
 Establishment means: native
 
@@ -20333,12 +21127,16 @@ Establishment means: native
 
 ###### Species Lecanora fuscescens (Sommerf.) Nyl.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11779>.
 
 ###### Species Lecanora hagenii
+
+Vernacular name(s): Hagen's rim lichen
 
 Establishment means: native
 
@@ -20361,13 +21159,19 @@ Reference:
 
 ###### Species Lecanora piniperda KÃ¶rb.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 ###### Species Lecanora polytropa (Hoffm.) Rabenh.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 ###### Species Lecanora pulicaris (Pers.) Ach.
+
+Vernacular name(s): rim lichen
 
 Establishment means: native
 
@@ -20376,9 +21180,13 @@ Reference:
 
 ###### Species Lecanora rupicola (L.) Zahlbr.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 ###### Species Lecanora symmicta (Ach.) Ach.
+
+Vernacular name(s): rim lichen
 
 Establishment means: native
 
@@ -20387,19 +21195,27 @@ Reference:
 
 ###### Species Lecanora varia (Hoffm.) Ach.
 
+Vernacular name(s): rim lichen
+
 Establishment means: native
 
 ###### Genus Lecidella
 
 ###### Species Lecidella elaeochroma (Ach.) M. Choisy
 
+Vernacular name(s): lecidella lichen
+
 Establishment means: native
 
 ###### Species Lecidella euphorea (FlÃ¶rke) Hertel
 
+Vernacular name(s): lecidella lichen
+
 Establishment means: native
 
 ###### Species Lecidella wulfenii (Hepp) KÃ¶rb.
+
+Vernacular name(s): Wulfen's lecidella lichen
 
 Establishment means: native
 
@@ -20418,6 +21234,8 @@ Reference:
 
 ###### Species Mycoblastus affinis (Schaer.) T. Schauer
 
+Vernacular name(s): blood lichen
+
 Establishment means: native
 
 Reference: 
@@ -20425,9 +21243,13 @@ Reference:
 
 ###### Species Mycoblastus alpinus (Fr.) Hellb.
 
+Vernacular name(s): alpine blood lichen
+
 Establishment means: native
 
 ###### Species Mycoblastus sanguinarius (L.) Norman
+
+Vernacular name(s): blood lichen
 
 Establishment means: native
 
@@ -20465,6 +21287,8 @@ Reference:
 
 ###### Species Allantoparmelia alpicola (Th. Fr.) Essl.
 
+Vernacular name(s): allantoparmelia lichen
+
 Establishment means: native
 
 Reference: 
@@ -20483,9 +21307,13 @@ Reference:
 
 ###### Species Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb.
 
+Vernacular name(s): golden asahinea lichen
+
 Establishment means: native
 
 ###### Species Asahinea scholanderi
+
+Vernacular name(s): Scholander's asahinea lichen
 
 Establishment means: native
 
@@ -20496,11 +21324,15 @@ Reference:
 
 ###### Species Brodoa oroarctica (Krog) Goward
 
+Vernacular name(s): arctic brodoa lichen
+
 Establishment means: native
 
 ###### Genus Bryocaulon
 
 ###### Species Bryocaulon divergens (Ach.) KÃ¤rnefelt
+
+Vernacular name(s): bryocaulon lichen
 
 Establishment means: native
 
@@ -20512,13 +21344,19 @@ References:
 
 ###### Species Bryoria capillaris (Ach.) Brodo & D. Hawksw.
 
+Vernacular name(s): horsehair lichen
+
 Establishment means: native
 
 ###### Species Bryoria carlottae Brodo & D. Hawksw.
 
+Vernacular name(s): Carlott's horsehair lichen
+
 Establishment means: native
 
 ###### Species Bryoria fremontii (Tuck.) Brodo & D. Hawksw.
+
+Vernacular name(s): Fremont's horsehair lichen
 
 Establishment means: native
 
@@ -20530,6 +21368,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:11733>.
 
 ###### Species Bryoria fuscescens (Gyeln.) Brodo & D. Hawksw.
+
+Vernacular name(s): horsehair lichen
 
 Establishment means: native
 
@@ -20545,12 +21385,16 @@ Reference:
 
 ###### Species Bryoria lanestris (Ach.) Brodo & D. Hawksw.
 
+Vernacular name(s): horsehair lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11735>.
 
 ###### Species Bryoria nitidula (Th. Fr.) Brodo & D. Hawksw.
+
+Vernacular name(s): horsehair lichen
 
 Establishment means: native
 
@@ -20563,12 +21407,16 @@ Reference:
 
 ###### Species Bryoria pseudofuscescens (Gyeln.) Brodo & D. Hawksw.
 
+Vernacular name(s): horsehair lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12032>.
 
 ###### Species Bryoria simplicior (Vain.) Brodo & D. Hawksw.
+
+Vernacular name(s): horsehair lichen
 
 Establishment means: native
 
@@ -20605,6 +21453,8 @@ Reference:
 
 ###### Species Cetraria ericetorum Opiz
 
+Vernacular name(s): cetraria lichen
+
 Establishment means: native
 
 Reference: 
@@ -20619,12 +21469,16 @@ Reference:
 
 ###### Species Cetraria islandica (L.) Ach.
 
+Vernacular name(s): Island cetraria lichen
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:8844>.
 
 ###### Species Cetraria kamczatica
+
+Vernacular name(s): Kamchatka cetraria lichen
 
 Establishment means: native
 
@@ -20633,12 +21487,16 @@ Reference:
 
 ###### Species Cetraria laevigata
 
+Vernacular name(s): Cetraria lichen
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9010>.
 
 ###### Species Cetraria nigricans Nyl.
+
+Vernacular name(s): Blackened icelandmoss
 
 Establishment means: native
 
@@ -20650,6 +21508,8 @@ Reference:
 Establishment means: native
 
 ###### Species Cetraria nivalis (L.) Ach.
+
+Vernacular name(s): Ragged snow
 
 Establishment means: native
 
@@ -20682,6 +21542,8 @@ Establishment means: native
 
 ###### Species Dactylina arctica (Hook. f.) Nyl.
 
+Vernacular name(s): Arctic dactylina lichen
+
 Establishment means: native
 
 References: 
@@ -20692,9 +21554,13 @@ References:
 
 ###### Species Hypogymnia austerodes (Nyl.) RÃ¤sÃ¤nen
 
+Vernacular name(s): tube lichen
+
 Establishment means: native
 
 ###### Species Hypogymnia bitteri (Lynge) Ahti
+
+Vernacular name(s): bitter tube lichen
 
 Establishment means: native
 
@@ -20703,9 +21569,13 @@ Reference:
 
 ###### Species Hypogymnia duplicata
 
+Vernacular name(s): duplicate tube lichen
+
 Establishment means: native
 
 ###### Species Hypogymnia enteromorpha
+
+Vernacular name(s): tube lichen
 
 Establishment means: native
 
@@ -20714,6 +21584,8 @@ Reference:
 
 ###### Species Hypogymnia metaphysodes
 
+Vernacular name(s): tube lichen
+
 Establishment means: native
 
 Reference: 
@@ -20721,12 +21593,16 @@ Reference:
 
 ###### Species Hypogymnia occidentalis L.H. Pike
 
+Vernacular name(s): western tube lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11928>.
 
 ###### Species Hypogymnia physodes (L.) Nyl.
+
+Vernacular name(s): tube lichen
 
 Establishment means: native
 
@@ -20736,6 +21612,8 @@ References:
 
 ###### Species Hypogymnia rugosa
 
+Vernacular name(s): tube lichen
+
 Establishment means: native
 
 Reference: 
@@ -20744,6 +21622,8 @@ Reference:
 ###### Genus Imshaugia
 
 ###### Species Imshaugia aleurites (Ach.) S.L.F. Mey.
+
+Vernacular name(s): imshaugia lichen
 
 Establishment means: native
 
@@ -20800,6 +21680,8 @@ Reference:
 
 ###### Species Parmelia hygrophila Goward & Ahti
 
+Vernacular name(s): shield lichen
+
 Establishment means: native
 
 Reference: 
@@ -20807,12 +21689,16 @@ Reference:
 
 ###### Species Parmelia omphalodes (L.) Ach.
 
+Vernacular name(s): shield lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:9044>.
 
 ###### Species Parmelia saxatilis (L.) Ach.
+
+Vernacular name(s): shield lichen
 
 Establishment means: native
 
@@ -20822,13 +21708,19 @@ References:
 
 ###### Species Parmelia skultii Hale
 
+Vernacular name(s): Skult's shield lichen
+
 Establishment means: native
 
 ###### Species Parmelia squarrosa
 
+Vernacular name(s): shield lichen
+
 Establishment means: native
 
 ###### Species Parmelia sulcata Taylor
+
+Vernacular name(s): shield lichen
 
 Establishment means: native
 
@@ -20840,12 +21732,16 @@ References:
 
 ###### Species Parmeliopsis ambigua (Wulfen) Nyl.
 
+Vernacular name(s): ambiguous bran lichen
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9049>.
 
 ###### Species Parmeliopsis hyperopta (Ach.) Arnold
+
+Vernacular name(s): bran lichen
 
 Establishment means: native
 
@@ -20856,6 +21752,8 @@ Reference:
 
 ###### Species Platismatia glauca (L.) W.L. Culb. & C.F. Culb.
 
+Vernacular name(s): Ragbag
+
 Establishment means: native
 
 Reference: 
@@ -20865,12 +21763,16 @@ Reference:
 
 ###### Species Pseudephebe minuscula (Arnold) Brodo & D. Hawksw.
 
+Vernacular name(s): blackcurly lichen
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9064>.
 
 ###### Species Pseudephebe pubescens (L.) M. Choisy
+
+Vernacular name(s): blackcurly lichen
 
 Establishment means: native
 
@@ -20881,11 +21783,15 @@ Reference:
 
 ###### Species Rhizoplaca melanophthalma (DC.) Leuckert
 
+Vernacular name(s): rimmed navel lichen
+
 Establishment means: native
 
 ###### Genus Tuckermannopsis
 
 ###### Species Tuckermannopsis chlorophylla (Willd.) Hale
+
+Vernacular name(s): greenleaf tuckermannopsis lichen
 
 Establishment means: native
 
@@ -20893,6 +21799,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9092>.
 
 ###### Species Tuckermannopsis sepincola (Ehrh.) Hale
+
+Vernacular name(s): tuckermannopsis lichen
 
 Establishment means: native
 
@@ -20903,6 +21811,8 @@ Reference:
 
 ###### Species Usnea lapponica Vain.
 
+Vernacular name(s): Lapland beard lichen
+
 Establishment means: native
 
 Reference: 
@@ -20910,13 +21820,19 @@ Reference:
 
 ###### Species Usnea scabrata Nyl.
 
+Vernacular name(s): beard lichen
+
 Establishment means: native
 
 ###### Species Usnea subfloridana Stirt.
 
+Vernacular name(s): beard lichen
+
 Establishment means: native
 
 ###### Species Usnea substerilis Motyka
+
+Vernacular name(s): beard lichen
 
 Establishment means: native
 
@@ -20938,6 +21854,8 @@ Reference:
 
 ###### Species Bacidia rosella
 
+Vernacular name(s): dotted lichen
+
 Establishment means: native
 
 ###### Genus Biatora
@@ -20958,17 +21876,23 @@ Reference:
 
 ###### Species Biatora vernalis (L.) Fr.
 
+Vernacular name(s): spring biatora lichen
+
 Establishment means: native
 
 ###### Genus Catinaria
 
 ###### Species Catinaria atropurpurea
 
+Vernacular name(s): catinaria lichen
+
 Establishment means: native
 
 ###### Genus Cliostomum
 
 ###### Species Cliostomum griffithii (Sm.) Coppins
+
+Vernacular name(s): Griffith's cliostomum lichen
 
 Establishment means: native
 
@@ -20979,12 +21903,16 @@ Reference:
 
 ###### Species Japewia subaurifera Muhr & TÃ¸nsberg
 
+Vernacular name(s): japewia lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11952>.
 
 ###### Species Japewia tornoensis (Nyl.) TÃ¸nsberg
+
+Vernacular name(s): japewia lichen
 
 Establishment means: native
 
@@ -20994,6 +21922,8 @@ Reference:
 ###### Genus Lecania
 
 ###### Species Lecania cyrtella (Ach.) Th. Fr.
+
+Vernacular name(s): lecania lichen
 
 Establishment means: native
 
@@ -21008,12 +21938,16 @@ Reference:
 
 ###### Species Ramalina dilacerata (Hoffm.) Hoffm.
 
+Vernacular name(s): cartilage lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11619>.
 
 ###### Species Ramalina farinacea (L.) Ach.
+
+Vernacular name(s): farinose cartilage lichen
 
 Establishment means: native
 
@@ -21022,9 +21956,13 @@ Reference:
 
 ###### Species Ramalina intermedia
 
+Vernacular name(s): intermediate cartilage lichen
+
 Establishment means: native
 
 ###### Species Ramalina obtusata
+
+Vernacular name(s): obtuse cartilage lichen
 
 Establishment means: native
 
@@ -21032,6 +21970,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9066>.
 
 ###### Species Ramalina roesleri
+
+Vernacular name(s): Roesler's cartilage lichen
 
 Establishment means: native
 
@@ -21152,9 +22092,13 @@ Reference:
 
 ###### Species Bellemerea alpina (Sommerf.) Clauzade & Cl. Roux
 
+Vernacular name(s): alpine bellemerea lichen
+
 Establishment means: native
 
 ###### Species Bellemerea subsorediza (Lynge) R. Sant.
+
+Vernacular name(s): bellemerea lichen
 
 Establishment means: native
 
@@ -21175,6 +22119,8 @@ Reference:
 
 ###### Species Phlyctis argena (Spreng.) Flot.
 
+Vernacular name(s): blemished lichen
+
 Establishment means: native
 
 ##### Order Peltigerales
@@ -21185,9 +22131,13 @@ Establishment means: native
 
 ###### Species Collema furfuraceum (Arnold) Du Rietz
 
+Vernacular name(s): jelly lichen
+
 Establishment means: native
 
 ###### Species Collema subflaccidum Degel.
+
+Vernacular name(s): jelly lichen
 
 Establishment means: native
 
@@ -21202,12 +22152,16 @@ Establishment means: native
 
 ###### Species Leptogium saturninum (Dicks.) Nyl.
 
+Vernacular name(s): Saturn skin lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12146>.
 
 ###### Species Leptogium teretiusculum (Wallr.) Arnold
+
+Vernacular name(s): terete skin lichen
 
 Establishment means: native
 
@@ -21217,9 +22171,13 @@ Establishment means: native
 
 ###### Species Lobaria hallii (Tuck.) Zahlbr.
 
+Vernacular name(s): Hall's lung lichen
+
 Establishment means: native
 
 ###### Species Lobaria linita
+
+Vernacular name(s): lung lichen
 
 Establishment means: native
 
@@ -21228,6 +22186,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:9026>.
 
 ###### Species Lobaria pulmonaria (L.) Hoffm.
+
+Vernacular name(s): lung lichen
 
 Establishment means: native
 
@@ -21245,6 +22205,8 @@ Reference:
 
 ###### Species Pseudocyphellaria crocata (L.) Vain.
 
+Vernacular name(s): pseudocyphellaria lichen
+
 Establishment means: native
 
 ###### Family Nephromataceae
@@ -21252,6 +22214,8 @@ Establishment means: native
 ###### Genus Nephroma
 
 ###### Species Nephroma arcticum (L.) Torss.
+
+Vernacular name(s): Arctic kidney lichen
 
 Establishment means: native
 
@@ -21261,9 +22225,13 @@ References:
 
 ###### Species Nephroma bellum (Spreng.) Tuck.
 
+Vernacular name(s): kidney lichen
+
 Establishment means: native
 
 ###### Species Nephroma expallidum (Nyl.) Nyl.
+
+Vernacular name(s): kidney lichen
 
 Establishment means: native
 
@@ -21275,6 +22243,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9041>.
 
 ###### Species Nephroma parile (Ach.) Ach.
+
+Vernacular name(s): kidney lichen
 
 Establishment means: native
 
@@ -21294,6 +22264,8 @@ Reference:
 
 ###### Species Leproloma membranaceum (Dicks.) Vain.
 
+Vernacular name(s): leproloma lichen
+
 Establishment means: native
 
 ###### Genus Pannaria
@@ -21306,6 +22278,8 @@ Establishment means: native
 
 ###### Species Psoroma hypnorum (Vahl) Gray
 
+Vernacular name(s): bowl lichen
+
 Establishment means: native
 
 ###### Family Peltigeraceae
@@ -21314,12 +22288,16 @@ Establishment means: native
 
 ###### Species Peltigera aphthosa
 
+Vernacular name(s): Felt lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12276>.
 
 ###### Species Peltigera britannica (Gyeln.) Holt.-Hartw. & TÃ¸nsberg
+
+Vernacular name(s): British felt lichen
 
 Establishment means: native
 
@@ -21328,6 +22306,8 @@ Reference:
 
 ###### Species Peltigera canina
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 Reference: 
@@ -21335,9 +22315,13 @@ Reference:
 
 ###### Species Peltigera collina (Ach.) Schrad.
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 ###### Species Peltigera degenii Gyeln.
+
+Vernacular name(s): Degen's felt lichen
 
 Establishment means: native
 
@@ -21346,13 +22330,19 @@ Reference:
 
 ###### Species Peltigera didactyla (Nyl. ex Vain.) Goffinet & Hastings
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 ###### Species Peltigera kristinssonii Vitik.
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 ###### Species Peltigera leucophlebia (Nyl.) Gyeln.
+
+Vernacular name(s): Felt lichen
 
 Establishment means: native
 
@@ -21361,12 +22351,16 @@ Reference:
 
 ###### Species Peltigera malacea (Ach.) Funck
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9055>.
 
 ###### Species Peltigera membranacea (Ach.) Nyl.
+
+Vernacular name(s): membraneous felt lichen
 
 Establishment means: native
 
@@ -21375,9 +22369,13 @@ Reference:
 
 ###### Species Peltigera neckeri Hepp
 
+Vernacular name(s): Necker's felt lichen
+
 Establishment means: native
 
 ###### Species Peltigera neopolydactyla (Gyeln.) Gyeln.
+
+Vernacular name(s): felt lichen
 
 Establishment means: native
 
@@ -21400,12 +22398,16 @@ Reference:
 
 ###### Species Peltigera ponojensis Gyeln.
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:9058>.
 
 ###### Species Peltigera praetextata (FlÃ¶rke ex Sommerf.) Zopf
+
+Vernacular name(s): felt lichen
 
 Establishment means: native
 
@@ -21414,13 +22416,19 @@ Reference:
 
 ###### Species Peltigera retifoveata Vitik.
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 ###### Species Peltigera rufescens (Weiss) Humb.
 
+Vernacular name(s): felt lichen
+
 Establishment means: native
 
 ###### Species Peltigera scabrosa Th. Fr.
+
+Vernacular name(s): felt lichen
 
 Establishment means: native
 
@@ -21435,6 +22443,8 @@ Reference:
 
 ###### Species Thamnolia vermicularis (Sw.) Ach. ex Schaer.
 
+Vernacular name(s): Whiteworm lichen
+
 Establishment means: native
 
 References: 
@@ -21447,12 +22457,16 @@ References:
 
 ###### Species Ochrolechia androgyna (Hoffm.) Arnold
 
+Vernacular name(s): crabseye lichen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11614>.
 
 ###### Species Ochrolechia frigida (Sw.) Lynge
+
+Vernacular name(s): cold crabeye lichen
 
 Establishment means: native
 
@@ -21462,13 +22476,19 @@ Establishment means: native
 
 ###### Species Ochrolechia gyalectina
 
+Vernacular name(s): crabseye lichen
+
 Establishment means: native
 
 ###### Species Ochrolechia oregonensis H. Magn.
 
+Vernacular name(s): Oregon crabseye lichen
+
 Establishment means: native
 
 ###### Species Ochrolechia szatalaensis Verseghy
+
+Vernacular name(s): Szatala's crabseye lichen
 
 Establishment means: native
 
@@ -21477,35 +22497,51 @@ Reference:
 
 ###### Species Ochrolechia upsaliensis (L.) A. Massal.
 
+Vernacular name(s): Upsala crabseye lichen
+
 Establishment means: native
 
 ###### Genus Pertusaria
 
 ###### Species Pertusaria alaskensis
 
+Vernacular name(s): Alaska pore lichen
+
 Establishment means: native
 
 ###### Species Pertusaria carneopallida (Nyl.) Anzi ex Nyl.
+
+Vernacular name(s): pore lichen
 
 Establishment means: native
 
 ###### Species Pertusaria dactylina (Ach.) Nyl.
 
+Vernacular name(s): pore lichen
+
 Establishment means: native
 
 ###### Species Pertusaria oculata (Dicks.) Th. Fr.
+
+Vernacular name(s): pore lichen
 
 Establishment means: native
 
 ###### Species Pertusaria ophthalmiza (Nyl.) Nyl.
 
+Vernacular name(s): pore lichen
+
 Establishment means: native
 
 ###### Species Pertusaria subobducens
 
+Vernacular name(s): pore lichen
+
 Establishment means: native
 
 ###### Species Pertusaria suboculata Brodo & Dibben
+
+Vernacular name(s): pore lichen
 
 Establishment means: native
 
@@ -21544,6 +22580,8 @@ Reference:
 
 ###### Species Buellia disciformis (Fr.) Mudd
 
+Vernacular name(s): disc lichen
+
 Establishment means: native
 
 Reference: 
@@ -21551,9 +22589,13 @@ Reference:
 
 ###### Species Buellia griseovirens (Turner & Borrer ex Sm.) Almb.
 
+Vernacular name(s): disc lichen
+
 Establishment means: native
 
 ###### Species Buellia punctata (Hoffm.) A. Massal.
+
+Vernacular name(s): disc lichen
 
 Establishment means: native
 
@@ -21572,6 +22614,8 @@ Reference:
 ###### Genus Phaeophyscia
 
 ###### Species Phaeophyscia endococcinodes
+
+Vernacular name(s): wreath lichen
 
 Establishment means: native
 
@@ -21593,9 +22637,13 @@ Reference:
 
 ###### Species Physcia caesia (Hoffm.) FÃ¼rnr.
 
+Vernacular name(s): rosette lichen
+
 Establishment means: native
 
 ###### Species Physcia dubia (Hoffm.) Lettau
+
+Vernacular name(s): rosette lichen
 
 Establishment means: native
 
@@ -21603,6 +22651,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:11718>.
 
 ###### Species Physcia stellaris (L.) Nyl.
+
+Vernacular name(s): starry rosette lichen
 
 Establishment means: native
 
@@ -21616,6 +22666,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:12299>.
 
 ###### Species Rinodina efflorescens Malme
+
+Vernacular name(s): rinodina lichen
 
 Establishment means: native
 
@@ -21632,6 +22684,8 @@ Establishment means: native
 
 ###### Species Rinodina septentrionalis Malme
 
+Vernacular name(s): rinodina lichen
+
 Establishment means: native
 
 ###### Species Rinodina turfacea (Wahlenb.) KÃ¶rb.
@@ -21644,6 +22698,8 @@ Establishment means: native
 
 ###### Species Caloplaca holocarpa (Hoffm.) A.E. Wade
 
+Vernacular name(s): orange lichen
+
 Establishment means: native
 
 Reference: 
@@ -21651,15 +22707,21 @@ Reference:
 
 ###### Species Caloplaca nivalis (KÃ¶rb.) Th. Fr.
 
+Vernacular name(s): orange lichen
+
 Establishment means: native
 
 ###### Species Caloplaca tetraspora (Nyl.) H. Olivier
+
+Vernacular name(s): orange lichen
 
 Establishment means: native
 
 ###### Genus Xanthoria
 
 ###### Species Xanthoria candelaria
+
+Vernacular name(s): orange wall lichen
 
 Establishment means: native
 
@@ -21668,6 +22730,8 @@ Reference:
 
 ###### Species Xanthoria elegans (Link) Th. Fr.
 
+Vernacular name(s): elegant orange wall lichen
+
 Establishment means: native
 
 References: 
@@ -21675,6 +22739,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:9105>.
 
 ###### Species Xanthoria polycarpa (Hoffm.) Rieber
+
+Vernacular name(s): orange wall lichen
 
 Establishment means: native
 
@@ -21723,6 +22789,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:9100>.
 
 ###### Species Umbillicaria hyperborea (Ach.) Hoffm.
+
+Vernacular name(s): Blistered rocktripe
 
 Establishment means: native
 
@@ -21835,6 +22903,8 @@ Reference:
 
 ###### Species Clavaria rosea Fr.
 
+Vernacular name(s): rosy club coral, rose spindles
+
 Establishment means: native
 
 Reference: 
@@ -21934,6 +23004,8 @@ Reference:
 ###### Genus Craterellus
 
 ###### Species Craterellus lutescens (Fr.) Fr.
+
+Vernacular name(s): yellow foot
 
 Establishment means: native
 
@@ -22087,6 +23159,8 @@ Reference:
 
 ###### Species Mucilago crustacea F.H. Wigg.
 
+Vernacular name(s): Dog Sick Slime Mould
+
 Establishment means: native
 
 Reference: 
@@ -22106,11 +23180,15 @@ Reference:
 
 ###### Species Bartramia pomiformis Hedw.
 
+Vernacular name(s): bartramia moss
+
 Establishment means: native
 
 ###### Genus Conostomum
 
 ###### Species Conostomum tetragonum (Hedw.) Lindb.
+
+Vernacular name(s): conostomum moss
 
 Establishment means: native
 
@@ -22122,15 +23200,21 @@ Establishment means: native
 
 ###### Species Bryum caespiticium Hedw.
 
+Vernacular name(s): dry calcareous bryum moss
+
 Establishment means: native
 
 ###### Species Bryum weigelii Spreng. in Biehler
+
+Vernacular name(s): Weigel's bryum moss
 
 Establishment means: native
 
 ###### Genus Leptobryum
 
 ###### Species Leptobryum pyriforme (Hedw.) Wils.
+
+Vernacular name(s): Leptobyum moss
 
 Establishment means: native
 
@@ -22141,6 +23225,8 @@ Reference:
 
 ###### Species Pohlia cruda (Hedw.) Lindb.
 
+Vernacular name(s): pohlia moss
+
 Establishment means: native
 
 Reference: 
@@ -22148,9 +23234,13 @@ Reference:
 
 ###### Species Pohlia elongata Hedw.
 
+Vernacular name(s): elongate pohlia moss
+
 Establishment means: native
 
 ###### Species Pohlia nutans (Hedw.) Lindb.
+
+Vernacular name(s): pohlia moss
 
 Establishment means: native
 
@@ -22159,9 +23249,13 @@ Reference:
 
 ###### Species Pohlia vexans (Limpr.) H. Lindb.
 
+Vernacular name(s): pohlia moss
+
 Establishment means: native
 
 ###### Species Pohlia wahlenbergii (Web. & Mohr) Andrews
+
+Vernacular name(s): Wahlenberg's pohlia moss
 
 Establishment means: native
 
@@ -22173,6 +23267,8 @@ Reference:
 ###### Genus Cinclidium
 
 ###### Species Cinclidium stygium Sw. in Schrad.
+
+Vernacular name(s): cinclidium moss
 
 Establishment means: native
 
@@ -22189,6 +23285,8 @@ Reference:
 ###### Genus Mnium
 
 ###### Species Mnium spinulosum Bruch & Schimp. in B.S.G.
+
+Vernacular name(s): largetooth calcareous moss
 
 Establishment means: native
 
@@ -22211,6 +23309,8 @@ Establishment means: native
 
 ###### Species Plagiomnium medium (Bruch & Schimp. in B.S.G.) T. Kop.
 
+Vernacular name(s): intermediate plagiomnium moss
+
 Establishment means: native
 
 Reference: 
@@ -22218,11 +23318,15 @@ Reference:
 
 ###### Species Plagiomnium rostratum (Schrad.) T. Kop.
 
+Vernacular name(s): plagiomnium moss
+
 Establishment means: native
 
 ###### Genus Pseudobryum
 
 ###### Species Pseudobryum cinclidioides (HÃ¼b.) T. Kop.
+
+Vernacular name(s): pseudobryum moss
 
 Establishment means: native
 
@@ -22237,12 +23341,16 @@ Reference:
 
 ###### Species Rhizomnium magnifolium (Horik.) T. Kop.
 
+Vernacular name(s): grandleaf rhizomnium moss
+
 Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=300326>.
 
 ###### Species Rhizomnium nudum (Britt. & Williams) T. Kop.
+
+Vernacular name(s): naked rhizomnium moss
 
 Establishment means: native
 
@@ -22254,9 +23362,13 @@ Establishment means: native
 
 ###### Species Cynodontium polycarpon (Hedw.) Schimp.
 
+Vernacular name(s): cynodontium moss
+
 Establishment means: native
 
 ###### Species Cynodontium strumiferum (Hedw.) Lindb.
+
+Vernacular name(s): cynodontium moss
 
 Establishment means: native
 
@@ -22271,17 +23383,23 @@ Reference:
 
 ###### Species Dichodontium pellucidum (Hedw.) Schimp.
 
+Vernacular name(s): dichodontium moss
+
 Establishment means: native
 
 ###### Genus Dicranella
 
 ###### Species Dicranella subulata (Hedw.) Schimp.
 
+Vernacular name(s): dicranella moss
+
 Establishment means: native
 
 ###### Genus Dicranoweisia
 
 ###### Species Dicranoweisia crispula (Hedw.) Lindb. ex Milde
+
+Vernacular name(s): dicranoweisia moss
 
 Establishment means: native
 
@@ -22292,6 +23410,8 @@ Reference:
 
 ###### Species Dicranum acutifolium (Lindb. & Arnell) C. Jens. ex Weinm.
 
+Vernacular name(s): acuteleaf dicranum moss
+
 Establishment means: native
 
 Reference: 
@@ -22299,9 +23419,13 @@ Reference:
 
 ###### Species Dicranum brevifolium (Lindb.) Lindb.
 
+Vernacular name(s): shortleaf dicranum moss
+
 Establishment means: native
 
 ###### Species Dicranum elongatum Schleich. ex Schwaegr.
+
+Vernacular name(s): Elongate dicranum moss
 
 Establishment means: native
 
@@ -22310,12 +23434,16 @@ Reference:
 
 ###### Species Dicranum fuscescens Turn.
 
+Vernacular name(s): dicranum moss
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11567>.
 
 ###### Species Dicranum howellii Ren. & Card.
+
+Vernacular name(s): Howell's dicranum moss
 
 Establishment means: native
 
@@ -22328,12 +23456,16 @@ Reference:
 
 ###### Species Dicranum majus Sm.
 
+Vernacular name(s): dicranum moss
+
 Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=748306>.
 
 ###### Species Dicranum montanum Hedw.
+
+Vernacular name(s): montane dicranum moss
 
 Establishment means: native
 
@@ -22346,6 +23478,8 @@ Reference:
 
 ###### Species Dicranum polysetum Sw.
 
+Vernacular name(s): Undulate dicranum moss
+
 Establishment means: native
 
 Reference: 
@@ -22353,12 +23487,16 @@ Reference:
 
 ###### Species Dicranum scoparium Hedw.
 
+Vernacular name(s): dicranum moss
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11605>.
 
 ###### Species Dicranum tauricum Sapeh.
+
+Vernacular name(s): Dicranum moss
 
 Establishment means: native
 
@@ -22393,11 +23531,15 @@ Reference:
 
 ###### Species Ceratodon purpureus (Hedw.) Brid.
 
+Vernacular name(s): Ceratodon moss
+
 Establishment means: native
 
 ###### Genus Distichium
 
 ###### Species Distichium capillaceum (Hedw.) Bruch & Schimp. in B.S.G.
+
+Vernacular name(s): distichium moss
 
 Establishment means: native
 
@@ -22409,9 +23551,13 @@ Establishment means: native
 
 ###### Species Grimmia anodon Bruch & Schimp. in B.S.G.
 
+Vernacular name(s): grimmia dry rock moss
+
 Establishment means: native
 
 ###### Species Grimmia donniana Sm.
+
+Vernacular name(s): Donn's dry rock moss
 
 Establishment means: native
 
@@ -22419,9 +23565,13 @@ Establishment means: native
 
 ###### Species Racomitrium affine (Schleich. ex Web. & Mohr) Lindb.
 
+Vernacular name(s): racomitrium moss
+
 Establishment means: native
 
 ###### Species Racomitrium canescens (Hedw.) Brid.
+
+Vernacular name(s): racomitrium moss
 
 Establishment means: native
 
@@ -22430,13 +23580,19 @@ Reference:
 
 ###### Species Racomitrium ericoides (Web. ex Brid.) Brid.
 
+Vernacular name(s): racomitrium moss
+
 Establishment means: native
 
 ###### Species Racomitrium heterostichum (Hedw.) Brid.
 
+Vernacular name(s): racomitrium moss
+
 Establishment means: native
 
 ###### Species Racomitrium lanuginosum (Hedw.) Brid.
+
+Vernacular name(s): racomitrium moss
 
 Establishment means: native
 
@@ -22445,9 +23601,13 @@ Reference:
 
 ###### Species Racomitrium microcarpon (Hedw.) Brid.
 
+Vernacular name(s): racomitrium moss
+
 Establishment means: native
 
 ###### Species Racomitrium sudeticum (Funck) Bruch & Schimp. in B.S.G.
+
+Vernacular name(s): racomitrium moss
 
 Establishment means: native
 
@@ -22468,6 +23628,8 @@ Establishment means: native
 
 ###### Species Amblystegium serpens (Hedw.) Schimp. in B.S.G.
 
+Vernacular name(s): amblystegium moss
+
 Establishment means: native
 
 ###### Genus Calliergonella
@@ -22483,9 +23645,13 @@ Reference:
 
 ###### Species Campylium hispidulum (Brid.) Mitt.
 
+Vernacular name(s): hispid campylium moss
+
 Establishment means: native
 
 ###### Species Campylium stellatum (Hedw.) C. Jens.
+
+Vernacular name(s): Star campylium moss
 
 Establishment means: native
 
@@ -22495,6 +23661,8 @@ Reference:
 ###### Genus Drepanocladus
 
 ###### Species Drepanocladus sendtneri (Schimp.) Warnst.
+
+Vernacular name(s): Sendtner's drepanocladus moss
 
 Establishment means: native
 
@@ -22508,11 +23676,15 @@ Establishment means: native
 
 ###### Species Limprichtia revolvens (Sw.) Loeske
 
+Vernacular name(s): limprichtia moss
+
 Establishment means: native
 
 ###### Genus Palustriella
 
 ###### Species Palustriella commutata (Brid.) Ochyra
+
+Vernacular name(s): palustriella moss
 
 Establishment means: native
 
@@ -22520,11 +23692,15 @@ Establishment means: native
 
 ###### Species Pseudocalliergon turgescens (T. Jens.) Loeske
 
+Vernacular name(s): pseudobryum moss
+
 Establishment means: native
 
 ###### Genus Sanionia
 
 ###### Species Sanionia uncinata (Hedw.) Loeske
+
+Vernacular name(s): Sanionia moss
 
 Establishment means: native
 
@@ -22535,11 +23711,15 @@ Reference:
 
 ###### Species Sarmenthypnum sarmentosum (Wahlenb.) Tuom. & T. Kop.
 
+Vernacular name(s): sarmenthypnum moss
+
 Establishment means: native
 
 ###### Genus Scorpidium
 
 ###### Species Scorpidium scorpioides (Hedw.) Limpr.
+
+Vernacular name(s): scorpidium moss
 
 Establishment means: native
 
@@ -22565,9 +23745,13 @@ Reference:
 
 ###### Species Brachythecium albicans (Hedw.) Schimp. in B.S.G.
 
+Vernacular name(s): brachythecium moss
+
 Establishment means: native
 
 ###### Species Brachythecium calcareum Kindb.
+
+Vernacular name(s): calcareous brachythecium moss
 
 Establishment means: native
 
@@ -22587,6 +23771,8 @@ Reference:
 
 ###### Species Brachythecium oedipodium (Mitt.) Jaeg.
 
+Vernacular name(s): brachythecium moss
+
 Establishment means: native
 
 Reference: 
@@ -22598,6 +23784,8 @@ Establishment means: native
 
 ###### Species Brachythecium reflexum (Starke in Web. & Mohr) Schimp. in B.S.G.
 
+Vernacular name(s): brachythecium moss
+
 Establishment means: native
 
 Reference: 
@@ -22605,9 +23793,13 @@ Reference:
 
 ###### Species Brachythecium rutabulum (Hedw.) Schimp. in B.S.G.
 
+Vernacular name(s): brachythecium moss
+
 Establishment means: native
 
 ###### Species Brachythecium salebrosum (Web. & Mohr) Schimp. in B.S.G.
+
+Vernacular name(s): Brachythecium moss
 
 Establishment means: native
 
@@ -22616,15 +23808,21 @@ Reference:
 
 ###### Species Brachythecium velutinum (Hedw.) Schimp. in B.S.G.
 
+Vernacular name(s): brachythecium moss
+
 Establishment means: native
 
 ###### Genus Eurhynchium
 
 ###### Species Eurhynchium oreganum (Sull.) Jaeg.
 
+Vernacular name(s): Oregon eurhynchium moss
+
 Establishment means: native
 
 ###### Species Eurhynchium pulchellum (Hedw.) Jenn.
+
+Vernacular name(s): eurhynchium moss
 
 Establishment means: native
 
@@ -22635,11 +23833,15 @@ Reference:
 
 ###### Species Pseudoscleropodium purum (Hedw.) Fleisch. in Broth.
 
+Vernacular name(s): pseudoscleropodium moss
+
 Establishment means: native
 
 ###### Genus Tomenthypnum
 
 ###### Species Tomenthypnum nitens (Hedw.) Loeske
+
+Vernacular name(s): sickleleaf tomentypnum moss
 
 Establishment means: native
 
@@ -22658,6 +23860,8 @@ Reference:
 
 ###### Species Calliergon cordifolium (Hedw.) Kindb.
 
+Vernacular name(s): calliergon moss
+
 Establishment means: native
 
 Reference: 
@@ -22665,15 +23869,21 @@ Reference:
 
 ###### Species Calliergon giganteum (Schimp.) Kindb.
 
+Vernacular name(s): giant calliergon moss
+
 Establishment means: native
 
 ###### Species Calliergon stramineum (Brid.) Kindb.
+
+Vernacular name(s): Calliergon moss
 
 Establishment means: native
 
 ###### Genus Hamatocaulis
 
 ###### Species Hamatocaulis vernicosus (Mitt.) HedenÃ¤s
+
+Vernacular name(s): hamatocaulis moss
 
 Establishment means: native
 
@@ -22682,6 +23892,8 @@ Establishment means: native
 ###### Genus Climacium
 
 ###### Species Climacium dendroides (Hedw.) Web. & Mohr
+
+Vernacular name(s): Tree climacium moss
 
 Establishment means: native
 
@@ -22694,6 +23906,8 @@ Reference:
 
 ###### Species Helodium blandowii (Web. & Mohr) Warnst.
 
+Vernacular name(s): Blandow's helodium moss
+
 Establishment means: native
 
 ###### Family Hylocomiaceae
@@ -22702,11 +23916,15 @@ Establishment means: native
 
 ###### Species Hylocomiastrum umbratum (Hedw.) Fleisch. in Broth.
 
+Vernacular name(s): hylocomiastrum moss
+
 Establishment means: native
 
 ###### Genus Hylocomium
 
 ###### Species Hylocomium splendens (Hedw.) Schimp. in B.S.G.
+
+Vernacular name(s): Splendid feather moss
 
 Establishment means: native
 
@@ -22717,6 +23935,8 @@ Reference:
 
 ###### Species Pleurozium schreberi (Brid.) Mitt.
 
+Vernacular name(s): Schreber's big red stem moss
+
 Establishment means: native
 
 Reference: 
@@ -22726,9 +23946,13 @@ Reference:
 
 ###### Species Rhytidiadelphus loreus (Hedw.) Warnst.
 
+Vernacular name(s): goose neck moss
+
 Establishment means: native
 
 ###### Species Rhytidiadelphus squarrosus (Hedw.) Warnst.
+
+Vernacular name(s): square goose neck moss
 
 Establishment means: native
 
@@ -22736,6 +23960,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:11676>.
 
 ###### Species Rhytidiadelphus triquetrus (Hedw.) Warnst.
+
+Vernacular name(s): Rough goose neck moss
 
 Establishment means: native
 
@@ -22748,6 +23974,8 @@ Reference:
 
 ###### Species Hypnum circinale Hook.
 
+Vernacular name(s): hypnum moss
+
 Establishment means: native
 
 Reference: 
@@ -22755,9 +23983,13 @@ Reference:
 
 ###### Species Hypnum revolutum (Mitt.) Lindb.
 
+Vernacular name(s): revolute hypnum moss
+
 Establishment means: native
 
 ###### Species Hypnum subimponens Lesq.
+
+Vernacular name(s): hypnum moss
 
 Establishment means: native
 
@@ -22774,11 +24006,15 @@ Reference:
 
 ###### Species Pseudotaxiphyllum elegans (Brid.) Iwats.
 
+Vernacular name(s): elegant pseudotaxiphyllum moss
+
 Establishment means: native
 
 ###### Genus Ptilium
 
 ###### Species Ptilium crista-castrensis (Hedw.) De Not.
+
+Vernacular name(s): knights plume moss
 
 Establishment means: native
 
@@ -22788,6 +24024,8 @@ Reference:
 ###### Genus Pylaisiella
 
 ###### Species Pylaisiella polyantha (Hedw.) Grout
+
+Vernacular name(s): pylaisiella moss
 
 Establishment means: native
 
@@ -22799,6 +24037,8 @@ Reference:
 ###### Genus Pseudoleskea
 
 ###### Species Pseudoleskea incurvata (Hedw.) Loeske
+
+Vernacular name(s): pseudoleskea moss
 
 Establishment means: native
 
@@ -22815,12 +24055,16 @@ Reference:
 
 ###### Species Plagiothecium denticulatum (Hedw.) Schimp. in B.S.G.
 
+Vernacular name(s): toothed plagiothecium moss
+
 Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=274801>.
 
 ###### Species Plagiothecium laetum Schimp. in B.S.G.
+
+Vernacular name(s): Plagiomnium moss
 
 Establishment means: native
 
@@ -22840,6 +24084,8 @@ Establishment means: native
 ###### Genus Rhytidium
 
 ###### Species Rhytidium rugosum (Hedw.) Kindb.
+
+Vernacular name(s): Rhytidium moss
 
 Establishment means: native
 
@@ -22868,11 +24114,15 @@ Establishment means: native
 
 ###### Species Desmatodon latifolius (Hedw.) Brid.
 
+Vernacular name(s): wideleaf desmatodon moss
+
 Establishment means: native
 
 ###### Genus Tortella
 
 ###### Species Tortella tortuosa (Hedw.) Limpr.
+
+Vernacular name(s): tortured tortella moss
 
 Establishment means: native
 
@@ -22880,9 +24130,13 @@ Establishment means: native
 
 ###### Species Tortula norvegica (Web.) Wahlenb. ex Lindb.
 
+Vernacular name(s): Norwegian tortula moss
+
 Establishment means: native
 
 ###### Species Tortula ruralis (Hedw.) Gaertn. et al.
+
+Vernacular name(s): tortula moss
 
 Establishment means: native
 
@@ -22894,6 +24148,8 @@ Establishment means: native
 
 ###### Species Aulacomnium androgynum (Hedw.) Schwaegr.
 
+Vernacular name(s): aulacomnium moss
+
 Establishment means: native
 
 Reference: 
@@ -22901,12 +24157,16 @@ Reference:
 
 ###### Species Aulacomnium palustre (Hedw.) Schwaegr.
 
+Vernacular name(s): Aulacomnium moss
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11830>.
 
 ###### Species Aulacomnium turgidum (Wahlenb.) Schwaegr.
+
+Vernacular name(s): Turgid aulacomnium moss
 
 Establishment means: native
 
@@ -22927,6 +24187,8 @@ Reference:
 <http://www.ncbi.nlm.nih.gov/nuccore/KC333337.1>.
 
 ###### Species Meesia uliginosa Hedw.
+
+Vernacular name(s): meesia moss
 
 Establishment means: native
 
@@ -22955,6 +24217,8 @@ Reference:
 
 ###### Species Splachnum sphaericum Hedw.
 
+Vernacular name(s): pinkstink dung moss
+
 Establishment means: native
 
 Reference: 
@@ -22971,6 +24235,8 @@ Reference:
 
 ###### Species Tetraplodon mnioides (Hedw.) Bruch & Schimp. in B.S.G.
 
+Vernacular name(s): entireleaf nitrogen moss
+
 Establishment means: native
 
 Reference: 
@@ -22983,6 +24249,8 @@ Reference:
 ###### Genus Timmia
 
 ###### Species Timmia austriaca Hedw.
+
+Vernacular name(s): Austria timmia moss
 
 Establishment means: native
 
@@ -22999,6 +24267,8 @@ Reference:
 
 ###### Species Pogonatum contortum (Brid.) Lesq.
 
+Vernacular name(s): contorted pogonatum moss
+
 Establishment means: native
 
 ###### Species Pogonatum urnigerum (Hedw.) P. Beauv.
@@ -23009,6 +24279,8 @@ Establishment means: native
 
 ###### Species Polytrichastrum alpinum (Hedw.) G.L. Sm.
 
+Vernacular name(s): alpine polytrichastrum moss
+
 Establishment means: native
 
 Reference: 
@@ -23018,12 +24290,16 @@ Reference:
 
 ###### Species Polytrichum commune Hedw.
 
+Vernacular name(s): polytrichum moss
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:12044>.
 
 ###### Species Polytrichum juniperinum Hedw.
+
+Vernacular name(s): Haircap moss
 
 Establishment means: native
 
@@ -23032,21 +24308,31 @@ Reference:
 
 ###### Species Polytrichum longisetum Brid.
 
+Vernacular name(s): polytrichum moss
+
 Establishment means: native
 
 ###### Species Polytrichum lyallii (Mitt.) Kindb.
+
+Vernacular name(s): Lyall's polytrichum moss
 
 Establishment means: native
 
 ###### Species Polytrichum piliferum Hedw.
 
+Vernacular name(s): Polytrichum moss
+
 Establishment means: native
 
 ###### Species Polytrichum sexangulare Brid.
 
+Vernacular name(s): polytrichum moss
+
 Establishment means: native
 
 ###### Species Polytrichum strictum Brid.
+
+Vernacular name(s): polytrichum moss
 
 Establishment means: native
 
@@ -23063,12 +24349,16 @@ Reference:
 
 ###### Species Sphagnum angustifolium (C. Jens. ex Russ.) C. Jens. in Tolf
 
+Vernacular name(s): Sphagnum
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11725>.
 
 ###### Species Sphagnum balticum (Russ.) C. Jens.
+
+Vernacular name(s): Baltic sphagnum
 
 Establishment means: native
 
@@ -23077,12 +24367,16 @@ Reference:
 
 ###### Species Sphagnum capillifolium (Ehrh.) Hedw.
 
+Vernacular name(s): sphagnum
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11855>.
 
 ###### Species Sphagnum compactum DC. in Lam. & DC.
+
+Vernacular name(s): Low sphagnum
 
 Establishment means: native
 
@@ -23095,12 +24389,16 @@ Reference:
 
 ###### Species Sphagnum fuscum (Schimp.) Klinggr.
 
+Vernacular name(s): Sphagnum
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11728>.
 
 ###### Species Sphagnum girgensohnii Russ.
+
+Vernacular name(s): Girgensohn's sphagnum
 
 Establishment means: native
 
@@ -23116,6 +24414,8 @@ Reference:
 
 ###### Species Sphagnum magellanicum Brid.
 
+Vernacular name(s): Magellan's sphagnum
+
 Establishment means: native
 
 Reference: 
@@ -23123,9 +24423,13 @@ Reference:
 
 ###### Species Sphagnum nitidum Warnst.
 
+Vernacular name(s): sphagnum
+
 Establishment means: native
 
 ###### Species Sphagnum papillosum Lindb.
+
+Vernacular name(s): Papillose sphagnum
 
 Establishment means: native
 
@@ -23133,6 +24437,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:11730>.
 
 ###### Species Sphagnum riparium Ã…ngstr.
+
+Vernacular name(s): Streamside sphagnum
 
 Establishment means: native
 
@@ -23148,12 +24454,16 @@ Reference:
 
 ###### Species Sphagnum russowii Warnst.
 
+Vernacular name(s): Russow's sphagnum
+
 Establishment means: native
 
 Reference: 
 <http://sweetgum.nybg.org/science/vh/specimen-details/?irn=221133>.
 
 ###### Species Sphagnum squarrosum Crome
+
+Vernacular name(s): Sphagnum
 
 Establishment means: native
 
@@ -23162,9 +24472,13 @@ Reference:
 
 ###### Species Sphagnum steerei Andrus
 
+Vernacular name(s): Steere's sphagnum
+
 Establishment means: native
 
 ###### Species Sphagnum subsecundum Nees in Sturm
+
+Vernacular name(s): sphagnum
 
 Establishment means: native
 
@@ -23173,12 +24487,16 @@ Reference:
 
 ###### Species Sphagnum teres (Schimp.) Ã…ngstr. in Hartm.
 
+Vernacular name(s): sphagnum
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11742>.
 
 ###### Species Sphagnum warnstorfii Russ.
+
+Vernacular name(s): Warnstorf's sphagnum
 
 Establishment means: native
 
@@ -23191,6 +24509,8 @@ Establishment means: native
 ###### Genus Tetraphis
 
 ###### Species Tetraphis pellucida Hedw.
+
+Vernacular name(s): tetraphis moss
 
 Establishment means: native
 
@@ -23241,6 +24561,8 @@ Reference:
 
 ###### Species Enteromorpha intestinalis (Linnaeus) Link
 
+Vernacular name(s): gutweed
+
 Establishment means: native
 
 Reference: 
@@ -23270,6 +24592,8 @@ Establishment means: native
 
 ###### Species Barbilophozia barbata (Schmidel ex Schreb.) Loeske
 
+Vernacular name(s): barbilophozia
+
 Establishment means: native
 
 ###### Species Barbilophozia hatcheri (A. Evans) Loeske
@@ -23294,6 +24618,8 @@ Establishment means: native
 ###### Genus Schljakovianthus
 
 ###### Species Barbilophozia quadriloba (Lindb.) Loeske
+
+Vernacular name(s): fourlobe barbilophozia
 
 Establishment means: native
 
@@ -23338,6 +24664,8 @@ Reference:
 ###### Genus Blepharostoma
 
 ###### Species Blepharostoma trichophyllum (L.) Dumort.
+
+Vernacular name(s): Blepharastoma
 
 Establishment means: native
 
@@ -23434,6 +24762,8 @@ Reference:
 ###### Genus Lepidozia
 
 ###### Species Lepidozia reptans (L.) Dumort.
+
+Vernacular name(s): Little hands liverwort
 
 Establishment means: native
 
@@ -23587,6 +24917,8 @@ Establishment means: native
 
 ###### Species Marchantia polymorpha L.
 
+Vernacular name(s): Liverwort
+
 Establishment means: native
 
 Reference: 
@@ -23603,6 +24935,8 @@ Reference:
 ###### Genus Isoetes
 
 ###### Species Isoetes echinospora Durieu
+
+Vernacular name(s): Quillwort
 
 Establishment means: native
 
@@ -23635,12 +24969,16 @@ Reference:
 
 ###### Species Lycopodium alpinum L.
 
+Vernacular name(s): Alpine clubmoss
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1459>.
 
 ###### Species Lycopodium annotinum L.
+
+Vernacular name(s): stiff clubmoss
 
 Establishment means: native
 
@@ -23649,6 +24987,8 @@ Reference:
 
 ###### Species Lycopodium clavatum L.
 
+Vernacular name(s): Running clubmoss
+
 Establishment means: native
 
 Reference: 
@@ -23656,12 +24996,16 @@ Reference:
 
 ###### Species Lycopodium complanatum L.
 
+Vernacular name(s): Groundcedar
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1290853>.
 
 ###### Species Lycopodium lagopus (Laest. ex Hartm.) G. Zinserl. ex Kuzen.
+
+Vernacular name(s): one-cone clubmoss
 
 Establishment means: native
 
@@ -23689,6 +25033,8 @@ Reference:
 
 ###### Species Calla palustris L.
 
+Vernacular name(s): water arum
+
 Establishment means: native
 
 References: 
@@ -23701,6 +25047,8 @@ References:
 
 ###### Species Lemna minor L.
 
+Vernacular name(s): Duckweed, lesser
+
 Establishment means: native
 
 References: 
@@ -23708,6 +25056,8 @@ References:
 <http://www.inaturalist.org/observations/6903405>.
 
 ###### Species Lemna trisulca L.
+
+Vernacular name(s): Duckweed
 
 Establishment means: native
 
@@ -23730,6 +25080,8 @@ Reference:
 
 ###### Species Triglochin maritima L.
 
+Vernacular name(s): Seaside arrowgrass
+
 Establishment means: native
 
 Reference: 
@@ -23748,12 +25100,16 @@ Reference:
 
 ###### Species Potamogeton gramineus L.
 
+Vernacular name(s): Variableleaf pondweed
+
 Establishment means: native
 
 Reference: 
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Potamogeton natans L.
+
+Vernacular name(s): floating pondweed
 
 Establishment means: native
 
@@ -23770,12 +25126,16 @@ Reference:
 
 ###### Species Potamogeton praelongus Wulfen
 
+Vernacular name(s): whitestem pondweed
+
 Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/33452912>.
 
 ###### Species Potamogeton pusillus L.
+
+Vernacular name(s): small pondweed
 
 Establishment means: native
 
@@ -23784,6 +25144,8 @@ References:
 <https://pdxscholar.library.pdx.edu/centerforlakes_pub/12/>.
 
 ###### Species Potamogeton richardsonii (A. Benn.) Rydb.
+
+Vernacular name(s): Richardson's pondweed
 
 Establishment means: native
 
@@ -23801,6 +25163,8 @@ References:
 
 ###### Species Potamogeton zosteriformis Fernald
 
+Vernacular name(s): Flatstem pondweed
+
 Establishment means: native
 
 Reference: 
@@ -23809,6 +25173,8 @@ Reference:
 ###### Genus Stuckenia
 
 ###### Species Stuckenia filiformis (Pers.) BÃ¶rner
+
+Vernacular name(s): Fineleaf pondweed
 
 Establishment means: native
 
@@ -23821,6 +25187,8 @@ Reference:
 
 ###### Species Scheuchzeria palustris L.
 
+Vernacular name(s): rannoch-rush
+
 Establishment means: native
 
 Reference: 
@@ -23832,6 +25200,8 @@ Reference:
 
 ###### Species Tofieldia coccinea Richardson
 
+Vernacular name(s): Northern asphodel
+
 Establishment means: native
 
 Reference: 
@@ -23840,6 +25210,8 @@ Reference:
 ###### Genus Triantha
 
 ###### Species Triantha glutinosa (Michx.) Baker
+
+Vernacular name(s): sticky tofieldia
 
 Establishment means: native
 
@@ -23854,9 +25226,13 @@ Reference:
 
 ###### Species Angelica genuflexa Nutt.
 
+Vernacular name(s): Kneeling angelica
+
 Establishment means: native
 
 ###### Species Angelica lucida L.
+
+Vernacular name(s): Seacoast angelica
 
 Establishment means: native
 
@@ -23874,6 +25250,8 @@ Reference:
 
 ###### Species Cicuta virosa L.
 
+Vernacular name(s): Mackenzie's water hemlock
+
 Establishment means: native
 
 Reference: 
@@ -23882,6 +25260,8 @@ Reference:
 ###### Genus Conioselinum
 
 ###### Species Conioselinum chinense (L.) Britton, Sterns & Poggenb.
+
+Vernacular name(s): Western hemlock-parsley
 
 Establishment means: native
 
@@ -23892,6 +25272,8 @@ Reference:
 
 ###### Species Heracleum sphondylium L.
 
+Vernacular name(s): Cow Parsnip
+
 Establishment means: native
 
 Reference: 
@@ -23900,6 +25282,8 @@ Reference:
 ###### Genus Ligusticum
 
 ###### Species Ligusticum scoticum L.
+
+Vernacular name(s): Scottish licorice-root
 
 Establishment means: native
 
@@ -23910,6 +25294,8 @@ Reference:
 
 ###### Species Osmorhiza depauperata Phil.
 
+Vernacular name(s): Bluntseed sweetroot
+
 Establishment means: native
 
 ###### Family Araliaceae
@@ -23917,6 +25303,8 @@ Establishment means: native
 ###### Genus Oplopanax
 
 ###### Species Oplopanax horridus (Sm.) Miq.
+
+Vernacular name(s): devilsclub
 
 Establishment means: native
 
@@ -23931,6 +25319,8 @@ Reference:
 
 ###### Species Allium schoenoprasum L.
 
+Vernacular name(s): wild chives
+
 Establishment means: exotic
 
 References: 
@@ -23943,6 +25333,8 @@ References:
 
 ###### Species Maianthemum stellatum (L.) Link
 
+Vernacular name(s): starry false lily of the valley
+
 Establishment means: native
 
 ###### Family Iridaceae
@@ -23950,6 +25342,8 @@ Establishment means: native
 ###### Genus Iris
 
 ###### Species Iris setosa Pall. ex Link
+
+Vernacular name(s): Beachhead iris
 
 Establishment means: native
 
@@ -23961,6 +25355,8 @@ Reference:
 ###### Genus Goodyera
 
 ###### Species Goodyera repens (L.) R. Br.
+
+Vernacular name(s): lesser rattlesnake plantain
 
 Establishment means: native
 
@@ -23979,6 +25375,8 @@ Reference:
 ###### Genus Malaxis
 
 ###### Species Malaxis paludosa (L.) Sw.
+
+Vernacular name(s): Bog adder's-mouth orchid
 
 Establishment means: native
 
@@ -23999,6 +25397,8 @@ Reference:
 
 ###### Species Platanthera dilatata (Pursh) Lindl. ex L.C. Beck
 
+Vernacular name(s): scentbottle
+
 Establishment means: native
 
 Reference: 
@@ -24006,11 +25406,15 @@ Reference:
 
 ###### Species Platanthera obtusata (Banks ex Pursh) Lindl.
 
+Vernacular name(s): bluntleaved orchid
+
 Establishment means: native
 
 ###### Genus Spiranthes
 
 ###### Species Spiranthes romanzoffiana Cham.
+
+Vernacular name(s): Hooded lady's tresses
 
 Establishment means: native
 
@@ -24025,6 +25429,8 @@ Reference:
 
 ###### Species Achillea millefolium L.
 
+Vernacular name(s): Common yarrow
+
 Establishment means: native
 
 References: 
@@ -24032,6 +25438,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:8937>.
 
 ###### Species Achillea ptarmica L.
+
+Vernacular name(s): Sneezeweed
 
 Establishment means: exotic
 
@@ -24042,12 +25450,16 @@ Reference:
 
 ###### Species Antennaria alpina (L.) Gaertn.
 
+Vernacular name(s): Alpine pussytoes
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:734>.
 
 ###### Species Antennaria monocephala DC.
+
+Vernacular name(s): Pygmy pussytoes
 
 Establishment means: native
 
@@ -24065,12 +25477,16 @@ Reference:
 
 ###### Species Arnica chamissonis Less.
 
+Vernacular name(s): Chamisso arnica
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10517>.
 
 ###### Species Arnica latifolia Bong.
+
+Vernacular name(s): Broadleaf arnica
 
 Establishment means: native
 
@@ -24079,6 +25495,8 @@ References:
 <http://www.inaturalist.org/observations/114285>.
 
 ###### Species Arnica lessingii Greene
+
+Vernacular name(s): Nodding arnica
 
 Establishment means: native
 
@@ -24105,6 +25523,8 @@ Reference:
 
 ###### Species Centaurea cyanus L.
 
+Vernacular name(s): Cornflower
+
 Establishment means: exotic
 
 Reference: 
@@ -24113,6 +25533,8 @@ Reference:
 ###### Genus Chrysanthemum
 
 ###### Species Chrysanthemum arcticum L.
+
+Vernacular name(s): Arctic daisy
 
 Establishment means: native
 
@@ -24123,11 +25545,15 @@ Reference:
 
 ###### Species Cirsium arvense (L.) Scop.
 
+Vernacular name(s): Canada thistle
+
 Establishment means: exotic
 
 ###### Genus Cosmos
 
 ###### Species Cosmos bipinnatus Cav.
+
+Vernacular name(s): Garden Cosmos
 
 Establishment means: exotic
 
@@ -24138,6 +25564,8 @@ Reference:
 
 ###### Species Crepis tectorum L.
 
+Vernacular name(s): narrowleaf hawksbeard
+
 Establishment means: exotic
 
 Reference: 
@@ -24147,12 +25575,16 @@ Reference:
 
 ###### Species Erigeron acris L.
 
+Vernacular name(s): Bitter fleabane
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10526>.
 
 ###### Species Erigeron compositus Pursh
+
+Vernacular name(s): Dwarf mountain fleabane
 
 Establishment means: native
 
@@ -24161,12 +25593,16 @@ Reference:
 
 ###### Species Erigeron humilis Graham
 
+Vernacular name(s): Arctic alpine fleabane
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:732>.
 
 ###### Species Erigeron peregrinus (Banks ex Pursh) Greene
+
+Vernacular name(s): subalpine fleabane
 
 Establishment means: native
 
@@ -24177,6 +25613,8 @@ Reference:
 
 ###### Species Eurybia sibirica (L.) G.L. Nesom
 
+Vernacular name(s): Arctic aster
+
 Establishment means: native
 
 Reference: 
@@ -24186,15 +25624,21 @@ Reference:
 
 ###### Species Helianthus annuus L.
 
+Vernacular name(s): Annual sunflower
+
 Establishment means: exotic
 
 ###### Genus Hieracium
 
 ###### Species Hieracium aurantiacum L.
 
+Vernacular name(s): Orange hawkweed
+
 Establishment means: exotic
 
 ###### Species Hieracium caespitosum Dumort.
+
+Vernacular name(s): Meadow hawkweed
 
 Establishment means: exotic
 
@@ -24203,9 +25647,13 @@ Reference:
 
 ###### Species Hieracium triste Willd. ex Spreng.
 
+Vernacular name(s): Woolly hawkweed
+
 Establishment means: native
 
 ###### Species Hieracium umbellatum L.
+
+Vernacular name(s): Narrowleaf hawkweed
 
 Establishment means: exotic
 
@@ -24216,6 +25664,8 @@ Reference:
 
 ###### Species Leontodon autumnalis L.
 
+Vernacular name(s): Fall dandelion
+
 Establishment means: exotic
 
 Reference: 
@@ -24225,12 +25675,16 @@ Reference:
 
 ###### Species Leucanthemum maximum (Ramond) DC.
 
+Vernacular name(s): Shasta Daisy
+
 Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/8157380>.
 
 ###### Species Leucanthemum vulgare Lam.
+
+Vernacular name(s): Oxeye daisy
 
 Establishment means: exotic
 
@@ -24240,6 +25694,8 @@ Reference:
 ###### Genus Matricaria
 
 ###### Species Matricaria discoidea DC.
+
+Vernacular name(s): Disc mayweed
 
 Establishment means: exotic
 
@@ -24252,9 +25708,13 @@ References:
 
 ###### Species Packera cymbalaria (Pursh) W.A. Weber & Ã. LÃ¶ve
 
+Vernacular name(s): dwarf arctic ragwort
+
 Establishment means: native
 
 ###### Species Packera indecora (Greene) Ã. LÃ¶ve & D. LÃ¶ve
+
+Vernacular name(s): Elegant groundsel
 
 Establishment means: native
 
@@ -24267,6 +25727,8 @@ References:
 
 ###### Species Petasites frigidus (L.) Fr.
 
+Vernacular name(s): Arctic sweet coltsfoot
+
 Establishment means: native
 
 Reference: 
@@ -24275,6 +25737,8 @@ Reference:
 ###### Genus Psilocarphus
 
 ###### Species Psilocarphus elatior (A. Gray) A. Gray
+
+Vernacular name(s): Tall woolly-heads
 
 Establishment means: exotic
 
@@ -24285,9 +25749,13 @@ Reference:
 
 ###### Species Senecio integerrimus Nutt.
 
+Vernacular name(s): lambstongue ragwort
+
 Establishment means: exotic
 
 ###### Species Senecio lugens Richardson
+
+Vernacular name(s): Small blacktip ragwort
 
 Establishment means: native
 
@@ -24296,6 +25764,8 @@ Reference:
 
 ###### Species Senecio triangularis Hook.
 
+Vernacular name(s): arrowleaf ragwort
+
 Establishment means: native
 
 Reference: 
@@ -24303,15 +25773,21 @@ Reference:
 
 ###### Species Senecio vulgaris L.
 
+Vernacular name(s): Common groundsel
+
 Establishment means: exotic
 
 ###### Genus Solidago
 
 ###### Species Solidago canadensis L.
 
+Vernacular name(s): Canada goldenrod
+
 Establishment means: native
 
 ###### Species Solidago multiradiata Aiton
+
+Vernacular name(s): Rocky Mountain goldenrod
 
 Establishment means: native
 
@@ -24326,17 +25802,23 @@ References:
 
 ###### Species Sonchus arvensis L.
 
+Vernacular name(s): field sowthistle
+
 Establishment means: exotic
 
 ###### Genus Tanacetum
 
 ###### Species Tanacetum vulgare L.
 
+Vernacular name(s): Common tansy
+
 Establishment means: exotic
 
 ###### Genus Taraxacum
 
 ###### Species Taraxacum ceratophorum (Ledeb.) DC.
+
+Vernacular name(s): Horned dandelion
 
 Establishment means: native
 
@@ -24358,6 +25840,8 @@ Reference:
 
 ###### Species Taraxacum officinale F.H. Wigg.
 
+Vernacular name(s): Common dandelion
+
 Establishment means: exotic
 
 References: 
@@ -24371,6 +25855,8 @@ References:
 
 ###### Species Taraxacum phymatocarpum J. Vahl
 
+Vernacular name(s): Northern dandelion
+
 Establishment means: native
 
 Reference: 
@@ -24380,6 +25866,8 @@ Reference:
 
 ###### Species Tripleurospermum inodorum (L.) Sch. Bip.
 
+Vernacular name(s): scentless false mayweed
+
 Establishment means: exotic
 
 ###### Family Campanulaceae
@@ -24388,12 +25876,16 @@ Establishment means: exotic
 
 ###### Species Campanula lasiocarpa Cham.
 
+Vernacular name(s): Mountain harebell
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11534>.
 
 ###### Species Campanula rotundifolia L.
+
+Vernacular name(s): bluebell, Roundleaf harebell
 
 Establishment means: native
 
@@ -24406,6 +25898,8 @@ References:
 ###### Genus Menyanthes
 
 ###### Species Menyanthes trifoliata L.
+
+Vernacular name(s): buckbean
 
 Establishment means: native
 
@@ -24420,17 +25914,23 @@ Reference:
 
 ###### Species Asperugo procumbens L.
 
+Vernacular name(s): German-madwort
+
 Establishment means: exotic
 
 ###### Genus Cryptantha
 
 ###### Species Cryptantha torreyana (A. Gray) Greene
 
+Vernacular name(s): Torrey's cryptantha
+
 Establishment means: exotic
 
 ###### Genus Mertensia
 
 ###### Species Mertensia paniculata (Aiton) G. Don
+
+Vernacular name(s): Tall bluebells
 
 Establishment means: native
 
@@ -24440,6 +25940,8 @@ Reference:
 ###### Genus Myosotis
 
 ###### Species Myosotis asiatica (Vestergr.) Schischk. & Serg.
+
+Vernacular name(s): Asian forget-me-not
 
 Establishment means: native
 
@@ -24459,6 +25961,8 @@ Reference:
 
 ###### Species Symphytum officinale L.
 
+Vernacular name(s): Common comfrey
+
 Establishment means: exotic
 
 ###### Family Hydrophyllaceae
@@ -24466,6 +25970,8 @@ Establishment means: exotic
 ###### Genus Nemophila
 
 ###### Species Nemophila menziesii Hook. & Arn.
+
+Vernacular name(s): baby-blue-eyes
 
 Establishment means: exotic
 
@@ -24489,6 +25995,8 @@ Reference:
 
 ###### Species Arabis hirsuta (L.) Scop.
 
+Vernacular name(s): hairy rockcress
+
 Establishment means: native
 
 References: 
@@ -24499,6 +26007,8 @@ References:
 
 ###### Species Barbarea orthoceras Ledeb.
 
+Vernacular name(s): American yellowrocket, wintercress
+
 Establishment means: native
 
 Reference: 
@@ -24507,6 +26017,8 @@ Reference:
 ###### Genus Brassica
 
 ###### Species Brassica rapa L.
+
+Vernacular name(s): Field mustard
 
 Establishment means: exotic
 
@@ -24517,6 +26029,8 @@ Reference:
 
 ###### Species Capsella bursa-pastoris (L.) Medik.
 
+Vernacular name(s): Shepherd's purse
+
 Establishment means: exotic
 
 Reference: 
@@ -24526,6 +26040,8 @@ Reference:
 
 ###### Species Cardamine bellidifolia L.
 
+Vernacular name(s): Alpine bittercress
+
 Establishment means: native
 
 Reference: 
@@ -24533,12 +26049,16 @@ Reference:
 
 ###### Species Cardamine pratensis L.
 
+Vernacular name(s): Cuckoo flower
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:58228>.
 
 ###### Species Cardamine umbellata Greene
+
+Vernacular name(s): umbel bittercress
 
 Establishment means: native
 
@@ -24548,6 +26068,8 @@ Reference:
 ###### Genus Draba
 
 ###### Species Draba borealis DC.
+
+Vernacular name(s): Boreal draba
 
 Establishment means: native
 
@@ -24563,9 +26085,13 @@ Reference:
 
 ###### Species Draba juvenilis Kom.
 
+Vernacular name(s): longstalk draba
+
 Establishment means: native
 
 ###### Species Draba nivalis Lilj.
+
+Vernacular name(s): yellow arctic draba
 
 Establishment means: native
 
@@ -24574,6 +26100,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:10368>.
 
 ###### Species Draba stenoloba Ledeb.
+
+Vernacular name(s): Alaska draba
 
 Establishment means: native
 
@@ -24584,12 +26112,16 @@ Reference:
 
 ###### Species Erysimum cheiranthoides L.
 
+Vernacular name(s): Wormseed wallflower
+
 Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10569>.
 
 ###### Species Erysimum X marshallii (Henfr.) Bois
+
+Vernacular name(s): Siberian Wallflower
 
 Establishment means: exotic
 
@@ -24600,9 +26132,13 @@ Reference:
 
 ###### Species Lepidium densiflorum Schrad.
 
+Vernacular name(s): Common pepperweed
+
 Establishment means: exotic
 
 ###### Species Lepidium ramosissimum A. Nelson
+
+Vernacular name(s): manybranched pepperweed
 
 Establishment means: exotic
 
@@ -24610,11 +26146,15 @@ Establishment means: exotic
 
 ###### Species Rorippa palustris (L.) Besser
 
+Vernacular name(s): Bog yellowcress
+
 Establishment means: native
 
 ###### Genus Sinapis
 
 ###### Species Sinapis arvensis L.
+
+Vernacular name(s): Charlock mustard
 
 Establishment means: exotic
 
@@ -24625,6 +26165,8 @@ Reference:
 
 ###### Species Subularia aquatica L.
 
+Vernacular name(s): Awlwort
+
 Establishment means: native
 
 Reference: 
@@ -24634,11 +26176,15 @@ Reference:
 
 ###### Species Thlaspi arvense L.
 
+Vernacular name(s): field pennycress
+
 Establishment means: exotic
 
 ###### Genus Turritis
 
 ###### Species Turritis glabra L.
+
+Vernacular name(s): tower rockcress
 
 Establishment means: exotic
 
@@ -24650,6 +26196,8 @@ Establishment means: exotic
 
 ###### Species Chenopodium album L.
 
+Vernacular name(s): lambsquarters
+
 Establishment means: exotic
 
 References: 
@@ -24658,11 +26206,15 @@ References:
 
 ###### Species Chenopodium berlandieri Moq.
 
+Vernacular name(s): Pitseed goosefoot
+
 Establishment means: exotic
 
 ###### Genus Salicornia
 
 ###### Species Salicornia maritima S.L. Wolff & Jefferies
+
+Vernacular name(s): slender grasswort
 
 Establishment means: native
 
@@ -24672,12 +26224,16 @@ Establishment means: native
 
 ###### Species Cerastium arvense L.
 
+Vernacular name(s): Field chickweed
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10346>.
 
 ###### Species Cerastium beeringianum Cham. & Schltdl.
+
+Vernacular name(s): Bering chickweed
 
 Establishment means: native
 
@@ -24686,12 +26242,16 @@ Reference:
 
 ###### Species Cerastium fischerianum Ser.
 
+Vernacular name(s): Fischer's chickweed
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10606>.
 
 ###### Species Cerastium fontanum Baumg.
+
+Vernacular name(s): big chickweed
 
 Establishment means: exotic
 
@@ -24702,9 +26262,13 @@ Reference:
 
 ###### Species Dianthus deltoides L.
 
+Vernacular name(s): Maiden pink
+
 Establishment means: exotic
 
 ###### Species Dianthus repens Willd.
+
+Vernacular name(s): Boreal carnation
 
 Establishment means: native
 
@@ -24715,6 +26279,8 @@ Reference:
 
 ###### Species Gypsophila elegans M. Bieb.
 
+Vernacular name(s): showy baby's-breath
+
 Establishment means: exotic
 
 Reference: 
@@ -24724,6 +26290,8 @@ Reference:
 
 ###### Species Minuartia arctica (Steven ex Ser.) Graebn.
 
+Vernacular name(s): Arctic stitchwort
+
 Establishment means: native
 
 Reference: 
@@ -24731,12 +26299,16 @@ Reference:
 
 ###### Species Minuartia macrocarpa (Pursh) Ostenf.
 
+Vernacular name(s): Longpod stitchwort
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11408>.
 
 ###### Species Minuartia rubella (Wahlenb.) Hiern
+
+Vernacular name(s): beautiful sandwort
 
 Establishment means: native
 
@@ -24747,6 +26319,8 @@ Reference:
 
 ###### Species Moehringia lateriflora (L.) Fenzl
 
+Vernacular name(s): bluntleaf sandwort
+
 Establishment means: native
 
 Reference: 
@@ -24756,6 +26330,8 @@ Reference:
 
 ###### Species Silene acaulis (L.) Jacq.
 
+Vernacular name(s): Moss campion
+
 Establishment means: native
 
 References: 
@@ -24764,12 +26340,16 @@ References:
 
 ###### Species Silene armeria L.
 
+Vernacular name(s): Catchfly
+
 Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/4051463>.
 
 ###### Species Silene latifolia Poir.
+
+Vernacular name(s): bladder campion
 
 Establishment means: exotic
 
@@ -24778,11 +26358,15 @@ Reference:
 
 ###### Species Silene noctiflora L.
 
+Vernacular name(s): Nightflowering silene
+
 Establishment means: exotic
 
 ###### Genus Spergula
 
 ###### Species Spergula arvensis L.
+
+Vernacular name(s): corn spurry
 
 Establishment means: exotic
 
@@ -24793,6 +26377,8 @@ Reference:
 
 ###### Species Spergularia rubra (L.) J. Presl & C. Presl
 
+Vernacular name(s): red sandspurry
+
 Establishment means: exotic
 
 Reference: 
@@ -24802,12 +26388,16 @@ Reference:
 
 ###### Species Stellaria calycantha (Ledeb.) Bong.
 
+Vernacular name(s): northern starwort
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10603>.
 
 ###### Species Stellaria crispa Cham. & Schltdl.
+
+Vernacular name(s): curled starwort
 
 Establishment means: native
 
@@ -24816,9 +26406,13 @@ Reference:
 
 ###### Species Stellaria humifusa Rottb.
 
+Vernacular name(s): Saltmarsh starwort
+
 Establishment means: native
 
 ###### Species Stellaria longipes Goldie
+
+Vernacular name(s): longstalk starwort
 
 Establishment means: native
 
@@ -24826,6 +26420,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:669>.
 
 ###### Species Stellaria media (L.) Vill.
+
+Vernacular name(s): Common chickweed
 
 Establishment means: exotic
 
@@ -24839,12 +26435,16 @@ References:
 
 ###### Species Drosera anglica Huds.
 
+Vernacular name(s): English sundew
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/115164>.
 
 ###### Species Drosera rotundifolia L.
+
+Vernacular name(s): roundleaf sundew
 
 Establishment means: native
 
@@ -24856,6 +26456,8 @@ Reference:
 ###### Genus Claytonia
 
 ###### Species Claytonia sarmentosa C.A. Mey.
+
+Vernacular name(s): Alaska springbeauty
 
 Establishment means: native
 
@@ -24877,11 +26479,15 @@ Reference:
 
 ###### Species Fallopia convolvulus (L.) Ã. LÃ¶ve
 
+Vernacular name(s): Black bindweed
+
 Establishment means: exotic
 
 ###### Genus Oxyria
 
 ###### Species Oxyria digyna (L.) Hill
+
+Vernacular name(s): alpine mountainsorrel
 
 Establishment means: native
 
@@ -24901,6 +26507,8 @@ References:
 
 ###### Species Persicaria maculosa Gray
 
+Vernacular name(s): Redshank
+
 Establishment means: exotic
 
 Reference: 
@@ -24910,11 +26518,15 @@ Reference:
 
 ###### Species Polygonum aviculare L.
 
+Vernacular name(s): prostrate knotweed
+
 Establishment means: exotic
 
 ###### Genus Rumex
 
 ###### Species Rumex acetosella L.
+
+Vernacular name(s): common sheep sorrel
 
 Establishment means: exotic
 
@@ -24923,6 +26535,8 @@ Reference:
 
 ###### Species Rumex arcticus Trautv.
 
+Vernacular name(s): Arctic dock
+
 Establishment means: native
 
 Reference: 
@@ -24930,12 +26544,16 @@ Reference:
 
 ###### Species Rumex crispus L.
 
+Vernacular name(s): Curly dock
+
 Establishment means: exotic
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6752>.
 
 ###### Species Rumex longifolius DC.
+
+Vernacular name(s): Dooryard dock
 
 Establishment means: exotic
 
@@ -24957,6 +26575,8 @@ Reference:
 
 ###### Species Parnassia palustris L.
 
+Vernacular name(s): marsh grass of Parnassus
+
 Establishment means: native
 
 Reference: 
@@ -24970,12 +26590,16 @@ Reference:
 
 ###### Species Cornus canadensis L.
 
+Vernacular name(s): bunchberry dogwood
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10626>.
 
 ###### Species Cornus suecica L.
+
+Vernacular name(s): Lapland cornel
 
 Establishment means: native
 
@@ -24990,6 +26614,8 @@ Reference:
 
 ###### Species Adoxa moschatellina L.
 
+Vernacular name(s): Moschatel
+
 Establishment means: native
 
 Reference: 
@@ -24998,6 +26624,8 @@ Reference:
 ###### Genus Sambucus
 
 ###### Species Sambucus racemosa L.
+
+Vernacular name(s): Red elderberry
 
 Establishment means: native
 
@@ -25008,12 +26636,16 @@ Reference:
 
 ###### Species Viburnum edule (Michx.) Raf.
 
+Vernacular name(s): Squashberry
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10589>.
 
 ###### Species Viburnum opulus L.
+
+Vernacular name(s): American cranberrybush
 
 Establishment means: exotic
 
@@ -25022,6 +26654,8 @@ Establishment means: exotic
 ###### Genus Linnaea
 
 ###### Species Linnaea borealis L.
+
+Vernacular name(s): Twinflower
 
 Establishment means: native
 
@@ -25034,12 +26668,16 @@ Reference:
 
 ###### Species Valeriana capitata Pall. ex Link
 
+Vernacular name(s): capitate valerian
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:730>.
 
 ###### Species Valeriana sitchensis Bong.
+
+Vernacular name(s): Sitka valerian
 
 Establishment means: native
 
@@ -25054,6 +26692,8 @@ Reference:
 
 ###### Species Impatiens noli-tangere L.
 
+Vernacular name(s): Western touch-me-not
+
 Establishment means: native
 
 Reference: 
@@ -25064,6 +26704,8 @@ Reference:
 ###### Genus Diapensia
 
 ###### Species Diapensia lapponica L.
+
+Vernacular name(s): Pincushion plant
 
 Establishment means: native
 
@@ -25076,6 +26718,8 @@ Reference:
 
 ###### Species Andromeda polifolia L.
 
+Vernacular name(s): Bog rosemary
+
 Establishment means: native
 
 References: 
@@ -25085,6 +26729,8 @@ References:
 ###### Genus Arctostaphylos
 
 ###### Species Arctostaphylos uva-ursi (L.) Spreng.
+
+Vernacular name(s): bearberry, kinnikinnik
 
 Establishment means: native
 
@@ -25102,11 +26748,15 @@ Reference:
 
 ###### Species Arctous rubra (Rehder & Wilson) Nakai
 
+Vernacular name(s): red fruit bearberry
+
 Establishment means: native
 
 ###### Genus Cassiope
 
 ###### Species Cassiope lycopodioides (Pall.) D. Don
+
+Vernacular name(s): Clubmoss mountain heather
 
 Establishment means: native
 
@@ -25114,6 +26764,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:10710>.
 
 ###### Species Cassiope tetragona (L.) D. Don
+
+Vernacular name(s): White arctic mountain heather
 
 Establishment means: native
 
@@ -25124,6 +26776,8 @@ Reference:
 
 ###### Species Chamaedaphne calyculata (L.) Moench
 
+Vernacular name(s): Leatherleaf
+
 Establishment means: native
 
 Reference: 
@@ -25132,6 +26786,8 @@ Reference:
 ###### Genus Empetrum
 
 ###### Species Empetrum nigrum L.
+
+Vernacular name(s): Black crowberry
 
 Establishment means: native
 
@@ -25142,9 +26798,13 @@ Reference:
 
 ###### Species Harrimanella hypnoides (L.) Coville
 
+Vernacular name(s): mossplant
+
 Establishment means: native
 
 ###### Species Harrimanella stelleriana (Pall.) Coville
+
+Vernacular name(s): Alaska bellheather
 
 Establishment means: native
 
@@ -25165,6 +26825,8 @@ Reference:
 
 ###### Species Menziesia ferruginea Sm.
 
+Vernacular name(s): Rusty menzesia
+
 Establishment means: native
 
 Reference: 
@@ -25173,6 +26835,8 @@ Reference:
 ###### Genus Moneses
 
 ###### Species Moneses uniflora (L.) A. Gray
+
+Vernacular name(s): Single delight
 
 Establishment means: native
 
@@ -25183,6 +26847,8 @@ Reference:
 
 ###### Species Orthilia secunda (L.) House
 
+Vernacular name(s): sidebells wintergreen
+
 Establishment means: native
 
 Reference: 
@@ -25191,6 +26857,8 @@ Reference:
 ###### Genus Phyllodoce
 
 ###### Species Phyllodoce aleutica (Spreng.) Heller
+
+Vernacular name(s): Aleutian mountainheath
 
 Establishment means: native
 
@@ -25201,12 +26869,16 @@ Reference:
 
 ###### Species Pyrola asarifolia Michx.
 
+Vernacular name(s): Liverleaf wintergreen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10979>.
 
 ###### Species Pyrola chlorantha Sw.
+
+Vernacular name(s): greenflowered wintergreen
 
 Establishment means: native
 
@@ -25215,12 +26887,16 @@ Reference:
 
 ###### Species Pyrola grandiflora Radius
 
+Vernacular name(s): Largeflowered wintergreen
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57284>.
 
 ###### Species Pyrola minor L.
+
+Vernacular name(s): Snowline wintergreen
 
 Establishment means: native
 
@@ -25231,12 +26907,16 @@ Reference:
 
 ###### Species Rhododendron groenlandicum (Oeder) Kron & Judd
 
+Vernacular name(s): bog Labrador tea
+
 Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/7152587>.
 
 ###### Species Rhododendron tomentosum Harmaja
+
+Vernacular name(s): Northern Labrador tea
 
 Establishment means: native
 
@@ -25254,6 +26934,8 @@ Reference:
 
 ###### Species Vaccinium ovalifolium Sm.
 
+Vernacular name(s): Oval-leaf blueberry
+
 Establishment means: native
 
 Reference: 
@@ -25261,12 +26943,16 @@ Reference:
 
 ###### Species Vaccinium oxycoccos L.
 
+Vernacular name(s): Small cranberry
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1371259>.
 
 ###### Species Vaccinium uliginosum L.
+
+Vernacular name(s): Bog blueberry
 
 Establishment means: native
 
@@ -25277,6 +26963,8 @@ References:
 <http://www.inaturalist.org/observations/115168>.
 
 ###### Species Vaccinium vitis-idaea L.
+
+Vernacular name(s): Lingonberry
 
 Establishment means: native
 
@@ -25289,6 +26977,8 @@ Reference:
 
 ###### Species Polemonium boreale Adams
 
+Vernacular name(s): northern Jacob's-ladder
+
 Establishment means: native
 
 Reference: 
@@ -25299,6 +26989,8 @@ Reference:
 Establishment means: native
 
 ###### Species Polemonium pulcherrimum Hook.
+
+Vernacular name(s): Jacob's-ladder
 
 Establishment means: native
 
@@ -25311,6 +27003,8 @@ Reference:
 
 ###### Species Androsace alaskana Coville & Standl. ex HultÃ©n
 
+Vernacular name(s): Alaskan douglasia
+
 Establishment means: native
 
 Reference: 
@@ -25320,6 +27014,8 @@ Reference:
 
 ###### Species Primula cuneifolia Ledeb.
 
+Vernacular name(s): Wedgeleaf primrose
+
 Establishment means: native
 
 Reference: 
@@ -25328,6 +27024,8 @@ Reference:
 ###### Genus Trientalis
 
 ###### Species Trientalis europaea L.
+
+Vernacular name(s): Arctic starflower
 
 Establishment means: native
 
@@ -25339,6 +27037,8 @@ Establishment means: native
 
 ###### Species Astragalus alpinus L.
 
+Vernacular name(s): Alpine milkvetch
+
 Establishment means: native
 
 References: 
@@ -25349,12 +27049,16 @@ References:
 
 ###### Species Astragalus polaris (Seem.) Benth. ex Hook. f.
 
+Vernacular name(s): Polar milk vetch
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11354>.
 
 ###### Species Astragalus umbellatus Bunge
+
+Vernacular name(s): Tundra milkvetch
 
 Establishment means: native
 
@@ -25365,11 +27069,15 @@ Reference:
 
 ###### Species Cytisus scoparius (L.) Link
 
+Vernacular name(s): Scotch broom
+
 Establishment means: exotic
 
 ###### Genus Hedysarum
 
 ###### Species Hedysarum alpinum L.
+
+Vernacular name(s): Alpine sweetvetch
 
 Establishment means: native
 
@@ -25380,12 +27088,16 @@ Reference:
 
 ###### Species Lathyrus japonicus Willd.
 
+Vernacular name(s): Beach pea
+
 Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/1790133>.
 
 ###### Species Lathyrus palustris L.
+
+Vernacular name(s): marsh pea
 
 Establishment means: native
 
@@ -25407,6 +27119,8 @@ Reference:
 
 ###### Species Lupinus arcticus S. Watson
 
+Vernacular name(s): arctic lupine
+
 Establishment means: native
 
 Reference: 
@@ -25414,12 +27128,16 @@ Reference:
 
 ###### Species Lupinus nootkatensis Donn ex Sims
 
+Vernacular name(s): Nootka lupine
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57339>.
 
 ###### Species Lupinus polyphyllus Lindl.
+
+Vernacular name(s): bigleaf lupine
 
 Establishment means: native
 
@@ -25429,6 +27147,8 @@ Reference:
 ###### Genus Medicago
 
 ###### Species Medicago lupulina L.
+
+Vernacular name(s): Black Medick
 
 Establishment means: exotic
 
@@ -25446,6 +27166,8 @@ Reference:
 
 ###### Species Melilotus officinalis (L.) Lam.
 
+Vernacular name(s): Yellow sweetclover
+
 Establishment means: exotic
 
 Reference: 
@@ -25454,6 +27176,8 @@ Reference:
 ###### Genus Oxytropis
 
 ###### Species Oxytropis campestris (L.) DC.
+
+Vernacular name(s): field locoweed
 
 Establishment means: native
 
@@ -25464,12 +27188,16 @@ References:
 
 ###### Species Oxytropis nigrescens (Pall.) Fisch. ex DC.
 
+Vernacular name(s): Blackish oxytrope
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10351>.
 
 ###### Species Oxytropis splendens Douglas ex Hook.
+
+Vernacular name(s): showy locoweed
 
 Establishment means: native
 
@@ -25480,6 +27208,8 @@ Reference:
 
 ###### Species Trifolium hybridum L.
 
+Vernacular name(s): Alsike clover
+
 Establishment means: exotic
 
 Reference: 
@@ -25487,12 +27217,16 @@ Reference:
 
 ###### Species Trifolium pratense L.
 
+Vernacular name(s): red clover
+
 Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/1819748>.
 
 ###### Species Trifolium repens L.
+
+Vernacular name(s): White clover
 
 Establishment means: exotic
 
@@ -25502,6 +27236,8 @@ Reference:
 ###### Genus Vicia
 
 ###### Species Vicia cracca L.
+
+Vernacular name(s): bird vetch
 
 Establishment means: exotic
 
@@ -25515,6 +27251,8 @@ Reference:
 ###### Genus Alnus
 
 ###### Species Alnus incana (L.) Moench
+
+Vernacular name(s): Thinleaf alder
 
 Establishment means: native
 
@@ -25533,6 +27271,8 @@ Reference:
 
 ###### Species Betula glandulosa Michx.
 
+Vernacular name(s): resin birch
+
 Establishment means: native
 
 Reference: 
@@ -25540,12 +27280,16 @@ Reference:
 
 ###### Species Betula kenaica W.H. Evans
 
+Vernacular name(s): Kenai birch
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:57444>.
 
 ###### Species Betula nana L.
+
+Vernacular name(s): dwarf birch
 
 Establishment means: native
 
@@ -25555,6 +27299,8 @@ References:
 
 ###### Species Betula neoalaskana Sarg.
 
+Vernacular name(s): Alaska Paper Birch
+
 Establishment means: native
 
 References: 
@@ -25563,6 +27309,8 @@ References:
 <http://www.inaturalist.org/observations/6826733>.
 
 ###### Species Betula pendula Roth
+
+Vernacular name(s): Silver birch
 
 Establishment means: exotic
 
@@ -25574,6 +27322,8 @@ Reference:
 ###### Genus Myrica
 
 ###### Species Myrica gale L.
+
+Vernacular name(s): Sweetgale
 
 Establishment means: native
 
@@ -25588,6 +27338,8 @@ Reference:
 
 ###### Species Gentiana douglasiana Bong.
 
+Vernacular name(s): Swamp gentian
+
 Establishment means: native
 
 References: 
@@ -25595,6 +27347,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:626>.
 
 ###### Species Gentiana glauca Pall.
+
+Vernacular name(s): Pale gentian
 
 Establishment means: native
 
@@ -25605,6 +27359,8 @@ Reference:
 
 ###### Species Gentianella amarella (L.) BÃ¶rner
 
+Vernacular name(s): autumn dwarf gentian
+
 Establishment means: native
 
 Reference: 
@@ -25613,6 +27369,8 @@ Reference:
 ###### Genus Swertia
 
 ###### Species Swertia perennis L.
+
+Vernacular name(s): Star gentian
 
 Establishment means: native
 
@@ -25625,6 +27383,8 @@ Reference:
 
 ###### Species Galium boreale L.
 
+Vernacular name(s): northern bedstraw
+
 Establishment means: native
 
 Reference: 
@@ -25632,12 +27392,16 @@ Reference:
 
 ###### Species Galium trifidum L.
 
+Vernacular name(s): threepetal bedstraw
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:1463>.
 
 ###### Species Galium triflorum Michx.
+
+Vernacular name(s): Fragrant bedstraw
 
 Establishment means: native
 
@@ -25651,6 +27415,8 @@ Reference:
 ###### Genus Geranium
 
 ###### Species Geranium erianthum DC.
+
+Vernacular name(s): Woolly geranium
 
 Establishment means: native
 
@@ -25666,9 +27432,13 @@ References:
 
 ###### Species Galeopsis bifida Boenn.
 
+Vernacular name(s): Splitlip hempnettle
+
 Establishment means: exotic
 
 ###### Species Galeopsis tetrahit L.
+
+Vernacular name(s): Brittlestem hempnettle
 
 Establishment means: exotic
 
@@ -25678,12 +27448,16 @@ Establishment means: exotic
 
 ###### Species Pinguicula villosa L.
 
+Vernacular name(s): Hairy butterwort
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10403>.
 
 ###### Species Pinguicula vulgaris L.
+
+Vernacular name(s): Common butterwort
 
 Establishment means: native
 
@@ -25693,6 +27467,8 @@ Reference:
 ###### Genus Utricularia
 
 ###### Species Utricularia intermedia Hayne
+
+Vernacular name(s): flatleaf bladderwort
 
 Establishment means: native
 
@@ -25713,6 +27489,8 @@ Reference:
 
 ###### Species Boschniakia rossica (Cham. & Schltdl.) B. Fedtsch.
 
+Vernacular name(s): Northern groundcone
+
 Establishment means: native
 
 References: 
@@ -25722,6 +27500,8 @@ References:
 ###### Genus Castilleja
 
 ###### Species Castilleja unalaschcensis (Cham. & Schltdl.) Malte
+
+Vernacular name(s): Alaska indian paintbrush
 
 Establishment means: native
 
@@ -25734,6 +27514,8 @@ References:
 
 ###### Species Euphrasia mollis (Ledeb.) Wettst.
 
+Vernacular name(s): Subalpine eyebright
+
 Establishment means: native
 
 Reference: 
@@ -25743,12 +27525,16 @@ Reference:
 
 ###### Species Pedicularis capitata M.F. Adams
 
+Vernacular name(s): Capitate lousewort
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11190>.
 
 ###### Species Pedicularis labradorica Wirsing
+
+Vernacular name(s): Labrador lousewort
 
 Establishment means: native
 
@@ -25757,12 +27543,16 @@ Reference:
 
 ###### Species Pedicularis lanata Cham. & Schltdl.
 
+Vernacular name(s): Woolly lousewort
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10342>.
 
 ###### Species Pedicularis macrodonta Richardson
+
+Vernacular name(s): Muskeg lousewort
 
 Establishment means: native
 
@@ -25772,12 +27562,16 @@ References:
 
 ###### Species Pedicularis parviflora Sm.
 
+Vernacular name(s): Smallflower lousewort
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:156970>.
 
 ###### Species Pedicularis verticillata L.
+
+Vernacular name(s): Whorled lousewort
 
 Establishment means: native
 
@@ -25788,6 +27582,8 @@ References:
 ###### Genus Rhinanthus
 
 ###### Species Rhinanthus minor L.
+
+Vernacular name(s): little yellow rattle
 
 Establishment means: native
 
@@ -25800,6 +27596,8 @@ Reference:
 
 ###### Species Mimulus guttatus DC.
 
+Vernacular name(s): Yellow monkey flower
+
 Establishment means: native
 
 Reference: 
@@ -25811,6 +27609,8 @@ Reference:
 
 ###### Species Callitriche palustris L.
 
+Vernacular name(s): Spiny waterstarwort
+
 Establishment means: native
 
 Reference: 
@@ -25820,6 +27620,8 @@ Reference:
 
 ###### Species Hippuris tetraphylla L. f.
 
+Vernacular name(s): Fourleaf mare's-tail
+
 Establishment means: native
 
 References: 
@@ -25827,6 +27629,8 @@ References:
 <http://arctos.database.museum/guid/UAM:Herb:58238>.
 
 ###### Species Hippuris vulgaris L.
+
+Vernacular name(s): common mare's-tail
 
 Establishment means: native
 
@@ -25837,6 +27641,8 @@ Reference:
 
 ###### Species Linaria vulgaris Mill.
 
+Vernacular name(s): butter-n-eggs
+
 Establishment means: exotic
 
 Reference: 
@@ -25846,6 +27652,8 @@ Reference:
 
 ###### Species Plantago major L.
 
+Vernacular name(s): Common plantain
+
 Establishment means: exotic
 
 References: 
@@ -25853,6 +27661,8 @@ References:
 <http://www.inaturalist.org/observations/1832158>.
 
 ###### Species Plantago maritima L.
+
+Vernacular name(s): Goose tongue
 
 Establishment means: native
 
@@ -25862,6 +27672,8 @@ Reference:
 ###### Genus Veronica
 
 ###### Species Veronica americana Schwein. ex Benth.
+
+Vernacular name(s): American speedwell
 
 Establishment means: native
 
@@ -25878,6 +27690,8 @@ Reference:
 
 ###### Species Veronica wormskjoldii Roem. & Schult.
 
+Vernacular name(s): American alpine speedwell
+
 Establishment means: native
 
 Reference: 
@@ -25891,6 +27705,8 @@ Reference:
 
 ###### Species Fritillaria camschatcensis (L.) Ker Gawl.
 
+Vernacular name(s): Kamchatka fritillary
+
 Establishment means: native
 
 References: 
@@ -25901,6 +27717,8 @@ References:
 
 ###### Species Lloydia serotina (L.) Salisb. ex Rchb.
 
+Vernacular name(s): common alplily
+
 Establishment means: native
 
 Reference: 
@@ -25909,6 +27727,8 @@ Reference:
 ###### Genus Streptopus
 
 ###### Species Streptopus amplexifolius (L.) DC.
+
+Vernacular name(s): clasping twistedstalk
 
 Establishment means: exotic
 
@@ -25921,6 +27741,8 @@ Reference:
 
 ###### Species Anticlea elegans (Pursh) Rydb.
 
+Vernacular name(s): mountain deathcamas
+
 Establishment means: native
 
 Reference: 
@@ -25929,6 +27751,8 @@ Reference:
 ###### Genus Veratrum
 
 ###### Species Veratrum viride Aiton
+
+Vernacular name(s): green false hellebore
 
 Establishment means: native
 
@@ -25950,6 +27774,8 @@ Reference:
 
 ###### Species Linum perenne L.
 
+Vernacular name(s): Blue flax
+
 Establishment means: native
 
 Reference: 
@@ -25968,6 +27794,8 @@ Reference:
 
 ###### Species Populus tremuloides Michx.
 
+Vernacular name(s): Quaking aspen
+
 Establishment means: native
 
 Reference: 
@@ -25975,11 +27803,15 @@ Reference:
 
 ###### Species Populus trichocarpa Torr. & A. Gray ex Hook.
 
+Vernacular name(s): Black cottonwood
+
 Establishment means: native
 
 ###### Genus Salix
 
 ###### Species Salix alaxensis (Andersson) Coville
+
+Vernacular name(s): Feltleaf willow
 
 Establishment means: native
 
@@ -25996,6 +27828,8 @@ Reference:
 
 ###### Species Salix barclayi Andersson
 
+Vernacular name(s): Barclay's willow
+
 Establishment means: native
 
 References: 
@@ -26007,12 +27841,16 @@ References:
 
 ###### Species Salix bebbiana Sarg.
 
+Vernacular name(s): Bebb's willow
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11058>.
 
 ###### Species Salix commutata Bebb
+
+Vernacular name(s): Undergreen willow
 
 Establishment means: native
 
@@ -26021,12 +27859,16 @@ Reference:
 
 ###### Species Salix fuscescens Andersson
 
+Vernacular name(s): Alaska bog willow
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57387>.
 
 ###### Species Salix glauca L.
+
+Vernacular name(s): Grayleaf willow
 
 Establishment means: native
 
@@ -26039,9 +27881,13 @@ References:
 
 ###### Species Salix lasiandra Benth.
 
+Vernacular name(s): Pacific willow
+
 Establishment means: native
 
 ###### Species Salix myrtillifolia Andersson
+
+Vernacular name(s): low blueberry, Willow
 
 Establishment means: native
 
@@ -26050,9 +27896,13 @@ Reference:
 
 ###### Species Salix niphoclada Rydb.
 
+Vernacular name(s): Barrenground willow
+
 Establishment means: native
 
 ###### Species Salix ovalifolia Trautv.
+
+Vernacular name(s): Oval-leaf willow
 
 Establishment means: native
 
@@ -26061,12 +27911,16 @@ Reference:
 
 ###### Species Salix pulchra Cham.
 
+Vernacular name(s): Tealeaf willow
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAM:Herb:20860>.
 
 ###### Species Salix reticulata L.
+
+Vernacular name(s): Netleaf willow
 
 Establishment means: native
 
@@ -26075,12 +27929,16 @@ Reference:
 
 ###### Species Salix scouleriana Barratt ex Hook.
 
+Vernacular name(s): Scouler's willow
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:58127>.
 
 ###### Species Salix sitchensis Sanson ex Bong.
+
+Vernacular name(s): Sitka willow
 
 Establishment means: native
 
@@ -26098,6 +27956,8 @@ References:
 
 ###### Species Salix stolonifera Coville
 
+Vernacular name(s): Sprouting leaf willow
+
 Establishment means: native
 
 ###### Family Violaceae
@@ -26106,9 +27966,13 @@ Establishment means: native
 
 ###### Species Viola adunca Sm.
 
+Vernacular name(s): hookedspur violet
+
 Establishment means: native
 
 ###### Species Viola epipsila Ledeb.
+
+Vernacular name(s): Dwarf marsh violet
 
 Establishment means: native
 
@@ -26116,6 +27980,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:11323>.
 
 ###### Species Viola glabella Nutt.
+
+Vernacular name(s): Pioneer violet
 
 Establishment means: native
 
@@ -26131,12 +27997,16 @@ Reference:
 
 ###### Species Viola renifolia A. Gray
 
+Vernacular name(s): white violet
+
 Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/13564981>.
 
 ###### Species Viola selkirkii Pursh ex Goldie
+
+Vernacular name(s): Selkirk's violet
 
 Establishment means: native
 
@@ -26151,12 +28021,16 @@ Reference:
 
 ###### Species Chamerion angustifolium (L.) Holub
 
+Vernacular name(s): Fireweed
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1790157>.
 
 ###### Species Chamerion latifolium (L.) Holub
+
+Vernacular name(s): Dwarf fireweed
 
 Establishment means: native
 
@@ -26168,6 +28042,8 @@ References:
 
 ###### Species Circaea alpina L.
 
+Vernacular name(s): Small enchanter's nightshade
+
 Establishment means: native
 
 Reference: 
@@ -26177,12 +28053,16 @@ Reference:
 
 ###### Species Epilobium anagallidifolium Lam.
 
+Vernacular name(s): pimpernel willowherb
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57229>.
 
 ###### Species Epilobium ciliatum Raf.
+
+Vernacular name(s): fringed willowherb
 
 Establishment means: native
 
@@ -26191,6 +28071,8 @@ Reference:
 
 ###### Species Epilobium hornemannii Rchb.
 
+Vernacular name(s): Hornemann's willowherb
+
 Establishment means: native
 
 Reference: 
@@ -26198,9 +28080,13 @@ Reference:
 
 ###### Species Epilobium lactiflorum Hausskn.
 
+Vernacular name(s): milkflower willowherb
+
 Establishment means: native
 
 ###### Species Epilobium palustre L.
+
+Vernacular name(s): marsh willowherb
 
 Establishment means: native
 
@@ -26215,6 +28101,8 @@ Reference:
 
 ###### Species Nuphar lutea (L.) Sm.
 
+Vernacular name(s): yellow pond-lily
+
 Establishment means: native
 
 Reference: 
@@ -26223,6 +28111,8 @@ Reference:
 ###### Genus Nymphaea
 
 ###### Species Nymphaea tetragona Georgi
+
+Vernacular name(s): pygmy waterlily
 
 Establishment means: native
 
@@ -26237,6 +28127,8 @@ Reference:
 
 ###### Species Carex aquatilis Wahlenb.
 
+Vernacular name(s): Water sedge
+
 Establishment means: native
 
 References: 
@@ -26246,9 +28138,13 @@ References:
 
 ###### Species Carex bigelowii Torr. ex Schwein.
 
+Vernacular name(s): Bigelow's sedge
+
 Establishment means: native
 
 ###### Species Carex brunnescens (Pers.) Poir.
+
+Vernacular name(s): Brownish sedge
 
 Establishment means: native
 
@@ -26257,12 +28153,16 @@ Reference:
 
 ###### Species Carex canescens L.
 
+Vernacular name(s): Silver sedge
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11260>.
 
 ###### Species Carex chordorrhiza Ehrh. ex L. f.
+
+Vernacular name(s): Creeping sedge, rope-root sedge
 
 Establishment means: native
 
@@ -26271,12 +28171,16 @@ Reference:
 
 ###### Species Carex deflexa Hornem.
 
+Vernacular name(s): Northern sedge
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:641>.
 
 ###### Species Carex deweyana Schwein.
+
+Vernacular name(s): Dewey's sedge
 
 Establishment means: native
 
@@ -26286,12 +28190,16 @@ Establishment means: native
 
 ###### Species Carex disperma Dewey
 
+Vernacular name(s): softleaf sedge
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11278>.
 
 ###### Species Carex gynocrates Wormsk. ex Drejer
+
+Vernacular name(s): Northern bog sedge
 
 Establishment means: native
 
@@ -26300,13 +28208,19 @@ Reference:
 
 ###### Species Carex interior L.H. Bailey
 
+Vernacular name(s): Inland sedge
+
 Establishment means: native
 
 ###### Species Carex laeviculmis Meinsh.
 
+Vernacular name(s): Smoothstem sedge
+
 Establishment means: native
 
 ###### Species Carex lasiocarpa Ehrh.
+
+Vernacular name(s): woollyfruit sedge
 
 Establishment means: native
 
@@ -26315,12 +28229,16 @@ Reference:
 
 ###### Species Carex leptalea Wahlenb.
 
+Vernacular name(s): bristlystalked sedged
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11270>.
 
 ###### Species Carex limosa L.
+
+Vernacular name(s): Mud sedge
 
 Establishment means: native
 
@@ -26329,6 +28247,8 @@ Reference:
 
 ###### Species Carex livida (Wahlenb.) Willd.
 
+Vernacular name(s): Livid sedge
+
 Establishment means: native
 
 Reference: 
@@ -26336,9 +28256,13 @@ Reference:
 
 ###### Species Carex loliacea L.
 
+Vernacular name(s): Ryegrass sedge
+
 Establishment means: native
 
 ###### Species Carex lyngbyei Hornem.
+
+Vernacular name(s): Lyngbye's sedge
 
 Establishment means: native
 
@@ -26346,6 +28270,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:11285>.
 
 ###### Species Carex macrochaeta C.A. Mey.
+
+Vernacular name(s): longawn sedge
 
 Establishment means: native
 
@@ -26355,6 +28281,8 @@ References:
 
 ###### Species Carex magellanica Lam.
 
+Vernacular name(s): Boreal bog sedge
+
 Establishment means: native
 
 Reference: 
@@ -26362,12 +28290,16 @@ Reference:
 
 ###### Species Carex membranacea Hook.
 
+Vernacular name(s): Fragile sedge
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:614>.
 
 ###### Species Carex mertensii J.D. Prescott ex Bong.
+
+Vernacular name(s): Mertens' sedge
 
 Establishment means: native
 
@@ -26377,6 +28309,8 @@ References:
 
 ###### Species Carex microchaeta T. Holm
 
+Vernacular name(s): Smallawned sedge
+
 Establishment means: native
 
 Reference: 
@@ -26384,9 +28318,13 @@ Reference:
 
 ###### Species Carex norvegica Retz.
 
+Vernacular name(s): Norway sedge
+
 Establishment means: native
 
 ###### Species Carex pachystachya Cham. ex Steud.
+
+Vernacular name(s): chamisso sedge
 
 Establishment means: native
 
@@ -26395,12 +28333,16 @@ Reference:
 
 ###### Species Carex pauciflora Lightf.
 
+Vernacular name(s): Fewflower sedge
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1341675>.
 
 ###### Species Carex phaeocephala Piper
+
+Vernacular name(s): dunhead sedge
 
 Establishment means: native
 
@@ -26410,12 +28352,16 @@ References:
 
 ###### Species Carex pluriflora HultÃ©n
 
+Vernacular name(s): Manyflower sedge
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:20799>.
 
 ###### Species Carex podocarpa R. Br.
+
+Vernacular name(s): Shortstalk sedge
 
 Establishment means: native
 
@@ -26424,9 +28370,13 @@ Reference:
 
 ###### Species Carex preslii Steud.
 
+Vernacular name(s): Presl's sedge
+
 Establishment means: native
 
 ###### Species Carex pyrenaica Wahlenb.
+
+Vernacular name(s): Pyrenean sedge
 
 Establishment means: native
 
@@ -26435,12 +28385,16 @@ Reference:
 
 ###### Species Carex ramenskii Kom.
 
+Vernacular name(s): Ramensk's sedge
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11286>.
 
 ###### Species Carex rotundata Wahlenb.
+
+Vernacular name(s): Round sedge
 
 Establishment means: native
 
@@ -26450,12 +28404,16 @@ References:
 
 ###### Species Carex saxatilis L.
 
+Vernacular name(s): Rock sedge
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:604>.
 
 ###### Species Carex scirpoidea Michx.
+
+Vernacular name(s): northern singlespike sedge
 
 Establishment means: native
 
@@ -26464,12 +28422,16 @@ Reference:
 
 ###### Species Carex spectabilis Dewey
 
+Vernacular name(s): Showy sedge
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11326>.
 
 ###### Species Carex tenuiflora Wahlenb.
+
+Vernacular name(s): Sparseflower sedge
 
 Establishment means: native
 
@@ -26478,6 +28440,8 @@ Reference:
 
 ###### Species Carex utriculata Boott
 
+Vernacular name(s): Northwest territory sedge
+
 Establishment means: native
 
 Reference: 
@@ -26485,11 +28449,15 @@ Reference:
 
 ###### Species Carex viridula Michx.
 
+Vernacular name(s): little green sedge
+
 Establishment means: native
 
 ###### Genus Eleocharis
 
 ###### Species Eleocharis palustris (L.) Roem. & Schult.
+
+Vernacular name(s): common spikerush
 
 Establishment means: native
 
@@ -26500,6 +28468,8 @@ Reference:
 
 ###### Species Eriophorum angustifolium Honck.
 
+Vernacular name(s): tall cottongrass
+
 Establishment means: native
 
 References: 
@@ -26508,6 +28478,8 @@ References:
 
 ###### Species Eriophorum callitrix Cham. ex C.A. Mey.
 
+Vernacular name(s): Arctic cottongrass
+
 Establishment means: native
 
 Reference: 
@@ -26515,9 +28487,13 @@ Reference:
 
 ###### Species Eriophorum russeolum Fr.
 
+Vernacular name(s): Red cottongrass
+
 Establishment means: native
 
 ###### Species Eriophorum scheuchzeri Hoppe
+
+Vernacular name(s): White cottongrass
 
 Establishment means: native
 
@@ -26526,9 +28502,13 @@ Reference:
 
 ###### Species Eriophorum vaginatum L.
 
+Vernacular name(s): Tussock cottongrass
+
 Establishment means: native
 
 ###### Species Eriophorum viridicarinatum (Engelm.) Fernald
+
+Vernacular name(s): thinleaf cottonsedge
 
 Establishment means: native
 
@@ -26543,11 +28523,15 @@ Reference:
 
 ###### Species Schoenoplectus tabernaemontani (C.C. Gmel.) Palla
 
+Vernacular name(s): Softstem bulrush
+
 Establishment means: native
 
 ###### Genus Scirpus
 
 ###### Species Scirpus microcarpus J. Presl & C. Presl
+
+Vernacular name(s): Panicled bulrush
 
 Establishment means: native
 
@@ -26557,6 +28541,8 @@ Reference:
 ###### Genus Trichophorum
 
 ###### Species Trichophorum cespitosum (L.) Hartm.
+
+Vernacular name(s): tufted bulrush
 
 Establishment means: native
 
@@ -26569,12 +28555,16 @@ Reference:
 
 ###### Species Juncus alpinoarticulatus Chaix
 
+Vernacular name(s): northern green rush
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10780>.
 
 ###### Species Juncus bufonius L.
+
+Vernacular name(s): Toad rush
 
 Establishment means: native
 
@@ -26584,12 +28574,16 @@ References:
 
 ###### Species Juncus castaneus Sm.
 
+Vernacular name(s): Chestnut rush
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10778>.
 
 ###### Species Juncus filiformis L.
+
+Vernacular name(s): Thread rush
 
 Establishment means: native
 
@@ -26598,6 +28592,8 @@ Reference:
 
 ###### Species Juncus mertensianus Bong.
 
+Vernacular name(s): Merten's rush
+
 Establishment means: native
 
 References: 
@@ -26605,6 +28601,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:643>.
 
 ###### Species Juncus triglumis L.
+
+Vernacular name(s): three-hulled rush
 
 Establishment means: native
 
@@ -26615,6 +28613,8 @@ Reference:
 
 ###### Species Luzula arcuata (Wahlenb.) Sw.
 
+Vernacular name(s): Curved woodrush
+
 Establishment means: native
 
 Reference: 
@@ -26622,12 +28622,16 @@ Reference:
 
 ###### Species Luzula multiflora (Ehrh.) Lej.
 
+Vernacular name(s): Common woodrush
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11454>.
 
 ###### Species Luzula parviflora (Ehrh.) Desv.
+
+Vernacular name(s): Smallflowered woodrush
 
 Establishment means: native
 
@@ -26639,9 +28643,13 @@ References:
 
 ###### Species Luzula piperi (Coville) M.E. Jones
 
+Vernacular name(s): Piper's woodrush
+
 Establishment means: native
 
 ###### Species Luzula spicata (L.) DC.
+
+Vernacular name(s): Spiked woodrush
 
 Establishment means: native
 
@@ -26649,6 +28657,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:11464>.
 
 ###### Species Luzula wahlenbergii Rupr.
+
+Vernacular name(s): Wahlenberg's woodrush
 
 Establishment means: native
 
@@ -26661,9 +28671,13 @@ Reference:
 
 ###### Species Agrostis capillaris L.
 
+Vernacular name(s): colonial bentgrass
+
 Establishment means: exotic
 
 ###### Species Agrostis mertensii Trin.
+
+Vernacular name(s): northern bentgrass
 
 Establishment means: native
 
@@ -26671,6 +28685,8 @@ Reference:
 <https://arctos.database.museum/guid/KNWR:Herb:11468>.
 
 ###### Species Agrostis scabra Willd.
+
+Vernacular name(s): Rough bentgrass
 
 Establishment means: native
 
@@ -26681,12 +28697,16 @@ Reference:
 
 ###### Species Alopecurus geniculatus L.
 
+Vernacular name(s): Water foxtail
+
 Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10909>.
 
 ###### Species Alopecurus pratensis L.
+
+Vernacular name(s): meadow foxtail
 
 Establishment means: exotic
 
@@ -26696,6 +28716,8 @@ Reference:
 ###### Genus Anthoxanthum
 
 ###### Species Anthoxanthum monticola (Bigelow) Veldkamp
+
+Vernacular name(s): Alpine sweetgrass
 
 Establishment means: native
 
@@ -26710,17 +28732,23 @@ Reference:
 
 ###### Species Arctagrostis latifolia (R. Br.) Griseb.
 
+Vernacular name(s): wideleaf polargrass
+
 Establishment means: native
 
 ###### Genus Arctophila
 
 ###### Species Arctophila fulva (Trin.) Andersson
 
+Vernacular name(s): pendantgrass
+
 Establishment means: native
 
 ###### Genus Arctopoa
 
 ###### Species Arctopoa eminens (J. Presl) Prob.
+
+Vernacular name(s): Largeflower speargrass
 
 Establishment means: native
 
@@ -26731,12 +28759,16 @@ Reference:
 
 ###### Species Bromus inermis Leyss.
 
+Vernacular name(s): smooth brome
+
 Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10908>.
 
 ###### Species Bromus tectorum L.
+
+Vernacular name(s): cheatgrass
 
 Establishment means: exotic
 
@@ -26747,6 +28779,8 @@ Reference:
 
 ###### Species Calamagrostis canadensis (Michx.) P. Beauv.
 
+Vernacular name(s): Bluejoint, bluejoint reedgrass
+
 Establishment means: native
 
 Reference: 
@@ -26754,12 +28788,16 @@ Reference:
 
 ###### Species Calamagrostis lapponica (Wahlenb.) Hartm.
 
+Vernacular name(s): Lapland reedgrass
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:606>.
 
 ###### Species Calamagrostis stricta (Timm) Koeler
+
+Vernacular name(s): Northern reedgrass
 
 Establishment means: native
 
@@ -26770,11 +28808,15 @@ Reference:
 
 ###### Species Dactylis glomerata L.
 
+Vernacular name(s): orchardgrass
+
 Establishment means: exotic
 
 ###### Genus Danthonia
 
 ###### Species Danthonia intermedia Vasey
+
+Vernacular name(s): Timber oatgrass
 
 Establishment means: native
 
@@ -26806,12 +28848,16 @@ Establishment means: native
 
 ###### Species Elymus repens (L.) Gould
 
+Vernacular name(s): Quackgrass
+
 Establishment means: exotic
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10901>.
 
 ###### Species Elymus sibiricus L.
+
+Vernacular name(s): Siberian wildrye
 
 Establishment means: exotic
 
@@ -26820,6 +28866,8 @@ Reference:
 
 ###### Species Elymus trachycaulus (Link) Gould ex Shinners
 
+Vernacular name(s): Slender wheatgrass
+
 Establishment means: native
 
 Reference: 
@@ -26827,11 +28875,15 @@ Reference:
 
 ###### Species Elymus violaceus (Hornem.) Feilberg
 
+Vernacular name(s): Arctic wheatgrass
+
 Establishment means: native
 
 ###### Genus Festuca
 
 ###### Species Festuca altaica Trin.
+
+Vernacular name(s): Altai fescue
 
 Establishment means: native
 
@@ -26840,12 +28892,16 @@ Reference:
 
 ###### Species Festuca brachyphylla Schult. & Schult. f.
 
+Vernacular name(s): Alpine fescue
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11470>.
 
 ###### Species Festuca brevissima Jurtzev
+
+Vernacular name(s): Alaska fescue
 
 Establishment means: native
 
@@ -26855,12 +28911,16 @@ References:
 
 ###### Species Festuca rubra L.
 
+Vernacular name(s): red fescue
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11191>.
 
 ###### Species Festuca saximontana Rydb.
+
+Vernacular name(s): Rocky Mountain fescue
 
 Establishment means: native
 
@@ -26871,6 +28931,8 @@ Reference:
 
 ###### Species Glyceria borealis (Nash) Batch.
 
+Vernacular name(s): small floating mannagrass
+
 Establishment means: native
 
 Reference: 
@@ -26880,12 +28942,16 @@ Reference:
 
 ###### Species Hordeum brachyantherum Nevski
 
+Vernacular name(s): Meadow barley
+
 Establishment means: native
 
 Reference: 
 <http://www.inaturalist.org/observations/1787876>.
 
 ###### Species Hordeum jubatum L.
+
+Vernacular name(s): Foxtail barley
 
 Establishment means: exotic
 
@@ -26894,11 +28960,15 @@ Reference:
 
 ###### Species Hordeum vulgare L.
 
+Vernacular name(s): Barley
+
 Establishment means: exotic
 
 ###### Genus Leymus
 
 ###### Species Leymus mollis (Trin.) Pilg.
+
+Vernacular name(s): American dunegrass
 
 Establishment means: native
 
@@ -26909,12 +28979,16 @@ Reference:
 
 ###### Species Lolium multiflorum Lam.
 
+Vernacular name(s): Italian ryegrass
+
 Establishment means: exotic
 
 Reference: 
 <http://www.inaturalist.org/observations/1819804>.
 
 ###### Species Lolium perenne L.
+
+Vernacular name(s): perennial ryegrass
 
 Establishment means: exotic
 
@@ -26925,6 +28999,8 @@ Reference:
 
 ###### Species Phalaris arundinacea L.
 
+Vernacular name(s): reed canarygrass
+
 Establishment means: exotic
 
 Reference: 
@@ -26934,12 +29010,16 @@ Reference:
 
 ###### Species Phleum alpinum L.
 
+Vernacular name(s): Alpine timothy
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1452>.
 
 ###### Species Phleum pratense L.
+
+Vernacular name(s): Timothy
 
 Establishment means: exotic
 
@@ -26951,12 +29031,16 @@ References:
 
 ###### Species Poa alpina L.
 
+Vernacular name(s): Alpine bluegrass
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10612>.
 
 ###### Species Poa annua L.
+
+Vernacular name(s): Annual bluegrass
 
 Establishment means: exotic
 
@@ -26965,6 +29049,8 @@ Reference:
 
 ###### Species Poa arctica R. Br.
 
+Vernacular name(s): Arctic bluegrass
+
 Establishment means: native
 
 Reference: 
@@ -26972,9 +29058,13 @@ Reference:
 
 ###### Species Poa compressa L.
 
+Vernacular name(s): Canada bluegrass
+
 Establishment means: exotic
 
 ###### Species Poa glauca Vahl
+
+Vernacular name(s): glaucous bluegrass
 
 Establishment means: native
 
@@ -26985,9 +29075,13 @@ References:
 
 ###### Species Poa macrocalyx Trautv. & C.A. Mey.
 
+Vernacular name(s): largeglume bluegrass
+
 Establishment means: native
 
 ###### Species Poa pratensis L.
+
+Vernacular name(s): Kentucky bluegrass, spreading bluegrass
 
 Establishment means: native
 
@@ -26996,15 +29090,21 @@ Reference:
 
 ###### Species Poa stenantha Trin.
 
+Vernacular name(s): Northern bluegrass
+
 Establishment means: native
 
 ###### Species Poa trivialis L.
+
+Vernacular name(s): Rough bluegrass
 
 Establishment means: exotic
 
 ###### Genus Puccinellia
 
 ###### Species Puccinellia nutkaensis (J. Presl) Fernald & Weath.
+
+Vernacular name(s): Nootka alkaligrass
 
 Establishment means: native
 
@@ -27015,6 +29115,8 @@ Reference:
 
 ###### Species Secale cereale L.
 
+Vernacular name(s): Common rye
+
 Establishment means: exotic
 
 Reference: 
@@ -27024,6 +29126,8 @@ Reference:
 
 ###### Species Trisetum spicatum (L.) K. Richt.
 
+Vernacular name(s): Spike trisetum
+
 Establishment means: native
 
 Reference: 
@@ -27032,6 +29136,8 @@ Reference:
 ###### Genus Vahlodea
 
 ###### Species Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm.
+
+Vernacular name(s): Mountain hairgrass
 
 Establishment means: native
 
@@ -27053,6 +29159,8 @@ Reference:
 
 ###### Species Sparganium angustifolium Michx.
 
+Vernacular name(s): Narrow-leaved burreed
+
 Establishment means: native
 
 Reference: 
@@ -27060,12 +29168,16 @@ Reference:
 
 ###### Species Sparganium hyperboreum Beurl. ex Laest.
 
+Vernacular name(s): Northern bur-reed
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:833>.
 
 ###### Species Sparganium natans L.
+
+Vernacular name(s): Small bur-reed
 
 Establishment means: native
 
@@ -27075,6 +29187,8 @@ Reference:
 ###### Genus Typha
 
 ###### Species Typha latifolia L.
+
+Vernacular name(s): Broadleaf cattail
 
 Establishment means: native
 
@@ -27086,12 +29200,16 @@ Establishment means: native
 
 ###### Species Corydalis pauciflora (Stephan) Pers.
 
+Vernacular name(s): Few flowered corydalis
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:6759>.
 
 ###### Species Corydalis sempervirens (L.) Pers.
+
+Vernacular name(s): Rock harlequin
 
 Establishment means: native
 
@@ -27103,6 +29221,8 @@ References:
 
 ###### Species Eschscholzia californica Cham.
 
+Vernacular name(s): California poppy
+
 Establishment means: exotic
 
 Reference: 
@@ -27112,12 +29232,16 @@ Reference:
 
 ###### Species Papaver alboroseum HultÃ©n
 
+Vernacular name(s): Pale poppy
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:10350>.
 
 ###### Species Papaver nudicaule L.
+
+Vernacular name(s): Iceland poppy
 
 Establishment means: exotic
 
@@ -27130,6 +29254,8 @@ Reference:
 
 ###### Species Aconitum delphiniifolium DC.
 
+Vernacular name(s): Larkspurleaf monkshood
+
 Establishment means: native
 
 Reference: 
@@ -27138,6 +29264,8 @@ Reference:
 ###### Genus Actaea
 
 ###### Species Actaea rubra (Aiton) Willd.
+
+Vernacular name(s): red baneberry
 
 Establishment means: native
 
@@ -27152,12 +29280,16 @@ Reference:
 
 ###### Species Anemone parviflora Michx.
 
+Vernacular name(s): smallflowed anemone
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10996>.
 
 ###### Species Anemone richardsonii Hook.
+
+Vernacular name(s): Yellow thimbleweed
 
 Establishment means: native
 
@@ -27170,6 +29302,8 @@ References:
 
 ###### Species Aquilegia formosa Fisch. ex DC.
 
+Vernacular name(s): Western columbine
+
 Establishment means: native
 
 References: 
@@ -27180,6 +29314,8 @@ References:
 ###### Genus Caltha
 
 ###### Species Caltha leptosepala DC.
+
+Vernacular name(s): White marsh marigold
 
 Establishment means: native
 
@@ -27195,6 +29331,8 @@ Reference:
 
 ###### Species Caltha palustris L.
 
+Vernacular name(s): Yellow marsh marigold
+
 Establishment means: native
 
 Reference: 
@@ -27204,6 +29342,8 @@ Reference:
 
 ###### Species Coptis trifolia (L.) Salisb.
 
+Vernacular name(s): Threeleaf goldthread
+
 Establishment means: native
 
 Reference: 
@@ -27212,6 +29352,8 @@ Reference:
 ###### Genus Delphinium
 
 ###### Species Delphinium glaucum S. Watson
+
+Vernacular name(s): Mountain larkspur
 
 Establishment means: native
 
@@ -27229,12 +29371,16 @@ Reference:
 
 ###### Species Ranunculus eschscholtzii Schltdl.
 
+Vernacular name(s): Eschscholtz's buttercup
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:10987>.
 
 ###### Species Ranunculus hyperboreus Rottb.
+
+Vernacular name(s): high northern buttercup
 
 Establishment means: native
 
@@ -27243,6 +29389,8 @@ Reference:
 
 ###### Species Ranunculus lapponicus L.
 
+Vernacular name(s): Lapland buttercup
+
 Establishment means: native
 
 Reference: 
@@ -27250,15 +29398,21 @@ Reference:
 
 ###### Species Ranunculus nivalis L.
 
+Vernacular name(s): Snow buttercup
+
 Establishment means: native
 
 ###### Species Ranunculus occidentalis Nutt.
+
+Vernacular name(s): Western buttercup
 
 Establishment means: native
 
 ###### Genus Thalictrum
 
 ###### Species Thalictrum sparsiflorum Turcz. ex Fisch. & C.A. Mey.
+
+Vernacular name(s): fewflower meadow-rue
 
 Establishment means: native
 
@@ -27269,6 +29423,8 @@ Establishment means: native
 ###### Genus Shepherdia
 
 ###### Species Shepherdia canadensis (L.) Nutt.
+
+Vernacular name(s): Russet buffaloberry
 
 Establishment means: native
 
@@ -27281,6 +29437,8 @@ Reference:
 
 ###### Species Amelanchier alnifolia (Nutt.) Nutt. ex M. Roem.
 
+Vernacular name(s): Western serviceberry
+
 Establishment means: native
 
 Reference: 
@@ -27289,6 +29447,8 @@ Reference:
 ###### Genus Aruncus
 
 ###### Species Aruncus dioicus (Walter) Fernald
+
+Vernacular name(s): goat's beard
 
 Establishment means: native
 
@@ -27300,6 +29460,8 @@ References:
 
 ###### Species Comarum palustre L.
 
+Vernacular name(s): Purple marshlocks
+
 Establishment means: native
 
 Reference: 
@@ -27308,6 +29470,8 @@ Reference:
 ###### Genus Dasiphora
 
 ###### Species Dasiphora fruticosa (L.) Rydb.
+
+Vernacular name(s): shrubby cinquefoil
 
 Establishment means: native
 
@@ -27318,9 +29482,13 @@ Reference:
 
 ###### Species Dryas drummondii Richardson ex Hook.
 
+Vernacular name(s): Drummond's mountain-avens
+
 Establishment means: native
 
 ###### Species Dryas integrifolia Vahl
+
+Vernacular name(s): Entireleaf mountain-avens
 
 Establishment means: native
 
@@ -27328,6 +29496,8 @@ Reference:
 <http://arctos.database.museum/guid/KNWR:Herb:705>.
 
 ###### Species Dryas octopetala L.
+
+Vernacular name(s): Eightpetal mountain-avens
 
 Establishment means: native
 
@@ -27338,15 +29508,21 @@ Reference:
 
 ###### Species Fragaria vesca L.
 
+Vernacular name(s): woodland strawberry
+
 Establishment means: exotic
 
 ###### Species Fragaria X ananassa (Weston) Duchesne ex Rozier (pro sp.)
+
+Vernacular name(s): Domestic strawberry
 
 Establishment means: exotic
 
 ###### Genus Geum
 
 ###### Species Geum calthifolium Menzies ex Sm.
+
+Vernacular name(s): Calthaleaf avens
 
 Establishment means: native
 
@@ -27355,12 +29531,16 @@ Reference:
 
 ###### Species Geum macrophyllum Willd.
 
+Vernacular name(s): largeleaf avens
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:754>.
 
 ###### Species Geum rossii (R. Br.) Ser.
+
+Vernacular name(s): Ross's avens
 
 Establishment means: native
 
@@ -27370,6 +29550,8 @@ Reference:
 ###### Genus Luetkea
 
 ###### Species Luetkea pectinata (Pursh) Kuntze
+
+Vernacular name(s): Partridgefoot
 
 Establishment means: native
 
@@ -27388,17 +29570,25 @@ Reference:
 
 ###### Species Potentilla furcata A.E. Porsild
 
+Vernacular name(s): Forked cinquefoil
+
 Establishment means: native
 
 ###### Species Potentilla gracilis Douglas ex Hook.
+
+Vernacular name(s): slender cinquefoil
 
 Establishment means: native
 
 ###### Species Potentilla nana Willd. ex Schltdl.
 
+Vernacular name(s): Arctic cinquefoil
+
 Establishment means: native
 
 ###### Species Potentilla norvegica L.
+
+Vernacular name(s): Norwegian cinquefoil
 
 Establishment means: exotic
 
@@ -27407,12 +29597,16 @@ Reference:
 
 ###### Species Potentilla pensylvanica L.
 
+Vernacular name(s): Pennsylvania cinquefoil
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/UAM:Herb:57232>.
 
 ###### Species Potentilla uniflora Ledeb.
+
+Vernacular name(s): oneflower cinquefoil
 
 Establishment means: native
 
@@ -27421,12 +29615,16 @@ Reference:
 
 ###### Species Potentilla vahliana Lehm.
 
+Vernacular name(s): Vahl's cinquefoil
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:751>.
 
 ###### Species Potentilla villosa Pall. ex Pursh
+
+Vernacular name(s): Villous cinquefoil
 
 Establishment means: native
 
@@ -27440,6 +29638,8 @@ References:
 
 ###### Species Rosa acicularis Lindl.
 
+Vernacular name(s): Prickly rose
+
 Establishment means: native
 
 References: 
@@ -27447,6 +29647,8 @@ References:
 <http://www.inaturalist.org/observations/125340>.
 
 ###### Species Rosa nutkana C. Presl
+
+Vernacular name(s): Nootka rose
 
 Establishment means: native
 
@@ -27457,12 +29659,16 @@ Reference:
 
 ###### Species Rubus arcticus L.
 
+Vernacular name(s): arctic raspberry
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:702>.
 
 ###### Species Rubus chamaemorus L.
+
+Vernacular name(s): Cloudberry
 
 Establishment means: native
 
@@ -27472,6 +29678,8 @@ References:
 
 ###### Species Rubus idaeus L.
 
+Vernacular name(s): American red raspberry
+
 Establishment means: native
 
 Reference: 
@@ -27479,12 +29687,16 @@ Reference:
 
 ###### Species Rubus pedatus Sm.
 
+Vernacular name(s): Strawberryleaf raspberry
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:701>.
 
 ###### Species Rubus spectabilis Pursh
+
+Vernacular name(s): Salmonberry
 
 Establishment means: native
 
@@ -27495,6 +29707,8 @@ Reference:
 
 ###### Species Sanguisorba canadensis L.
 
+Vernacular name(s): Canadian burnet
+
 Establishment means: native
 
 Reference: 
@@ -27503,6 +29717,8 @@ Reference:
 ###### Genus Sibbaldia
 
 ###### Species Sibbaldia procumbens L.
+
+Vernacular name(s): creeping sibbaldia
 
 Establishment means: native
 
@@ -27513,6 +29729,8 @@ Reference:
 
 ###### Species Sorbaria sorbifolia (L.) A. Braun
 
+Vernacular name(s): False spirea
+
 Establishment means: exotic
 
 Reference: 
@@ -27522,12 +29740,16 @@ Reference:
 
 ###### Species Sorbus scopulina Greene
 
+Vernacular name(s): Greene's mountain ash
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWR:Herb:11321>.
 
 ###### Species Sorbus sitchensis M. Roem.
+
+Vernacular name(s): Western mountain ash
 
 Establishment means: native
 
@@ -27538,9 +29760,13 @@ Reference:
 
 ###### Species Spiraea douglasii Hook.
 
+Vernacular name(s): Rose spirea
+
 Establishment means: native
 
 ###### Species Spiraea stevenii (C.K. Schneid.) Rydb.
+
+Vernacular name(s): Beauverd spiraea
 
 Establishment means: native
 
@@ -27552,6 +29778,8 @@ Reference:
 ###### Genus Urtica
 
 ###### Species Urtica dioica L.
+
+Vernacular name(s): Stinging nettle
 
 Establishment means: native
 
@@ -27566,6 +29794,8 @@ Reference:
 
 ###### Species Geocaulon lividum (Richardson) Fernald
 
+Vernacular name(s): False toadflax
+
 Establishment means: native
 
 Reference: 
@@ -27578,6 +29808,8 @@ Reference:
 ###### Genus Rhodiola
 
 ###### Species Rhodiola integrifolia Raf.
+
+Vernacular name(s): ledge stonecrop
 
 Establishment means: native
 
@@ -27593,9 +29825,13 @@ References:
 
 ###### Species Ribes bracteosum Douglas ex Hook.
 
+Vernacular name(s): Stink currant
+
 Establishment means: native
 
 ###### Species Ribes glandulosum Grauer
+
+Vernacular name(s): Skunk currant
 
 Establishment means: native
 
@@ -27604,6 +29840,8 @@ Reference:
 
 ###### Species Ribes hudsonianum Richardson
 
+Vernacular name(s): northern black currant
+
 Establishment means: native
 
 Reference: 
@@ -27611,9 +29849,13 @@ Reference:
 
 ###### Species Ribes lacustre (Pers.) Poir.
 
+Vernacular name(s): Prickly currant
+
 Establishment means: native
 
 ###### Species Ribes laxiflorum Pursh
+
+Vernacular name(s): Trailing black currant
 
 Establishment means: native
 
@@ -27622,6 +29864,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:695>.
 
 ###### Species Ribes triste Pall.
+
+Vernacular name(s): Red currant
 
 Establishment means: native
 
@@ -27634,9 +29878,13 @@ Reference:
 
 ###### Species Myriophyllum farwellii Morong
 
+Vernacular name(s): Farwell's watermilfoil
+
 Establishment means: native
 
 ###### Species Myriophyllum sibiricum Kom.
+
+Vernacular name(s): Shortspike watermilfoil
 
 Establishment means: native
 
@@ -27644,6 +29892,8 @@ Reference:
 <https://arctos.database.museum/guid/UAM:Herb:5187>.
 
 ###### Species Myriophyllum verticillatum L.
+
+Vernacular name(s): Whorl-leaf watermilfoil
 
 Establishment means: native
 
@@ -27657,6 +29907,8 @@ References:
 
 ###### Species Chrysosplenium tetrandrum Th. Fr.
 
+Vernacular name(s): Northern golden saxifrage
+
 Establishment means: native
 
 References: 
@@ -27667,6 +29919,8 @@ References:
 
 ###### Species Heuchera glabra Willd. ex Roem. & Schult.
 
+Vernacular name(s): Alpine heuchera
+
 Establishment means: native
 
 Reference: 
@@ -27675,6 +29929,8 @@ Reference:
 ###### Genus Leptarrhena
 
 ###### Species Leptarrhena pyrolifolia (D. Don) R. Br. ex Ser.
+
+Vernacular name(s): Fireleaf leptarrhena
 
 Establishment means: native
 
@@ -27691,6 +29947,8 @@ Reference:
 
 ###### Species Saxifraga bronchialis L.
 
+Vernacular name(s): yellowdot saxifrage
+
 Establishment means: native
 
 References: 
@@ -27700,6 +29958,8 @@ References:
 
 ###### Species Saxifraga oppositifolia L.
 
+Vernacular name(s): Purple mountain saxifrage
+
 Establishment means: native
 
 References: 
@@ -27707,6 +29967,8 @@ References:
 <http://arctos.database.museum/guid/KNWR:Herb:10373>.
 
 ###### Species Saxifraga tricuspidata Rottb.
+
+Vernacular name(s): Three toothed saxifrage
 
 Establishment means: native
 
@@ -27717,6 +29979,8 @@ References:
 ###### Genus Tiarella
 
 ###### Species Tiarella trifoliata L.
+
+Vernacular name(s): Threeleaf foamflower
 
 Establishment means: native
 
@@ -27733,6 +29997,8 @@ Reference:
 
 ###### Species Juniperus communis L.
 
+Vernacular name(s): common juniper
+
 Establishment means: native
 
 Reference: 
@@ -27744,6 +30010,8 @@ Reference:
 
 ###### Species Picea glauca (Moench) Voss
 
+Vernacular name(s): white spruce
+
 Establishment means: native
 
 Reference: 
@@ -27751,12 +30019,16 @@ Reference:
 
 ###### Species Picea mariana (Mill.) Britton, Sterns & Poggenb.
 
+Vernacular name(s): black spruce
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:127>.
 
 ###### Species Picea X lutzii Little
+
+Vernacular name(s): Lutz's spruce
 
 Establishment means: native
 
@@ -27772,6 +30044,8 @@ Reference:
 ###### Genus Tsuga
 
 ###### Species Tsuga mertensiana (Bong.) CarriÃ¨re
+
+Vernacular name(s): Mountain hemlock
 
 Establishment means: native
 
@@ -27790,12 +30064,16 @@ References:
 
 ###### Species Equisetum arvense L.
 
+Vernacular name(s): field horsetail
+
 Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/KNWR:Herb:1455>.
 
 ###### Species Equisetum fluviatile L.
+
+Vernacular name(s): Water horsetail
 
 Establishment means: native
 
@@ -27804,9 +30082,13 @@ Reference:
 
 ###### Species Equisetum hyemale L.
 
+Vernacular name(s): Scouringrush horsetail
+
 Establishment means: native
 
 ###### Species Equisetum palustre L.
+
+Vernacular name(s): Marsh horsetail
 
 Establishment means: native
 
@@ -27815,6 +30097,8 @@ Reference:
 
 ###### Species Equisetum pratense Ehrh.
 
+Vernacular name(s): Meadow horsetail
+
 Establishment means: native
 
 Reference: 
@@ -27822,12 +30106,16 @@ Reference:
 
 ###### Species Equisetum sylvaticum L.
 
+Vernacular name(s): Woodland horsetail
+
 Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:293>.
 
 ###### Species Equisetum variegatum Schleich. ex F. Weber & D. Mohr
+
+Vernacular name(s): variegated scouringrush
 
 Establishment means: native
 
@@ -27843,9 +30131,13 @@ References:
 
 ###### Species Botrychium boreale Milde
 
+Vernacular name(s): northern moonwort
+
 Establishment means: native
 
 ###### Species Botrychium lunaria (L.) Sw.
+
+Vernacular name(s): common moonwort
 
 Establishment means: native
 
@@ -27860,6 +30152,8 @@ Reference:
 
 ###### Species Dryopteris expansa (C. Presl) Fraser-Jenk. & Jermy
 
+Vernacular name(s): Spreading woodfern
+
 Establishment means: native
 
 References: 
@@ -27867,6 +30161,8 @@ References:
 <http://www.inaturalist.org/observations/125365>.
 
 ###### Species Dryopteris fragrans (L.) Schott
+
+Vernacular name(s): Fragrant shield-fern
 
 Establishment means: native
 
@@ -27876,6 +30172,8 @@ Reference:
 ###### Genus Polystichum
 
 ###### Species Polystichum lonchitis (L.) Roth
+
+Vernacular name(s): northern hollyfern
 
 Establishment means: native
 
@@ -27887,6 +30185,8 @@ Reference:
 ###### Genus Matteuccia
 
 ###### Species Matteuccia struthiopteris (L.) Tod.
+
+Vernacular name(s): Ostrich fern
 
 Establishment means: native
 
@@ -27900,9 +30200,13 @@ References:
 
 ###### Species Cryptogramma acrostichoides R. Br.
 
+Vernacular name(s): American rockbrake
+
 Establishment means: native
 
 ###### Species Cryptogramma crispa (L.) R. Br.
+
+Vernacular name(s): parsley fern
 
 Establishment means: native
 
@@ -27916,6 +30220,8 @@ References:
 
 ###### Species Phegopteris connectilis (Michx.) Watt
 
+Vernacular name(s): Long beechfern
+
 Establishment means: native
 
 Reference: 
@@ -27927,6 +30233,8 @@ Reference:
 
 ###### Species Athyrium filix-femina (L.) Roth
 
+Vernacular name(s): common ladyfern
+
 Establishment means: native
 
 Reference: 
@@ -27935,6 +30243,8 @@ Reference:
 ###### Genus Cystopteris
 
 ###### Species Cystopteris fragilis (L.) Bernh.
+
+Vernacular name(s): Brittle bladderfern
 
 Establishment means: native
 
@@ -27945,6 +30255,8 @@ Reference:
 
 ###### Species Gymnocarpium dryopteris (L.) Newman
 
+Vernacular name(s): western oakfern
+
 Establishment means: native
 
 Reference: 
@@ -27953,6 +30265,8 @@ Reference:
 ###### Genus Woodsia
 
 ###### Species Woodsia ilvensis (L.) R. Br.
+
+Vernacular name(s): Rusty woodsia
 
 Establishment means: native
 
