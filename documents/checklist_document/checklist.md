@@ -1,8 +1,8 @@
-# Kenai National Wildlife Refuge Species List, version 2021-02-02
+# Kenai National Wildlife Refuge Species List, version 2021-02-03
 
 Kenai National Wildlife Refuge biology staff
 
-February  2, 2021
+February  3, 2021
 
 USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
@@ -10,7 +10,7 @@ USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
 ## Purpose
 
-A primary purpose for which the Kenai National Wildlife Refuge was established in the Alaska National Interest Lands Conservation Act of 1980 was, “to conserve fish and wildlife populations and habitats in their natural diversity…,” where the term “fish and wildlife” was defined as “any member of the animal kingdom, including without limitation any mammal, fish, bird…, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate.”  An obvious first step toward fulfilling this purpose is to know what fish and wildlife, habitats, and natural diversity are to be conserved.  This checklist is intended to be a frequently-updated document reflecting our current knowledge of which living things call the Kenai National Wildlife Refuge home.
+A primary purpose for which the Kenai National Wildlife Refuge was established in the Alaska National Interest Lands Conservation Act of 1980 was, â€œto conserve fish and wildlife populations and habitats in their natural diversityâ€¦,â€ where the term â€œfish and wildlifeâ€ was defined as â€œany member of the animal kingdom, including without limitation any mammal, fish, birdâ€¦, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate.â€  An obvious first step toward fulfilling this purpose is to know what fish and wildlife, habitats, and natural diversity are to be conserved.  This checklist is intended to be a frequently-updated document reflecting our current knowledge of which living things call the Kenai National Wildlife Refuge home.
 
 ## About the list
 

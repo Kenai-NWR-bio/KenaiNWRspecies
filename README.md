@@ -15,7 +15,7 @@ The Kenai National Wildlife Refuge’s species list was previously
 maintained as a set of data tables from which a checklist document was
 generated (Kenai National Wildlife Refuge biology staff
 [2018](#ref-KenaiNWRbio2018)). In April 2019, most of these data were
-uploaded to FWSpecies (U.S. Fish and Wildlife Service- Natural Resource
+uploaded to FWSpecies (U.S. Fish and Wildlife Service, Natural Resource
 Program Center [2019](#ref-NRPC2019)), where these data are currently
 maintained.
 
@@ -46,8 +46,8 @@ Wildlife Refuge, Soldotna, Alaska. Available from
 
 <div id="ref-NRPC2019">
 
-U.S. Fish and Wildlife Service- Natural Resource Program Center. 2019.
-FWSpecies user guide. U.S. Fish; Wildlife Service- Natural Resource
+U.S. Fish and Wildlife Service, Natural Resource Program Center. 2019.
+FWSpecies user guide. U.S. Fish and Wildlife Service, Natural Resource
 Program Center. Available from
 <https://ecos.fws.gov/ServCat/Reference/Profile/110876>.
 
