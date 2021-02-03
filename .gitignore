@@ -8,5 +8,6 @@
 *.pdf
 *.synctex.gz
 *.tex
+*.zip
 documents/checklist_document/*.html
 documents/checklist_document/*.txt
