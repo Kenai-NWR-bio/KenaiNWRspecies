@@ -1,8 +1,8 @@
-# Kenai National Wildlife Refuge Species List, version 2021-02-03
+# Kenai National Wildlife Refuge Species List, version 2021-02-05
 
 Kenai National Wildlife Refuge biology staff
 
-February  3, 2021
+February  5, 2021
 
 USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
@@ -32,14 +32,14 @@ Checklist data from FWSpecies and supplementary tables were processed using a sc
 
 # Checklist summary
 
-The present list includes a total of 2206 species, of which 2085 are native, 120 are exotic, and 1 is of uncertain origin.
+The present list includes a total of 2207 species, of which 2085 are native, 121 are exotic, and 1 is of uncertain origin.
 
 
 Table: Counts of species by establisment means.
 
 |Establishment means | Count|
 |:-------------------|-----:|
-|exotic              |   120|
+|exotic              |   121|
 |native              |  2085|
 |uncertain           |     1|
 # Checklist
@@ -3132,7 +3132,7 @@ Reference:
 
 ###### Genus Anthomyza
 
-###### Species Anthomyza gilviventris Rohá?ek & Barber 2016
+###### Species Anthomyza gilviventris Rohacek & Barber 2016
 
 Establishment means: native
 
@@ -3152,7 +3152,7 @@ References:
 
 ###### Genus Arganthomyza
 
-###### Species Arganthomyza duplex RohÃ¡Äek and Barber
+###### Species Arganthomyza duplex RohÃ¡cek and Barber
 
 Establishment means: native
 
@@ -5177,7 +5177,7 @@ Establishment means: native
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:240954>.
 
-###### Species Spilogona opaca (Schnabl, 19150
+###### Species Spilogona opaca (Schnabl, 1915)
 
 Establishment means: native
 
@@ -5435,7 +5435,7 @@ Establishment means: native
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:239634>.
 
-###### Genus taxon name missing
+###### Genus Lindneromyia
 
 ###### Species Lindneromyia agarici
 
@@ -6040,6 +6040,13 @@ Establishment means: native
 
 Reference: 
 <http://arctos.database.museum/guid/UAMObs:Ento:238942>.
+
+###### Species Tipula tenuilinea Alexander, 1959
+
+Establishment means: native
+
+Reference: 
+<https://www.inaturalist.org/observations/60329563>.
 
 ###### Family Xylophagidae
 
@@ -7572,7 +7579,7 @@ Reference:
 
 ###### Species Eriocampa ovata
 
-Establishment means: native
+Establishment means: exotic
 
 Reference: 
 <https://www.inaturalist.org/observations/7524742>.
@@ -9379,7 +9386,7 @@ Reference:
 
 ###### Family Leptopsyllidae
 
-###### Genus taxon name missing
+###### Genus Amphipsylla
 
 ###### Species Amphipsylla pollionis
 
@@ -20295,56 +20302,11 @@ Reference:
 
 ## Kingdom Chromista
 
-### Phylum taxon name missing
-
-#### Class taxon name missing
-
-##### Order Ochromonadales
-
-###### Family Dinobryaceae
-
-###### Genus taxon name missing
-
-###### Species Epipyxis gracilis D.K.Hilliard & Asmund
-
-Establishment means: native
-
-Reference: 
-<https://arctos.database.museum/guid/KNWRObs:Herb:999>.
-
-###### Species Epipyxis kenaiensis D.K.Hilliard & Asmund
-
-Establishment means: native
-
-Reference: 
-<https://arctos.database.museum/guid/KNWRObs:Herb:1000>.
-
-###### Species Epipyxis planctonica D.K.Hilliard & B.C.Asmund
-
-Establishment means: native
-
-Reference: 
-<https://arctos.database.museum/guid/KNWRObs:Herb:1009>.
-
-###### Species Epipyxis polymorpha (J.W.G.Lund) D.K.Hilliard & Asmund
-
-Establishment means: native
-
-Reference: 
-<https://arctos.database.museum/guid/KNWRObs:Herb:997>.
-
-###### Family Synuraceae
-
-###### Species Synura petersenii Korshikov
-
-Establishment means: native
-
-Reference: 
-<https://arctos.database.museum/guid/KNWRObs:Herb:1012>.
-
 ### Phylum Chrysophyta
 
 #### Class Chrysophyceae
+
+##### Order Ochromonadales
 
 ###### Family Dinobryaceae
 
@@ -20387,6 +20349,34 @@ Reference:
 
 ###### Genus Epipyxis
 
+###### Species Epipyxis gracilis D.K.Hilliard & Asmund
+
+Establishment means: native
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:999>.
+
+###### Species Epipyxis kenaiensis D.K.Hilliard & Asmund
+
+Establishment means: native
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1000>.
+
+###### Species Epipyxis planctonica D.K.Hilliard & B.C.Asmund
+
+Establishment means: native
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1009>.
+
+###### Species Epipyxis polymorpha (J.W.G.Lund) D.K.Hilliard & Asmund
+
+Establishment means: native
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:997>.
+
 ###### Species Epipyxis ramosa (Lauter.) Hill. and Asm.
 
 Establishment means: native
@@ -20411,6 +20401,15 @@ Establishment means: native
 
 Reference: 
 <https://arctos.database.museum/guid/KNWRObs:Herb:1013>.
+
+###### Genus Synura
+
+###### Species Synura petersenii Korshikov
+
+Establishment means: native
+
+Reference: 
+<https://arctos.database.museum/guid/KNWRObs:Herb:1012>.
 
 ### Phylum Ochrophyta
 
@@ -20572,38 +20571,6 @@ Reference:
 
 ## Kingdom Fungi
 
-### Phylum taxon name missing
-
-#### Class taxon name missing
-
-##### Order taxon name missing
-
-###### Family taxon name missing
-
-###### Genus taxon name missing
-
-###### Species Sarcodon imbricatus
-
-Vernacular name(s): Shingled Hedgehog
-
-Establishment means: native
-
-Reference: 
-<https://www.inaturalist.org/observations/48600705>.
-
-##### Order Rhytismatales
-
-###### Family Rhytismataceae
-
-###### Species Lirula macrospora (R.Hartig) Darker
-
-Vernacular name(s): Lirula needle blight, Spruce needle cast
-
-Establishment means: native
-
-Reference: 
-<https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd712413.pdf>.
-
 ### Phylum Ascomycota
 
 #### Class Arthoniomycetes
@@ -20627,7 +20594,7 @@ Reference:
 
 ###### Family Mycocaliciaceae
 
-###### Genus taxon name missing
+###### Genus Phaeocalicium
 
 ###### Species Phaeocalicium compressulum
 
@@ -22830,6 +22797,19 @@ Establishment means: native
 Reference: 
 <https://www.inaturalist.org/observations/9523714>.
 
+###### Family Rhytismataceae
+
+###### Genus Lirula
+
+###### Species Lirula macrospora (R.Hartig) Darker
+
+Vernacular name(s): Lirula needle blight, Spruce needle cast
+
+Establishment means: native
+
+Reference: 
+<https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd712413.pdf>.
+
 #### Class Pezizomycetes
 
 ##### Order Pezizales
@@ -22888,7 +22868,7 @@ Reference:
 
 ###### Genus Coprinus
 
-###### Species Coprinus comatus (O.F.Müll.) Pers.
+###### Species Coprinus comatus (O.F.MÃ¼ll.) Pers.
 
 Establishment means: native
 
@@ -22928,7 +22908,7 @@ Establishment means: native
 Reference: 
 <https://www.inaturalist.org/observations/3962205>.
 
-###### Genus taxon name missing
+###### Genus Clavulinopsis
 
 ###### Species Clavulinopsis laeticolor
 
@@ -22977,7 +22957,7 @@ Reference:
 
 ###### Family Boletaceae
 
-###### Genus taxon name missing
+###### Genus Boletus
 
 ###### Species Boletus edulis
 
@@ -23036,7 +23016,7 @@ Reference:
 
 ###### Genus Inonotus
 
-###### Species Inonotus obliquus (Ach. ex Pers.) PilÃ¡t
+###### Species Inonotus obliquus (Ach. ex Pers.) PilÃƒÂ¡t
 
 Establishment means: native
 
@@ -23065,7 +23045,7 @@ Reference:
 
 ###### Family Fomitopsidaceae
 
-###### Genus taxon name missing
+###### Genus Piptoporus
 
 ###### Species Piptoporus betulinus
 
@@ -23110,6 +23090,17 @@ Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/211126>.
+
+###### Genus Sarcodon
+
+###### Species Sarcodon imbricatus
+
+Vernacular name(s): Shingled Hedgehog
+
+Establishment means: native
+
+Reference: 
+<https://www.inaturalist.org/observations/48600705>.
 
 #### Class Dacrymycetes
 
@@ -29524,15 +29515,15 @@ Reference:
 
 ###### Genus Fragaria
 
-###### Species Fragaria vesca L.
+###### Species Fragaria ananassa (Weston) Duchesne ex Rozier
 
-Vernacular name(s): woodland strawberry
+Vernacular name(s): Strawberry, Garden strawberry
 
 Establishment means: exotic
 
-###### Species Fragaria X ananassa (Weston) Duchesne ex Rozier (pro sp.)
+###### Species Fragaria vesca L.
 
-Vernacular name(s): Domestic strawberry
+Vernacular name(s): woodland strawberry
 
 Establishment means: exotic
 

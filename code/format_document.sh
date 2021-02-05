@@ -9,4 +9,4 @@ pandoc ../documents/checklist_document/checklist.md --metadata-file=../documents
 pandoc ../documents/checklist_document/checklist.md --metadata-file=../documents/checklist_document/checklist.yaml --css ../documents/checklist_document/style.css --filter pandoc-citeproc --toc --toc-depth=2 -t plain -o ../documents/checklist_document/checklist.txt
 
 ## Generate tex.
-pandoc ../documents/checklist_document/checklist.md --metadata-file=../documents/checklist_document/checklist.yaml --filter pandoc-citeproc --toc --toc-depth=2 --pdf-engine=xelatex -o ../documents/checklist_document/checklist.pdf
+#pandoc ../documents/checklist_document/checklist.md --metadata-file=../documents/checklist_document/checklist.yaml --filter pandoc-citeproc --toc --toc-depth=2 --pdf-engine=xelatex -o ../documents/checklist_document/checklist.pdf
