@@ -15,6 +15,8 @@ source("functions.R")
 library("zip")
 library("reshape2")
 
+options(encoding="native.enc") ## For reading input.
+
 ## First load data.
 data1 <- assemble_csvs(directory="../data/raw_data/FWSpecies_data")
 fields_crosswalk <- read.csv("../data/raw_data/non_FWSpecies_data/field_name_crosswalk.csv", colClasses="character")
@@ -32,6 +34,9 @@ for (this_field in 1:nrow(fields_crosswalk))
 data1$scientificName[data1$scientificName == ""] <- data1$SciName[data1$scientificName == ""]
  
 ## Trying to make a minimal DwC taxon.txt file.
+
+options(encoding="utf-8") ## For writing output.
+
 data1$taxonRank <- tolower(data1$taxonRank)
 
 data1 <- data1[data1$taxonRank == "species",] ## Limiting the list to species only for now.
