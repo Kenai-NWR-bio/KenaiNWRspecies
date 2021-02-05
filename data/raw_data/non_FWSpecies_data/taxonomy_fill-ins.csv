@@ -32,6 +32,7 @@ ID,taxonID,kingdom,phylum,class,order,family,genus,scientificName,taxonRank,vern
 595618,595618,Animalia,Arthropoda,Insecta,Diptera,Ephydridae,Gymnoclasiopa,Gymnoclasiopa tacoma,species,
 746351,746351,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,Metalimnobia,Metalimnobia cinctipes,species,
 597696,597696,Animalia,Arthropoda,Insecta,Diptera,Micropezidae,Cnodacophora,Cnodacophora nasoni,species,
+56988,56988,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Spilogona,"Spilogona opaca (Schnabl, 1915)",species,
 660376,660376,Animalia,Arthropoda,Insecta,Hemiptera,Adelgidae,Adelges,"Adelges cooleyi (Gillette, 1907)",species,
 654641,654641,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Amphorophora,"Amphorophora agathonica Hottes, 1950",species,
 657297,657297,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Boernerina,"Boernerina occidentalis Hille Ris Lambers & Hottes, 1962",species,
@@ -168,3 +169,4 @@ ID,taxonID,kingdom,phylum,class,order,family,genus,scientificName,taxonRank,vern
 164366,164366,Fungi,Basidiomycota,Agaricomycetes,Russulales,Russulaceae,Russula,Russula xerampelina,species,
 667752,667752,Fungi,Basidiomycota,Agaricomycetes,Thelephorales,Bankeraceae,Hydnellum,Hydnellum peckii,species,
 668652,668652,Fungi,Basidiomycota,Dacrymycetes,Dacrymycetales,Dacrymycetaceae,Dacrymyces,Dacrymyces chrysospermus,species,
+126252,126252,Plantae,Tracheophyta,Magnoliopsida,Rosales,Rosaceae,Fragaria,Fragaria ananassa (Weston) Duchesne ex Rozier,species,"Strawberry, Garden strawberry"
