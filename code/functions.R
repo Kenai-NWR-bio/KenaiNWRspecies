@@ -4,7 +4,7 @@ assemble_csvs <- function(directory="../data/FWSpecies")
  file_list <- dir(directory)
  for (this_file in 1:length(file_list))
   {
-  temp_data <- read.csv(paste0(directory, "/", file_list[this_file]), colClasses="character")
+  temp_data <- read.csv(paste0(directory, "/", file_list[this_file]), colClasses="character", fileEncoding = "UTF-8-BOM")
   if (this_file == 1)
    {
    comp_data <- temp_data
