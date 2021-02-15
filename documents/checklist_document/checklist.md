@@ -1,12 +1,12 @@
-# Kenai National Wildlife Refuge Species List, version 2021-02-05
+# Kenai National Wildlife Refuge Species List, version 2021-02-15
 
 Kenai National Wildlife Refuge biology staff
 
-February  5, 2021
+February 15, 2021
 
 USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
-# Introduction
+# Introduction 
 
 ## Purpose
 
@@ -28,7 +28,7 @@ Occurrence records were gathered over many years from various sources. The Kenai
 
 The directory structure of the project was conformed to the recommended file structure of @Alaska_Region_Data_Stewardship_Team_2020. As of this writing, an current version of the archive, including all raw data, is being maintained on GitHub at <https://github.com/Kenai-NWR-bio/KenaiNWRspecies>.
 
-Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.02 [@RCoreTeam2020] that calls the packages knitr, version 1.29 [@Xie2014; @Xie2015; @Xie2020] and zip, version 2.0.4 [@Csardietal2019], generating a document in Markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
+Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.03 [@RCoreTeam2020] that calls the packages knitr, version 1.31 [@Xie2014; @Xie2015; @Xie2020]; reshape2, version 1.4.4 [@Wickham2007]; and zip, version 2.1.1 [@Csardietal2019], generating a document in Markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
 
 # Checklist summary
 
@@ -30138,11 +30138,15 @@ References:
 
 ###### Genus Botrychium
 
-###### Species Botrychium boreale Milde
+###### Species Botrychium lanceolatum (S.G. Gmel.) Ã…ngstr.
 
-Vernacular name(s): northern moonwort
+Vernacular name(s): lanceleaf moonwort
 
 Establishment means: native
+
+References: 
+<https://www.inaturalist.org/observations/50777201>, 
+<https://www.inaturalist.org/observations/6527694>.
 
 ###### Species Botrychium lunaria (L.) Sw.
 
@@ -30152,6 +30156,13 @@ Establishment means: native
 
 Reference: 
 <https://www.inaturalist.org/observations/1521800>.
+
+###### Species Botrychium pinnatum H. St. John
+
+Establishment means: native
+
+Reference: 
+<https://www.inaturalist.org/observations/7411735>.
 
 ##### Order Polypodiales
 
@@ -30212,16 +30223,6 @@ References:
 Vernacular name(s): American rockbrake
 
 Establishment means: native
-
-###### Species Cryptogramma crispa (L.) R. Br.
-
-Vernacular name(s): parsley fern
-
-Establishment means: native
-
-References: 
-<http://arctos.database.museum/guid/KNWR:Herb:1457>, 
-<http://arctos.database.museum/guid/KNWR:Herb:1458>.
 
 ###### Family Thelypteridaceae
 
