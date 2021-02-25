@@ -1,8 +1,8 @@
-# Kenai National Wildlife Refuge Species List, version 2021-02-15
+# Kenai National Wildlife Refuge Species List, version 2021-02-24
 
 Kenai National Wildlife Refuge biology staff
 
-February 15, 2021
+February 24, 2021
 
 USFWS Kenai National Wildlife Refuge, Soldotna, Alaska
 
@@ -32,7 +32,7 @@ Checklist data from FWSpecies and supplementary tables were processed using a sc
 
 # Checklist summary
 
-The present list includes a total of 2207 species, of which 2085 are native, 121 are exotic, and 1 is of uncertain origin.
+The present list includes a total of 2206 species, of which 2084 are native, 121 are exotic, and 1 is of uncertain origin.
 
 
 Table: Counts of species by establisment means.
@@ -40,7 +40,7 @@ Table: Counts of species by establisment means.
 |Establishment means | Count|
 |:-------------------|-----:|
 |exotic              |   121|
-|native              |  2085|
+|native              |  2084|
 |uncertain           |     1|
 # Checklist
 
@@ -30213,16 +30213,6 @@ Establishment means: native
 References: 
 <http://www.inaturalist.org/observations/7524661>, 
 <http://www.inaturalist.org/observations/7524787>.
-
-###### Family Pteridaceae
-
-###### Genus Cryptogramma
-
-###### Species Cryptogramma acrostichoides R. Br.
-
-Vernacular name(s): American rockbrake
-
-Establishment means: native
 
 ###### Family Thelypteridaceae
 
