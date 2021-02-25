@@ -11,23 +11,17 @@ library(knitr)
 library("zip")
 source("functions.R")
 
-simpleCap <- function(x) {
-  s <- strsplit(x, " ")[[1]]
-  paste(toupper(substring(s, 1,1)), substring(s, 2),
-      sep="", collapse=" ")
-}
-
 print_taxon <- function(outfile,
  name="",
  rank="",
- prefix="######",
+ prefix="###",
  vernacularName="",
  establishmentMeans=""
  )
  {
  if (name=="")
   {
-  name <- "taxon name missing"
+  name <- "name not available"
   }
  rank <- simpleCap(rank)
  write(paste0(prefix, " ", rank, " ", name, "\n"), file=outfile, append=TRUE)
@@ -68,10 +62,16 @@ printanchor <- function(x)
 
 
 nspecies <- sum(cl1$taxonRank=="species")
+nunranked <- sum(cl1$taxonRank=="unranked")
 
-tblem <- aggregate(cl1$scientificName, by=list(cl1$establishmentMeans), length)
-names(tblem) <- c("Establishment means", "Count")
+tblem <- aggregate(cl1$scientificName, by=list(cl1$establishmentMeans, cl1$taxonRank), length)
+names(tblem) <- c("Establishment means", "Taxonomic rank", "Count")
+tblem <- tblem[order(tblem[,1], tblem[,2]),]
 
+nnativespecies <- tblem[intersect(which(tblem[,1]=="native"), which(tblem[,2]=="species")),3]
+nexoticspecies <- tblem[intersect(which(tblem[,1]=="exotic"), which(tblem[,2]=="species")),3]
+nnativeunranked <- tblem[intersect(which(tblem[,1]=="native"), which(tblem[,2]=="unranked")),3]
+nuncertainspecies <- tblem[intersect(which(tblem[,1]=="uncertain"), which(tblem[,2]=="species")),3]
 
 ## Now start assembling the document.
 
@@ -124,7 +124,7 @@ wline <- "# Acknowledgments
 Thanks and credit are due to many people who have reviewed this list, provided identifications, and helped in other ways.  The list below is by no means exhaustive.
 
 * James Bergdahl (Conservation Biology Center, Spokane, Washington) reviewed and made helpful comments on the Refuge's list of Carabidae.
-* Peter Hovingh provided a list of leeches (Hirudinea}) collected on the Refuge.
+* Peter Hovingh provided a list of leeches (Hirudinea) collected on the Refuge.
 * John Hudson (USFWS, Juneau, Alaska) provided lists of Odonata observed on the Refuge.  
 * Richard Payne (University of York, Heslington, UK) provided a list of protists from Jigsaw Lake.  
 * David Wartinbee (retired from Kenai Peninsula College, Soldotna, Alaska) shared a list of Chironomidae he had collected on the Refuge.
@@ -136,7 +136,7 @@ wline="# Methods
 
 Occurrence records were gathered over many years from various sources. The Kenai National Wildlife Refuge's species list was previously maintained as a set of data tables from which a checklist document was generated [@KenaiNWRbio2018]. In April 2019, most of these data were uploaded to FWSpecies [@NRPC2019], where these data are currently maintained.  
 
-The directory structure of the project was conformed to the recommended file structure of @Alaska_Region_Data_Stewardship_Team_2020. As of this writing, an current version of the archive, including all raw data, is being maintained on GitHub at <https://github.com/Kenai-NWR-bio/KenaiNWRspecies>.
+The directory structure of the project was conformed to the recommended file structure of @Alaska_Region_Data_Stewardship_Team_2020. As of this writing, a current version of the archive, including all raw data, is being maintained on GitHub at <https://github.com/Kenai-NWR-bio/KenaiNWRspecies>.
 
 Checklist data from FWSpecies and supplementary tables were processed using a script run in R version 4.03 [@RCoreTeam2020] that calls the packages knitr, version 1.31 [@Xie2014; @Xie2015; @Xie2020]; reshape2, version 1.4.4 [@Wickham2007]; and zip, version 2.1.1 [@Csardietal2019], generating a document in Markdown format to be processed by pandoc, version 2.7.3 [@MacFarlane2021].
 "
@@ -145,13 +145,13 @@ write(wline, file=outfile, append=TRUE)
 
 wline <- paste0("# Checklist summary
 
-The present list includes a total of ", nspecies, " species, of which ", tblem$Count[tblem[,1]=="native"], " are native, ", tblem$Count[tblem[,1]=="exotic"], " are exotic, and ", tblem$Count[tblem[,1]=="uncertain"], " is of uncertain origin.
+The present list includes a total of ", nspecies, " species and ", nunranked, " unranked entity, of which ", nnativespecies + nnativeunranked, " are native, ", nexoticspecies, " are exotic, and ", nuncertainspecies, " is of uncertain origin.
 
 ")
 
 write(wline, file=outfile, append=TRUE)
 
-write(kable(tblem, caption="Counts of species by establisment means."), file=outfile, append=TRUE)
+write(kable(tblem, caption="Counts of species and unranked entities by establishment means.", row.names=FALSE), file=outfile, append=TRUE)
 
 write("# Checklist\n", file=outfile, append=TRUE) 
 
@@ -179,31 +179,31 @@ for (this_record in 1:nrow(cl1)) #nrow(cl1)
   
   if (!(cls == cl1$class[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$class[this_record], rank="Class", prefix="####")
+  print_taxon(outfile=outfile, name=cl1$class[this_record], rank="Class", prefix="###")
   cls <- cl1$class[this_record]
   }
  
   if (!(odr == cl1$order[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$order[this_record], rank="Order", prefix="#####")
+  print_taxon(outfile=outfile, name=cl1$order[this_record], rank="Order", prefix="###")
   odr <- cl1$order[this_record]
   }
   
   if (!(fml == cl1$family[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$family[this_record], rank="Family")
+  print_taxon(outfile=outfile, name=cl1$family[this_record], rank="Family", prefix="###")
   fml <- cl1$family[this_record]
   }
  
   if (!(gns == cl1$genus[this_record]))
   {
-  print_taxon(outfile=outfile, name=cl1$genus[this_record], rank="Genus")
+  print_taxon(outfile=outfile, name=cl1$genus[this_record], rank="Genus", prefix="###")
   gns <- cl1$genus[this_record]
   }
  
  print_taxon(outfile=outfile,
  name=cl1$scientificName[this_record],
- rank="Species",
+ rank=cl1$taxonRank[this_record],
  establishmentMeans=cl1$establishmentMeans[this_record],
  vernacularName=cl1$vernacularName[this_record]
  )
@@ -244,5 +244,4 @@ unlink(paste0(dirdata, "taxon.txt"))
 unlink(paste0(dirdata, "distribution.txt"))
 unlink(paste0(dirdata, "reference.txt"))
 
-write("# References
-", outfile, append=TRUE)
+

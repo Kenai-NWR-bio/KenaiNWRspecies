@@ -2,10 +2,10 @@
 body { margin: 5%; text-align: left; font-size: medium; }
 code { font-family: monospace; }
 h1 { text-align: center; }
-h2 { text-align: left; font-size: medium; padding-left: 4em; }
-h3 { text-align: left; font-size: medium; padding-left: 3em; }
-h4 { text-align: left; font-size: medium; padding-left: 2em; }
-h5 { text-align: left; font-size: medium; padding-left: 1em; }
+h2 { text-align: left; font-size: medium; padding-left: 1em; }
+h3 { text-align: left; font-size: medium; padding-left: 2em; }
+h4 { text-align: left; font-size: medium; padding-left: 3em; }
+h5 { text-align: left; font-size: medium; padding-left: 4em; }
 h6 { text-align: left; font-size: medium; }
 h1.title { text-align: center;}
 h2.author { text-align: center;}

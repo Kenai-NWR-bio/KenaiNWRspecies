@@ -1,8 +1,18 @@
 # Change log for the Kenai National Wildlife Refuge Species List
-
-All notable changes to this project will be documented in this file.
  
-The format is based on [Keep a Changelog](http://keepachangelog.com/).
+The format of this change log is based on [Keep a Changelog](http://keepachangelog.com/).
+
+## [Unreleased] - 2021-02-25
+
+### Added
+
+- Capacity to include unranked taxa was added. These still cannot be entered into FWSpecies, but they were included in a separate table.
+
+- This change log was added to the checklist document.
+
+### Changed
+
+- Limoniidae sp. BOLD:ACZ3637 was added to the checklist based on specimen record <https://arctos.database.museum/guid/KNWR:Ento:11394>. 
 
 ## [Unreleased] - 2021-02-24
 

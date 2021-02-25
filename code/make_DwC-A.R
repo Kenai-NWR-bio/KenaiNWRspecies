@@ -19,9 +19,12 @@ options(encoding="native.enc") ## For reading input.
 
 ## First load data.
 data1 <- assemble_csvs(directory="../data/raw_data/FWSpecies_data")
+data2 <- read.csv("../data/raw_data/non_FWSpecies_data/non_FWSpecies_records.csv", colClasses="character")
 fields_crosswalk <- read.csv("../data/raw_data/non_FWSpecies_data/field_name_crosswalk.csv", colClasses="character")
 establishmentMeans_crosswalk <- read.csv("../data/raw_data/non_FWSpecies_data/establishmentMeans_crosswalk.csv", colClasses="character")
 fillin <- read.csv("../data/raw_data/non_FWSpecies_data/taxonomy_fill-ins.csv", colClasses="character")
+
+data1 <- rbind(data1, data2)
 
 ## Renaming fields.
 for (this_field in 1:nrow(fields_crosswalk))
@@ -39,7 +42,7 @@ options(encoding="utf-8") ## For writing output.
 
 data1$taxonRank <- tolower(data1$taxonRank)
 
-data1 <- data1[data1$taxonRank == "species",] ## Limiting the list to species only for now.
+data1 <- data1[data1$taxonRank %in% c("species", "unranked"),] ## Limiting the list to species only for now.
 data1$occurrenceStatus <- tolower(data1$occurrenceStatus)
 data1 <- data1[data1$occurrenceStatus == "present",] ## Limiting the list to only species that are present.
 data1$ID <- data1$taxonID
