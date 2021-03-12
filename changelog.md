@@ -2,6 +2,20 @@
  
 The format of this change log is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [Unreleased] - 2021-03-12
+
+### Added
+
+### Changed
+
+- *Gyromitra esculenta* (Pers.) Fr. was added to the checklist based on specimen record <https://arctos.database.museum/guid/KNWR:Herb:12461> and observation record <https://www.inaturalist.org/observations/46986922>.
+
+- *Morchella exuberans* Clowez, Hugh Sm. & S.Sm. was added to the checklist based on specimen record <https://arctos.database.museum/guid/KNWR:Herb:12463>.
+
+- *Agaricus sylvicola* (Vittad.) Peck was added based on specimen record <https://arctos.database.museum/guid/KNWR:Herb:12466>.
+
+### Fixed
+
 ## [Unreleased] - 2021-02-25
 
 ### Added
